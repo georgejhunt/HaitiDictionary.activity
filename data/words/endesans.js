@@ -1,0 +1,1 @@
+showWord(["n. ","ensolans; ki manke desans.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki patizan Divalye. a. Ki gen relasyon ak Divalye.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Non yo bay moun ki vwayaje ak bèf soti nan yon vil pwovens mennen l labatwa Pòtoprens. Mawoule yo konn fè plizyè jou sou wout ap mache ak bèf yo.<br>"])

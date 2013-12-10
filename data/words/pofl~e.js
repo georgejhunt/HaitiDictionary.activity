@@ -1,0 +1,1 @@
+showWord(["n. ","po pou mete flè. 2. Dekorasyon. 3. Bagay ki pa itil.<br>"])

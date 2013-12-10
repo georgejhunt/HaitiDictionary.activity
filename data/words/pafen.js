@@ -1,0 +1,1 @@
+showWord(["n. ","Likid santi bon moun mete sou yo pou yo ka gen bon odè. Moun pat dwe mete pafen pou kouvri odè santi fò.<br>"])

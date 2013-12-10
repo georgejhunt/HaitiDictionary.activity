@@ -1,0 +1,1 @@
+showWord(["v. "," Revni apre lanmò. Jezikri te resisite sou twazyèm jou apre li te mouri.<br>"])

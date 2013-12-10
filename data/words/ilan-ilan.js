@@ -1,0 +1,1 @@
+showWord(["n. ","plant ki bay yon flè santi bon.<br>"])

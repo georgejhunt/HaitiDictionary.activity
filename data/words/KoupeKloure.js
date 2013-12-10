@@ -1,0 +1,2 @@
+showWord(["","1. Gwoup mizisyen, ki koni anpil, men se sitou chantè a ki plis koni. Koupe Kloure gen yon estil mizik mereng. Li koni anpil aletranje epi sitou nan peyi afrik yo. Mizik li yo konn fè alizyon a sèks. 2. Malfèt, makwali. Bòs kòdonye sa a, se koupe kloure sèlman li konn fè. 3. Sèkèy ki fèt rapid."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Po bèt ki prepare pou fè soulye osnon valiz. Kui sa a di. 2. Veso ki fèt ak mwatye yon kalbas.<br>"])

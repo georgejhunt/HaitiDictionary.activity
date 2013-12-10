@@ -1,0 +1,1 @@
+showWord(["n. ","Jèn tifi ant douz e ventan. Matmwazèl entèl. 2. Tit respè pou yon fi ki pa marye (kèlkeswa laj li) epi ki pa aktif. 3. Ensèk ki long (2 a 3 pous) ki gen kat zèl transparan.<br>"])

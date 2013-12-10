@@ -1,0 +1,2 @@
+showWord(["np. ","Edikatè, atis, dansè balè, koregraf. Li te etidye balè ak Lavinya Williams apresa li te kontinye etidye Ozetazini avèk Jòj Balanchin. Li te louvri yon lekòl dans nan Nouyòk. An 1978 li retounen Ayiti, li fonde Lekòl dans RMT, Petyonvil."
+])

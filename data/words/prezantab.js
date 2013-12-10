@@ -1,0 +1,1 @@
+showWord(["a. ","ki papab prezante an piblik.<br>"])

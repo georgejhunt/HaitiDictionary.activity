@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki gen nasyonalite peyi Ilann. Pè Mut se yon Ilandè.<br>"])

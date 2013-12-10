@@ -1,0 +1,2 @@
+showWord(["","1. n. Fwi ki nan menm gwoup ak pistach ki gen pwoteyin tankou pwa tankou pwa sèk. Mwen renmen manje nwa griye san sèl. 2. a. Koulè. Mwen gen yon bèl rad nwa mwen fèk achte. 3. n. Ras moun pou laplipa koulè fonse. Moun ras nwa yo soti nan kontinan Afriken, men ou kapab jwenn yo tou patou sou latè."
+])

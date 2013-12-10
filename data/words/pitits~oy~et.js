@@ -1,0 +1,1 @@
+showWord(["","timoun ki pa gen moun pou okipe l. Timoun ki pòv anpil. Timoun toutmoun neglije.<br>"])

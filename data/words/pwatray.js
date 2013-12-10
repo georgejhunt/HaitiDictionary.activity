@@ -1,0 +1,1 @@
+showWord(["n. ","1. pwatrin cheval. Kòf lestomak moun.<br>"])

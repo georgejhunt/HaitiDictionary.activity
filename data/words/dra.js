@@ -1,0 +1,1 @@
+showWord(["n. "," Twal ki ajiste pou kouvri kabann. Mwen pito dra blan pase dra koulè.<br>"])

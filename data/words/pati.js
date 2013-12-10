@@ -1,0 +1,2 @@
+showWord(["","1. v. Deplase kite yon kote pou ale yon lòt kote. Ou leve, ou pati, ou ale, ki moun ki pou okipe pitit ou yo pou ou? 2. n. Yon moso. Tèt se pati nan kò moun. 3. n. Gwoup politik òganize. Pati repibliken pèdi pati demokrat monte."
+])

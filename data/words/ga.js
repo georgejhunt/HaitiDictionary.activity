@@ -1,0 +1,1 @@
+showWord(["n. "," Kote pasaje al pran tren osinon bato osinon kamyon.<br>"])

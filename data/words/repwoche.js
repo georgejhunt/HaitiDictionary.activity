@@ -1,0 +1,1 @@
+showWord(["v.","1. Fè obsèvasyon. Ejèn repwoche bòn nan pou gaspiye li gaspiye tout vyann nan. 2. Blame. Madan Jan repwoche Jan dèske li pa janm sonje jou fèt li.<br>"])

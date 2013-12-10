@@ -1,0 +1,1 @@
+showWord(["a. ","Chalè ki soti nan fon tè.<br>"])

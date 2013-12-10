@@ -1,0 +1,1 @@
+showWord(["","Sitiyasyon epi òganizasyon finans peyi Ayiti.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Taks komèsan peye leta. Pou fè enpò-ekspò fòk ou peye patant.<br>"])

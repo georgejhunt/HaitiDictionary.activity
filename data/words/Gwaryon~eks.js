@@ -1,0 +1,1 @@
+showWord(["np. "," Chèf endyen nan wayòm Magwa nan zòn Nòdès ispayola nan sèzyèm syèk.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. "," Pati anplis. Sa a se sipleman jounal jodi a.<br>"])

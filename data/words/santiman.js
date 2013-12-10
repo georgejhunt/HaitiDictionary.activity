@@ -1,0 +1,2 @@
+showWord(["n.","1. Sa ou santi ki touche sans ou, presantiman. Se pa santiman mwen pou mwen fè moun mal. Mwen gen santiman makomè mwen an pap viv. 2. Ki konprann, ki gen nen nan figi l. Mwen se moun ki gen santiman, mwen pap janm pale avè w, ou pa wont, san santiman, ou pat dwe tounen la a ankò."
+])

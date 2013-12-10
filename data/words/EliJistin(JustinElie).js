@@ -1,0 +1,2 @@
+showWord(["np. ","(1883-1931). Mizisyen ki fèt nan vil Okap, li te etidye mizik Ayiti ak an Frans nan Konsèvatwa Pari. Li etidye mizik Vodou epi li pibliye kèk pyès ki konni. Li mouri Nouyòk (1931) kote li te al viv depi 1922."
+])

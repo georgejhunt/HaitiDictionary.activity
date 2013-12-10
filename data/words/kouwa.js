@@ -1,0 +1,1 @@
+showWord(["n. ","Senti ki ini de pati nan yon machin. Sa se yon kouwa nèf.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan kò fi ki konnekte ak sistèm repwodiksyon.<br>"])

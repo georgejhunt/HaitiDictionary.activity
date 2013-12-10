@@ -1,0 +1,1 @@
+showWord(["v. "," Abandonne. Bay legen.<br>"])

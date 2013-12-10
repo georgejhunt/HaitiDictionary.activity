@@ -1,0 +1,2 @@
+showWord(["np. "," Esklav ki te mawon. Msye te òganize anpwazonman blan yo nan dlo tiyo a. Men kòm li te konn bwè, pandan l te sou, yo te kenbe l, yo boule msye an 1758. Lè l mouri, te gen anpil nan moun ki te avè l yo ki te kontinye lit la."
+])

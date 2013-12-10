@@ -1,0 +1,2 @@
+showWord(["n.","Ajoute valè pou jwenn yon total. Ou fè yon adisyon lè ou mete de (2) osinon plizyè chif ansanm epi ou konte konbyen ou genyen antou. En e en fè de. Si ou pa konn fè adisyon, ou pa konn konte lajan."
+])

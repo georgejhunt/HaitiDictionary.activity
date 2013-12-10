@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pòtre an twa dimansyon ki fèt ak bwonz, plakdepari, bwa osnon mab. Sou Channmas la gen yon estati Desalin. 2. Moun ki pa bouje, gaga. Kouman ou kanpe tankou yon estati konsa a, mache non."
+])

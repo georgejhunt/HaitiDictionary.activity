@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Kote ou benyen. Mwen pap benyen nan douch la, mwen pito benyen nan basen an jodi a.  2. Lavaj nan vajen. Gen fi ki pran douch souvan men doktè di sa pa bon. 3. Pakèt. Fi a di nonm nan yon douch jouman, se pa de betiz."
+])

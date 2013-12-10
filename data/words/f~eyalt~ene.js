@@ -1,0 +1,1 @@
+showWord(["","fèy ki pa fas a fas kote yo rankontre nan ne branch lan.<br>"])

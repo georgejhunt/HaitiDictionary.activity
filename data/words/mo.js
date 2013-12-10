@@ -1,0 +1,1 @@
+showWord(["n. "," Pawòl. Se pa tout mo ou tande pou ou repete.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","souf; odè souf moun.<br>"])

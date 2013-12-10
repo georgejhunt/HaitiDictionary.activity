@@ -1,0 +1,1 @@
+showWord(["n. ","biwo ak kazèn jandam.<br>"])

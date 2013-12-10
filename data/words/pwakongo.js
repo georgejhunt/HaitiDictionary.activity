@@ -1,0 +1,1 @@
+showWord(["","Pwa ki donnen toupatou Ayiti. Grann mwen te renmen kuit pitimi ak pwa kongo le tranteyen desanm.<br>"])

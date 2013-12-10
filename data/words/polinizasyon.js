@@ -1,0 +1,1 @@
+showWord(["","Fenomèn transpòtasyon polèn yo jiska kote li pral kòmanse pwosesis repwodiksyon an. Papiyon kontribye anpil nan polinizasyon.<br>"])

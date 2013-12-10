@@ -1,0 +1,1 @@
+showWord(["v. "," 1 Ki chanje. Kondisyon yo varye. 2. Ki gate. Vyann nan varye.<br>"])

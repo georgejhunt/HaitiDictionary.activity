@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Rekòmanse. Kilè ou reprann aktivite ou yo la a? 2. Refè sa ou te fè deja. Jesika reprann egzamen bakaloreya a ane sa a ankò. 3. Geri.  Madan Izaak sanble li reprann li depi li fin fè operasyon an.<br>"])

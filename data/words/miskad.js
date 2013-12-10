@@ -1,0 +1,1 @@
+showWord(["n. ","Epis pou met nan manje sikre. Miskad bon nan diri ak lèt.<br>"])

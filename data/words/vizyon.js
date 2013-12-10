@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pèsepsyon moun genyen dapre sa li wè ak zye. Mwen gade toupatou, dapre vizyon mwen, pa gen kay ble sou wout la. 2. Espas moun ka wè ak zye. Espas vizyon mwen limite paske gen yon moun ki kanpe devan mwen la a. 3. Reprezantasyon sinatirèl, revelasyon. Li fè vizyon Lavyèj. 4. Rèv. La ta bon si ou ta ka fè yon vizyon nan dòmi aswè a."
+])

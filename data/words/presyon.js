@@ -1,0 +1,1 @@
+showWord(["n. ","1. Fòs ki aji sou yon espas limite.  Presyon kè.  2. Efò yon moun fè pou li enfliyanse yon lòt. Se pa de presyon Jera pa fè sou Sègo pou yo ale nan menm inivèsite.<br>"])

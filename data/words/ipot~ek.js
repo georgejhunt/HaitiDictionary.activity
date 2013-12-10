@@ -1,0 +1,2 @@
+showWord(["n. ","garanti yon moun bay sou byen li pou li ka prete lajan, alòske li ka kontinye ap sèvi ak byen an. Men si li ta vin pa kapab renmèt lajan an nan kondisyon kontra a ipotèk la, li ka vin pèdi byen an."
+])

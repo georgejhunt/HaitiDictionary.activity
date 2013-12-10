@@ -1,0 +1,1 @@
+showWord(["v. ","1. Koud tanporèman. Mwen pral fofile rad la. 2. Deplase san atire atansyon.<br>"])

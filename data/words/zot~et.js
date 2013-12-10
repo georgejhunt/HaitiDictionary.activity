@@ -1,0 +1,1 @@
+showWord(["n fr. "," Kalbas tèt. Doktè opere Jera nan zo tèt li.<br>"])

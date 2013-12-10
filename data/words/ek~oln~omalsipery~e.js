@@ -1,0 +1,1 @@
+showWord(["","Lekòl pou fòme pwofesè espesyalize.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","1. Oreyèt, pati nan kè ki resevwa san; kè yon moun genyen kat seksyon de (2) orikilè osinon oreyèt ki sou anwo ak 2 vantrikil ki sou anba. 2. Pati nan zòrèy. 3. a. ki gen relasyon ak sans tande ak zòrèy."
+])

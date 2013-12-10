@@ -1,0 +1,2 @@
+showWord(["v.","1. Mache a pye. An al pwonmnen sou laplas la, gen yon bon ti van ki ap vante la a. 2. Al fè yon tou, fè yon flann. Annou al pwonmnen Petyonvil non, gen yon dyaz ki ap jwe plas Senpyè aswè a."
+])

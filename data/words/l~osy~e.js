@@ -1,0 +1,1 @@
+showWord(["n. "," ti kras (plis nan nò). Banm yo ti lòsyè nan manje ou a.<br>"])

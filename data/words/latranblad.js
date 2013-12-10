@@ -1,0 +1,1 @@
+showWord(["n. ","Souke san kontwòl. Jera gen latranblad.<br>"])

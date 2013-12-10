@@ -1,0 +1,1 @@
+showWord(["","rad ki fèt plastik pou mete lè lapli pou pwoteje.<br>"])

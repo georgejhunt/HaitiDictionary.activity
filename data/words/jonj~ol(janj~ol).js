@@ -1,0 +1,1 @@
+showWord(["n. ","Vyann ki soti nan testikil bèf osinon testikil kochon yo kuit epi yo manje kòm afwodizyak. Se plis Okap mwen tande koze janjòl sa a.<br>"])

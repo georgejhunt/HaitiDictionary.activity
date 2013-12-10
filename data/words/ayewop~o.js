@@ -1,0 +1,1 @@
+showWord(["n.","Aviyasyon.  Kote avyon vole.  Mwen renmen al flannen nan ayewopò a konsa mwen tou wè kilès ki ap pati.Aviyasyon.  Kote avyon vole.  Mwen renmen al flannen nan ayewopò a konsa mwen tou wè kilès ki ap pati.<br>"])

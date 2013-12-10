@@ -1,0 +1,1 @@
+showWord(["n fr. "," Sezisman. Ou ban m kè sote kou ou lonmen non David la a.<br>"])

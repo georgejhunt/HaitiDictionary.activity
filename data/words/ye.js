@@ -1,0 +1,1 @@
+showWord(["v.","sitiyasyon yon moun. Kouman ou ye la a. 2. Pozisyon nan espas. Ki kote ou ye la a.<br>"])

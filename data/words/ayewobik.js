@@ -1,0 +1,1 @@
+showWord(["a.","ògànis ki bezwen oksijèn pou li viv. 2. reyaksyon chimik osinon biyochimik ki bezwen oksijèn.<br>"])

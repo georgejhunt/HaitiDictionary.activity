@@ -1,0 +1,1 @@
+showWord(["a. ","ki manke enfòmasyon sou yon sijè. 2. Ki pa konn li ak ekri.<br>"])

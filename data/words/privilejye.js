@@ -1,0 +1,1 @@
+showWord(["v. ","bay privilèj. Bay avantaj sou lòt moun.<br>"])

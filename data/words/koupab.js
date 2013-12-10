@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ki responzab yon zak. Koupab la ap peye sa kanmenm. 2. a. Kalifikasyon moun ki lakòz zak la.  Se yon fi ki koupab la.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Santiman damou yon moun santi pou yon lòt moun. Jera renmen Ketli. 2. Jwenn plezi nan yon bagay. Jaklin renmen jwe piyano. 3. Preferans yon moun. Kawòl renmen etidye leson l lematen. <br>"])

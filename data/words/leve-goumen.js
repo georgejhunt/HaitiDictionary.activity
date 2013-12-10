@@ -1,0 +1,1 @@
+showWord(["n fr. ","Pete kabouya. Ivon pete goumen.<br>"])

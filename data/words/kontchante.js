@@ -1,0 +1,1 @@
+showWord(["n fr. ","Fab ak Istwa ki nan fòlklò ki gen sekans chante.<br>"])

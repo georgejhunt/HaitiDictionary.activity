@@ -1,0 +1,1 @@
+showWord(["n. "," Lekòl segondè piblik. Mwen konn anpil moun ki te lekòl lise Petyon.<br>"])

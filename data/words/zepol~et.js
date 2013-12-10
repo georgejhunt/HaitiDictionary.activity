@@ -1,0 +1,1 @@
+showWord(["n. ","Senbòl moun pote sou zèpòl pou make yon grad osinon ak ki gwoup li mele. Kaporal la gen zepolèt.<br>"])

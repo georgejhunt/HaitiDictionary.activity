@@ -1,0 +1,1 @@
+showWord(["","Selil wouj nan san ki transpote oksijèn soti nan poumon an ale toupatou nan selil yo.<br>"])

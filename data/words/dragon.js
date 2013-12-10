@@ -1,0 +1,1 @@
+showWord(["n. ","Bèt imajinè yo reprezante tankou yon reptil ki ap soufle dife. 2. Non yon bann madigra.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Asistan pè nan yon legliz katolik ki prepare lotèl anvan lamès. Sakristen an di monpè pa la.<br>"])

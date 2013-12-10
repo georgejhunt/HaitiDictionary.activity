@@ -1,0 +1,1 @@
+showWord(["n. ","Yon pwodui ki di ki nan dan long elefan. 2. a. Koulè krèm.<br>"])

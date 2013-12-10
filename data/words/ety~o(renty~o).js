@@ -1,0 +1,1 @@
+showWord(["n. ","Mal bourik. Tonton Richa ap vann etyò li a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","tisi ki vlope sèvo.<br>"])

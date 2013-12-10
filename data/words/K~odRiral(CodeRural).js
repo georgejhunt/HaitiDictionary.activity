@@ -1,0 +1,1 @@
+showWord(["","Pati nan Kòd Anri wa Anri Kristòf te fè a ki konsène agrikilti. Se kòd sa a ki bay kondisyon travay travayè latè yo.<br>"])

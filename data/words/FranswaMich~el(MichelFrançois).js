@@ -1,0 +1,2 @@
+showWord(["np. ","Ansyen chèf polis Pòtoprens (1991-94) pandan yon peryòd koudeta militè. Lè gouvènman militè a tonbe, li pati an 1994. An 1995 yo jije l dèyè do l epi yo kondane l nan prizon pou lavi. Gouvènman Repiblik Dominikèn mete l deyò epi li ale annekzil nan peyi Ondiras."
+])

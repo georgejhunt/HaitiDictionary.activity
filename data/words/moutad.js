@@ -1,0 +1,1 @@
+showWord(["n. "," Epis. Likid jòn epè ki bay sandwich ak manje gou. Moun pa si tan manje moutad Ayiti.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Faz difisil nan devlopman yon sitiyasyon. Peyi a ap pase yon kriz kounye a.  2. Atak nè. Pran kriz.  3. Difikilte, tansyon konfli. Jan ak madanm li ap viv yon kriz. 4. Maladi kè. Kriz kadyak."
+])

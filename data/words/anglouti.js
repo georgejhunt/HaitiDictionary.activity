@@ -1,0 +1,1 @@
+showWord(["v.","ki pedi nan dlo pwofon san espwa retounen. Bato Titanik anglouti nan fon lanme.<br>"])

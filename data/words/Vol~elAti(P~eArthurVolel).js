@@ -1,0 +1,1 @@
+showWord(["np. ","Pè katolik Salezyen. Li konsakre karyè li pou patisipe na lavi moun Lasalin.<br>"])

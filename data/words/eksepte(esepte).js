@@ -1,0 +1,1 @@
+showWord(["prep. "," Sòf. Nou travay chak jou eksepte dimanch.<br>"])

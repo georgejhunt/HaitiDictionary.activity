@@ -1,0 +1,1 @@
+showWord(["n. "," moun ki travay bwa pou fè mèb.  Simon te gwo ebenis nan Lakou Foumi.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","pen ki kwit nan fòm yon baton. Nou achte de pen bagèt nan patisri men yo te rasi.<br>"])

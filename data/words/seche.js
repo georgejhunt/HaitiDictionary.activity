@@ -1,0 +1,1 @@
+showWord(["v. "," Fè tout imidite soti nan yon bagay; retire dlo. Seche rad. Seche kafe<br>"])

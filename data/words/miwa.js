@@ -1,0 +1,1 @@
+showWord(["n. "," Glas ki genyen yon kouch pwodui padèyè l ki pèmèt ou wè desen kò ou jan ou ye a. Gen moun ki renmen kwoke miwa nan saldeben yo.<br>"])

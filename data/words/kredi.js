@@ -1,0 +1,2 @@
+showWord(["n. "," Konfyans, avans, vann pou touche yon lòt jou. Konfyans nan karaktè ak repitasyon yon moun Madan Richa vann moun kredi. 2. Enfliyans yon moun genyen sou lòt moun akoz konfyans yo fè li. 3. Depo lajan ki pral nan kont labank yon moun. Mo nan kontablite ki di gen yon operasyon lajan pozitif ki fèt. 4. Nan inivèsite se konfimasyon yon moun pase yon kou."
+])

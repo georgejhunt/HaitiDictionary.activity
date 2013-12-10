@@ -1,0 +1,1 @@
+showWord(["v. "," Fè presyon pou ou ka wete ji nan yon bagay. Vin pije zorany yo.<br>"])

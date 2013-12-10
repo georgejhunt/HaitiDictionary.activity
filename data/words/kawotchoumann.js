@@ -1,0 +1,1 @@
+showWord(["n. ","moun (atizan) ki repare kawoutchou machin.<br>"])

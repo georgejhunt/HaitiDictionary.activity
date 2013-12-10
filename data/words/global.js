@@ -1,0 +1,1 @@
+showWord(["a. ","1. Ki gen relasyon ak latè osinon ak fòm latè. 2. Ki gen fòm won tankou yon glòb. 3. Ki konplè ki touche tout pati ki merite touche.<br>"])

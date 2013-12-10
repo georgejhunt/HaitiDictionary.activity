@@ -1,0 +1,1 @@
+showWord(["n fr. "," Estil pantalon ki sere nan jenou epi laj nan pye. Pantalon pat elefan.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","mizisyen ki jwe vyolon.<br>"])

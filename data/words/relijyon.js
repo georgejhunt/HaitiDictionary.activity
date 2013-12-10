@@ -1,0 +1,1 @@
+showWord(["n.","Òganizasyon kote moun ki gen menm kwayans reyini pou yo pratike yon seri sèvis. Moun ki pratike relijyon se moun ki gen kwayans nan Bondye.<br>"])

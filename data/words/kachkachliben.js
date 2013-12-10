@@ -1,0 +1,1 @@
+showWord(["n fr. "," 1. Jwèt timoun kote yo sere kichòy pou lòt yo al chèche. Se tifi ki te konn renmen jwe kachkach liben.  2. Sitiyasyon kote yon moun pa fin di tout laverite. Fito toujou nan yon kachkach liben ak moun.<br>"])

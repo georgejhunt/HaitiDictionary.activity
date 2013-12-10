@@ -1,0 +1,1 @@
+showWord(["n. "," Règleman pou moun swiv. Mwen pa renmen mache sou kòmandman moun se sa ki fè mwen vle fè boutik pa mwen.<br>"])

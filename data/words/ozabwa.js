@@ -1,0 +1,1 @@
+showWord(["","sitiyasyon ki fè yon moun dezespere.<br>"])

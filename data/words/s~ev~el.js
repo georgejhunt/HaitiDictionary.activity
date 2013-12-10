@@ -1,0 +1,1 @@
+showWord(["n.","Sèvo. Pati andedan tèt yon moun osnon yon bèt. Sèvèl yon moun se yon pati ki enpòtan anpil nan kò l.<br>"])

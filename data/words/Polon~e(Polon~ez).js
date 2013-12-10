@@ -1,0 +1,1 @@
+showWord(["np. ","1. Moun ki gen nasyonalite peyi Polòy. Manman Astrid se yo polonèz. 2. a. Ki pou Polòy. Teritwa polonè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","maladi nan zye ki fè presyon nan zye ogmante.<br>"])

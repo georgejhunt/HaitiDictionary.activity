@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Konvèsasyon yon moun fè ak Bondye osnon ak Sen. Mwen pral legliz la a pou mwen al lapriyè pou mwen ka pase egzamen mwen an. 2. Seri litani osnon literati ki ekri pou lwanje Bondye. An nou resite priyè sa a, li bon pou moun ki pèdi espwa."
+])

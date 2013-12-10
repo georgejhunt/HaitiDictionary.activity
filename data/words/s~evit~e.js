@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki ap sèvi. Gaston se sèvitè madan Chal.<br>"])

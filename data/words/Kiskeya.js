@@ -1,0 +1,2 @@
+showWord([" np. "," Mo endyen ki vle di Ayiti. Se konsa zile a te rele anvan li te rele Ispayola.Gen moun ki konn rele peyi a Ayiti, Boyo osinon Kiskeya. 2. Non yon inivèsite prive nan Pòtoprens. 3. Non pou yon manje pou timoun ki fèt ak farin bannann."
+])

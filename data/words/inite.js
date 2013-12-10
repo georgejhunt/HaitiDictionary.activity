@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Youn, amoni, an konfòmite; ki ale ansanm. Gen yon inite nan liv la. Mwen wè yon inite nan dekorasyon kay la. 2. Etalon, lajan. Ki inite lajan peyi ou? 3. Pozisyon chif. Inite, dizèn, santèn."
+])

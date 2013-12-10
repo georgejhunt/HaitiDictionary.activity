@@ -1,0 +1,1 @@
+showWord(["n. "," Veso ki fèt ak tè ajil ki sèvi pou konsève dlo. Dlo nan krich toujou fre.<br>"])

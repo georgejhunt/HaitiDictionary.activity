@@ -1,0 +1,1 @@
+showWord(["","Vil nan depatman sid peyi Ayiti ki jwe yon wòl enpòtan nan zòn nan. Okay se yonn nan pi gwo vil nan zòn sid la.<br>"])

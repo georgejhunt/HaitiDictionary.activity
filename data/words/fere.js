@@ -1,0 +1,1 @@
+showWord(["","1. Mete fè (nan zago chwal). Al fere zago cheval la.  2. a. Entelijan. Ti pitit sa a fere nan matematik.<br>"])

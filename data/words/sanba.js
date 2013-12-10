@@ -1,0 +1,2 @@
+showWord(["n. ","1. Chantè ki fè pwezi ki ak kadans sou kilti, lang, politik ak relijyon. Kote sanba Micho ta sòti.  2. Powèt, moun ki ekri bèl pwezi, nan tan endyen. Anakawona se te yon sanba ki te konn ap di bon ti pwezi pou lòt endyen yo. 3. Estil mizik ki gen de tan ki soti sitou nan peyi Brezil. Annou al danse yon sanba."
+])

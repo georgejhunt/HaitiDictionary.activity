@@ -1,0 +1,1 @@
+showWord(["v.","1. Mete nan likid. Kalin tranpe rad yo anvan li lave yo.  2. n. Bwason ki gen rasin ak fèy plant tranpe nan wonm osinon nan kleren. Jera ap bwè yon tranpe la a.<br>"])

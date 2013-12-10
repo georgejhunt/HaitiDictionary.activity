@@ -1,0 +1,1 @@
+showWord(["n. ","1. Fi ki gen mari li ki mouri. Madan Kal se yon vèv. 2. Sitiyasyon yon fi ki pèdi mari l.  a. Kalin vèv depi dezan.<br>"])

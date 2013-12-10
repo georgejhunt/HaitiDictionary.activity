@@ -1,0 +1,1 @@
+showWord(["","biwo majistra yon vil.<br>"])

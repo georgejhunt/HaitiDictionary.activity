@@ -1,0 +1,2 @@
+showWord(["v.","1. parèt. Jan ou prezante la a, ou vin pou batay? 2. Vin mande lamen yon fi. Gari te vin prezante pou Kawòl avantyèswa. 3. Pale anpiblik, fè yon konferans. Mwen te al prezante yon rapò nan peyi etranje, tout bagay byen pase. 4. Parèt, entwodui tèt ou. Ou pa konn prezante anpiblik menm."
+])

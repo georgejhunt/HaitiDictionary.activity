@@ -1,0 +1,1 @@
+showWord(["v. ","Touche yon moun kote li sansib pou ka fè l ri. Odil ap satouyèt zo kòt Kawòl.<br>"])

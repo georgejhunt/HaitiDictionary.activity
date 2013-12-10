@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pati yon moun ki pa vizib, nanm. Kò a ka mouri men lespri a ap rete.  2. Panse. Lespri nou kominike.  3. Pouvwa mistik. Yo voye yon move lespri sou pitit la.  4. Fantòm, zonbi, nanm moun mouri. Lespri Bèta te vin vizite fanmi l apre lantèman l. 5. Enspirasyon Bondye bay yon moun. Lespri a desann sou Jan. 6. Tèt, memwa. Lespri madan Jan pa la. "
+])

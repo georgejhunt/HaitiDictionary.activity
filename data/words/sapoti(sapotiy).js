@@ -1,0 +1,2 @@
+showWord(["n. ","Fwi twopikal ki gen yon koulè mawon sou deyò, andedan li koulè koray; nannan an mou epi li dous anpil; li gen yon grenn nwa nan mitan li. Pyebwa ki bay fui a rele sapoti. Non laten li se Achras sapota. Gen yon lèt ki soti nan ekòs sapoti, lèt la gonmen, li ka sèvi pou fè chiklèts. Jaklin renmen sapoti, sapoti gen anpil kalsyòm."
+])

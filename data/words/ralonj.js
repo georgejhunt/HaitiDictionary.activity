@@ -1,0 +1,1 @@
+showWord(["n. ","Fil ou kole ak yon lòt pou fè l vin pi long. Prete m yon ralonj tanpri.<br>"])

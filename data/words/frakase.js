@@ -1,0 +1,1 @@
+showWord(["v. ","kase an miyèt moso.<br>"])

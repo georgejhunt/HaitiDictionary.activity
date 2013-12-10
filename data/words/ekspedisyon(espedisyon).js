@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Ranvwa, move lespri. Sa sanble ak yon ekspedisyon kanmenm, pito mwen pran prekosyon pou pwoteje tèt mwen.  2.  Estòk ki yon kote. Ekspedisyon sa a pa ka pati san li pa peye taks. 3. Gwoup moun ki ale nan yon pwojè ansanm."
+])

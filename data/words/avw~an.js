@@ -1,0 +1,1 @@
+showWord(["n.","Sereyal yo fè labouyi.  Mwen ta bwè yon ti avwàn ki gen yon bon lèt evapore ladan l.Sereyal yo fè labouyi.  Mwen ta bwè yon ti avwàn ki gen yon bon lèt evapore ladan l.Sereyal yo fè labouyi.  Mwen ta bwè yon ti avwàn ki gen yon bon lèt evapore ladan l.<br>"])

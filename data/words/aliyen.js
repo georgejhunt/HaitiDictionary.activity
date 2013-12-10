@@ -1,0 +1,1 @@
+showWord(["v.","Mete anliy dwat. Li mete tout machandiz li byen aliyen nan bak la.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v.","1. Pase de bra dèyè kou yon moun. Lè manman mwen tounen sot nan vwayaj, mwen kwoke l paske mwen kontan wè l. 2. Pandye. Vin kwoke rad sa yo pou mwen tanpri pou yo gen tan seche. 3. Lage, enpoze. Vwazin nan vin kwoke yon kouti banm fè la a epi mwen pa menm gen tan menm."
+])

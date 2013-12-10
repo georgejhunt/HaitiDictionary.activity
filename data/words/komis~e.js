@@ -1,0 +1,1 @@
+showWord(["n. ","Nan tribinal se avoka ki reprezante pati ki ap pousuiv akize-a. Manno se komisè.<br>"])

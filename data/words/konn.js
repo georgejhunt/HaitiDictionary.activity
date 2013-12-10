@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Gen konesans. Li konn sa. 2. Rekonèt. Jan konn Woz trèbyen. 3. Gen abitid. Jan konn al kay Woz. <br>"])

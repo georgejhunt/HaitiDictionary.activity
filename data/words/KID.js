@@ -1,0 +1,1 @@
+showWord(["np. ","Konferans Inite Demokratik.<br>"])

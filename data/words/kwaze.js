@@ -1,0 +1,1 @@
+showWord(["v.","Lè de liy rankontre. 2. Lè de moun rankontre. Mwen kwaze ak Jan chak maten lè mwen pral nan travay.<br>"])

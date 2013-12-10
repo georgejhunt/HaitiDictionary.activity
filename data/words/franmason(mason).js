@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki patisipe nan prensip ak pratik lòj sekrè.<br>"])

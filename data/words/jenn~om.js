@@ -1,0 +1,2 @@
+showWord(["n. ","jèn gason. 2. (syans biyoloji) tout ansanm jèn yon ògànis genyen. Jenòm moun osinon bèt, osinon plant gen enfòmasyon sou kijan ògànis lan pral viv, ki fòm li ap genyen, ki jan li ap devlope eltr."
+])

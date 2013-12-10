@@ -1,0 +1,1 @@
+showWord(["a. "," Pozisyon nimewo 13. Gen trèz elèv nan klas la.<br>"])

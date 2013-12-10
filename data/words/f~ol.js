@@ -1,0 +1,1 @@
+showWord(["a. ","Kondisyon yon fi ki pèdi bon sans li. Madan Edwa fòl.<br>"])

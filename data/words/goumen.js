@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Batay ant de moun osinon ak yon sitiyasyon.  M ap goumen avèk ou si ou anmède m. 2. Lite. Nan lavi a se nan goumen yon moun fè senkòb.<br>"])

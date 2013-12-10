@@ -1,0 +1,1 @@
+showWord(["","1. n.p. Non moun ki gen nasyonalite peyi Meksik. Meksiken yo konn jwe rannchera byen. 2. a. Ki pou Meksik. Dans meksiken.<br>"])

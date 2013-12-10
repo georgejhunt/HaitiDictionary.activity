@@ -1,0 +1,1 @@
+showWord(["n.","1. Reyinyon. Te gen yon gwo rasanbleman sou laplas la semenn pase a. 2. Seremoni lwa. Mwen pral fè yon rasanbleman pou mwen konnen kote mwen bout.<br>"])

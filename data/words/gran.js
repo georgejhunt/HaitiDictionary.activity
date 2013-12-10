@@ -1,0 +1,2 @@
+showWord(["a. ","1. Ki grandi, ki gen laj. Mwen pat janm konnen ou te gen gran gason konsa non. 2. Ki fin grandi, ki pa timoun ankò. . Mwen gentan gen gran timoun machè, kounye a, se nan inivèsite yo tout ye. 3. Ki pran espas. Kay la gran anpil, madanm, mwen pap kapab netwaye tout pyès yo yon sèl kou jodi a."
+])

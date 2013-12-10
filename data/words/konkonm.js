@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Legim vè nan fanmi kikibitase, plant grenpant yo manje kri osinon bouyi. Gen moun ki pa renmen manje konkonm. 2. Boul, enflamasyon apre ou frape, san ki chita yon kote ki gen yon blesi pa andedan. Li gen yon konkonm sou fwon l. "
+])

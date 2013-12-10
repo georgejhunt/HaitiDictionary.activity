@@ -1,0 +1,1 @@
+showWord(["v. ","teknikevite lòt jwè kontwole balon.<br>"])

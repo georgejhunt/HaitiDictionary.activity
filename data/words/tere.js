@@ -1,0 +1,1 @@
+showWord(["v.","1. Antere. Nou antere Sonson yèswa.  2. a. Ki antere. Sonson antere depi yèswa.<br>"])

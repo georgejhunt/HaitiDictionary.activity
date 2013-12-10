@@ -1,0 +1,2 @@
+showWord(["n. ","1. Òganizasyon lòd piblik ki la pou veye pou tout aktivite mache byen tankou pa egzanp kontwole trafik epi pini moun ki pa suiv lòd tankou pa egzanp bay kontravansyon. Lontan, moun ki te nan polis nan peyi Ayiti te konn abiye an kaki ak kaskèt sou tèt yo. 2. Moun ki gen inifòm polisye sou li. Men yon polis ap pase la a."
+])

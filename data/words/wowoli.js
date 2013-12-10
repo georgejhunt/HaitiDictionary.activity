@@ -1,0 +1,1 @@
+showWord(["n.","Plant ki yon epis tou; li tankou yon seri ti grenn piti piti. Yo fè tablèt avè l Ayiti. Ameriken mete l nan pen pou bay pen an gou. Yo rele l jijiri tou. Wowoli gen anpil luil ladan l.<br>"])

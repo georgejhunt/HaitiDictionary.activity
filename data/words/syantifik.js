@@ -1,0 +1,1 @@
+showWord(["a. ","1. Ki pwouve ak konesans epi rechèch dapre metòd epi teknik ki mezirab epi ki ka repwodui. Metòd syantifik. 2. Moun ki nan domèn syans. Doktè Wilsonn se yon syantifik.<br>"])

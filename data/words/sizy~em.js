@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pozisyon sa ki vini apre senkyèm. Sizyèm jwè a se Leyon.  2. a. Pozisyon sa ki apre senkyèm nan. Yon sizyèm jwè vin parèt.<br>"])

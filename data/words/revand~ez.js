@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki achte nan men gwosis pou l revann andetay. Revandèz yo toujou vann pi chè pou yo kapab fè yon ti benefis.<br>"])

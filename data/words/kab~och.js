@@ -1,0 +1,1 @@
+showWord(["n. ","Kalòt. Bèta bay jan yon sèl kabòch.<br>"])

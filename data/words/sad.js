@@ -1,0 +1,1 @@
+showWord(["n. ","Pwason po woz ki gen vyann blanch. Nèg yo sot peche detwa sad la a.<br>"])

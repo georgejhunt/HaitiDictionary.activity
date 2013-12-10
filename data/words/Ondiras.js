@@ -1,0 +1,1 @@
+showWord(["np. ","Peyi nan Amerik Santral ki pre ak Elsalvadò ak Gwatemala. Yo di Ondiras sanble ak Ayiti nan estatistik li yo.<br>"])

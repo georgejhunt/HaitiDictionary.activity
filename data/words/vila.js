@@ -1,0 +1,1 @@
+showWord(["n. ","bèl kay riral pou moun al fè vakans.<br>"])

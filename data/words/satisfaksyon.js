@@ -1,0 +1,1 @@
+showWord(["n. ","Kontantman. Machann nan di li vle pratik li yo gen satisfaksyon.<br>"])

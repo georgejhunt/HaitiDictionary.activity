@@ -1,0 +1,1 @@
+showWord(["np.","Li fèt nan lane 1916 nan vil Pòtoprens. Li kòmanse fè penti nan lane 1954. Li rekoni anpil kòm atispent. Plizyè nan penti li yo enspire sou relijyon vodou.<br>"])

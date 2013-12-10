@@ -1,0 +1,1 @@
+showWord(["n. ","1. Metal an fèy mens. Veso sa yo fèt ak tòl. 2. Metal an fèy mens ki ondile ki sèvi pou twati kay. Twati tòl la fè kay la cho lajounen.<br>"])

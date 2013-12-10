@@ -1,0 +1,1 @@
+showWord(["n fr. ","Estasyon gazolin. Kote yo vann gazolin.<br>"])

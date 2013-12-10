@@ -1,0 +1,1 @@
+showWord(["n. "," Manje sikre ki fèt ak sereyal kuit nan lèt ak sik epi ak lòt engredyan ankò. Gen moun ki renmen labouyi lematen men mwen pito li leswa.<br>"])

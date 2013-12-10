@@ -1,0 +1,1 @@
+showWord(["","ki oblije viv lwen peyi l osinon lwen kominote li.<br>"])

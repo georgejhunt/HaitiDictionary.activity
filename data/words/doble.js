@@ -1,0 +1,1 @@
+showWord(["a. ","Ki poko mi.<br>"])

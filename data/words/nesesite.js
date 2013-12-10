@@ -1,0 +1,1 @@
+showWord(["n. "," Bezwen. Ki nesesite ou genyen pou ou ap pale fò konsa.<br>"])

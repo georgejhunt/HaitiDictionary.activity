@@ -1,0 +1,2 @@
+showWord(["n. ","Rezilta kwazman ant de tip; kwazman plant osinon bèt ki diferan jenetikman (osinon ki pa menm espès). Milèt se yon ibrid ki soti nan kwazman bourik ak cheval. ""Pomat"" se yon ibrid ant pòm ak tomat."
+])

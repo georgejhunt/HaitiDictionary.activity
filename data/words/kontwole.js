@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Regle.  Vini kontwole lajan an. 2. Fè resansman. Gadyen an kontwole konbyen prizonye ki la a. 3. Siveye. Pwofesè a kontwole timoun yo pou yo pa fè dezòd.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Chapo twal ki gen yon devanti sou devan. Alèkile fi kou gason mete kaskèt.<br>"])

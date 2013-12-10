@@ -1,0 +1,1 @@
+showWord(["np. ","Pèsonaj nan labib.<br>"])

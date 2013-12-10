@@ -1,0 +1,1 @@
+showWord(["n.","fwèt an kui pou kale moun ou byen bèt. Lontan lè yo te kale yon timoun ak rigwaz mak yo te konn rete sou li <br>"])

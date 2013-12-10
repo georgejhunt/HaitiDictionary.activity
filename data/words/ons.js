@@ -1,0 +1,1 @@
+showWord(["n. ","Inite pou mezire volim. Senk ons.<br>"])

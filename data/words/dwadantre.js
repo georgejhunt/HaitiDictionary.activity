@@ -1,0 +1,1 @@
+showWord(["n. ","Pri pou peye pou antre nan yon fèt.<br>"])

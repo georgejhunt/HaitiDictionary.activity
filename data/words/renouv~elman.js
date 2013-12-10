@@ -1,0 +1,2 @@
+showWord(["","chanjman, renovasyon."
+])

@@ -1,0 +1,1 @@
+showWord(["n.","Separasyon ant moun baze sou ras.  Nan peyi Afrik Disid te gen apated.<br>"])

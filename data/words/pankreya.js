@@ -1,0 +1,2 @@
+showWord(["n. ","Glann ki pa dèyè lestomak la ki sekrete ensilin. Pankreya a se yon glann ki fè yon seri pwodui ki al devèse nan ti trip pou fè dijesyon an mache. Nan pwodui sa yo gen anzim pou fè manje yo tounen pire, pankreya-a fè yon seri lò pwodui tou yo rele òmòn. Youn nan yo rele ensilin. Ensilin nan la pou kontwole ki kantite sik ki gen nan san an. Gen yon sik espesyal yo rele glikoz, ki enpòtan anpil paske se li ki bay selil yo gazolin yo bezwen pou travay. Se glikoz sitou ki gazolin sèvo a.Doktè di pankreyas Fito pa fonksyone byen."
+])

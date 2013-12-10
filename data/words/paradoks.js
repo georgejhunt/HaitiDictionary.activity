@@ -1,0 +1,1 @@
+showWord(["n. ","opinyon ki pa ale annakò ak sa tout moun aksepte kòm verite. Opinyon ak panse ki pa ale ak bon sans men ki pa fo epitou ki pa fin vre.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","mak machin ki sèvi pou fè fotokopi. Non konpayi ki fè pwodui zewòks.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Bay sans. Eksplike mwen sa sa vle di mo sa a.   2.  Entèprete. Jan mwen eksplike li sa mwen panse a, li te vin oblije dakò.  3. Koze. Se maladi Michèl la ki eksplike reta mwen an.  4. Egzije eklèsisman. Se pou ou eksplike m ki pwoblèm ou avèk mwen."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Akseswa pou soutni cheve. Prete m yon pens pou tache cheve m. 2. Zouti elektrisyen koupe fil kouran. Pens pou koupe. 3. Pli nan rad. Mete de pens nan kòsaj la. 4. Zouti an fè pou mason pou fouye tè. <br>"])

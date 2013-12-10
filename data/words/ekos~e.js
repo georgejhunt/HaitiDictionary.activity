@@ -1,0 +1,1 @@
+showWord(["","moun ki soti nan peyi Ekòs. 2. a. ki gen relasyon ak Ekòs.<br>"])

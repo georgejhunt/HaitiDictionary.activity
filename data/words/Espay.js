@@ -1,0 +1,1 @@
+showWord(["","Peyi nan kontinan Ewòp. Li gen 39 milyon moun ki ap viv sou 500 mil kilomèt kare. Kapital li se Madrid.<br>"])

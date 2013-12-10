@@ -1,0 +1,2 @@
+showWord(["n. ","Oma, kristase, bèt lanmè ki repite pou gou li epi ki vann chè tou. Wonman viv nan dlo yo gen senk pè pat (dekapòd) ak yon pè antèn byen long. Woma gen koulè gris tire sou vèt men lè li bouyi li vin tou wouj. Annou al manje woma jodi a."
+])

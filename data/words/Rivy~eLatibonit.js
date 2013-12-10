@@ -1,0 +1,1 @@
+showWord(["","Yon gwo rivyè nan zòn santral nan peyi Ayiti ki sèvi pou fè irigasyon pou pwodiksyon diri nan plenn Latibonit. Se li ki sèvi nan baraj pelig pou fè elektrisite.<br>"])

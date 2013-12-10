@@ -1,0 +1,2 @@
+showWord(["","Pou yon bèt osinon moun kontinye ekziste fò li repwodui pou ranplase sa yo ki mouri yo (osinon ki pa la yo). Pou repwodiksyon moun tout bagay kòmanse ak yon ti selil. Anndan kò yon fi gen seli ze. Anndan kò gason gen selil espèmatozoyid. Lè de selil sa yo kontre epi yo melanje, gen fètilizasyon epi yo vin fòme yon sèl selil. Selil sa a vin divize plizyè fwa pou vin fè yon anbriyon ki al fè nich an iteris la li devlope plis, fè tisi, pran fòm eltr.. Li rete nan iteris la pandan nèf mwa. Lè fetis la pare, yon ti moun fèt."
+])

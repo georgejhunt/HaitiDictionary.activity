@@ -1,0 +1,1 @@
+showWord(["n.","1. Moso yon bagay. Ki kote nan machin-akoud la pyès sa a dwe sòti? 2. Pati nan yon kay. Mwen ta renmen lwe yon kay ki gen kat pyès. 3. Ditou. Pa gen sa pyès!<br>"])

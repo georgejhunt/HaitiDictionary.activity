@@ -1,0 +1,1 @@
+showWord(["np. ","Ansyen minis travo-piblik nan gouvènman Divalye.<br>"])

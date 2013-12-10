@@ -1,0 +1,1 @@
+showWord(["v. ","Reyaksyon lè yon moun pè osinon lè yon moun santi fredi. Istwa a fè m fremi.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","operasyon pou retire po pijon yon gason.<br>"])

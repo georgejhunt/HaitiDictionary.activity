@@ -1,0 +1,1 @@
+showWord(["adv.","Pa janm manke. Mwen toujou renmen al mache sou laplas leswa. Chyen an toujou jape lè li wè mwen.<br>"])

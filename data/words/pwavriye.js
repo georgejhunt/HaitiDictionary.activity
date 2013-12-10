@@ -1,0 +1,1 @@
+showWord(["n. ","veso pou mete pwav.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Antrennman pou devlope ladrès kò osinon ladrès lespri. 2. Mouvman regilye espesifik pou devlope yon pati nan kò osinon pou devlope yon talan.<br>"])

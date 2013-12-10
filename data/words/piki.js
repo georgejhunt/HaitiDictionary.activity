@@ -1,0 +1,2 @@
+showWord(["n. ","1. Medikaman ki vini sou yon fòm likid moun pran ak sereng. Fanmasyen an di pa gen ni grenn nan, ni siwo a, se piki a ki genyen. Pran piki, bay piki, piki antibyotik. 2. An plasman kote moun te pran yon piki. Piki a ap fè mwen mal toujou."
+])

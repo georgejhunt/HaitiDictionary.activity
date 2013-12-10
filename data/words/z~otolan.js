@@ -1,0 +1,1 @@
+showWord(["n.","Ti zwazo. Mwen kenbe de zòtolan ak fistibal mwen an.<br>"])

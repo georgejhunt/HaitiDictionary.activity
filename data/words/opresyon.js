@@ -1,0 +1,2 @@
+showWord(["n. ","1. Yon maladi poumon kwonik ki fè yon moun gen difikilte lè li ap respire, li fè li touse ak estènye. Souvan se alèji respiratwa ki deklanche lè li respire yon pwodui ki nan lè a. Maladi as, etoufman Pitit sa fè opresyon, pafwa li pa ka respire byen. 2. Abi, anpechman pou moun viv lib. Gen peyi kote gen anpil opresyon."
+])

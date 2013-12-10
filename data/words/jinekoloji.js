@@ -1,0 +1,1 @@
+showWord(["n. ","branch nan medsin ki espesyalize nan etid ak tretman aparèy repwodiksyon fi.<br>"])

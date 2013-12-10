@@ -1,0 +1,1 @@
+showWord(["","Lè li fè inèdtan apre onzè dimaten. Apa li gentan midi epi mwen poko fin pare manje a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," Bay direksyon. Se Kalo ki ap dirije lekòl la kounye a.<br>"])

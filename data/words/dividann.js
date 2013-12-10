@@ -1,0 +1,2 @@
+showWord(["n. "," 1.  Nimeratè pati anro yon fraksyon. Nonm ou pral divize pa yon lòt. Si ou divize 3:4, 3 a se dividann nan.   2. Benefis ki pou tout asosye nan yon biznis. Lè mwen resevwa dividann pa mwen an, mwen pral achte yon oto avèk li."
+])

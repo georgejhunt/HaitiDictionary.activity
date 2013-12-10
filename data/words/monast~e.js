@@ -1,0 +1,1 @@
+showWord(["","kouvan kote pè osinon mè ap viv izole.<br>"])

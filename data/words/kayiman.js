@@ -1,0 +1,2 @@
+showWord(["n. "," Bèt (reptil) ki long ki gen gwo pat, machwa long, ke long ak yon pakèt dan pwenti. Yo rete nan larivyè ak nan ma sitou nan zòn twopikal. Mabouya, kwokodil ak kayiman tout se reptil."
+])

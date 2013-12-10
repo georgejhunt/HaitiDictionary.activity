@@ -1,0 +1,2 @@
+showWord(["n.","1. Sa doktè ba yon moun pou trete l osnon pou diminye doulè l. Tretman an gen pou dire de mwa konsa.  2. Sa yon doktè fèy osnon yon gangan fè pou yon moun pou wete move lespri sou li. Tretman sa a konn fèt ak fèy, senp osnon lòt mwayen majik tou."
+])

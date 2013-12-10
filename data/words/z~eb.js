@@ -1,0 +1,2 @@
+showWord(["n. ","varyete plant (gramine) ki sèvi pou bay bèt manje osinon pou dekore deyò kay. Teren ki kouvri ak plant sa yo. Depi la pli pa tonbe, plen raje nan zèb la. 2. Mamifè ki rete nan kontinan Afrik ki nan menm kategori (jan) ak cheval, li gen plizyè liy nwa e blan sou po li."
+])

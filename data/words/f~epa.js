@@ -1,0 +1,1 @@
+showWord(["v fr.","Pa pini yon moun pou yon fot. Mwen fè pa ou fwa sa a. <br>"])

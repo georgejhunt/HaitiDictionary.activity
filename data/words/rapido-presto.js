@@ -1,0 +1,1 @@
+showWord(["adv. "," Trè rapid. Tout travay te gen tan fèt rapido-presto.<br>"])

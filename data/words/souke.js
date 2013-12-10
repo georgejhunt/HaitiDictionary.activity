@@ -1,0 +1,2 @@
+showWord(["v.","1. Deplase alevini. Van an tèlman fò, li fè pye bwa yo souke. 2. Netwaye, wete salte. Mwen te ale souke dra yo deyò a pou mwen wete enpe pousyè sou yo. 3. Balanse, kadanse. Pa souke tyatya a twò fò, wa fè l fè twòp bwi."
+])

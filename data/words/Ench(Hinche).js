@@ -1,0 +1,1 @@
+showWord(["np.","awondisman ak komin nan depatman Sant. Vil ki nan yon distans apeprè 30 mil ak fontyè Dominikani an.<br>"])

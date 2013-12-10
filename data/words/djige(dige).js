@@ -1,0 +1,1 @@
+showWord(["v. "," Pike osnon touche ak yon bwa. Pa djige zoranj yo si yo poko mi.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Mask antwal. Volè a te mete yon kagoul nan figi l.<br>"])

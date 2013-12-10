@@ -1,0 +1,1 @@
+showWord(["n. ","goumen ak zam ant de gwoup.<br>"])

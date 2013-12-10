@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Pran chans. Jera renmen riske lavi l twòp. 2. a. Gen danje. Sitiyasyon riske.<br>"])

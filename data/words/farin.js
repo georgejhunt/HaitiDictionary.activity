@@ -1,0 +1,1 @@
+showWord(["n. "," Manje anpoud. Nan peyi m yo fè farin diri byen.<br>"])

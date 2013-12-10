@@ -1,0 +1,2 @@
+showWord(["n.","1. Volonte bondye, se konsa sa dwe ye, ansanm tout bagay Bondye kreye nan lòd li kreye yo a. Ou pa kapab chanje nati a, se konsa pou sa pase. 2. Karaktè yon moun. Se nati l menm ki konsa, li gen kè di. 3. Sèks fi. Li te malad nan nati li se sa ki fè li pa janm fè pitit."
+])

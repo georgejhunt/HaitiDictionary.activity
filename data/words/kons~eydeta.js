@@ -1,0 +1,1 @@
+showWord(["","Gwoup moun ki nonmen pou bay prezidan an konsèy. Moun ki nan konsèy deta kabinè sa a pa dakò pou prezidan an fè amnisti pou prizonye yo.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Espès kay ki gen kouvèti an pay men ki pa gen mi. Nou pral danse anba tonnèl.<br>"])

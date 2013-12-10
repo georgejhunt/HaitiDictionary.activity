@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Kapasite pou panse epi konprann vit. Mwen konn yon ti Ayisyen ki gen yon entelijans sou li, misye ap vin yon gran sitwayen demen.  2. Aktivite mantal. Se pou fè entelijans ou travay."
+])

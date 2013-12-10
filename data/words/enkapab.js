@@ -1,0 +1,2 @@
+showWord(["a.","1. Ki pa kapab, ki limite nan sa li ka fè. Ou enkapab leve chay sa a poukont ou.  2. Ki pa gen resous osnon kapasite pou fè yon travay. Mwen enkapab koud tout rad sa yo amwenske yon moun ta vin ede m."
+])

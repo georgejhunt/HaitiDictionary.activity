@@ -1,0 +1,1 @@
+showWord(["n. ","1. Sirèt timoun renmen nan rekreyasyon. 2. Jwèt vire timoun renmen fè epi ki ba yo tè vire.<br>"])

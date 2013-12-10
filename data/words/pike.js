@@ -1,0 +1,2 @@
+showWord(["v.","1. Ki bay yon iritasyon tankou yon demanjezon nan bouch osnon sou po. Kounye a, tout kò mwen ap pike mwen. 2. bay yon kout kouto. 3. bay piki. 4. di yon bagay pou fè yon moun choke. 5. transplante. Pike diri. Pike pitimi. 6. volè yon bagay ki pa gen anpil valè. 6. a. epis ki fò. Piman-an pike anpil. 7. pouri. dan pike."
+])

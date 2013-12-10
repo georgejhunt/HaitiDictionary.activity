@@ -1,0 +1,2 @@
+showWord(["","1. a. Anndan, pwofon. Mwen gen santiman entim pou nèg sa a. 2. n. Relasyon kote emosyon enplike, konfidan. Lora se zanmi entim Woje. 3. Prive, sekrè, pèsonnèl. Mwen pa bezwen konnen koze entim moun."
+])

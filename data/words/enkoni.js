@@ -1,0 +1,1 @@
+showWord(["n. ","yon moun ki pa koni. 2. Yon valè matematik ki pa kalkile.<br>"])

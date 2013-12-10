@@ -1,0 +1,2 @@
+showWord(["n. ","1. Aktivite. Odil plen okipasyon, li pa janm gen tan.  2. Travay. Ki okipasyon mari ou? 3. Sitiyasyon kote yon peyi pran dwa jere yon lòt. Ayiti te sou okipasyon peyi Etazini pandan kenzan."
+])

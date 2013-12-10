@@ -1,0 +1,1 @@
+showWord(["n. ","Atraksyon ki rale tout pwa nan direksyon tè a. Lè yon mango sot tonbe sou pye li ou ka di pezantè a atire l tonbe.<br>"])

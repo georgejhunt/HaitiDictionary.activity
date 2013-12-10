@@ -1,0 +1,1 @@
+showWord(["","Rezèvwa dlo nan wo Latibonit kote Montay nwa ak Chèn Mate rankontre. Lak Pelig sèvi pou irigasyon ak pou jenere elektrisite.<br>"])

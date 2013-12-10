@@ -1,0 +1,1 @@
+showWord(["n. ","1. Nan maten. Li pran kafe lematen sèlman. 2. Toulejou nan maten. Lematen li toujou ale a setè.<br>"])

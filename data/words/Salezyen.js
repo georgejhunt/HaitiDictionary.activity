@@ -1,0 +1,1 @@
+showWord(["n. ","Gwoup relijye katolik ki gen vokasyon pou fè edikasyon timoun nan katye ki pòv. Salezyen yo rekonni anpil pou travay yo fè ak timoun nan peyi Ayiti.<br>"])

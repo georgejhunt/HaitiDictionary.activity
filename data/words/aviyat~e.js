@@ -1,0 +1,2 @@
+showWord(["n.","Pilòt, moun ki kondi avyon.  Papa zanmi mwen an se yon aviyatè li ye pou Amerikan Èlayn.Pilòt, moun ki kondi avyon.  Papa zanmi mwen an se yon aviyatè li ye pou Amerikan Èlayn.Pilòt, moun ki kondi avyon.  Papa zanmi mwen an se yon aviyatè li ye pou Amerikan Èlayn.Pilòt, moun ki kondi avyon.  Papa zanmi mwen an se yon aviyatè li ye pou Amerikan Èlayn."
+])

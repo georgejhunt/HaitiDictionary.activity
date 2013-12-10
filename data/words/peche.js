@@ -1,0 +1,2 @@
+showWord(["n.","1. Kenbe bèt nan dlo. Mwen renmen al peche pwason epi pou mwen tounen lakay mwen ak pwason pou mwen manje pou tout semèn nan 2. Fè sa ki pa sa dapre kòmandman kretyen. Si ou fè peche, fòk ou al konfese sinon ou pa kapab kominyen."
+])

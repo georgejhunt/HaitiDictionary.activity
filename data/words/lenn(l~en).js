@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Dra epè pou kouvri, pou pwoteje kont fredi. Lenn sa a cho. 2. Materyèl, tip twal cho ki fèt ak po mouton osnon lòt ovide. Twal pantalon sa a  se lenn. 3. Pati nan kò moun kote kuis kontre ak anbativant. Li gen doulè nan lenn."
+])

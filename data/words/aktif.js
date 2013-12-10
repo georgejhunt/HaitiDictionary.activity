@@ -1,0 +1,1 @@
+showWord(["a.","Gen mouvman. Jan se moun ki aktif anpil lè gen kanaval.Gen mouvman. Jan se moun ki aktif anpil lè gen kanaval.Gen mouvman. Jan se moun ki aktif anpil lè gen kanaval.Gen mouvman. Jan se moun ki aktif anpil lè gen kanaval.Gen mouvman. Jan se moun ki aktif anpil lè gen kanaval.<br>"])

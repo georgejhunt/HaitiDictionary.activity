@@ -1,0 +1,2 @@
+showWord(["np. "," Mizisyen ki te moute dyaz ki te rele Konpa Dirèk la. Dyaz sa a te an konpetisyon ak Kadans Ranpa ki te sou direksyon Webè Siko. Nemou te koni anpil pou mereng li yo epi ak bolewo yo. Nan peryòd li te anflèch, li menm ansanm ak Siko te pratikman separe teritwa peyi Ayiti a ande, kote yo chak te genyen apeprè senkant pousan fanatik yo. Nan peryòd kanaval de gwoup sa yo te konn chofe anpil. Lè minidyaz yo vin parèt gwoup Nemou an vin pa alamòd ankò, epi li te vin kraze."
+])

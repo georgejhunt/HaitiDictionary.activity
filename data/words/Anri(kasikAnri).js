@@ -1,0 +1,2 @@
+showWord(["np.","Endyen ki te chape lè blan kolon yo te masakre patizan Anakawona yo an 1504. Msye te sove ak detwa lòt endyen parèy li ansanm ak detwa nwa tou. Msye te ret an rebelyon pandan 14 an. Chal 5 ki te wa peyi Espay lè sa a, te voye yon moun pou negosye ak Anri epi se konsa yon kontra te vin siyen pou yo kite msye ak tout patizan l yo anrepo. Yo te enstale yo nan yon kote ki te rele Boya. Yo te vin rele msye kasik Anri."
+])

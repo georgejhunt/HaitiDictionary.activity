@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti elektwonik pou kalkile. Manno gen de kalkilatris.<br>"])

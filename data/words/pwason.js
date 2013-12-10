@@ -1,0 +1,2 @@
+showWord(["n.","Bèt ki viv nan dlo, nan lanmè osnon nan rivyè epi ki gen ekay sou kò l. Gen pwason dlo dous, gen pwason dlo sale.Vètebre ki gen san frèt, ki gen Agil@ pou respire nan dlo, ki gen najwa pou deplase nan dlo epi tou ki gen kal sou po li. 2. Vyann bèt ki viv nan dlo pou moun manje."
+])

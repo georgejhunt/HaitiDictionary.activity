@@ -1,0 +1,2 @@
+showWord(["v. ","1. Lonje. File lang. 2. Kouri, deplase an vitès. Jòj file ale. 3. Mete fil. File zegui, file machin. 4. Flate, bay bonjan. Jera ap file m pou li jwenn lajan nan menm. 5. Kase tibwa nan zòrèy, di yon moun bèl ti pawòl pou li ka konnen ou renmen l. Andre al file Kamèn toulejou lè yo sot lekòl. 5. Bay fil, kontwole ak yon liy. File kap la."
+])

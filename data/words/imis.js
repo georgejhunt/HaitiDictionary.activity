@@ -1,0 +1,1 @@
+showWord(["n. ","tè ki gen matyè òganik ki byen dekonpoze.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","1. Espas ki kouri anlè men ki pa bare kou kote. Anlè a andwa fèt ak pay kòk. Gen moun ri renmen al pran van anba tonèl. 2. Kote yo fè seremoni lwa. Ann al rele Ezili anba tonèl madan Kola a.<br>"])

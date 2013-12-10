@@ -1,0 +1,2 @@
+showWord(["np.","1893-1977. Frè Filome Oben, Senèk fèt nan ane 1893 nan vil Okap. Senèk kòmanse fè penti apre li te fin gen senkantan. Msye te elèv Filome Oben. Senèk te yon atis pent ak yon estil renesans rekoni. Msye te pwofesè penti nan vil Okap."
+])

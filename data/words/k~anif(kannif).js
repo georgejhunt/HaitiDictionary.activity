@@ -1,0 +1,1 @@
+showWord(["n. ","Kouto pòtatif ki ka pliye an de pou pwoteje lam nan. Prete m kànif ou a.<br>"])

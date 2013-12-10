@@ -1,0 +1,1 @@
+showWord(["n. ","Seksyon nan yon vil kote yon gwoup moun oblije viv.<br>"])

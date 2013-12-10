@@ -1,0 +1,1 @@
+showWord(["n fr. ","Doulè nan tèt. Woje soufri ak tèt fè mal.<br>"])

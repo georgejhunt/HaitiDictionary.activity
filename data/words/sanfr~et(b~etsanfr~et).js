@@ -1,0 +1,2 @@
+showWord(["","Ki gen tanperati kò li ki varye, (fliktye) pou li adapte ak tanperati li fè deyò kò li (lè, dlo, tè). Karakteristik tout bèt ki adapte tanperati kò yo ak tanperati kote yo ye a. An jeneral pwason ak reptil (mabouya) se bèt san frèt. Kanta bèt san cho yo menm, yo pa kite tanperati kò yo chanje, yo fè efò pou yo pa kite tanperati yo vin ni twò cho ni twò frèt."
+])

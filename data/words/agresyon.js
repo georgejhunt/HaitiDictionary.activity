@@ -1,0 +1,1 @@
+showWord(["n.","Aksyon vyolan sou yon lòt.  Se pou ta wè ki kalite agresyon vòlè a fè sou timoun yo.Aksyon vyolan sou yon lòt.  Se pou ta wè ki kalite agresyon vòlè a fè sou timoun yo.Aksyon vyolan sou yon lòt.  Se pou ta wè ki kalite agresyon vòlè a fè sou timoun yo.<br>"])

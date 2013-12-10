@@ -1,0 +1,1 @@
+showWord(["n. ","Teritwa kote yon moun osinon yon administrasyon osinon yon tibinal gen otorite..<br>"])

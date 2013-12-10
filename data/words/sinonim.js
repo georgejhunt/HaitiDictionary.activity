@@ -1,0 +1,1 @@
+showWord(["n.","Mo ki vle di menm bagay. Travay ak djòb se de mo sinonim.<br>"])

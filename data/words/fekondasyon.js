@@ -1,0 +1,2 @@
+showWord(["n. ","Etap nan reprodiksyon kote yon ze ak yon espèmatozoyid rankontre epi ini. 2. Repwodiksyon, melanj ant yon selil mal (espèmatozoyid, polèn, semans) ak yon selil femèl (ovil, gamèt), pou devlope yon selil inik, (ki se) kòmansman pou yon nouvo bèt osinon yon nouvo moun osinon yon nouvo plant. "
+])

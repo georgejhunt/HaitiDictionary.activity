@@ -1,0 +1,1 @@
+showWord(["n fr. ","Ti twou chak bò figi yon moun osinon nan manton li. Adelin gen twou bote.<br>"])

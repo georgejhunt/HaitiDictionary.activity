@@ -1,0 +1,1 @@
+showWord(["","1. Senbòl nan yon fraz ki make yon poz. 2. Senbòl nan yon chif pou make kote chif desimal yo kòmanse.<br>"])

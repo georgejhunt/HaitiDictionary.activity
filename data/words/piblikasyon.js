@@ -1,0 +1,2 @@
+showWord(["n. ","1. Annonsman. Yo fè piblikasyon ban maryaj la deja.  2. Pwopaje enfòmasyon. Yo te fè piblikasyon pou bal la nan tout estasyon radyo.  3. Liv, dokiman. Jera di li pa janm te okouran piblikasyon sa yo te disponib."
+])

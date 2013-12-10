@@ -1,0 +1,1 @@
+showWord(["n. ","Chante legliz. Annou chante kèk kantik. <br>"])

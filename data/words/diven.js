@@ -1,0 +1,1 @@
+showWord(["n. "," Bwason alkolize ki fèt ak ji rezen ki fèmante.Yo te sèvi yon bon diven nan fèt la.<br>"])

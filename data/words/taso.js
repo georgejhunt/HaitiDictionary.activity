@@ -1,0 +1,1 @@
+showWord(["n.","Vyann bèf tranpe nan epis espesyal epi yo griye apresa. Taso ak bannann peze se manje Ayisyen renmen anpil.<br>"])

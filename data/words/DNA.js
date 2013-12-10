@@ -1,0 +1,1 @@
+showWord(["","abreviyasyon pou non pwodui chimik ( asid deyoksiribo nikleyik). Nou jwenn li nan nwayo yon selil anndan kwomozom lan se li ki kontwole eredite ak repwodiksyon.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ki sou move san l. Matant mwen makawon kounye a, mwen pap al mande l lapèmisyon.  2. Move karaktè. Sentaniz se moun ki makawon. 3. Lèd. Plen fatra la a, mwen pa ka rete kote makawon sa a."
+])

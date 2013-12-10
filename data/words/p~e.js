@@ -1,0 +1,2 @@
+showWord(["","1. v. enkyete, gen krentif. Santiman ki fè yon moun santi l pa an sekirite. Lè ou pè, ou panse yon move bagay pral rive. Chyen an pè loraj. Lili pè naje nan gwo dlo. Li pè kou chat. Pa vin fè m pè la a. Neye-papè. 2. n. Moun ki etidye labib epi ki resevwa sakreman pou l kapab pran responsabilite nan relijyon katolik (tankou di lamès). Pè Jan monte sou lotèl kisa ou kwè-l di ? Fòk youn renmen lòt. 3. n. De bagay ki ale ansanm. Yon pè soulye, pè gan, pè kabrit, pè poul."
+])

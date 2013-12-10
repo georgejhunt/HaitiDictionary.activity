@@ -1,0 +1,1 @@
+showWord(["n. ","eksèsis lekòl kote elèv resite tèks li te aprann pakè.<br>"])

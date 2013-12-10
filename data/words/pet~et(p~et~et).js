@@ -1,0 +1,1 @@
+showWord(["adv. "," Mo pou make yo bagay osinon yon sitiyasyon ki pa sèten; ki make dout. Petèt nou ka ale petèt nou ka rete tou.<br>"])

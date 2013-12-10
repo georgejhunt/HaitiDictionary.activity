@@ -1,0 +1,1 @@
+showWord(["","Sous enèji ki poko aktif. Enèji ki baze sou pozisyon osinon kondisyon.<br>"])

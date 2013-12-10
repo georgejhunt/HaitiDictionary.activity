@@ -1,0 +1,2 @@
+showWord(["np.","Etazini. Peyi ki gwo anpil ki nan kontinan amerik la, li nan Amerik Dinò, ant Kanada ak Meksiko. Ozetazini, yo pale angle men gen anpil moun ki pale panyòl tou. Genyen 50 eta Ozetazini. Popilasyon an apeprè 250 milyon moun konsa. 51% ladan yo se pwotestan, 22% katolik women, 3% jwif, 2% òtodòks. San konte Awayi ak Alaska, Etazini genyen 36% nan tè li ki sèvi pou bèt viv ak manje, 25% se forè epi 24% sèvi pou plante manje pou moun. Etazini se yon repiblik federal. Kapital li se Wachintonn."
+])

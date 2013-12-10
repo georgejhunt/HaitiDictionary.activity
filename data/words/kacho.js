@@ -1,0 +1,1 @@
+showWord(["n. ","Prizon. Yo mete de prizonye yo nan kacho.<br>"])

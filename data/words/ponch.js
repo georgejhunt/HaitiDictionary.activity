@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Bwason ki fèt ak melanj ji fwi ak alkòl. Ponch anana bon anpil. 2. Melanj kenèp ak sik wouj tranpe. Timoun lontan te konn fè ponch ak kenèp si.<br>"])

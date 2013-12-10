@@ -1,0 +1,1 @@
+showWord(["n. ","kwayans ak pratik ki gen valè espirityèl ak moral.<br>"])

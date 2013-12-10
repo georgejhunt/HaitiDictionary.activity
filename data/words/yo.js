@@ -1,0 +1,2 @@
+showWord(["","1. pr. pwonon endefini pou reprezante plizyè moun. Li ranplase plizyè moun osnon plizyè bagay san nonmen non, san presize ki moun moun sa yo ye. Yo di konsa, tout sa ki la a se pou yo. Mwen ap goumen avè yo tou paske se pa pou yo li ye, se pou mwen. 2. a. Adjektif demonstratif ki endefini, ki pa presize. Mwen pa nan tout bagay sa yo mwen menm, talè mwen pa move la a."
+])

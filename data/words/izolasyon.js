@@ -1,0 +1,2 @@
+showWord(["n.","1. San kominikasyon ak lòt. Kote Michèl rete a, li ap viv nan izolasyon. 2. Separasyon. Yo mete de bèt yo nan izolasyon pou evite kontaminasyon. 3. Pwoteksyon kont chalè osinon kont fredi, osinon kont elektrisite. Kay la gen yon bon izolasyon."
+])

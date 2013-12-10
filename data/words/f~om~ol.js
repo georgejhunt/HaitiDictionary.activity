@@ -1,0 +1,1 @@
+showWord(["n. ","pwodui chimik ki sèvi kòm dezenfektan. Konsève ògàn bèt la nan fòmòl.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Mal bèf. Gade de towo mawoule yo ap mennen labatwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," Chwazi yon opsyon olyede yon lòt. Li prefere ale pase li rete.<br>"])

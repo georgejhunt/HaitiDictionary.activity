@@ -1,0 +1,1 @@
+showWord(["a. ","bèt ki manje zèb. Kabrit se yon èbivò.<br>"])

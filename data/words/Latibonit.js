@@ -1,0 +1,2 @@
+showWord(["np. "," Depatman ki gen Gonayiv kòm vil prensipal ak chèflye. Li gen 5 awondisman, 15 komin, 6 katye ak 62 seksyon kominal. Zòn jeyografik ki mezire apeprè 300 kilomèt kare. Depatman kote tè a rich, li pwodui anpil. Gen yon rivyè tou ki rele rivyè Latibonit. Rivyè sa a wouze anpil tè pou fè diri.2. Non yon gwo rivyè nan Depatman Latibonit. Li gen debi ant 20-34 mètkib pa segonn. Li ta kapab irige dimil ekta tè."
+])

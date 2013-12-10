@@ -1,0 +1,1 @@
+showWord(["n.","1. Fòmasyon yon ti bebe anndan vant. Se depi nan konsepsyon an sèks yon timoun detèmine.  2. Fekondasyon. Konsepsyon yon timoun se yon evenman natirèl estwòdinè. 3. Fòmasyon yon lide nan lespri yon moun. Dapre konsepsyon Rita se pou mwen ta telefone l chak jou. 4.Opinyon. Ki konsepsyon ou genyen sou pwoblèm sa a?<br>"])

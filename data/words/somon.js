@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo pwason ki gen vyann li koulè woz. Somon se pwason dlo sale men li konn ale nan dlo dous tou.<br>"])

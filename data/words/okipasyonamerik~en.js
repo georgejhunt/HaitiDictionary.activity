@@ -1,0 +1,2 @@
+showWord(["","peryòd 1915-1934, lè Lame ameriken te antre vin okipe peyi Ayiti, apre lanmò Vilbren Giyòm Sam, 27 Jiyè 1915 marin ameriken antre epi okipe ak aplikasyon doktrin Monro. Toupatou gen mouvman rezistans. Pyè Sili (Pierre Sully), Chalmay Peralt, yo touye 31 Oktòb 1919). Te gen pase 3,000 moun ki mouri. An 1934, sou gouvènman Estyenyo Vensan marin ameriken yo kite peyi a."
+])

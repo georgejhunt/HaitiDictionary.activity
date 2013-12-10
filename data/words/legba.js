@@ -1,0 +1,2 @@
+showWord(["np. ","Dapre kwayans vodou, se lwa ki louvri pòt. Li veye wout ant mond natirèl ak mond espirityèl. (Li ta vle raple Sen Pyè nan legliz katolik). Se li yo envoke an premye nan yon seremoni Vodou. Se li ki responsab pou louvri baryè osinon pou tabli kominikasyon ant moun latè ak lwa lòtbò. Legba reprezante tankou yon gason ki mèg, vye granmoun, ki bwate, ki mache ak yon baton epi ki ap fimen yon pip. Yo rele l papa Legba tou."
+])

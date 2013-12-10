@@ -1,0 +1,1 @@
+showWord(["","Ti vil pre Okay kote marin meriken yo te touye anpil peyizan Ayisyen an 1929. Non masak sa a.<br>"])

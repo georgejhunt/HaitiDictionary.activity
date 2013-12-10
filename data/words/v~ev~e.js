@@ -1,0 +1,2 @@
+showWord(["n.","Desen senbolik ki reprezante diferan espri nan relijyon vodou. Anjeneral yo trase vèvè atè ak farin frans, farin mayi ak lòt poud. Chak lwa gen senbòl vèvè pa li. Gen liv ki ekri sou vèvè ak sa yo vle di."
+])

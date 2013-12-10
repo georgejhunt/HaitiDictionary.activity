@@ -1,0 +1,1 @@
+showWord(["n. ","Femèl bèf. Lèt vach.<br>"])

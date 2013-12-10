@@ -1,0 +1,2 @@
+showWord(["ent. ","ak onom onomatope ki gen de pati, Aawouwa@ imite bri lè oto ap estat epi ""pipip"" se son klaksonn. Okòmansman oto te konn bay anpil pwoblèm pàn. Lè yon bagay chè, modèn men ki bay pwoblèm yo rele li AAwouwa-pipip@ kòm jouman. AGade Awouwa‑pipip la non""."
+])

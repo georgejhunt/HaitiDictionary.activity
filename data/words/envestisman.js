@@ -1,0 +1,1 @@
+showWord(["n. ","Mete lajan nan yon pwojè osinon yon komès avèk espwa li pral rapòte. 2. yon kantite lajan ki nan yon komès.<br>"])

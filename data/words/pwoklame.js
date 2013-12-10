@@ -1,0 +1,1 @@
+showWord(["v. ","fè yon deklarasyon ofisyèl.<br>"])

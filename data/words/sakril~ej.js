@@ -1,0 +1,1 @@
+showWord(["n. ","1. Aksyon kote yon moun maltrete nenpòt ki senbòl ki gen anpil valè espirityèl. Fè sèman se yon sakrilèj.<br>"])

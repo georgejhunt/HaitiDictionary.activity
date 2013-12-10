@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Nan katolik, sakreman kote ou resevwa losti. Pòl kominye chak dimanch.  2. Fèt, banbòch yo fè apre yon moun fin fè premyè kominyon li. Tout moun pral nan kominyon.  3. Kominikasyon. Yon kominyon lide."
+])

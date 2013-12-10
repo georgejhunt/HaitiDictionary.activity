@@ -1,0 +1,1 @@
+showWord(["n. ","Lèt nan alfabè. O tankou nan oto. 2. o! entj.<br>"])

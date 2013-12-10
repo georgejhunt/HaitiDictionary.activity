@@ -1,0 +1,1 @@
+showWord(["n. ","fi ki ap travay nan presbitè. Bòn ki okipe tout koze nan yon kay epi ki gen kontwòl depans lajan.<br>"])

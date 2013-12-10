@@ -1,0 +1,1 @@
+showWord(["n. ","Pwason. Mwen poko janm manje pwason yo rele djòlpave a.<br>"])

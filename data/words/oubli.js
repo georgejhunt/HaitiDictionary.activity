@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pa sonje.<br>"])

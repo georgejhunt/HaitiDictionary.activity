@@ -1,0 +1,1 @@
+showWord(["a. ","an rapò ak yon dyosèz.<br>"])

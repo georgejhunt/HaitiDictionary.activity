@@ -1,0 +1,1 @@
+showWord(["n.","1. Ladrès ak teknik pou bati kay.  Ou ka diplome nan achitekti nan katran. 2. Estil kay. Achitekti twopikal.1. Ladrès ak teknik pou bati kay.  Ou ka diplome nan achitekti nan katran. 2. Estil kay. Achitekti twopikal.<br>"])

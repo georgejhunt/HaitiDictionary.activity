@@ -1,0 +1,1 @@
+showWord(["n. "," moun ki ap fè edikasyon lòt moun.<br>"])

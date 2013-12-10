@@ -1,0 +1,1 @@
+showWord(["n. ","Boul fil fè fen ki ka foubi chodyè byen. Chodyè ki foubi ak paydefè pi pwòp .<br>"])

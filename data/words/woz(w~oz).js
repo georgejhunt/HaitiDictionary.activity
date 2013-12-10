@@ -1,0 +1,1 @@
+showWord(["a. ","Koulè. Rad woz. 2. n. Non yon flè. Woz wouj. 3. Anfòm. Figi l woz.<br>"])

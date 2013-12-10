@@ -1,0 +1,1 @@
+showWord(["a/n.","Ki chanje lide fasil. Ki ap fè kapris.<br>"])

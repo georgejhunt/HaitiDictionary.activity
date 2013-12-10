@@ -1,0 +1,2 @@
+showWord(["n.","Likid ki gen yon pwodui chimik  fò ladan li ki kapab sèvi pou fè bwason osnon pou fè medikaman. Moun ki bwè anpil bwason ki gen alkòl ap sou. Gen alkòl ki sèvi pou limen dife, ki sèvi pou dezenfekte. Kleren se yon likid ki gen alkòl etilik ak dlo."
+])

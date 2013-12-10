@@ -1,0 +1,1 @@
+showWord(["","Pati kominis Ayisyen ki fòme an 1969 apati inyon ant pati ki te rele Antant Popilè a ak pati sa ki te rele Pati Popilè Liberasyon Nasyonal.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Etap nan aprann.<br>"])

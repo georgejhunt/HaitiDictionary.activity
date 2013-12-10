@@ -1,0 +1,1 @@
+showWord(["","moun ki nan pozisyon ki ba li avantaj.<br>"])

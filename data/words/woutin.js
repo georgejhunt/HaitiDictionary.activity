@@ -1,0 +1,2 @@
+showWord(["n. ","San panse, regilyèman. Travay sa a se yon woutin li ye pou mwen mwen pa bezwen panse pou mwen fè li. Gen twa etap lè moun ap aprann kichòy, gen etap aza kote moun nan pa konpran sa ki ap pase a men li gen rezita li ap chèche a; gen etap woutin kote li konn kisa pou li fè pou li jwen sa li ap chèche a; apresa gen etap refleksyon kote li reflechi anvan li aji."
+])

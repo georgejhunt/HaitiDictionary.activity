@@ -1,0 +1,1 @@
+showWord(["","Gwoup Ayisyen ki te fè pwomosyon ras nwa. Te gen yon jounal ki te rele konsa tou. Franswa Divalye te manm nan gwoup sa a.<br>"])

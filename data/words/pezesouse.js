@@ -1,0 +1,1 @@
+showWord(["v fr.","1. Jwi yon bagay san prese. Timoun yo ap peze souse mango a. 2. Esplwate.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","Chif ki vini apre katrevennèf epi anvan katrevenonz. Gen katrevendis pyebwa kay Jinèt la.<br>"])

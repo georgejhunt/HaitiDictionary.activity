@@ -1,0 +1,1 @@
+showWord(["","politik konkèt pou mentni kontwol materyèl ak mache lòt peyi ki pi fèb.<br>"])

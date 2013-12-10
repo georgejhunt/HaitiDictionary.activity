@@ -1,0 +1,1 @@
+showWord(["n. ","1. Plant ki fè grenn yo sèvi pou fè luil. Pye maskreti. 2. Luil ki fèt ak grenn maskriti. Luil maskriti bon pou cheve.<br>"])

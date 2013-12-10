@@ -1,0 +1,1 @@
+showWord(["adv.","sanzatann<br>"])

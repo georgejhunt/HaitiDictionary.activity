@@ -1,0 +1,1 @@
+showWord(["n. ","travay pou laboure latè<br>"])

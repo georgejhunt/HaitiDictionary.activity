@@ -1,0 +1,1 @@
+showWord(["","konjle. 2. Fè cheve vin gen fò ondile.<br>"])

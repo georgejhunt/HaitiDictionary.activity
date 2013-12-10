@@ -1,0 +1,1 @@
+showWord(["n. ","Maladi moun pran nan sèks; se yon treponèm ki lakòz li; li bay chank. Marilisi gen sifilis.<br>"])

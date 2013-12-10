@@ -1,0 +1,1 @@
+showWord(["n. "," zanmitay. Mwen pa nan kamaradri avèk ou tande.<br>"])

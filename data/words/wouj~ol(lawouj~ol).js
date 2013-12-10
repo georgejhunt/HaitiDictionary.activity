@@ -1,0 +1,2 @@
+showWord(["n. ","maladi enfektyez (ki gen enfeksyon) ki soti nan enfeksyon ak viris (viral), ki bay lafyèv, ki atake timoun epi fè bouton leve sou po yo. Lawoujòl kontajye epi ka fasilman devlope an epidemi."
+])

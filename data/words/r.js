@@ -1,0 +1,1 @@
+showWord(["n fr. ","Revoke ranplase. Bèta gentan r.r. Elifèt.<br>"])

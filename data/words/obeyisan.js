@@ -1,0 +1,1 @@
+showWord(["a.","Moun ki koute sa lòt moun di yo epi yo fè li san poze keksyon. Pòl se yon moun ki obeyisan. Mwen swete moun yo pa-p fè l abi.<br>"])

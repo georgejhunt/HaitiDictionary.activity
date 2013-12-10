@@ -1,0 +1,2 @@
+showWord(["n. ","1. Wotè. Ki nivo dlo a nan basen an?  2. Degre, klas. Jak nan nivo preparatwa. 3. Ran, gwoup. Timoun piti sa yo pa nan nivo gran fi tankou ou.. 4. Enstriman ki verifye liy orizontal. Prete m nivo ou a.  5.  Byen chita nan liy orizontal. Eske mi sa-a a nivo."
+])

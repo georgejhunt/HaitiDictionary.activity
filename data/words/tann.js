@@ -1,0 +1,1 @@
+showWord(["v. ","1. Kite tan pase. Dat nou ap tann ou. 2. Mete sou yon kòd. Tann rad.<br>"])

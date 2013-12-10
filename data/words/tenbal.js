@@ -1,0 +1,1 @@
+showWord(["n. ","Gode an metal. Pote yon tenbal dlo pou mwen.<br>"])

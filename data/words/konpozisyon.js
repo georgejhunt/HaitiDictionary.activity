@@ -1,0 +1,1 @@
+showWord(["","1.Egzamen. Wobè fè konpozisyon li a byen.  2. Melanj. Konpoziyson sa a gen bon gou. 3. Medsin fèy. Ou goute konpozisyon Jera a? 4 Redaksyon. Mwen poko ekri konpozisyon an.<br>"])

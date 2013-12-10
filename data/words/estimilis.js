@@ -1,0 +1,1 @@
+showWord(["n. ","Yon renmèd osinon yon aksyon ki lakoz aktivite yon ògànis vivan (osinon yon ògàn) chanje vit.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","1. ki konsantre sou sa ki fondamantal. 2. Ki diferan anpil parapò ak sa ki te la anvan.<br>"])

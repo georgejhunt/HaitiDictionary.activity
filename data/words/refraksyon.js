@@ -1,0 +1,1 @@
+showWord(["n. "," Deviyasyon reyon limyè osnon reyon elektwomayetik. Ang refraksyon.<br>"])

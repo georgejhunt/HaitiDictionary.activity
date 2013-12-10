@@ -1,0 +1,1 @@
+showWord(["v. ","Mete (klase) dapre yon lòd. <br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki jwe gita.<br>"])

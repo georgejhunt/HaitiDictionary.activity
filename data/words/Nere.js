@@ -1,0 +1,2 @@
+showWord(["np. ","Pastè batis konni nan Pòtoprens pandan anne 70 yo. Li te pastè nan ALeliz Batis Dèsite@ (L=église Baptiste des Cités) epi chak dimanch li te gen emisyon nan radyo. An 1978 Gouvènman an panse Pastè Nere te louvri je moun yo twòp ak analiz sosyal li te ap fè. Apre yon atik li te ekri ALa Milice au Pouvoir@ pou li te ka sispann, yo te arete li yo te bat li pou opinyon li."
+])

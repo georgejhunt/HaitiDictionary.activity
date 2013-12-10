@@ -1,0 +1,1 @@
+showWord(["n fr. "," Manbràn ki fèt pou pwoteje selil. Gen manbràn selil ki elastik.<br>"])

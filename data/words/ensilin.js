@@ -1,0 +1,2 @@
+showWord(["n. ","1. òmòn ki fèt nan pankreyas, ki sèvi pou kontwole nivo sik (glikoz) andedan bèt osinon moun. Se pa tout moun ki fè dyabèt ki pa pwodui ensilin. 2. Yon medikaman moun ki fè dyabèt pran pou kontwole nivo sik nan san yo. Pami moun ki fè sik yo, gen ladan yo ki oblije pran ensilin nan piki chak jou."
+])

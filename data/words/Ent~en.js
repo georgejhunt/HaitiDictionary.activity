@@ -1,0 +1,1 @@
+showWord(["a. ","Ki rete menm kote li al lekòl osinon travay. Silòt se entèn kay Mè Lwiz. 2. n. Etap nan fòmasyon doktè. Entèn nan lopital jeneral.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","ki pa kite dlo pase. 2. Rad an plastik moun mete lè gen lapli. 3. Ki pa vle chanje.<br>"])

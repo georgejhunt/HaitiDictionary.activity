@@ -1,0 +1,1 @@
+showWord(["a. ","ki pa gen po pijon. Ki fè operasyon pou retire prepis.<br>"])

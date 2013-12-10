@@ -1,0 +1,1 @@
+showWord(["v. ","kole vè anvan ou bwè pou selebre kichòy.<br>"])

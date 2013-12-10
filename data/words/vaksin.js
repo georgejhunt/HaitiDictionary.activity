@@ -1,0 +1,2 @@
+showWord(["n. ","Estil mizik ki gen tanbou, banbou ak klewon ladan l. Nan tan rara, gwoup vaksin pran lari. 2. Gwoup enstriman mizik ki fèt ak banbou, chak eleman gen diferen longè epi diferan dyamèt pou bay son ki diferan."
+])

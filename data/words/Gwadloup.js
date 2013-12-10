@@ -1,0 +1,1 @@
+showWord(["np. ","De zile nan karayib la ki se yon depatman franse. De zile sa yo ki fòme Gwadloup la se Bastè ak Granntè.<br>"])

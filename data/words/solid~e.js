@@ -1,0 +1,1 @@
+showWord(["a. ","ki pran esponsabilite youn pou lòt.<br>"])

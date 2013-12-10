@@ -1,0 +1,1 @@
+showWord(["n. ","Pakèt ti tach tankou ti pwen nwa ki sou yon sifas. Jak plen takte nwa nan figi l.<br>"])

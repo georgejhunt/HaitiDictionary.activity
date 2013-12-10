@@ -1,0 +1,1 @@
+showWord(["n/a.","ki ale pi lwen pase zòn mitan.<br>"])

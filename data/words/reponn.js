@@ -1,0 +1,2 @@
+showWord(["v.","1. Bay repons sou sa yon moun di. Lè yon moun pale avèk ou, ou byen ekri ou, se pou ou reponn li. 2. Pale ak yon moun nan sans agresif. Si ou wè kijan Jòj pale avè m, li reponn mwen tenkantenk."
+])

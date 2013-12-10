@@ -1,0 +1,1 @@
+showWord(["n. "," Zwazo ki beke pyebwa pou fè nich li. Gen anpil sèpantye nan vil sa a.<br>"])

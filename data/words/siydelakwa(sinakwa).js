@@ -1,0 +1,2 @@
+showWord(["n. ","Siy, nan relijyon katolik yon moun fè lè li mete men l sou fwon l, sou lestomak li, sou zèpòl gòch li, epi sou zèpòl dwat li alafen. Pandan yon moun ap fè siydelakwa, li di onondipè, edifis, di sentespri, amèn."
+])

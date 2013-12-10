@@ -1,0 +1,1 @@
+showWord(["v. ","Envante. Reve sa ki pa reyalite tankou li ta klè devan je ou. Istwa Bouki ak Malis yo se istwa ki imajine.<br>"])

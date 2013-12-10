@@ -1,0 +1,1 @@
+showWord(["n. "," Boulòk osnon demakaj yon moun fè pou li fè yon lòt pè. Mwen pa pran nan kaponnay.<br>"])

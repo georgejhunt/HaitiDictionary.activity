@@ -1,0 +1,1 @@
+showWord(["v. ","di yon moun jan ou kontan paske moun nan fè yon bèl bagay. Selebre ak yon moun ki fè bèl bagay.<br>"])

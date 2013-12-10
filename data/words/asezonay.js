@@ -1,0 +1,1 @@
+showWord(["n.","epis nan manje. Melanj epis ki sevi pou kuit manje.<br>"])

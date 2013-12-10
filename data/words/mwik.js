@@ -1,0 +1,1 @@
+showWord(["a. "," ki mwazi. Sitiyasyon yon bagay ki imid epi ki gen yon odè dezagreyab. Kay sa a sal li gen yon odè mwik.<br>"])

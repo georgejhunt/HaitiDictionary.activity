@@ -1,0 +1,2 @@
+showWord(["n.","1. Difikilte. Mwen plen pwoblèm semen sa a, mwen pa konn sa pou mwen fè. 2. Kalkil aritmetik. Mwen pa konprann pwoblèm sa a menm, mwen pa konnen si se pou mwen fè yon adisyon osnon yon soustraksyon."
+])

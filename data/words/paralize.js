@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Ki pèdi kontwòl nè manm li yo, pye osnon men. Kawòl paralize, li sou chèzwoulant. 2. Kanpe rèd, san bouje, sezi. Kou Jera wè Jan, li sezi. li rete kanpe rèd, tankou li paralize."
+])

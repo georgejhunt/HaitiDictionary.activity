@@ -1,0 +1,2 @@
+showWord(["n. "," 1. (wotè) Grandèt, longè. Gade otè timoun yo.  2. Ekriven, moun ki ekri yon dokiman yon liv, yon istwa, yon powèm; moun ki fè kichòy. Kilès ki otè desen sa a? Gen kritik ki andezakò ak otè a."
+])

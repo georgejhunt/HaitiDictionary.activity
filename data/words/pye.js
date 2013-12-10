@@ -1,0 +1,2 @@
+showWord(["n.","1. Pati nan kò ki kole ak janm epi ki gen yon fòm ki pèmèt pote pwa kò epi pèmèt mache kouri, kanpe. Depi nan maten mwen kanpe sou pye mwen ap travay, li lè pou mwen pran yon repo. 2. Inite longè. Yon pye egal douz pous. Konbyen pye ou mezire?. 3. Plant. Pye zoranj, pye zaboka."
+])

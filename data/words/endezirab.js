@@ -1,0 +1,1 @@
+showWord(["a. ","/ n. moun ou pa ta renmen vini yon kote.<br>"])

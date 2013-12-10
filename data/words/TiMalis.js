@@ -1,0 +1,2 @@
+showWord(["np. "," 1. Non yon pèsonaj nan fòlklò Ayiti. Ti Malis toujou pi entelijan pase Bouki, dapre kont ak istwa nan peyi mwen. 2. Moun ki sèvi ak entelijans pou jwenn sa yo vle. Kalo se yon ti Malis.  3. Pat ti fig piti ki dous anpil. Mwen pito ti malis pase fig."
+])

@@ -1,0 +1,1 @@
+showWord(["v fr.","Fòmalize yon antant. Nou pase papye devan notè depi yè.<br>"])

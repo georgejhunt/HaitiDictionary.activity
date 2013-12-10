@@ -1,0 +1,1 @@
+showWord(["n. ","Veso kizin pou fè kafe. Pote kafetyè a vini.<br>"])

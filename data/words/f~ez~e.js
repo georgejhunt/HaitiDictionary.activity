@@ -1,0 +1,1 @@
+showWord(["a.","1. Aksyonè. Ou sanble yon fèzè. 2. Ki ka envante istwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Gwo bri tonnè ki vin apre yon zèklè. Loray la ap gwonde.<br>"])

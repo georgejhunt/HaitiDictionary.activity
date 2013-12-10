@@ -1,0 +1,1 @@
+showWord(["","koube. 2. Estil dans Vodou.<br>"])

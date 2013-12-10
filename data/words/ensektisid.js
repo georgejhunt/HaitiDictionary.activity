@@ -1,0 +1,1 @@
+showWord(["n. ","Pwodui chimik ki sèvi pou tiye osinon kontwole ensèk nwizib. Fòk yon moun pran prekosyon lè li ap sèvi ak ensektisid paske pwodui sa yo danjre.<br>"])

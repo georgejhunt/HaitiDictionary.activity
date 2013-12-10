@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pozisyon kote ou lonje kò ou pou ou relaks. Dat ou pa pran yon ti repo, manyè fè yon ti dòmi. 2. Tan kote ou vle pran lwazi osnon fè sa ou renmen. Jak al pran repo, li lwen yon chalè bò lanmè a. 3. Sispann travay, rete kal, kèpòpòz. Doktè di pou pran repo."
+])

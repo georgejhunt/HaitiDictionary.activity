@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Katye ki planifye pou tout kay yo sanble. Gen Premye Site ak Dezyèm Site sou wout Dèlma. 2. v. Nonmen. Pa site non moun an mal.<br>"])

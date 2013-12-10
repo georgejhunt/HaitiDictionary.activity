@@ -1,0 +1,1 @@
+showWord(["n.","Yon metal ki gen yon melanj fè (99%) ak kabòn (1%) yo travay li pou l <br>"])

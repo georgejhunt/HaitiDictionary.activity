@@ -1,0 +1,1 @@
+showWord(["n. ","Ti kay pou gad osnon gadyen sekirite. Ou dwe estope nan gerit la.<br>"])

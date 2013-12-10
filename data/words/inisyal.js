@@ -1,0 +1,1 @@
+showWord(["n. ","Premye let nan non ak siyati yon moun. Inisyal Jera Micho se J.M. 2. a. Nan kòmansman. Vèsyon inisyal la chanje.<br>"])

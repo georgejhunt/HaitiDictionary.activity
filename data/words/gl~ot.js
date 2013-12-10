@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Pati nan gòj. Se nan glòt la mwen gen doulè.2. Onomatope pou vale. Mwen vale remèd la glòt.<br>"])

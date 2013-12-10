@@ -1,0 +1,2 @@
+showWord(["n. ","1. Teren espesyal klotire pou fè espò. Mwen konnen ale nan estad Silvyo Katò Pòtoprens.  2. Faz, peryòd nan devlopman moun osinon nan devlopman yon maladi. Maladi a te gen tan nan yon estad avanse."
+])

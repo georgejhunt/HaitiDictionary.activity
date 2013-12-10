@@ -1,0 +1,1 @@
+showWord(["","1. n. Savon an poud. Fab koka se yon bon savon. 2. Istwa osinon pwezi ki gen yon moral dèyè l. Fab Lafontèn yo enteresan. 3. Manti. Sa ou ap di a se fab.<br>"])

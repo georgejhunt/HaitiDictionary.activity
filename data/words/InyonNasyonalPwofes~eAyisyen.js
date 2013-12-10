@@ -1,0 +1,2 @@
+showWord(["","Inyon ki te fòme nan ane 1946 pou pwofesè lekòl primè, segondè ak inivèsite. Inyon sa a te vle pou edikasyon nan peyi a te pou tout moun, pou pwogram yo te balanse ak tout kalite kou ladan yo, pou lekòl yo te gen kafeterya kote pou timoun yo jwenn manje gratis, pou doktè te konsilte tout timoun ki bezwen san depans pou paran, pou te gen ase pwofesè, plis lekòl epi pou lekòl mè ak lekòl pè yo te vin pou leta. Inyon sa a pat rive dire."
+])

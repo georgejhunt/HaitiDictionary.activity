@@ -1,0 +1,1 @@
+showWord(["","Lekòl siperyè ki anseye plizyè syans.<br>"])

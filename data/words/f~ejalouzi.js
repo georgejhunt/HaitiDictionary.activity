@@ -1,0 +1,1 @@
+showWord(["","Santiman dezagreyab yon moun santi lè li panse yon lòt moun gen yon relasyon damou ak moun li renmen an. Depi fi sa a marye ak Janjan l ap fè jalouzi pou li.<br>"])

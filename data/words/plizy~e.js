@@ -1,0 +1,1 @@
+showWord(["adv.","Anpil. Gen plizyè fason ou kapab peye mwen.<br>"])

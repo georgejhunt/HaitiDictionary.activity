@@ -1,0 +1,1 @@
+showWord(["n. ","Pennis. Ti gason ki gen pipit.<br>"])

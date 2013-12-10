@@ -1,0 +1,1 @@
+showWord(["","Sèvis nasyonal dlo potab. Enstitisyon gouvènman ki pwomèt dlo potab toupatou nan peyi a.<br>"])

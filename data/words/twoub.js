@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Ki pa klè. Dlo a twoub.  2. n. Toumant. Ap gen twoub aswè a.<br>"])

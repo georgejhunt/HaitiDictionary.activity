@@ -1,0 +1,2 @@
+showWord(["n. ","1. Manke fòs, manke kouray. Ou lage kò ou tankou yon moun ki gen feblès. 2. Anemi, maladi moun ki manke fòtifyan. Jan zye ou pal la, ou sanble ou gen feblès.  3. Defo. gen yon feblès nan beton an, li kwochi."
+])

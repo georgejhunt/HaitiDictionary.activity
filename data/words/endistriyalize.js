@@ -1,0 +1,1 @@
+showWord(["v. ","oganizasyon pou eksplwate yon resous ak gwo ekipman ak teknik modèn.<br>"])

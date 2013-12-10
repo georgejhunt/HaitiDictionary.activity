@@ -1,0 +1,1 @@
+showWord(["v. ","ti bri tou dous ti bebe osinon ti zwazo fè.<br>"])

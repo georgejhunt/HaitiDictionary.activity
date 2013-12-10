@@ -1,0 +1,2 @@
+showWord(["n. "," Transpòtasyon ki vole tankou avyon. Li gen yon gwo elis sou tèt li. Yo sèvi avè l souvan nan ijans paske li ka poze nenpòt ki kote san aywepò. Mwen pa janm renmen moute elikoptè paske li vole twò ba, li ban mwen tèt vire."
+])

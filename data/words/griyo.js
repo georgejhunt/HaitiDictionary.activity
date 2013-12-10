@@ -1,0 +1,1 @@
+showWord(["n. ","mo afriken ki soti nan Ginen ki sèvi pou reprezante yon powèt oral. 2. Sèk entelektyèl ki revandike yon nasyonalis nwa epi ki idantifye Vodou kòm sous kote espri ayisyen jwenn enspirasyon li. <br>"])

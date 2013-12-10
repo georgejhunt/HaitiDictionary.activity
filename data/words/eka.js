@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Enkatad, mankman, erè, fòt. Mwen pa renmen eka sa yo, yo pa akseptab devan lasosyete.   2. Espas (nan laj), distans Gen yon gwo eka ant mwenmenm ak tisè mwen yo.  3. 3, Ka, yon ka, yon pati nan kat . Li fè wout la nan senkè eka."
+])

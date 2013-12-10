@@ -1,0 +1,1 @@
+showWord(["n. ","Pwazon vyolan. <br>"])

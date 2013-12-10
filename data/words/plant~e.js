@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki aktivite agrikòl.<br>"])

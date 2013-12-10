@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Veso won ki gen yon fòm etwat epi ki fon. Silenn sa a ka pran dis mililit. 2. Pati nan yon machin, ki sèvi pou deplase piston yo dapre kantite presyon li mete. Motè sa a gen kat silenn."
+])

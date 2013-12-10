@@ -1,0 +1,1 @@
+showWord(["n. ","1. atik otorite nan yon jounal ekri ki reflete pozisyon jounal la. 2. ki konsène koze piblikasyon.<br>"])

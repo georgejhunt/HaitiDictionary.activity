@@ -1,0 +1,2 @@
+showWord(["np.","1750-1815. Dezyèm kòmandan Leklè. Kòmandan Lame Franse nan peyi Sendomeng. Dapre listwa, li te rayi nwa epi li te fè touye anpil ladan yo, li te fè nwaye yo osnon fè chyen sovaj manje yo. Nwa yo te pito touye tèt yo pase pou yo te kite msye atrap yo. Gen nwa ki te konbat li tenkantenk. Li te rive siyen yon akò ak Jeneral Desalin. Msye te vin pèdi devan lame Angle yo ki te vin pran zòn Mòlsennikola a pou yo. Msye dwe te fè touye menm 150 mil nwa."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","fib sentetik ki sèvi pou fè twal.<br>"])

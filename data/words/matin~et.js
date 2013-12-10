@@ -1,0 +1,1 @@
+showWord(["n. "," Fwèt yo sèvi pou kale timoun; li fèt ak kwi epi li gen de osnon twa branch ki kloure sou yon moso bwa won.<br>"])

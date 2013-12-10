@@ -1,0 +1,1 @@
+showWord(["n. ","Rezèvwa pou estoke likid. Nou gen de tank nan lakou a.<br>"])

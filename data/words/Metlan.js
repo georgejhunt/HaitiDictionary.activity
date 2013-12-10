@@ -1,0 +1,1 @@
+showWord(["","Dènye kòmandan peyi Angletè te voye. Se li ki te siyen yon antant sekrè ak Tousen an 1798 pou fini dominasyon angle a.<br>"])

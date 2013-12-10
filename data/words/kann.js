@@ -1,0 +1,2 @@
+showWord(["n. "," Plant ki gen tij long ki gen dlo ak sik ladan l. Yo sèvi ak kann pou fè sik, siwo, rapadou, kleren, wonm, ak anpil lòt bagay ankò. Gen kann anana epi gen kann blan. Kann se youn nan pwodui agrikòl ki te fè richès lakoloni. Se yon plant ki make lavi Ayisyen ni Ayiti, ni Kiba, ni Repiblik Dominikèn, ni Etazini. Se yon plant ki mande anpil travay di pou plante l, koupe l, pote l nan moulen eltr. Anpil Ayisyen al travay nan lòt peyi pou koupe kann."
+])

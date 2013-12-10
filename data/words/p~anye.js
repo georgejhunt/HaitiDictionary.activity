@@ -1,0 +1,1 @@
+showWord(["n.","Veso tankou yon sak osnon yon gwo valiz ki konn fèt ak latànye oubyen ak pit. Nou mete manje piknik la nan yon gwo pànye.<br>"])

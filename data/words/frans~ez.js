@@ -1,0 +1,1 @@
+showWord(["n. ","Fi ki gen nasyonalite peyi Lafrans. <br>"])

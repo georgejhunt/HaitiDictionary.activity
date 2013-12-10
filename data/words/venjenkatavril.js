@@ -1,0 +1,1 @@
+showWord(["n fr. ","Fraz pou dekri ekspresyon figi timoun ki pral kriye.<br>"])

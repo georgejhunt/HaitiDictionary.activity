@@ -1,0 +1,1 @@
+showWord(["n. ","Jwèt timoun ki pèmèt yo sifle. Timoun yo bay tout moun maltèt tèlman yo sifle siflèt la.<br>"])

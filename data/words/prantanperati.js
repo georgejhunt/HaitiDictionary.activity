@@ -1,0 +1,1 @@
+showWord(["v fr.","Mezire tanperati. Pran tanperati Kòkòt pou ou wè si li gen lafyèv.<br>"])

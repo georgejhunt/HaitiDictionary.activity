@@ -1,0 +1,1 @@
+showWord(["n. ","Ekspedisyon kretyen nan tan lontan (mwayenaj) te konn fè pou al libere legliz nan men Mizilman.<br>"])

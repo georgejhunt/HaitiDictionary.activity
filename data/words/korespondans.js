@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Relasyon estab, pa ekri, pa faks osnon pa telefòn ki egziste ant de moun ki lwen youn ak lòt osnon ant plizyè moun. Jak gen korespondans ak yon fi ki rete nan peyi Lasuis. 2. An korespondans, relasyon yon timoun pwovens ki desann kay yon moun Pòtoprens pou li kontinye fè etid li. Joslin an korespondans kay madan Benwa."
+])

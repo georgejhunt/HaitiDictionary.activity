@@ -1,0 +1,2 @@
+showWord(["v fr.","1. Erite, benefisye yon bagay yon moun genyen. Pitit sa a pran dan doukla a kote papa l.  2. Imite, fè tankou. Abitid al jwe foutbòl chak apremidi a Jewòm pran l bò kote kouzen li a."
+])

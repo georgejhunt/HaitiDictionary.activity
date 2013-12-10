@@ -1,0 +1,1 @@
+showWord(["","defòmite fizik.<br>"])

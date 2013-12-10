@@ -1,0 +1,1 @@
+showWord(["n. ","Plant ki pouse kote ki pa gen dlo. Gen kaktis ki fè flè.<br>"])

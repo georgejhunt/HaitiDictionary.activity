@@ -1,0 +1,1 @@
+showWord(["a.","Moun osnon bagay ki devan nèt. Se Wobè ki premye moun ki ban mwen nouvèl la.<br>"])

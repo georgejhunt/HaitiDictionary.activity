@@ -1,0 +1,1 @@
+showWord(["n.","Se de mo youn se lekontrè lòt la. Cho ak frèt se de antonim.Se de mo youn se lekontrè lòt la. Cho ak frèt se de antonim.Se de mo youn se lekontrè lòt la. Cho ak frèt se de antonim.Se de mo youn se lekontrè lòt la. Cho ak frèt se de antonim.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v.","ki oblije rete nan kabann.<br>"])

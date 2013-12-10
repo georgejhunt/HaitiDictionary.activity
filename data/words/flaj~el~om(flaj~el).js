@@ -1,0 +1,1 @@
+showWord(["n. ","Yon fil long ki pouse nan kò plizyè mikwòb (bakteri ak pwotozowè) ak nan kò selil espesyalize (tankou espèmatozoyid) ki sèvi pou deplasman nan likid.<br>"])

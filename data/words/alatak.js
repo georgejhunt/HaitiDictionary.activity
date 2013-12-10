@@ -1,0 +1,1 @@
+showWord(["adv.","avanse; atake. Pase alatak.avanse; atake. Pase alatak.avanse; atake. Pase alatak.<br>"])

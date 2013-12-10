@@ -1,0 +1,2 @@
+showWord(["n. "," aktivite nan ekonomi yon peyi ki okipe manifakti ak lòt mouvman komès ki rapòte lajan. Gen endistri asanblaj kote moun yo enpòte pyès pou yo asanble an Ayiti. Gen plis pase 250 antrepriz asanblaj nan peyi Ayiti, paske peyi endistriyalize yo vin pwofite travay fòs anplwaye ayisyen paske salè minimòm nan pa gwo. Gen endistri agrikòl, gen endistri manje (alimantè), gen endistri touris."
+])

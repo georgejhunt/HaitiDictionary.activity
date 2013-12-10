@@ -1,0 +1,1 @@
+showWord(["","1. n. Seri jès ak pawòl ki sipoze gen pouvwa sinatirèl ki pèmèt yon moun fè sa lòt pa ka fè. Jenni di li konn fè senp. 2. a. Ki pa konplike. Istwa sa a senp.<br>"])

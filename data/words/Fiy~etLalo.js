@@ -1,0 +1,2 @@
+showWord(["n fr. "," Pèsonaj fòlklò Ayiti.  Gen yon chante ki di fiyèt lalo konn manje timoun. 2. Yon fi ki manm nan ansyen kò paramilitè makout sou prezidan Divalye. Lilyan gen zam, se yon fiyèt lalo li ye. "
+])

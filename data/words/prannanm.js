@@ -1,0 +1,2 @@
+showWord(["v fr.","1. Kapte moun nan pou ou fè li fè sa ou vle. Pa kite timoun nan katye yo pran nanm ou epi pou ou pa etidye leson ou.  2. Chame moun ak pouvwa sinatirèl. Jan Jera dejwe la a, li sanble yon moun yo pran nanm li."
+])

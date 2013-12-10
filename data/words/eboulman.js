@@ -1,0 +1,1 @@
+showWord(["n. ","kantite tè ak wòch ki efondre.<br>"])

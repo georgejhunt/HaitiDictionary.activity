@@ -1,0 +1,1 @@
+showWord(["a. "," Ki gen avwa ak peryòd depi nan vant manman. ki la depi jou moun nan fèt; ki ereditè. Maladi konjenital.<br>"])

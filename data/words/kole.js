@@ -1,0 +1,2 @@
+showWord(["v. ","1. Tache ansanm. De paj liv la kole.  2. Mete lakòl pou tache. 3. Pa vle lage, kolan. Misye kole sou nou toutan.  4. Toupre. Li rete kole ak legliz la. 5. Pati nan rad, bò kou, kòl. Ranje kole rad la. 6. Ki difisil pou kase. Tito a kole."
+])

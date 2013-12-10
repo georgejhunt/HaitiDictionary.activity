@@ -1,0 +1,1 @@
+showWord(["","douz ane.<br>"])

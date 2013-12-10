@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki etidye meteyoloji. Jera se yon meteyolojis.<br>"])

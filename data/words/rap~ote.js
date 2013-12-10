@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Al pote rapò. Se madan Dyo ki te rapòte tout sa ki te pase.  2. Ki bay rannman, ki pwodui. Ane sa a danre a pa rapòte.  3. Rann kont, eksplike egzakteman. Se radyo nasyonal ki rapòte evenman an. 4. n. Pati yo ajoute nan yon kay pou fè plis espas. Depi yo konstwi rapòte sa a, kay la parèt pi gran."
+])

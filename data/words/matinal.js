@@ -1,0 +1,1 @@
+showWord(["a. ","Ki fèt nan maten byen bonè. Jan renmen fè ti mach matinal li. 2. Ki leve bonè. Jan se yon nonm ki matinal.<br>"])

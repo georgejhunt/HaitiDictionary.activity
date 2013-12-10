@@ -1,0 +1,1 @@
+showWord(["n. ","Kado premye janvye. Pou joudlan mwen ap ba ou zetrenn.<br>"])

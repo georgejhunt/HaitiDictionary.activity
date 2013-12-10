@@ -1,0 +1,2 @@
+showWord(["np. ","Politisyen, aktivis, avoka pou dwa moun. Li te prezidan Afrik-disid. Lidè mouvman anti separasyon nwa ak blan. Pou opinyon politik li, li te pran prizon pandan 27 tan. Ak kouraj li ak pèseverans li, epitou presyon entènasyonal fè yo vin lage li an 1991. Li vin kandida pou prezidans peyi li, Afrik-disid. Li pase kòm prezidan, li fè manda li, apresa li pran retrèt li. Li vin konseye entènasyonal pou lòt gouvènman. "
+])

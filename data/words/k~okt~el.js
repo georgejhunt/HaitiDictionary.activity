@@ -1,0 +1,1 @@
+showWord(["n. "," Bwason alkòl ki gen plizyè lòt engredyan. Li pa bwè kòktèl pa li a.<br>"])

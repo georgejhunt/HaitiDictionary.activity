@@ -1,0 +1,1 @@
+showWord(["adv. "," Nan aswè. Li senkè diswa kounye a.<br>"])

@@ -1,0 +1,1 @@
+showWord([". n","ti lapli ki pa fò. Ann ale anvan farinay lapli a pran nou nan lari.<br>"])

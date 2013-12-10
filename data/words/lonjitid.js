@@ -1,0 +1,1 @@
+showWord(["n. ","Distans ant yon pwen ak yon meridyen. Sou ki lonjitid Ayiti ye parapò a meridyen Grennwich la?<br>"])

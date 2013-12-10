@@ -1,0 +1,1 @@
+showWord(["n. ","Pant pou monte. Gen yon gwo ranp pou monte kay Lora a.<br>"])

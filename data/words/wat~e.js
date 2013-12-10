@@ -1,0 +1,1 @@
+showWord(["","twalèt kote moun al poupou.<br>"])

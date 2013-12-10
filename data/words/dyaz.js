@@ -1,0 +1,1 @@
+showWord(["n. "," Okès ki jwe mizik popilè. Nan dyaz ayisyen yo se Triyo Selèk ki jwe mizik ou pi renmen 2. Estil mizik nwa ameriken devlope..<br>"])

@@ -1,0 +1,1 @@
+showWord(["np.","Yon peyi nan kontinan Afrik. Kapital Etyopi se Adisabeba.<br>"])

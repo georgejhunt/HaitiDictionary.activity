@@ -1,0 +1,1 @@
+showWord(["n. ","pati an metal ki sou deyò yon oto.<br>"])

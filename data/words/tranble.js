@@ -1,0 +1,1 @@
+showWord(["v. "," Sekwe kò ou san kontwòl paske ou ennève. Sispann tranble la a.<br>"])

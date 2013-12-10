@@ -1,0 +1,1 @@
+showWord(["n. ","1. Yon woulo plastik ki sansib nan limyè ki sèvi pou pran foto. Mwen pito achte fim 36 pòz pase sa 24 pòz la. 2. Seri foto youn dèyè lòt ki fè sinema. Mwen pral wè yon fim sou lavi Prezidan Estime nan Sine Inyon?<br>"])

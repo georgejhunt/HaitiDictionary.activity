@@ -1,0 +1,2 @@
+showWord(["n. ","1. Bèt nan tè ki gen fòm vè. Tout kalite bèt parazit. 2 Moun ki renmen gate koze, anvlimen sitiyasyon, anplifye kont. Wozlin se yon vèmin. 3. Mit, ti bèt ki nan farin. Farin sa a plen vèmin ladan l. "
+])

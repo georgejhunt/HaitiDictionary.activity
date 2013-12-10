@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Jan yon bagay fonksyone. Li pa konn mekanik radyo sa a ditou. 2. Branch mekanisyen etidye. Ivon ap diplome nan mekanik. 3. Travay manyèl ki mande pou yon moun eksplore fonksyonman yon ekipman. Pòl toujou ap fè mekanik nan tout sa li jwenn.<br>"])

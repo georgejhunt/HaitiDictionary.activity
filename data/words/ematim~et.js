@@ -1,0 +1,1 @@
+showWord(["n. ","zouti pou mezire kantite selil nan san.<br>"])

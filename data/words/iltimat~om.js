@@ -1,0 +1,1 @@
+showWord(["n. ","ekzijans ki pa pèmèt diskisyon.<br>"])

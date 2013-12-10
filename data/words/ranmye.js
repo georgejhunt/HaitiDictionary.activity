@@ -1,0 +1,1 @@
+showWord(["n.","Yon plant Ayiti ki gen fib solid anpil. Mwen gen yon pye ranmye nan lakou lakay mwen an.<br>"])

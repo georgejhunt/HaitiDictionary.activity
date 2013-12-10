@@ -1,0 +1,2 @@
+showWord(["n. ","Pwodui natirèl, kolan, ki sòti nan ekòs bwa. Rezin natirèl yo solib (ka deleye) nan etè ak nan alkòl. Yo sèvi ak rezin nan vèni, nan penti, nan plastik eltr. Gen rezin sentetik ki fèt nan manifakti."
+])

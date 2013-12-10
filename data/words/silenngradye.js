@@ -1,0 +1,1 @@
+showWord(["n fr. ","Veso pou mezire volim likid. Yo sèvi ak silenn gradye nan laboratwa.<br>"])

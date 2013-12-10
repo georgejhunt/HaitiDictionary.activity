@@ -1,0 +1,1 @@
+showWord(["","nan tan (tèl moun).<br>"])

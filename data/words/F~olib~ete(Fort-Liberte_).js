@@ -1,0 +1,1 @@
+showWord(["np.","awondisman ak komin nan depatman Nòdès. Vil ki pre ak fontyè Dominikani an. Jolibwa se moun Fòlibète<br>"])

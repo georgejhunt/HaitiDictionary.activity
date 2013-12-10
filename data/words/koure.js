@@ -1,0 +1,1 @@
+showWord(["n. "," Mal kochon ki sèvi pou repwodiksyon. Koure kochon.<br>"])

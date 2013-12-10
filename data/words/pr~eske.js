@@ -1,0 +1,2 @@
+showWord(["adv.","1. Ki tou pre. Kay ou prèske babpoubab ak lakay mwen. 2. Laplipa. Prèske tout moun di l sispann, men li pat vle tande konsèy. 3. Manke tika l pou yo egal. Jan prèske menm wotè ak papa l."
+])

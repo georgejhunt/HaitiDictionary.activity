@@ -1,0 +1,1 @@
+showWord(["n. ","Gwoupman plizyè asosiyasyon osinon gwoupman plizyè peyi.<br>"])

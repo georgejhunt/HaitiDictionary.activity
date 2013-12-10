@@ -1,0 +1,2 @@
+showWord(["n.","1. bagay ki fèt ak retay twal. Mwen fè yon pakoti met sou mwen, mwen pa gen kòb pou mwen al achte bèl rad. 2. rad bon mache, san gou. Mwen pap janm met pakoti sou pitit mwen, mwen pito travay di pou mwen achte bon rad pou yo."
+])

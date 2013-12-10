@@ -1,0 +1,1 @@
+showWord(["","Gwoup literè ki diskite koze literati ayiti<br>"])

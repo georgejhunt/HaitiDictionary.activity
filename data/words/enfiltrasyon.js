@@ -1,0 +1,1 @@
+showWord(["","penetrasyon an kachèt.<br>"])

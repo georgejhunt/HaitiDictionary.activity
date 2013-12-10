@@ -1,0 +1,1 @@
+showWord(["n. ","Ti moso glas fen-fen ki tonbe ak lapli.<br>"])

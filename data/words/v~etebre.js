@@ -1,0 +1,2 @@
+showWord(["n. "," Tout bèt ki gen zo vètèb. Bèt ki gen kolòn vètebral (zo rèl do) tankou pwason, reptil (mabouya), mamifè (bèf), zwazo(poul), batrasyen (krapo). Vètebre yo gen yon sèvo ki nan kalbas tèt la epi ki kontinye desann andan kolòn vètebral (zo rèl do).Lòm se vètebre. "
+])

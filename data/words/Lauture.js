@@ -1,0 +1,2 @@
+showWord(["np. ","Komèsan, politisyèn. Pwopriyetè famasi, laboratwa medikal ak lòt aktivite komèsyal nan Pòtoprens. Li patisipe ak anpil enterè pou Ayiti soti nan kriz apre Divalye ale. Li se/te konseye Prezidan Aristid."
+])

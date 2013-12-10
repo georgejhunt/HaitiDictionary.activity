@@ -1,0 +1,1 @@
+showWord(["n. "," pyèj pou kenbe zwazo. Jan mete karabann pou zòtolan yo.<br>"])

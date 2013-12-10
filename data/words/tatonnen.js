@@ -1,0 +1,1 @@
+showWord(["v.","Aji ak ezitasyon. Msye tatonnen anpil anvan li resi deside marye ak Lovana. <br>"])

@@ -1,0 +1,2 @@
+showWord(["","1. n. mouvman entelektyèl ki ankouraje atis ak ekriven al fouye an fon kè yo pou yo sèvi ak rèv, otomatis ak enkonsyan nan travay yo epitou pou atis yo libere lespri yo depase lide tout moun ap repete. 2. a. ki sanble ak sireyalis, dwòl, etranj."
+])

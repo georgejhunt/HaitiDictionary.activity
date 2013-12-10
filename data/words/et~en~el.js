@@ -1,0 +1,1 @@
+showWord(["a. ","ki dire tout tan; pèpetyèl. Ki pa gen kòmansman ni fen. 2. n. Non yo bay Bondye.<br>"])

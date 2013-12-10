@@ -1,0 +1,1 @@
+showWord(["","dire tan apre uitè pase.<br>"])

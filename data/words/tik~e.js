@@ -1,0 +1,2 @@
+showWord(["n.","1. Kat pou moun al nan yon fèt. Mwen pat gen tan achte tikè pou bal la, se sa ki fè mwen pa ale monchè. 2. Kat konpayi avyon an bay moun ki achte yon plas pou li kapab pati. Si ou poko gen tikè, ou ka pa jwenn plas monchè, yo di mwen avyon an plen kouleba."
+])

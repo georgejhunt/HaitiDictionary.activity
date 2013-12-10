@@ -1,0 +1,1 @@
+showWord(["np. "," Jeneral ki te ede Divalye pase nan eleksyon 1957 Ayiti a.<br>"])

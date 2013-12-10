@@ -1,0 +1,1 @@
+showWord(["v. ","anpeche yon moun rive jwenn satisfaksyon li ap chèche. Ki fè efò pou konbat yon dezi natirèl.<br>"])

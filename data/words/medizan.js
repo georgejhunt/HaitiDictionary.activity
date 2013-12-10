@@ -1,0 +1,1 @@
+showWord(["n. ","Ki pale moun mal. Jera se yon medizan.<br>"])

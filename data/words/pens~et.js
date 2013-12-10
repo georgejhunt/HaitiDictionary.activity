@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti pou ranmase osnon kenbe yon bagay ou pa vle manyen. Pran dife a ak pensèt la.<br>"])

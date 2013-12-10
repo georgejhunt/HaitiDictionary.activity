@@ -1,0 +1,1 @@
+showWord(["","tan travay ki anplis lè travay regilye.<br>"])

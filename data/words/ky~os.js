@@ -1,0 +1,1 @@
+showWord(["n. ","espas kote yo ekspoze epi vann machandiz tankou flè osinon liv.<br>"])

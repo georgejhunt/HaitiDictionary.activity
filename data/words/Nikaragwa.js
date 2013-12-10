@@ -1,0 +1,1 @@
+showWord(["n p.","Peyi nan Amerik Santral ki pre ak Gwatemala epi Kostarika. Nikaragwa gen bèl plaj.<br>"])

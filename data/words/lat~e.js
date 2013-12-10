@@ -1,0 +1,2 @@
+showWord(["n. ","1. Glòb tèrès, planèt nou ap vin ladan l lan. Latè a won kou yon boul. 2. Monn sa-a ki diferan de paradi ak lanfè. 3. Espas ki diferan de lanmè ak anlè. 4. Ki gen relasyon ak tè. Travay latè. "
+])

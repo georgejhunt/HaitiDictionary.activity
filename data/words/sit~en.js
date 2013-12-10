@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Gwo veso ki fèt pou estoke dlo pou yon vil osnon yon kay. Gen anpil moun ki bati sitèn pa yo nan peyi Ayiti. 2. Kamyon sitèn. Kamyon ki gen gwo tank yo ka plen dlo pou yo al distribye kay moun.<br>"])

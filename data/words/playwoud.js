@@ -1,0 +1,1 @@
+showWord(["","materyon ki fèt ak placn ki kole youn sou lòt.<br>"])

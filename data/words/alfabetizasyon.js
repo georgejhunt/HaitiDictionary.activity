@@ -1,0 +1,1 @@
+showWord(["n.","etap ak pwogram pou moun aprann li ak ekri.<br>"])

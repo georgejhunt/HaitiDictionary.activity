@@ -1,0 +1,1 @@
+showWord(["v. ","enspire yon moun pou li vin pi bon.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v.","bay garanti pou yon moun prete yon lajan osinon pou yon moun ka jwenn dokiman pou vwayaje.<br>"])

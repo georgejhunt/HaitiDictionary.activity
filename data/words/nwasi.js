@@ -1,0 +1,1 @@
+showWord(["v. ","Mete koulè nwa sou yon bagay ki pat nwa anvan. Nwasi cheve.<br>"])

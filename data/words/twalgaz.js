@@ -1,0 +1,1 @@
+showWord(["n fr. "," Twal fen ki sèvi pou fè pansman. Mete twal gaz sou blesi a.<br>"])

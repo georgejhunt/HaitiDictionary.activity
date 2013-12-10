@@ -1,0 +1,1 @@
+showWord(["n fr","dekri koulè zye moun ki gen zye ble osinon zye vèt. Fi a gen zye vèt.<br>"])

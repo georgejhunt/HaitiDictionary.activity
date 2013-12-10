@@ -1,0 +1,1 @@
+showWord(["","moun ki ap fè elvaj.<br>"])

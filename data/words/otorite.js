@@ -1,0 +1,2 @@
+showWord(["n. ","1. Moun ki gen pouvwa. Direktè a se yon gwo otorite isi a.  2. Chèf, moun ki pote zam. Kaporal la panse li se gwo otorite.  3. Moun ki gen dwa. Manman ak papa timoun yo gen otorite pou yo pini timoun yo. 4. Moun ki konnen, epi moun rekonnèt savwa li. Fizisyen sa a se yon gwo otorite nan inivèsite sa a."
+])

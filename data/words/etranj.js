@@ -1,0 +1,2 @@
+showWord(["a. ","ki nan yon kote ki pa familye. Ki nouvo. Yon bagay yon moun pat ko konnen. ki pa komen, ki pa natirèl. 2. Konpòtman ki pa natirèl. 3. Santiman moun santi lè li pa gen eksperyans nan sa li ap fè. Ki manke eksperyans."
+])

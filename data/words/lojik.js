@@ -1,0 +1,1 @@
+showWord(["a. ","ki ale ak bon sans. Ki konfòm ak bon sans. Ki rezone byen.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","Mouvman katolik ki baze sou zèv ak don Sentespri. 2. Ki gen talan pou kominike lide.<br>"])

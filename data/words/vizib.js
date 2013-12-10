@@ -1,0 +1,1 @@
+showWord(["a. "," Ou kapab wè. Limyè a vizib.<br>"])

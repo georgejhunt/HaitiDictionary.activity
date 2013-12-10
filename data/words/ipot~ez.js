@@ -1,0 +1,2 @@
+showWord(["","1. Pwopozisyon tout moun dakò men ki poko demontre, Konvansyon, sipozisyon. Ipotèz pa mwen se mari a ki tiye fi a. 2. Pati moun admèt kòm verite nan yon pwoblèm. Sa se yon ipotèz valab. 3. Eksplikasyon pou yon aktivite lanati ki poko verifye. Dapre ipotèz syantis yo, fòk se yon mitasyon yon viris ki lakòz maladi sa a. "
+])

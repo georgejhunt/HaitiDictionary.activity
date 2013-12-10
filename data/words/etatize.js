@@ -1,0 +1,1 @@
+showWord(["v. ","Transfòme yon antrepriz pou leta vin kontwole l epi dirije l. Kontrè etatize se privatize.<br>"])

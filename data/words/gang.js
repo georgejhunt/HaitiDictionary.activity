@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki asosye ansanm pou yon pwojè. 2. Gwoup kriminèl ki ògànize pou fè krim.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Kondui nan twati kay pou rasanble dlo lapli. Nou ranmase dlo lapli ki sot nan goutyè a 2. Twou nan tòl kay. Gen yon pakèt goutyè nan tòl la.<br>"])

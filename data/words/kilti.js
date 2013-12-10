@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Edikasyon, fòmasyon. Jan se yon nonm ki gen kilti. 2. Ansanm abitid, tradisyon, prensip ak valè nan yon sosyete. Kilti ayisyen. 3. Plantasyon, danre, aktivite agrikòl. Kilti bò isi a rapòte anpil."
+])

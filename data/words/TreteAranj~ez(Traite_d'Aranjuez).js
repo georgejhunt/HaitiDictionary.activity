@@ -1,0 +1,1 @@
+showWord(["","Trete osnon kontra ki tabli limit pati panyòl ak pati franse zile Ispayola a. Li te fèt an 1777.<br>"])

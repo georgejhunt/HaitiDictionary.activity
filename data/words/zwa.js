@@ -1,0 +1,1 @@
+showWord(["n.","Zwazo ki yon jan lou pou l vole men ki renmen naje. Li pòtre ak yon kanna men li pi gwo. Gen moun ki di yo pito poul pase zwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Koze ki gen yon mesaj ladan l men ki pa klè pou tout moun konprann fasilman. Jak renmen pale an parabòl.  2. Pawòl labib ki gen yon mesaj. Jezikri te konn pale an parabòl ak disip li yo.<br>"])

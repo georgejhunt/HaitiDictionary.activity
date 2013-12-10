@@ -1,0 +1,1 @@
+showWord(["n. ","1. tout bagay ki gen menm konsistans ak jelo. 2. Plastik ki ka pliye.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Seri demach ki pèmèt yon moun jwenn fason pou li analize epi pran desizyon pou rezoud yon pwoblèm. Solisyon pwoblèm sa a mande pou nou konsidere konbyen tan nou gen devan nou.  2. Nan chimi, melanj plizyè molekil. Ki konsantrasyon solisyon sa a."
+])

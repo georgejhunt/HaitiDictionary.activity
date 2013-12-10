@@ -1,0 +1,1 @@
+showWord(["np. "," 1. Ansyen minis edikasyon nasyonal Ayiti an 1843. Li te ankouraje fè bati lekòl andeyò yo ak sipò gouvènman an mete ak patisipasyon moun ki ret nan chak vil yo. 2. Non yon lekòl anfas lise pou jèn fi nan ri kapwa.<br>"])

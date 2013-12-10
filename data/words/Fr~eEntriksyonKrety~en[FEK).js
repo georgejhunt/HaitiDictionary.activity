@@ -1,0 +1,2 @@
+showWord(["","Kominote katolik ki patisipe nan edikasyon primè ak segondè. Yo etabli Ayiti an 1865. Yo gen anpil vwa nan edikasyon nan peyi Ayiti. Gen moun ki di si yo te vle, gen anpil pwoblèm edikasyon ki ta rezoud, paske yo gen prezans toupatou nan peyi a. Yo gen lekòl lavil ak lekòl riral (pawasyal). Nan Pòtoprens, lekòl Jan-Mari Giyou (Jean-Marie Guilloux) ak lekòl Senlui d Gonzag (Saint de Gonzague) se lekòl Frè Enstriksyon Kretyèn."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Kote ki gen anpil gwo pye bwa. Gen anpil pye bwa ra nan forèdèpen.<br>"])

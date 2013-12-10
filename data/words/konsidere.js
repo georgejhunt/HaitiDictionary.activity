@@ -1,0 +1,2 @@
+showWord(["v.","1. Reflechi sou yon bagay pou kapab deside. Mwen konsidere achte kay sa a men mwen poko si. 2. Gen santiman pou yon moun osnon yon bagay. Ou se yon moun mwen konsidere anpil, mwen pa ta janm renmen wè malè rive w."
+])

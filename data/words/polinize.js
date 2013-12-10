@@ -1,0 +1,1 @@
+showWord(["v. ","favorize polèn yon plant antre nan yon lòt plant pou repwodiksyon.<br>"])

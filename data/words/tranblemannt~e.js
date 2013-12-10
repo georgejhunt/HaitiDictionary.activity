@@ -1,0 +1,1 @@
+showWord(["n. "," Katastwòf natirèl kote tè a tranble sanzatann akoz mouvman ki fèt nan ekòs tè a. ; sa ka lakòz anpil moun mouri. Gen kote ki gen tranbleman tè pi souvan pase lòt.<br>"])

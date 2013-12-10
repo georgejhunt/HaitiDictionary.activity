@@ -1,0 +1,1 @@
+showWord(["n. ","Tout kontribisyon yon moun fè nan yon domèn atistik.<br>"])

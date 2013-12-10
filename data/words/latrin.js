@@ -1,0 +1,1 @@
+showWord(["n. ","Kote pou moun al poupou. Latrin lan nan lakou a.<br>"])

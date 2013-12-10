@@ -1,0 +1,2 @@
+showWord(["n.","Pati ki nan nwayo yon selil ki gen DNA epi ki transfere eredite, ki fè pitit sanble ak paran. Chak espès gen yon kantite kwomozom ki menm pou tout bèt nan espès sa a. Moun gen 23 pè kwomozom osinon 46 kwomozom."
+])

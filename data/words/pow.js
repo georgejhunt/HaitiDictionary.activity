@@ -1,0 +1,1 @@
+showWord(["ent. "," Son ki endike bwi sa ki eklate. Kawotchou machin nan eklate pow!<br>"])

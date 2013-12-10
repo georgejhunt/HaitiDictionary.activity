@@ -1,0 +1,2 @@
+showWord(["v "," 1. Dekonpoze. Manje sa a gate, ou mèt jete l. 2. Ki jwenn twòp atansyon.  Yo gate timoun nan, se pou sa toutan li vle pou yo kenbe l. 3. Deranje. Bal la gate, mesye yo leve koken. 4. a. Ki renmen kriye. Timoun nan renmen kriye, li gate."
+])

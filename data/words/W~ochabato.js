@@ -1,0 +1,1 @@
+showWord(["np. ","Non yon vil ki nan sid Ayiti.<br>"])

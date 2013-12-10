@@ -1,0 +1,1 @@
+showWord(["n fr. "," Lanm lanmè monte. Talè se pral lè lamare monte.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. fonksyon yon pè dwe fè. 2. Tout minis ansanm ki fòme yon gouvènman. 3. Biwo kote yon minis ak tout estaf travay. Biwo kote tout minis ak estaf yo travay.<br>"])

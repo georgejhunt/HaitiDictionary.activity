@@ -1,0 +1,2 @@
+showWord(["v.","1. Fè dappiyanp, pran ak tout fòs ou. Mwen gentan sezi pitit la anvan l tonbe nan pisin nan. 2. Fè emosyon. Se pa de sezi mwen sezi non lè mwen pran nouvèl lanmò Antwàn nan. 3. Poze sele. Tribinal te vin sezi tout byen vwazen yo paske yo pat peye taks yo."
+])

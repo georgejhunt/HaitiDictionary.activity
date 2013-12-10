@@ -1,0 +1,1 @@
+showWord(["n. ","Separasyon pou bare yon kote osinon yon bagay. Pa janbe lantouraj la.<br>"])

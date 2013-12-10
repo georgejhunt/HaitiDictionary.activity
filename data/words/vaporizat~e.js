@@ -1,0 +1,1 @@
+showWord(["","tib pou vaporize yon likid.<br>"])

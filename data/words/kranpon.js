@@ -1,0 +1,1 @@
+showWord(["n. "," Pyès metal ki fèt pou tache osnon agrafe de bagay ansanm. Pote kranpon an vini. 2. Zepon kavalye.<br>"])

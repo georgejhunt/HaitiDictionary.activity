@@ -1,0 +1,1 @@
+showWord(["n. ","Fèt ki gen anpil amizman ak manje. Kalin se sèl chèf kanbiz.<br>"])

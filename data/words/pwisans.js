@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fòs. Machin sa a gen anpil pwisans. 2. Kapasite pou gen monopòl, pou kontwole resous. Moun sa yo gen pwisans, pa konprann yo se piti.  3. Peyi ki devan nèt nan devlopman. Etazini se yon pwisans.  4. Nan matematik, ekspozan. Ou ka ekri 3 pwisans 4. "
+])

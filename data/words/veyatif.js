@@ -1,0 +1,1 @@
+showWord(["a. ","Atantif. Se pou ou veyatif.<br>"])

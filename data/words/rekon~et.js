@@ -1,0 +1,2 @@
+showWord(["v.","1. Moun osnon bagay ou konnen, ou kapab idantifye. Moun mwen rekonèt la a se fi an ble a ak madanm an nwa a. 2. Aksepte, dakò. Mwen rekonèt ou gen plis fòs pase mwen. 3. Ki pran non papa l. Jan se pitit deyò Jak men msye rekonèt li."
+])

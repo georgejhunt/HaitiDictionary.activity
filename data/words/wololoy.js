@@ -1,0 +1,1 @@
+showWord(["adj. ","ki bèl san mezire. Te gen yon resepsyon wololoy nan maryaj Wowo Bontan.<br>"])

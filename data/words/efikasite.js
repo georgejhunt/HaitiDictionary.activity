@@ -1,0 +1,2 @@
+showWord(["n. "," Rannman, kapasite pou jwenn rezilta san gaspiye resous. Mwen konsidere efikasite machin nan anvan mwen achte l. 2. Kapasite pou bay rezilta ki te planifye davans. 3. Rezilta ant sa ou jwenn divize pa sa ou te mete."
+])

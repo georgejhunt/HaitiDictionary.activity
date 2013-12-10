@@ -1,0 +1,2 @@
+showWord(["n. ","Fwi twopikal, tou won, koulè vèt ki vini an grap tankou rezen; chak grenn gen yon boul andedan yo; se pou ou souse grenn nan men se pa pou ou ni kraze l, ni vale l. Kenèp sa a yo si. Pye kenèp sa a pa bay fwi ane sa a. 2. Pye bwa ki bay kenèp."
+])

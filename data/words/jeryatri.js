@@ -1,0 +1,1 @@
+showWord(["n. ","branch medikal ki espesyalize nan trete granmoun ki avanse nan laj.<br>"])

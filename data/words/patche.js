@@ -1,0 +1,1 @@
+showWord(["v. ","Reparasyon tanporè. Bouche yon twou (tanporè) nan yon veso. Tib koutchou a kreve eske ou ka patche l pou mwen.<br>"])

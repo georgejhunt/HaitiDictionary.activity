@@ -1,0 +1,2 @@
+showWord(["n. "," 1.Rezilta pwogram yon politik devlopman endistriyèl. Depi endistriyalizasyon anvayi peyi Etazini, pwodiksyon anmas vin pi fasil epi pri machandiz vin bese.  2. Aplikasyon pwosede ak teknik pou devlope endistri nan yon peyi. Pwogram endistriyalizasyon."
+])

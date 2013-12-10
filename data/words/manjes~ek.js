@@ -1,0 +1,1 @@
+showWord(["","Manje ki pa gen vyann ladan l.<br>"])

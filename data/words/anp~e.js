@@ -1,0 +1,2 @@
+showWord(["a.","Trankil, kèpòpòz, klè.  Mwen santi konsyans mwen anpè, moun mèt di sa yo vle. 2. n. inite pou mezire entansite kouran elektrik. Anpè endike ki kantiti elektwon ki pase nan yon sikui. senbòl li se (amp), kantite kouran elektrik ki pase nan yon fil chak segonn."
+])

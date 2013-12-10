@@ -1,0 +1,1 @@
+showWord(["v. ","fè aktivite pou aprann nouvo ladrès.<br>"])

@@ -1,0 +1,1 @@
+showWord(["onom. ","Son pou make yon bagay osinon yon mouvman ki fèt trè vit.<br>"])

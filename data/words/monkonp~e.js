@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Parenn. Non gason ki batize pitit yon moun. Chal se konpè m, se li ki batize Jera. 2. Gason ki akonpaye fi ki batize yon timoun avè l. Montas se monkonpè m, se avè l mwen batize pitit madan Kal la."
+])

@@ -1,0 +1,2 @@
+showWord(["n.","bagay, sa yon moun posede. Mwen pa kontan ak pè a, mwen pran tout afè m, mwen ale.  2. Istwa, koze, zen.  Gade yon afè, nan ki zen ou ap mete mwen la a? 3. Ògàn sèks moun. 4. Relasyon kote de moun ap viv ansanm san yo pa marye. Li fè afè ak Kesedyo."
+])

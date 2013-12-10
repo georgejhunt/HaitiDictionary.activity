@@ -1,0 +1,1 @@
+showWord(["v. "," Pran tikal pa tikal. Ki moun ki wonyen gato a?<br>"])

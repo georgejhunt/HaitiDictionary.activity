@@ -1,0 +1,2 @@
+showWord(["","Premye konpayi ki bay kouran Ayiti se te Jakmèl li te ye. Li te kòmanse an 1895. Pwojè idwo-elektrik Pelig la te jwenn finansman an 1948 pou komanse pwoje a. Pati dam nan te fini pandan gouvènman Maglwa, men yo pot ko mete jeneratè yo. "
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Vwayaj pou ale yon kote ki asosye ak mirak osnon lavi yon sen. Gen moun ki toujou ale nan pelerinay Sodo.<br>"])

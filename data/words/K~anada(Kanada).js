@@ -1,0 +1,1 @@
+showWord(["n p.","Peyi nan pati nò Amerik Dinò. Kanada se yon peyi ki kal epi ki pwòp men li frèt anpil pandan ivè.<br>"])

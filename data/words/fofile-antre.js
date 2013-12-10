@@ -1,0 +1,1 @@
+showWord(["v fr.","Antre an kachèt. Jan fofile-antre vit san manman li pa wè.<br>"])

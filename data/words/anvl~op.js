@@ -1,0 +1,1 @@
+showWord(["n.","Pòch an papye kote ou kapab mete yon bagay. Mwen mete lèt la nan anvlòp la epi mwen voye l ale.Pòch an papye kote ou kapab mete yon bagay. Mwen mete lèt la nan anvlòp la epi mwen voye l ale.<br>"])

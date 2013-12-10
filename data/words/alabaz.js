@@ -1,0 +1,1 @@
+showWord(["a.","nan rasin; depi nan kòmansman.<br>"])

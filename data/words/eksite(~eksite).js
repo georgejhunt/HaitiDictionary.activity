@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Chofe, montre anpil enterè. Timoun yo eksite pou yo al nan fèt la.  2. Fè kòlè, fè movesan. Ou pa gen ni pou joure, ni pou eksite, sa ou di a se sa pou tout moun fè. 3. Reveye enterè, limen. Sa ou di a eksite imajinasyon mwen sou yon lòt pwojè."
+])

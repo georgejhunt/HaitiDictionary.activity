@@ -1,0 +1,1 @@
+showWord(["n. ","1. Branch matematik ki etidye metodikman yon pati nan yon popilasyon epi ki sèvi ak enfòmasyon yo pou konprann rès popilasyon an.<br>"])

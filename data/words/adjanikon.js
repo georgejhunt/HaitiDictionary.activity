@@ -1,0 +1,1 @@
+showWord(["n.","Youn nan asistan (gason) nan relijyon vodou.<br>"])

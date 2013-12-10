@@ -1,0 +1,2 @@
+showWord(["","Konstitisyon ki bay peyizan an dwa pou l vote, li wete afè pou yon moun vin prezidan avi, li bay lachanm plis responsabilite, li mete soupye jijman avèk yon jiri epi li mete militè yo anba kontwòl sivil. Prezidan Era te iyore konstitisyon sa a, li te pito chwazi gouvène pa lafòs."
+])

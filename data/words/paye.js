@@ -1,0 +1,1 @@
+showWord(["v. ","Parye. M ap paye senkantkòb ou pa konn fè travay nan kay. Nou paye degoud epi se men ki genyen.<br>"])

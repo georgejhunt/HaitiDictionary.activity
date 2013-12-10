@@ -1,0 +1,2 @@
+showWord(["n. ","1. Moun ki gen yon seri aktivite sou kont li. Jaklin reskonsab fèmen pòt la chak jou.  2. a. Moun ki pran sa ki sou kont li oserye, ki fè sa li sipoze fè. Jaklin se yon fi ki reskonsab."
+])

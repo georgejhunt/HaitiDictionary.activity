@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Idantifikasyon ki make yon rad, manje osinon lòt bagay ki soti nan manifakti. Gade pou wè ki sa ki ekri sou etikèt la. 2. Prensip, elegans, mannyè.  Filip se yon nonm ki gen etikèt, li pa travay san prensip."
+])

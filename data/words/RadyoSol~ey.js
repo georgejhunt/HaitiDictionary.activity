@@ -1,0 +1,1 @@
+showWord(["","Estasyon Legliz Katolik ki jwen eko nan klas popilè yo espesyalman kote ki gen komite Tilegliz.<br>"])

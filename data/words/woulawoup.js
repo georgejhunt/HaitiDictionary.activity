@@ -1,0 +1,1 @@
+showWord(["n. ","sèk won timoun sèvi pou danse.<br>"])

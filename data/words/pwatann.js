@@ -1,0 +1,1 @@
+showWord(["n.","Legim ki fèt ak po pwa vèt. Legim pwa tann bon anpil sou diri blan ak sòs pwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a.","Valab.  Ou pa ka di travay sa a pa apresyab.<br>"])

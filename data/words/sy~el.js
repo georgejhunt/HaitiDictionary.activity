@@ -1,0 +1,1 @@
+showWord(["n. "," Espas ble ki anwo tèt nou lè nou ap gade deyò. Gen anpil zetwal nan syèl la aswè a.<br>"])

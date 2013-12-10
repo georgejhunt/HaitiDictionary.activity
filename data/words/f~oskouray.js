@@ -1,0 +1,1 @@
+showWord(["n. "," Kouray moun ki travay di. Se sou fòskouray mwen mwen konte.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Farin sereyal pou fè manje pou ti bebe.<br>"])

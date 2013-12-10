@@ -1,0 +1,1 @@
+showWord(["adv. "," 1. Jan ou wè li a. Se konsa mwen vle li.  2. Menm jan. Kite l konsa. 3. Poutèt sa. Ou al pote manman ou plent konsa li va vin kale mwen?<br>"])

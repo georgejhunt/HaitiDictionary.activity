@@ -1,0 +1,2 @@
+showWord(["n. ","l Siy, enfòmasyon ki ka eksplike yon sitiyasyon. Tout endikatè nou genyen yo fè montre nou se Kalo ki koupab.  2. Nan chimi, sibstans pou kontwole pH ; li chanje koulè lè li an kontak ak yon lòt sa ka sèvi pou idantifye prezans lòt la. Si ou bezwen konnen Ph yon sibstans, ou ka sèvi ak yon endikatè."
+])

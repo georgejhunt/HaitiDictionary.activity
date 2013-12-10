@@ -1,0 +1,1 @@
+showWord(["n. ","sik dekoratif ki sou gato.<br>"])

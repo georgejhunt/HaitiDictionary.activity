@@ -1,0 +1,1 @@
+showWord(["n. ","ti gason ki fòme kòtèj pou akonpaye lamarye ak lemarye nan yon maryaj.<br>"])

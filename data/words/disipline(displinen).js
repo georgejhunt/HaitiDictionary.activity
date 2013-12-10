@@ -1,0 +1,1 @@
+showWord(["a. ","Ki gen disiplin. 2. v. Mete lòd<br>"])

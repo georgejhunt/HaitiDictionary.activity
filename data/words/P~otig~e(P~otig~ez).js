@@ -1,0 +1,1 @@
+showWord(["n. ","1. Lang yo pale nan peyi Pòtigal ak peyi Brezil.  Pòtigè yon jan sanble ak Panyòl. 2. a. Sa ki pou Pòtigal. Teritwa pòtigè.<br>"])

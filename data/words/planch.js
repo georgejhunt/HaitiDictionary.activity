@@ -1,0 +1,1 @@
+showWord(["n. ","Bwa koupe an tranch. Jak al achte planch pou li fè yon tab. <br>"])

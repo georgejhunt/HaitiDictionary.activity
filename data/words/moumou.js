@@ -1,0 +1,1 @@
+showWord(["n. ","Rad laj pou fi. Pa soti nan lari ak moumou.<br>"])

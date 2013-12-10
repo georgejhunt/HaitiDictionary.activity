@@ -1,0 +1,2 @@
+showWord(["n.","1. Mo pou dekri diferan tent koulè ou jwen kay moun ki melanje ant ras nwa ak lòt ras; grimo. Jan se yon grif ak tèt grenn, madanm li se yon grifòn ak cheve wouj. 2. Zong ki nan pat yon bèt. Grif chat."
+])

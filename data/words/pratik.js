@@ -1,0 +1,2 @@
+showWord(["","1. Moun ou gen abitid achte nan men-l osnon moun ki toujou vann ou toutan. Pratik ou pap achte jodi a, mwen gen bèl zoranj ak anana. 2. Abitid. Se pa yon bon pratik pou moun rann mwen vizit san anonse mwen."
+])

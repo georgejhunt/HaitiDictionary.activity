@@ -1,0 +1,1 @@
+showWord(["","moun ki soti nan zòn sid Lafrik. Lang moun ki zoulou.<br>"])

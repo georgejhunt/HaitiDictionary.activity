@@ -1,0 +1,1 @@
+showWord(["v. ","entegre nan sistèm taksasyon jeneral.<br>"])

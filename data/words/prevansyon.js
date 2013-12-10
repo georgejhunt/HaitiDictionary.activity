@@ -1,0 +1,1 @@
+showWord(["n. ","Aksyon pou evite yon malè osnon yon sitiyasyon ki pa swetab. Ijyèn se yon mezi prevansyon kont maladi.<br>"])

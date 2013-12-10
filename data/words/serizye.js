@@ -1,0 +1,1 @@
+showWord(["n. "," Pyebwa ki bay seriz. Jaklin gen yon serizye lakay li a ki donnen anpil ane sa a.<br>"])

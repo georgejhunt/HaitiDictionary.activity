@@ -1,0 +1,1 @@
+showWord(["","tèt mòn nan masif santral ant Okap ak Gonayiv. <br>"])

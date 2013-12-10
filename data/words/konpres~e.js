@@ -1,0 +1,1 @@
+showWord(["n. ","1. Aparèy pou konprese gaz osinon pou konprese vapè. <br>"])

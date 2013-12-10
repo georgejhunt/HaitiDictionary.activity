@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Lajan ki pa lajan papye, ki an metal epi ki pa anpil. Mwen pa gen anpil kòb sou mwen la a, se yon monnen mwen jwenn nan pòch mwen. 2. Sa ki rete nan lajan ou bay yon moun touche. Ban mwen monnen non madanm, mwen ba ou yon biye senk dola."
+])

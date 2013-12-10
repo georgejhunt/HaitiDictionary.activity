@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan po yo moun ki gen kapasite resevwa mesaj tankou gou pa egzanp. Papiy gou pèmèt moun pran gou manje.<br>"])

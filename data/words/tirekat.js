@@ -1,0 +1,2 @@
+showWord(["v fr.","1. Wete kat, separe kat nan jwèt. Tire kat yo byen pou pay yo pa mele ak lòt yo. 2. Al konsilte yon oungan. Madan Sentilis te al tire kat, depi li tounen li ret ak men nan machwa l."
+])

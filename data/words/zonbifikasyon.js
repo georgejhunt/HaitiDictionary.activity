@@ -1,0 +1,1 @@
+showWord(["","drapre tradisyon oral se teknik ak ladrès yo itilize pou fè moun tounen zonbi.<br>"])

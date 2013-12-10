@@ -1,0 +1,1 @@
+showWord(["","apwòch sistematik syantis yo respekte lè yo ap chèche jwenn solisyon pou yon pwoblèm.Gwoup règ moun suiv pou planifye egzekite epi evalye yon eksperyans lasyans.<br>"])

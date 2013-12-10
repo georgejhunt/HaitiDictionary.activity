@@ -1,0 +1,2 @@
+showWord(["n.","1. Gaspiyaj, pou gremesi, likidasyon. Yo tap vann rad pou piyay nan boutik madan Chal la, kote ou te ye pou te al bwote enpe? 2. Alagwouj. Apre siklòn na vòlè yo fè piyay sou machandiz yo. 3. abondans. Mango pou piyay. 4. bay piyay, moun ki pa ka pwoteje tèt li."
+])

@@ -1,0 +1,2 @@
+showWord(["n. ","Amizman, rekreyasyon, divètisman, pastan, devinèt. Mwen pral nan jwèt foutbòl. Jwèt oslè, jwèt kat. Jwèt pou ou kanmarad. 2. Bagay ki sèvi pou jwe. Pope, ti kamyon eltr. Depi mwen piti mwen gen anpil jwèt. "
+])

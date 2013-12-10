@@ -1,0 +1,1 @@
+showWord(["n. ","ki pa gen rekonesans.<br>"])

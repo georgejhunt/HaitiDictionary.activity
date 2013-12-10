@@ -1,0 +1,1 @@
+showWord(["","20 000 militè nwa byen antrene ki te soti nan kontinan Afrik pou pwoteje wa Anri Kristòf. Yo te sèvi kòm lapolis epi kòm rapòtè tou.<br>"])

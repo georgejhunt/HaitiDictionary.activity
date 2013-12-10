@@ -1,0 +1,2 @@
+showWord(["n. "," degradasyon tè ki fèt lè dlo lapli osinon van dekale tè a ale nan lanmè paske pa gen pye bwa osinon zèb ki pou kenbe tè a. Pwoblèm ewozyon nan peyi Dayiti konplike paske moun yo oblije koupe bwa yo pou yo fè manje. Si yo pa koupe bwa yo pa gen lòt bagay pou yo sèvi, sitou andeyò. Pi gwo patisipasyon yon moun kapab fè jodiya se plante tout kalite pyebwa."
+])

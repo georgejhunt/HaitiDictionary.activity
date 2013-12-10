@@ -1,0 +1,2 @@
+showWord(["n.","1. Se moun ki asiste yon patwon, sekretè konn andwa tape epi reponn telefòn tou. Si mwen pa la, kite komisyon an pou mwen nan men sekretè m nan. 2. Moun ou bay yon dyòb anpasan. Kot ti sekretè a ki te la a, mwen ta byen voye la al gade si fritay la pare kay madan Jan an."
+])

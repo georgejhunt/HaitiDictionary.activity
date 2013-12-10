@@ -1,0 +1,1 @@
+showWord(["n ","Gravye ak wòch ki akimile lè lapli tonbe. Lari a plen garyon.<br>"])

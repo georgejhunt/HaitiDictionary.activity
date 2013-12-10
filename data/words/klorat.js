@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Sèl asid klorik. Yo vann klorat nan fanmasi. 2. Poud chimik ki ka fè bwi osnon eksploze. Gen yon seri woulo peta timoun konn mete nan revolvè jwèt, yo gen yon ti kantite klorat ladan yo."
+])

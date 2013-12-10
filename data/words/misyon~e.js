@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki gen misyon pou pwopaje lide relijyon. Gen detwa misyonè ki fèk rantre sot laba.<br>"])

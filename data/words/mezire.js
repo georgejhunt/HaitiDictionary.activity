@@ -1,0 +1,2 @@
+showWord(["v.","Pran dimansyon. Jozèt ede papa l mezire lakou a anvan yo kòmanse plante pye bwa yo. Si ou mezire tab la, ou ap gen yon ide si l ap antre nan kòf machin nan. 2. Konpare. Pa mezire mwen ak vakabòn sa a, mwen avè l se de bagay diferan."
+])

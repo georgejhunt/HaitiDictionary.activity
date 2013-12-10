@@ -1,0 +1,1 @@
+showWord(["v.","Bay yon moun sa ou te pran nan men l ki te pou li. Remèt mwen lajan mwen kounye a si ou pa vle mwen al pote plent pou ou.<br>"])

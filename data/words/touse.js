@@ -1,0 +1,2 @@
+showWord(["v. "," Fè bwi ak mouvman nan gòj ki endike yon malèz swa nan poumon, nan kòflestomak osnon nan gòj; bwi sa a yo anjeneral repete an plizyè fwa. Mirèy ap pran yon siwo pou tous paske li ap plede touse tout lajounen."
+])

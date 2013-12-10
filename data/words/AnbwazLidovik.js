@@ -1,0 +1,2 @@
+showWord(["np.","Ekriven, kontab, avoka li te fèt nan vil  Jakmèl, 12 Out  1879.  Li etiidye nan Ti Seminè Kolèj Sen Masyal.  Administratè Jeneral Lapòs (1931‑1932).  Li  mouri 7 sektanm 1940.  Li ekri yon liv pwezi,  Epanchements, Pòtoprens, 1939."
+])

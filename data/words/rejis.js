@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo kaye pou ekri evenman epi ak moun ki konsène nan evenman an pou estatistik osnon lòt rezon. Rejis maryaj.<br>"])

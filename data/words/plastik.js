@@ -1,0 +1,1 @@
+showWord(["n. ","Materyo atifisyèl fleksib ki fèt ak pwodui chimik. Ou jwenn tout kalite bagay fèt ak plastik alèkile.<br>"])

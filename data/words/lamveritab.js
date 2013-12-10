@@ -1,0 +1,2 @@
+showWord(["n. "," Fwi ki gen anpil lanmidon ladan l. Yo manje l bouyi osnon fri; gen moun ki fè tonmtonm avè l. Lontan lavi te sitan bonmache, ou pat bezwen al achte lamveritab, ou te annik keyi l."
+])

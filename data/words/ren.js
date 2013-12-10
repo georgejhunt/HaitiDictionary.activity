@@ -1,0 +1,2 @@
+showWord(["n. ","Ògàn ki fltre dechè nan san. Selil ren an ògànize tankou yon paswa ki fen (filt) filtre pwodui chimik ki pa bon epi voye yo al jete nan pipi. Menmsi nou gen apeprè 2 galon edmi san nan kò nou, li pase plizyè fwa (resikile) nan ren an. Kifè ren an netwaye apeprè 50 galon likid (san) pa jou."
+])

@@ -1,0 +1,1 @@
+showWord(["v. "," mete fliyò nan dlo osinon nan medikaman.<br>"])

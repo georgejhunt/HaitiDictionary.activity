@@ -1,0 +1,2 @@
+showWord(["n fr. "," 1. Fi ki gen gwo devire, fi ki alèz. Fi ki ap mennen yon vi sosyal agreyab. Se gran dam, se li ki alatèt resepsyon an. 2. Fi ki [pran pòz] evolye. Se pa tout nèg ki antann li ak medam ki ap pran pòz gran dam yo deyò a."
+])

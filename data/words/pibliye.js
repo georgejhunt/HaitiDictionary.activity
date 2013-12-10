@@ -1,0 +1,1 @@
+showWord(["v.","1. Fè tout moun konnen. Li mache pibliye toupatou se li sèl ki milyonè isit.  2. Fè enprime yon liv osnon yon dokiman pou ou ka mete l disponib pou piblik la. Jak pibliye liv li a depi ane pase. <br>"])

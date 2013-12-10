@@ -1,0 +1,1 @@
+showWord(["n. ","1. Entewogasyon sou sa ou pa konnen osnon ou pa konprann; sa yon pwofesè mande yon elèv pandan yon ekzamen. Fito poze pwofesè a kesyon an. 2. Sijè. Pa pale Kalin sou kesyon sa a.<br>"])

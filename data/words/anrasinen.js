@@ -1,0 +1,2 @@
+showWord(["v.","Ki makonnen depi nan rasin. Ki pouse rasin. Jan plant sa a ye la a, li gentan fin anrasinen, ou pat dwe derasinen l non. 2. Ki antre byen fon.  Koze sa a pa senp, se nan envestigasyon an yo vin wè ki jan li te anrasinen byen fon.  Ki gen rasin li byen fon anbatè.  Pye zaboka a gentan anrasinen anpil, mwen pa kwè nou kapab deplase l."
+])

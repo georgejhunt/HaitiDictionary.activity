@@ -1,0 +1,1 @@
+showWord(["n. ","Enstriman pou mezire tanperati. Tèmomèt gen yon tib an vit ki gradye epi fèmen nan de ekstrèm yo; anndan tib la gen yon likid (souvan se mèki osinon alkòl kolore). Likid la monte (ekspann) osinon desann (kontrakte) lè tanperati a monte (cho) osinon desann (frèt).<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. antre-soti, ale-vini. Te gen anpil vire tounen nan biwo a se dwe sa ki fè nou pa rive jwenn papye yo. 2. Kous, sòti pou yon rezon. Kalo soti li al fè yon vire-tounen tou pre la a."
+])

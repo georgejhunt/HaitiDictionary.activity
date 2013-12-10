@@ -1,0 +1,1 @@
+showWord([""v."," n., a. ",Moun ki chape nan yon aksidan osinon yon sitiyasyon grav.<br>"])

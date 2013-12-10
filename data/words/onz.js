@@ -1,0 +1,1 @@
+showWord(["a. ","Chif ki vin apre dis. Gen onz moun la a.<br>"])

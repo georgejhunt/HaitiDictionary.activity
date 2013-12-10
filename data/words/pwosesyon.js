@@ -1,0 +1,1 @@
+showWord(["n. ","defile relijye ak chan ak priyè.<br>"])

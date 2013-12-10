@@ -1,0 +1,1 @@
+showWord(["","Sèvis manje pou moun ki mouri yo.<br>"])

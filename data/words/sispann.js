@@ -1,0 +1,1 @@
+showWord(["v. ","1.  Rete. Sispann pale fò la a.  2. Pa fè osnon pa pwodui yon bagay ankò. Yo sispann fè pat tomat nan izin nan.<br>"])

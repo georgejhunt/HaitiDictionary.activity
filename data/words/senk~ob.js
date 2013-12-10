@@ -1,0 +1,1 @@
+showWord(["n.","Lajan monnen ki vo yon penich meriken. Pa gen anyen ou kapab achte ak senkòb alèkile.<br>"])

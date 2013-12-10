@@ -1,0 +1,2 @@
+showWord(["np","Prezidan Ayiti 1913-1914. Anvan sa, li te yon senatè, avoka epi pwofesè lekòl. Li te ret prezidan pandan 8 mwa sèlman, li te bay demisyon aprezavwa te gen yon revòl san kontwòl nan peyi a."
+])

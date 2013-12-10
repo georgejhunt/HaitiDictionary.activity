@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Travay ki pap dire. Mwen jwenn yon djòb pou mwa Jiyè a. 2. Travay. Responsablite. Ki djòb ou.<br>"])

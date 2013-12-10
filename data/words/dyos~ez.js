@@ -1,0 +1,1 @@
+showWord(["n. ","teritwa legliz ki anba administrasyon yon evèk.<br>"])

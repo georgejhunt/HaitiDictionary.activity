@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki pase rad pou yo viv. Antwàn gen yon repasèz ki vin pase pou li chak semenn.<br>"])

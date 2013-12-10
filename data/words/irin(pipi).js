@@ -1,0 +1,2 @@
+showWord(["n. ","Dechè likid ki fèt nan ren epi ale devèse nan vesi (blad pipi) anvan pou li soti deyò (elimine). Pipi gen ire, sèl, li gen yon koulè jòn pal. Ren gen yon seri filt (paswa) ki filtre san an pou retire dechè. Dechè metabolik"
+])

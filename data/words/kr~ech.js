@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Reprezantasyon lavyèj, sen Jozèf ak Jezi nan etab la.  Pou nwèl, Woz ap fè krèch. 2. Kabann kote ti Jezi kouche a. Jezi kouche nan krèch li. 3. Ofelina. Li pat gen fanmi, yo te voye l nan krèch. 4. Ti bèso pou tibebe. Krèch pitit madan Wolan an gen tan pare depi anvan timoun nan fèt."
+])

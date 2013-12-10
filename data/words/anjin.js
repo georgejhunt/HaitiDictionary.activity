@@ -1,0 +1,1 @@
+showWord(["n.","doulè nan kè ki rive lè miskilati kè a pa gen ase oksijèn.<br>"])

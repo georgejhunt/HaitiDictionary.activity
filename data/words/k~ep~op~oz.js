@@ -1,0 +1,1 @@
+showWord(["n fr. "," Ki pa prese. Lora se yon fi kè pòpòz.<br>"])

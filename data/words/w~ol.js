@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pati yon moun jwe nan yon pyès teyat. Se Sizàn ki ap jwe wòl machann nan.  2. Responsablite yon moun genyen akoz grad li osinon pozisyon li nan yon travay; estati. Se pa wòl sekretè a pou li pran desizyon sa a.<br>"])

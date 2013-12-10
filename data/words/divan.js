@@ -1,0 +1,1 @@
+showWord(["n. ","Chèz long san bra ki tankou yon ti kabann. Chak apremidi madan Pòl fè ti kabicha sou divan an.<br>"])

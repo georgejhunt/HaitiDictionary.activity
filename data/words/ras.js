@@ -1,0 +1,2 @@
+showWord(["n. ","1. Gwoup moun ki gen menm orijin etnik. Gen ras blan, nwa, jòn ak wouj.  2. Fanmi. Pitit sa a pran maladi sa a nan ras li.  3. Gwoup, gwoupman, tip moun ki sanble osnon ki gen menm abitid. Jaklin toujou di li pa annafè ak vòlè, sa se yon ras li pa ka sipòte."
+])

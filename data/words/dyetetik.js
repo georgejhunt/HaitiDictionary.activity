@@ -1,0 +1,1 @@
+showWord(["a. ","Ki gen rapò ak manje ak dyèt. Seri règ pou moun suiv pou balanse sa moun nan manje pou satisfè bezwen li. 2. Domè etid ki analize kalite ak kantite manje ki nesesè pou kenbe lasante.<br>"])

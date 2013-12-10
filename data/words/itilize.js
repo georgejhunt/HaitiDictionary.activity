@@ -1,0 +1,1 @@
+showWord(["v. ","Sèvi ak. Mwen itilize konpyoutè a chak jou.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","respè ak omaj yo bay Bondye, yo bay yon sen, osinon yo bay yon bagay yo panse ki gen valè bondye. Adorasyon, venerasyon, devouman. 2. Sèvis ak pratik relijye yo fè nan leglis, nan tanp, nan chapèl osinon nan hounfò. 3. Sèvis relijye pou moun ki pwotestan. 4. Admirasyon fanatik."
+])

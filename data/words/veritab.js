@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fwi ki gen anpil farin tankou pòmdetè konsa, li pa dous, yo bouyi l pou yo manje l, yo manje l vèt; li gen yon koulè bèj andedan; deyò a vèt. Nan peyi Ayiti yo manje veritab fri an tranch, yo fè boulèt avèk li osnon yo bouyi l.  2. a. Ki vre, ki gen verite, ki reyèl. Sa se veritab istwa a."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Òmon femèl ki fèt nan ovè a epi ki lakoz diferan karaktè devlope lakay yon femèl.<br>"])

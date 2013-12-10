@@ -1,0 +1,1 @@
+showWord(["np. "," Li fèt nan lane 1929 nan Petyonvil. Li kòmanse fè penti nan lane 1948. Li se yonn nan gwo atis pent Ayisyen yo. Li se yon manm fondatè Foyer Des Arts Plastiques. Li te pwofesè desen nan lise F. Divalye epi nan Foyer des Arts Plastiques la tou.<br>"])

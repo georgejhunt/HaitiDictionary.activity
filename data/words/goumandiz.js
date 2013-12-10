@@ -1,0 +1,1 @@
+showWord(["n. "," manje san kontwòl. Manje san grangou; manje kòm yon amizman.<br>"])

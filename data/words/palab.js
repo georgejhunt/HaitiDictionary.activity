@@ -1,0 +1,1 @@
+showWord(["n. ","Pawòl san enpòtans. Palab anpil.<br>"])

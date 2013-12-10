@@ -1,0 +1,1 @@
+showWord(["v. ","Vanse. Pwoche pou ou ka wè pi byen.<br>"])

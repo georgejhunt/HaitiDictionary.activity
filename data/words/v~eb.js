@@ -1,0 +1,2 @@
+showWord(["n. ","Pati nan yon fraz ki make kisa sijè a ap fè, kisa sijè a ye osinon kisa sijè a ap tounen. Mo pou make aksyon osinon egzistans Pyè ap chante; chante se vèb la. Nan fraz Ali kouri vit@ kouri se vèb. 2. Pawòl Jezikri. Vèb la tounen moun, dapre labib."
+])

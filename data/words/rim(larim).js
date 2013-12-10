@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Likid ki ap koule soti nan nen yon moun ki gripe. Siye larim nan.  2. Maladi nen koule ki ka mache ak lafyèv. Li gen twa jou ak yon rim sou li.<br>"])

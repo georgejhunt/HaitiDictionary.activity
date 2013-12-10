@@ -1,0 +1,1 @@
+showWord(["n. ","dat ki make lè moun gen obligasyon fè yon bagay. Echeyans lwaye a rive.<br>"])

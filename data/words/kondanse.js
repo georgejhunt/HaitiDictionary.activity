@@ -1,0 +1,1 @@
+showWord(["v. ","Konsantre. Lèt kondanse. 2. Rezime. Ban m yon kondanse diskou-a.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","1.  Pati nan yon kay ki pote pwa kay la. Si fondasyon an solid, ou ka mete yon lòt etaj.  2. Biwo, sant ki fèt ak donasyon epi ki la pou avantaje yon gwoup moun. Tout moun tande palede Fondasyon Vensan toupre vil Okap. "
+])

@@ -1,0 +1,1 @@
+showWord(["n.","Biwo ki okipe afè pwòpte ak sante popilasyon Ayiti.<br>"])

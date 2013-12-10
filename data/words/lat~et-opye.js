@@ -1,0 +1,1 @@
+showWord(["","depi nan tèt rive nan pye. Tout kò. Li mouye latèt-opye.<br>"])

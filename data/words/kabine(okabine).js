@@ -1,0 +1,1 @@
+showWord(["n. ","Poupou. Jera al kabine.<br>"])

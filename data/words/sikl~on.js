@@ -1,0 +1,2 @@
+showWord(["n.","Tanpèt ki gen anpil van, loraj ak zèklè, move tan ki ka fè anpil dega. Siklòn konn sitan danjere, anpil moun konn mouri epi anpil kay konn kraze tou. Mezanmi, gade yon siklòn, li pase, li touye tout bèt, li rache tout pye bwa. "
+])

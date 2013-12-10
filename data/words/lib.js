@@ -1,0 +1,2 @@
+showWord(["a. ","1. Lage. Chyen an lage, li pa nan kòd. 2. Ki pa rete ak moun. Jera lib, li di sa li pito. 3. Ki pa marye. Toutotan Jak pa marye, li se yon nonm lib.  4. Alèz, ki pa pè. Se nèg ki pale lib, li pa nan voye wòch kache men. 5. Ki gen dwa, ki pa sou presyon. Konstitisyon an di moun lib pale sa yo pi pito."
+])

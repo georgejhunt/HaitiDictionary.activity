@@ -1,0 +1,2 @@
+showWord(["n. ","Domèn lasyans ki etidye istwa, evolisyon (chanjman) ak òganizasyon estrikti latè, andedan kou deyò. 2. Liv ki bay enfòmasyon sou jeyoloji. 3. Tout enfòmasyon sou latè nan yon rejyon espesifik."
+])

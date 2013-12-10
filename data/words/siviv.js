@@ -1,0 +1,1 @@
+showWord(["v.","rete vivan apre yon dezas. 2. grapiyen pou ou pa mouri. 3. Tout efò pou yon gwoup pa disparèt.<br>"])

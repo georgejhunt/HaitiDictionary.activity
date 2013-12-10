@@ -1,0 +1,1 @@
+showWord(["n. ","Etikèt ki ekri mak fabrik. Senbòl osinon tenm pou endike tout taks te peye pou yon machandiz.<br>"])

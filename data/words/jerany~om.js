@@ -1,0 +1,1 @@
+showWord(["n. ","plant dekoratif.<br>"])

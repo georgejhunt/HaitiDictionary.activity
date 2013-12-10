@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Karaktè ki pèmèt fè diferans ant divès kalite bèt (osinon plant).  Yon varyete, yon kalite yon klas ou ka distenge, ou ka idantifye pa rapò ak tout lòt ki sanble avèk lil. An jeneral yon popilasyon natirèl ki gen anpil bagay an komen epi ki kapab repwodui youn ak lòt. 2. Espesimenn. Tip, kalite. Ki espès moun sa a ki ap di tenten konsa a. 3. Varyete. Fèy sa a, rele menm jan ak lòt la, men se yon lòt espès."
+])

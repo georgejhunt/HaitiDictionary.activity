@@ -1,0 +1,1 @@
+showWord(["n. ","1. kominikasyon espirityèl espontane avèk Bondye. 2. Fòmil pou kominikasyon woutin ak Bondye tankou AJe-vou-sali@. Dènye priyè se yon rasanbleman espesyal apre yon moun mouri.<br>"])

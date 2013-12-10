@@ -1,0 +1,2 @@
+showWord(["np. "," 8 Mas 1924 ‑ 7 Fevriye 1999. Agwonòm, komèsan, edikatè, ekriven, editè jounal Boukan. Li fèt Senmak 8 Mas 1924. Li ekri plizyè istwa kout ki te pibliye nan jounal Boukan ak plizyè woman an kreyòl pami tèks li yo gen ATraka yon kretyen pandan vwayaj li@; AKote ki gen amou@; ATi Jak@ 1965 A. ALerison@ woman 1966 ; AAmarant, 1967 seri istwa kout; ""Tonton Liben""1976. Kaye Polt mouri nan lopital Kanapevè 7 Fevriye 1999."
+])

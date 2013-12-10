@@ -1,0 +1,1 @@
+showWord(["v.","Aji ak twòp politès ak espwa pou ou jwenn benefis. Kalo flate Mirèy anpil.<br>"])

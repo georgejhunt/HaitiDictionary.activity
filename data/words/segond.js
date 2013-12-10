@@ -1,0 +1,1 @@
+showWord(["n.","Tan ki reprezante yon fraksyon nan yon minit. Gen swasant segond nan yon minit.<br>"])

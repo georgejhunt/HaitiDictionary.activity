@@ -1,0 +1,2 @@
+showWord(["n. ","1. Moun ki grandi plis pase laplipa moun; Moun osinon bèt ki wo epi ki gwo pa rapò ak bèt ki menm ak yo. Jeyan yo gran anpil epi yo konn gwo anpil tou. 2. a. Ki gran epi gwo anpil. Jaklin se yon jeyan, mwen pa janm wè yon fi wo konsa. Dinozò se bèt jeyan ki te viv nan tan lontan. "
+])

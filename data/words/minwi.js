@@ -1,0 +1,1 @@
+showWord(["n. "," Lè li fè inèdtan apre li te onzè diswa. Kou minwi fin sonnen se yon lòt jou ki kòmanse.<br>"])

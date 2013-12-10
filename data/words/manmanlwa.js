@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Lwa fanm. Yo rele yo manbo tou. 2. Konstitisyon.<br>"])

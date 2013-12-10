@@ -1,0 +1,1 @@
+showWord(["n. ","Tan pou ou ranmase fwi sa ou te plante. Rekòt mayi.<br>"])

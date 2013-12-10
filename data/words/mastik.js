@@ -1,0 +1,1 @@
+showWord(["n. ","Pat mou pou bouche twou.<br>"])

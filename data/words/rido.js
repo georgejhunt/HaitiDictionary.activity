@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Twal ki tache ak yon seri pens ki pandye sot nan yon tij orizontal, pou li ka layite sou tout longè l. Rido twalèt. 2. Aranjman an twal ki fèt pou mete nan fenèt. Rido fenèt yo ale ak koulè chèz salon an."
+])

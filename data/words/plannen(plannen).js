@@ -1,0 +1,1 @@
+showWord(["v. ","1. Mete bagay nan mezondafè pou yo ka prete ou kòb sou li. Jozèt al plannen mont li a.  2. Flote sou dlo san bouje. Leyonid konn plannen men li pa konn naje.<br>"])

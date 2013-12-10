@@ -1,0 +1,1 @@
+showWord(["n. ","Gaz senp ki toutotou solèy la men ki ra pou jwenn nan lè nou ap respire a. elyòm se yon gaz leje.<br>"])

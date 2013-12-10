@@ -1,0 +1,2 @@
+showWord(["n. ","1. Tout sa ki nesesè pou sele bourik, cheval ak milèt. Lekipay la fin pare, annou ale. 2. Tout sa yon vwayajè bezwen pou yon ekspedisyon. Lekipay la te pare depi yè. 3. Ekip moun ki ap pati ansanm nan. Ekipay la gen eksperyans."
+])

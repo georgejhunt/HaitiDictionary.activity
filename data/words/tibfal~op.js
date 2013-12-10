@@ -1,0 +1,1 @@
+showWord(["n fr. ","Tib ki mennen ovè nan matris la.<br>"])

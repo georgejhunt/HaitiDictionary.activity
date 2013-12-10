@@ -1,0 +1,1 @@
+showWord(["n. ","Mak machin Alman. Konpayi Alman ki fè machin vòsvagenn.<br>"])

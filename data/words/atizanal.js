@@ -1,0 +1,1 @@
+showWord(["a.","ki gade atizan.<br>"])

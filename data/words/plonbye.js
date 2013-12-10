@@ -1,0 +1,1 @@
+showWord(["n","bòs ki travay nan plonbe.<br>"])

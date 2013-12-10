@@ -1,0 +1,1 @@
+showWord(["v. ","1. Atake ak frenn. Mouche a manke frennen m.  2. Peze sou pedal fren pou frennen yon machin. Si ou pat frennen ou tap fè yon gwo aksidan.<br>"])

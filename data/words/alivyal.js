@@ -1,0 +1,1 @@
+showWord(["a.","ki gade rezilta lè dlo lavalas desann.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Oto, otomobil. Mwen pito al apye pase machin mwen an anpàn. 2. Zouti elektrik pou ranplase travay manwèl. Se ak yon machin yo te koupe bwa a yo, moun pate kapab fè sa ak manchèt. Gen machin-akoud, machinalave, machin pou seche tou."
+])

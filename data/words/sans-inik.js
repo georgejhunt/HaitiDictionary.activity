@@ -1,0 +1,1 @@
+showWord(["n. "," Ki ale nan yon sèl direksyon. Ri sa a sans-inik.<br>"])

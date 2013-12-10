@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pyès teyat pou amize, pou fè moun ri, tout kalite pyès teyat. Sa se yon bèl komedi, men ou pa bezwen pran l oserye.  2. odyans pou fè ri, sitiyasyon ridikil. Timoun yo pase pwofesè a nan komedi."
+])

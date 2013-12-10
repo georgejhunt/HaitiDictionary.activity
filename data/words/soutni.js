@@ -1,0 +1,1 @@
+showWord(["v. ","1. Kenbe. Yo soutni madan Chal pandan tout lantèman an. 2. Ede. Nou soutni yo ak yon ti monnen chak mwa.<br>"])

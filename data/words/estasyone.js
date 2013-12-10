@@ -1,0 +1,1 @@
+showWord(["","Kanpe tanporèman. Estasyone machin nan. Jezi rive nan twazyèm estasyon.<br>"])

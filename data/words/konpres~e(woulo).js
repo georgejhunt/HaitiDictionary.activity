@@ -1,0 +1,1 @@
+showWord(["","1. gwo foul ki reyini espontaneman pou fè demonstrasyon politik. 2. Machin ki gen yon wou trè lou ki sèvi pou fè wout.<br>"])

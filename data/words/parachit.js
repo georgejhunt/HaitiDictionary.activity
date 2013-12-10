@@ -1,0 +1,1 @@
+showWord(["n. ","Aparèy ki fèt pou amòti desant yon moun ki ap soti anlè tankou nan yon avyon. Pilòt la sove paske li te gen parachit.<br>"])

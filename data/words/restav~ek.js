@@ -1,0 +1,2 @@
+showWord(["n.","Timoun ki rete kay yon moun ak kondisyon pou li fè travay nan kay la san touche men ya bali manje, dòmi ak lòt sipò pou lapenn. Ayiti kondisyon restavèk yo konn konsidere tankou se yon fòm esklavaj paske gen anpil abi ki konn fèt."
+])

@@ -1,0 +1,1 @@
+showWord(["n.","Pè vodou. Moun ki trete moun malad ak senp osnon ak remèd fèy. Yo rele yo oungan tou.<br>"])

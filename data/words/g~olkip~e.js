@@ -1,0 +1,1 @@
+showWord(["","1. Gadyen nan foutbòl. Ekip sa a pa gen yon bon gòlkipè.<br>"])

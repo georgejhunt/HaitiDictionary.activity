@@ -1,0 +1,2 @@
+showWord(["n. ","1. fil yo konn fè ak pit, koton osnon ak lòt fil. Kòd sèvi pou mare bagay. Timoun sèvi ak kòd pou yo sote. Ayiti, lè yo pa vle poul sove yo konn mare yon pye l nan kòd. 2. Inite pou mezire kantite bwa. Yon kòd bwa. 3. Koleksyon lwa. Kòd sivil. 4. Senbòl kominikasyon sekrè. Kòd mòs. Kòd daki."
+])

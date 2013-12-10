@@ -1,0 +1,1 @@
+showWord(["adv.","deyò vin anndan epi anndan vin deyò.<br>"])

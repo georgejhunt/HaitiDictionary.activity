@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Bay yon moun sa ki pou li. Jak remèt Jera lajan li dwe li a. 2. Bay anretou. Joslin remèt Kalin pati a.<br>"])

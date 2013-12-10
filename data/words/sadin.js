@@ -1,0 +1,1 @@
+showWord(["n. ","Ti pwason yo konn mete nan bwat konsèv. Gen sadin nan luil gen sadin nan sòs tomat.<br>"])

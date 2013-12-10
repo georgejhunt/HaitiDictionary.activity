@@ -1,0 +1,1 @@
+showWord(["","senbòl pou kilogram. 1 kg egal 1000 g.<br>"])

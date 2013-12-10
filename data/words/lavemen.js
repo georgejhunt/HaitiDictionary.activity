@@ -1,0 +1,1 @@
+showWord(["v fr.","1. Netwaye men ak dlo epi savon. Lave men ou anvan ou al manje.  2. Abandonen. Mwen lave men mwen nan bagay sa a.<br>"])

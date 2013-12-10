@@ -1,0 +1,2 @@
+showWord(["n.","1. Atirans, leman; fòs ki atire de chaj mayetik osinon de chaj elektik pou yo vin kontre.   2.  Anbyans kote moun amize yo. Youn nan pi gwo atraksyon ki genyen nan pwovens se fèt chanpèt."
+])

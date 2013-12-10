@@ -1,0 +1,1 @@
+showWord(["","mon anglè pou bale.<br>"])

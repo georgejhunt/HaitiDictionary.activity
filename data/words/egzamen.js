@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Tès pou mezire konesans sou yon sijè. Mwen pral nan yon egzamen demen, si mwen pa pase, mwen ap chagren anpil.  2. Tès laboratwa. Se rezilta egzamen yo ki endike se ànemi Kalo fè. 3. Konsiltasyon. Doktè a fè mwen egzamen, li manyen toupatou nan kò mwen."
+])

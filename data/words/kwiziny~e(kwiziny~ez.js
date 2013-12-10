@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki fè manje nan kwizin. Bèta se kwizinyè nan restoran an.<br>"])

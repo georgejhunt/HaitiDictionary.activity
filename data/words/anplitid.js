@@ -1,0 +1,2 @@
+showWord(["n.","1. Nan syans fizik, se diferans ant pwen ki pi wo ak pwen ki pi ba nan yon vag osinon yon vibrasyon. 2. nivo wotè yon vag dlo. 2. Pozisyon ekstrèm lè yon bagay ap deplase ale-vini (tankou kouran altènatif osinon yon pandil osinon yon balanswa)."
+])

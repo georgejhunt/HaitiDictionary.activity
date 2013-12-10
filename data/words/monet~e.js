@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen relasyon ak lajan ki an sikilasyon nan yon peyi.<br>"])

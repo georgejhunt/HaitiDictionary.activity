@@ -1,0 +1,2 @@
+showWord(["np. ","Prèt katolik ki rive nan zile Ayiti pandan twazyèm vwayaj Kristòf Kolon. Li te vle pwoteje endyen yo blan yo te ap maltrete, li konseye yo ale chèche moun nwa nan kontinan Afrik pou blan yo ka eksplwate. Li te di yo nwa yo pat moun. Gen moun ki mande l poukisa, yo te batize nwa yo si yo pat moun."
+])

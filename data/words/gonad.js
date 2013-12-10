@@ -1,0 +1,1 @@
+showWord(["n. ","ògàn mal ou femèl (ovè ak testikil) ki pwodui gamèt yo (ovil ak espèmatozoyid) selil seksyèl yo. Gonad yo pwodui plizyè omon seksyèl.<br>"])

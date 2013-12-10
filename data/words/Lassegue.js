@@ -1,0 +1,2 @@
+showWord(["np. ","Jounalis, edikatè, feminis, politisyen. Li fèt nan àne 1955. Li te direktris jounal AHaiti Libérée@ direktris lekòl jounalis, direktris enfòmasyon nan Televizyon Nasyonal Ayiti (TNH), apresa li te vin Minis enfòmasyon ak ko-òdinasyon. Se yon moun ki renmen, ki pouse epitou ki respekte kilti Ayiti. Se yon feminis ki vle wè plis fi patisipe nan aktivite politik ak ekonomik peyi Ayiti."
+])

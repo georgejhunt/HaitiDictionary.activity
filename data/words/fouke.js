@@ -1,0 +1,2 @@
+showWord(["","kenbe yon moun nan do, nan senti pantalon tankou pou rale l nan fouk pantalon li jous tan fouk li sere epitou se zòtèy li sèlman ki touche tè. Lè yo fouke yon moun, se tankou se trennen yo ap trennen l epi li pa kapab mache byen paske fouk pantalon an sere l anpil, li andwa fè l mal. Se yon metòd lapolis pou kontwole yon moun."
+])

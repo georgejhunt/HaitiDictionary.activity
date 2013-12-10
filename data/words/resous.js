@@ -1,0 +1,2 @@
+showWord(["n. "," Tout sa ki gen valè, ki disponib, pou yon moun osnon yon peyi, epi ki ka sèvi pou ede moun nan osnon peyi a avanse. Edikasyon se resous li ye pou yon moun; min lò se yon bon resous pou yon peyi."
+])

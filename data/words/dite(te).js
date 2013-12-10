@@ -1,0 +1,1 @@
+showWord(["n. "," Te fèy. Mwen konn yon fanmi nan nò a se chak swa yo pran dite.<br>"])

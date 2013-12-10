@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Mezi, règleman. Se enpòtan pou yon moun gen kontwòl sou sa li manje. 2. Siveyans. Pwofesè sa a gen bon kontwòl sou timoun yo pou yo pa fè dezòd. 3. Resansman. Chak maten, gadyen prizon an fè kontwòl prizonye yo."
+])

@@ -1,0 +1,1 @@
+showWord(["","tandans natirèl pou aji yon jan patikilye; repons otomatik.<br>"])

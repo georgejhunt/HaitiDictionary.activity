@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Plant zèb ki sèvi pou bay luil esans. Gen pye vetivè nan peyi Ayiti.  2. Rasin plant vetivè. Esans vetivè a sèvi nan endistri pafen.<br>"])

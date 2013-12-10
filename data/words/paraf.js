@@ -1,0 +1,1 @@
+showWord(["n. ","Siyati. Senbòl ekriti pou reprezante non yon moun.<br>"])

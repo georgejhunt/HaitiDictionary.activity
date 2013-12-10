@@ -1,0 +1,1 @@
+showWord(["n. ","Yon bagay ki sèvi pou pwoteje yon lòt bagay. 2. Kondon.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Po kochon fri. Kwenn gen anpil grès.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Manje ki gen anpil likid ladan l. Mwen pa fouti pèdi abitid bwè soup premye janvye a.<br>"])

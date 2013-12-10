@@ -1,0 +1,2 @@
+showWord([" n fr. "," Maladi enfektye (ki gen enfeksyon) kontajye (atrapan). Li bay lafyèv, li fè moun nan egare epi li fè li pa ka dijere manje byen. Mikwòb ki bay li a se yon basiy. Jera pat janm te fè lafyèv tifoyid."
+])

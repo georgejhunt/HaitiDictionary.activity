@@ -1,0 +1,1 @@
+showWord(["n. ","Aksyon kote ou fè ranje sa ki gate osnon defèt. Yo fè reparasyon nan oto a pou san dola.<br>"])

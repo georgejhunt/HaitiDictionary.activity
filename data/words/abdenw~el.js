@@ -1,0 +1,1 @@
+showWord(["n.","dekorasyon pou make fèt Nwèl. Devan Lakomin gen yon abdenwèl ak anpil limyè pou dekore pandan sezon fèt nwèl la.<br>"])

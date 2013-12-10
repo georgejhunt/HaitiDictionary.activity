@@ -1,0 +1,1 @@
+showWord(["n. ","espas vid sou presyon negatif parapò ak presyon nòmal atmosfè a.<br>"])

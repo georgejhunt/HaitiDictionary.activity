@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ranje yon bagay dapre yon plan . Konbinezon koulè sa a byen bèl. 2. Nan matematik, gwoupman pou fè kalkil. Ou ka sèvi ak parantèz osnon kwochè osnon akolad pou ou ranje konbinezon yo.  3. Manigans, mànèv. Jànin fè konbinezon ak Jan pou mete Jak deyò nan asosyasyon an."
+])

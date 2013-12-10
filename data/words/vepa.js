@@ -1,0 +1,1 @@
+showWord(["v fr.","Pa vle. Mwen ve pa ou ale deyò a.<br>"])

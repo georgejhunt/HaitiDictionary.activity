@@ -1,0 +1,1 @@
+showWord(["n. "," legim fèy vèt. Kreson bay bouyon bon gou.<br>"])

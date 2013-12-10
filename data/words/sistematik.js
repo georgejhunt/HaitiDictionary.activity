@@ -1,0 +1,1 @@
+showWord(["a. ","ki fèt ak metòd epi nan lòd ki te deside davans.<br>"])

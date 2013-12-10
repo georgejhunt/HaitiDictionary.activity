@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Mèb ki fèt pou moun kouche sou li. Mwen te ranje kabann mwen depi maten. 2. Akomodasyon pou dòmi. Nenpòt kote mwen jwenn, depi dòmi nan je m, mwen ranje kabann mwen mwen dòmi. 3. Karabann, pyèj zwazo."
+])

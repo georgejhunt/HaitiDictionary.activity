@@ -1,0 +1,1 @@
+showWord(["n. ","Endistri kote ki gen gwo ekipman epi kote yo fabrike diferant kalite pwodui. Jak ap travay nan lizin pre lakay li a.<br>"])

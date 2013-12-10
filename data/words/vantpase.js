@@ -1,0 +1,1 @@
+showWord(["n fr. "," Dyare. Li gen yon vant pase li pa ka rete.<br>"])

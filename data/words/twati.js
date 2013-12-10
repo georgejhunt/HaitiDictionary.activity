@@ -1,0 +1,1 @@
+showWord(["n. ","Do kay. Twati sa a fèt ak til.<br>"])

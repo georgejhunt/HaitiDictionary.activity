@@ -1,0 +1,1 @@
+showWord(["a. "," Nonm ki vini apre dizuityèm epi anvan ventyèm. Mwen rive nan diznevyèm paj liv la.<br>"])

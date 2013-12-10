@@ -1,0 +1,1 @@
+showWord(["n. ","atitid pou prepare move kou ki ka rive.<br>"])

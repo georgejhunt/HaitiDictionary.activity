@@ -1,0 +1,1 @@
+showWord(["n. "," Senbòl an metal ki ka gen yon sans relijye tankou li ta ka gen foto lasentvyèj ladan l. Gen moun ki renmen meday annò. 2. Senbòl pou rekonèt yon moun ki pote premye pri.<br>"])

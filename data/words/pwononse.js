@@ -1,0 +1,1 @@
+showWord(["v. "," Li yon mo osinon yon fraz pou lòt moun tande; Pouse son pou <br>"])

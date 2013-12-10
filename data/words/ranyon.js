@@ -1,0 +1,2 @@
+showWord(["n.","1. moso twal ki sèvi pou netwaye. Rad ki dechire. Mwen gen yon bwat plen ranyon, gad ladan l wa jwenn twal pou siye. 2. moun san respè. Gen moun yo fè tankou se ranyon yo ye, yo fè tout sa ki pa bon."
+])

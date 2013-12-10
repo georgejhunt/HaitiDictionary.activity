@@ -1,0 +1,1 @@
+showWord(["n. ","Ògàn femèl plant ki fè flè. Pistil pou flè se tankou ovè pou fi.<br>"])

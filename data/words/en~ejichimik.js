@@ -1,0 +1,1 @@
+showWord(["","enèji ki soti nan reyaksyon chimik.<br>"])

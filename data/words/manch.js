@@ -1,0 +1,1 @@
+showWord(["n. "," pati nan yon bagay ki fèt pou ou kapab kenbe l. Jan pran malèt la nan manch pou li te kapab pote l.<br>"])

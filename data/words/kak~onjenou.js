@@ -1,0 +1,1 @@
+showWord(["n fr. "," Zo jenou ki kouvri kote zo janm ak zo kwis la kontre. Sesil gen doulè nan kakòn jenou li.<br>"])

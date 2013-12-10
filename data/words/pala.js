@@ -1,0 +1,1 @@
+showWord(["","absan<br>"])

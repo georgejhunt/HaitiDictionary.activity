@@ -1,0 +1,1 @@
+showWord(["n. ","resèvwa pou konsève manje moun osinon manje bèt epi sitou manje angren. 2. Resèvwa militè souteren.<br>"])

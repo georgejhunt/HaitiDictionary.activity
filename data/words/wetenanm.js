@@ -1,0 +1,1 @@
+showWord(["v fr.","Pèdi kontwòl tèt li. Jan fè tankou yon moun yo wete nanm li.<br>"])

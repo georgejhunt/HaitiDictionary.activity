@@ -1,0 +1,1 @@
+showWord(["n. ","1. moun ki resevwa konfidans ak sekrè yon lòt moun. 2. Bon zanmi.<br>"])

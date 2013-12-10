@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Mete sang. Apa ou poko sangle bèt la? <br>"])

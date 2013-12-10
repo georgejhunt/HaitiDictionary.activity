@@ -1,0 +1,2 @@
+showWord(["v.","1. Deplasman dlo. Depi ou wè dlo a ap koule, konnen bonm nan gen twou ladan l. 2. Chape, Soti anba men. Pandan mwen ap pale avèk ou la a, li gentan koule, li ale. 3. Ki pa pase lekòl. Laza al nan bakaloreya senk fwa, li toujou koule. 4. Separe, pase nan paswa. Si ou pa koule ji a, ap gen twòp ma ladan l."
+])

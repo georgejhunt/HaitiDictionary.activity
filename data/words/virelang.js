@@ -1,0 +1,1 @@
+showWord(["v fr.","Chanje pawòl. Ou fin di m yon koze epi ou vire lang ou kounye a.<br>"])

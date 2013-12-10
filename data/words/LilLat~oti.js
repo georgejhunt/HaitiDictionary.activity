@@ -1,0 +1,1 @@
+showWord(["","Zile ki anwo nò peyi Ayiti. Li mezire 70 mil kare. Li te bati an 1625.<br>"])

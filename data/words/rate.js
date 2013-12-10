@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Pèdi okazyon. Nou rate opòtinite pou nou ale nan lanmè ansanm.  2. Mal vize. Yo rate objektif yo. 3. n. Sitiyasyon kote yon evenman osnon yon danre vin ra. Gen rate pitimi semenn sa a.<br>"])

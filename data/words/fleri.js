@@ -1,0 +1,1 @@
+showWord(["v. ","1. Ki fè flè. Pye seriz sa a toujou fleri nan prentan. 2. Devlope. Biznis la fleri<br>"])

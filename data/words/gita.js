@@ -1,0 +1,1 @@
+showWord(["n. ","Enstriman mizik ak sis kòd. Se yon bèl bagay lè yon moun konn jwe gita.<br>"])

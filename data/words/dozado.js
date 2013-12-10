@@ -1,0 +1,1 @@
+showWord(["","1. Adv. ki pa an amoni; ki fè kont. 2. Pozisyon yon bagay pa rapò ak yon lòt.<br>"])

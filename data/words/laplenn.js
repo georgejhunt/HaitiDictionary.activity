@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Espas tè plat nan nivo lanmè ki ka fè agrikilti. Manman mwen te konn mennen mwen al pase vakans laplenn chak ane. 2. Katye plat nan zòn nèwès Pòtoprens. Moun ri rete Laplenn gen anpil lakou epi yo gen anpil dlo.<br>"])

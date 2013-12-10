@@ -1,0 +1,1 @@
+showWord(["n. ","Fizib ki ka fonn lè li chofe. Al gade si se pa fyouz la ki sote.<br>"])

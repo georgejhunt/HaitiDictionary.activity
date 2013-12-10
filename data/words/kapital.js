@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Lajan, byen, richès ki rapòte enterè. Manman lajan an. Ou dwe gen anpil kòb kounye a paske se pa jodi a kapital lajan ou lan ap travay. 2. Vil enpòtan kote biwo gouvènman yon peyi enstale. Pòtoprens se kapital peyi Ayiti, se la palè nasyonal la ye tou."
+])

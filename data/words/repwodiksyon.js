@@ -1,0 +1,2 @@
+showWord(["n. ","1. Kopi, ki pa orijinal lan. Tablo sa a se yon repwodiksyon.  2. Aksyon lè ovil yon fi epi yon espèmatozoyid yon gason kontre pou yo bay yon tibebe lavi. Repwodiksyon se yon mirak lanati."
+])

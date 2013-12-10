@@ -1,0 +1,1 @@
+showWord(["n. ","1. Recho dife. Mezanmi timoun rale kò nou bò kote fwaye dife a non. 2. Kote yon limyè konsantre.<br>"])

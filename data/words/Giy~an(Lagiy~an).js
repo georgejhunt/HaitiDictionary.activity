@@ -1,0 +1,1 @@
+showWord(["np. ","Peyi nan Ameriksisid. Li vin endepandan kont Angletè an 1966. Li gen yon milyon moun ki ap viv sou 215 mil kilomèt kare. Kapital li se Jòjtawn.<br>"])

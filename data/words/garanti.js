@@ -1,0 +1,1 @@
+showWord(["n. ","1. Kosyon. Mwen mande ou papye kay ou a kòm garanti pou lajan mwen prete ou a. 2. Asirans. Fòk ou ban m garanti ou pap chanje lide.<br>"])

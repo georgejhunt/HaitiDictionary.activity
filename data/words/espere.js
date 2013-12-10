@@ -1,0 +1,1 @@
+showWord(["v.","Atann. Mwen espere na wè pita. Ou fè tankou ou pat espere gen bèl machin sa a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","langan espesyalize; langaj pou moun ki inisye sèlman ka konprann.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","1. n. senbòl nan matematik pou montre gwoup ki ale ansanm osinon pou make miltiplikasyon. 2. Senbòl nan yon fraz ki endepandan men ki pote enfòmasyon.<br>"])

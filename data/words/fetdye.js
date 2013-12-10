@@ -1,0 +1,1 @@
+showWord(["n. ","Fèt nan legliz katolik ki rive apre dimanch sent Trinite. Fètdye rive jou jedi apre dimanch sent Trinite.<br>"])

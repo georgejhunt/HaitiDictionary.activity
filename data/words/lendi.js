@@ -1,0 +1,1 @@
+showWord(["n. "," jou ki vini apre dimanch. Chak lendi mwen al fè lesiv.<br>"])

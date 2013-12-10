@@ -1,0 +1,2 @@
+showWord(["np.","Atis, chantè ayisyen ki te konn chante reyalite sosyal pèp ayisyen an sou gita ak anpil epis. Twaka mizik Tiparis yo gen mesaj ki gen valè kiltirèl pèp la apresye. Yo popilè anpil nan diferan gwoup sosyal yo. Apre msye mouri yo vin ap pale plis sou li kòm yon atis ki plen talan ki te konn chante reyalite pèp la yon fason senp, klè, san makiyaj."
+])

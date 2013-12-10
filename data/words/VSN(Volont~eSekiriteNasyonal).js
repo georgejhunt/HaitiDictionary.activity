@@ -1,0 +1,2 @@
+showWord(["","tonton makout. Gwoup paramilitè Divalye te fòme pou l te kapab kenbe pouvwa nan peyi Ayiti. Se konsa li te reyisi netralize lame, kraze tout fòm opozisyon, tout kritik kont gouvènman lan. VSN te travay san peye. Pou yo te kapab gen kòb yo te fè anpil abi sou sivil yo."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","patisipasyon nan yon travay ak lòt moun pou jwenn rezilta tout moun yo dakò sou yo davans.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v. ","1. Wè ak je w. vin chita gade televizyon, gen yon bon ti pwogram yo pral pase la a. 2. Veye. Se Lisiyis ki gade kay la pou mwen lè mwen pati. 3. entj. Rete, fè respè w. Gade tande machè, pa betize avè mwen tande!"
+])

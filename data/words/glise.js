@@ -1,0 +1,1 @@
+showWord(["v. ","Deplase sou yon sifas ki lis. Vini pou nou al glise sou palisad la.  2. Deplase sanzatann. Po fig la fèm glise. 3. Fofile. Mwen glise kòm nan sal la mwen pran daso.<br>"])

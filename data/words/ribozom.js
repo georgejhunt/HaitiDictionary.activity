@@ -1,0 +1,1 @@
+showWord(["n. ","pati nan selil plant ak bèt ki gen RNA ak pwoteyin ki la an kantite nan sitoplas tout selil. Prensipal wòl ribozom se asanble pwotein.<br>"])

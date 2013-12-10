@@ -1,0 +1,1 @@
+showWord(["adv.","san konsantrasyon; san pote atansyon.<br>"])

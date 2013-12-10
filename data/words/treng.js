@@ -1,0 +1,1 @@
+showWord(["n. ","Moso bwa long ki ka sèvi pou sipòte yon bagay.<br>"])

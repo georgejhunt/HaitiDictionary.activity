@@ -1,0 +1,1 @@
+showWord(["a. ","1. tapi osinon twal ki kite dlo pase. 2. Karaktè yon moun ki pa antete sou pozisyon l.<br>"])

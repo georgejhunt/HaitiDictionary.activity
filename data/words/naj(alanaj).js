@@ -1,0 +1,1 @@
+showWord(["n. ","Mouvman nan dlo pou deplase san touche tè. Travèse pisin nan alanaj.<br>"])

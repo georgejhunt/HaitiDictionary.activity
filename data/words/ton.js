@@ -1,0 +1,2 @@
+showWord(["n. ","1. Nivo vwa. Ton vwa li rive jis bò isit. 2. Fason yon moun pale. Kawòl pale ak Jera sou yon ton, ou ta di se ak yon timoun li ap pale a.  3. Espès pwason. Nou pral manje yon salad ton."
+])

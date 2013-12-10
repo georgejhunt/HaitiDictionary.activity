@@ -1,0 +1,1 @@
+showWord(["n. ","Sak ki nouri fetis pandan gwosès. Gen moun ki pouse plasanta a tousuit apre tibebe a fèt.<br>"])

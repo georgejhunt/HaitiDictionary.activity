@@ -1,0 +1,1 @@
+showWord(["v.","Eta yon moun osnon yon bèt ki anvayi ak mikwòb. Depi mwen gade maleng nan mwen wè li enfekte.<br>"])

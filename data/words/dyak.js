@@ -1,0 +1,2 @@
+showWord(["n. ","1. Nan legliz primitif, se tit yo bay fidèl nan legliz katolik ki gen responsablite pou separe zèv bay pòv. 2. Etap tanporè nan preparasyon yon prèt katolik, anvan li òdone. 3. Tit pèmanan nan legliz katolik."
+])

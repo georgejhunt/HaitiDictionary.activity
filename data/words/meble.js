@@ -1,0 +1,1 @@
+showWord([" v. "," Mete mèb. Jak meble kay la ak bon gou.<br>"])

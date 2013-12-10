@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Pwoche sou yon kote. Jak panche pou li pale ak Bèta.  2. Kwochi. Mi sa a panche. 3. Pran pozisyon. Doris plis panche pou li ta retounen Ayiti.<br>"])

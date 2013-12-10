@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki ap antrene yon ekip.  Se Filip ki antrenè ekip foutbòl la.Moun ki ap antrene yon ekip.  Se Filip ki antrenè ekip foutbòl la.Moun ki ap antrene yon ekip.  Se Filip ki antrenè ekip foutbòl la.<br>"])

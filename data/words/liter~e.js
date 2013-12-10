@@ -1,0 +1,1 @@
+showWord(["a. ","Ki gen avwa ak literati.<br>"])

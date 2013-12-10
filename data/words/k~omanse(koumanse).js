@@ -1,0 +1,2 @@
+showWord(["v.","Fè premye pati nan yon bagay. Chapant yo pral kòmanse bati kay la lòt mwa. Eske ou kòmanse travay lekòl la?. Sa ki pi difisil nan yon bagay se kòmanse l, apresa, rès la fasil. 2. Pati ki tache ak yon vèb pou montre aksyon vèb la fèk tanmen. Prezidan an kòmanse pale."
+])

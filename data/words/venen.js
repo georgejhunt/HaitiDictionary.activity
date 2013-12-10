@@ -1,0 +1,1 @@
+showWord(["n. ","pwazon ki sot nan bèt osinon nan plant.<br>"])

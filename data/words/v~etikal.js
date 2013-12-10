@@ -1,0 +1,2 @@
+showWord(["a.","Ki kanpe toudwat, pozisyon kanpe .Ki pèpandikilè pa rapò ak yon liy orizontal. Bòs mason ki ap bati kay sa a mezire ak prekosyon pou mi yo byen vètikal. 2. n. Soti anwo desann anba nan liy dwat."
+])

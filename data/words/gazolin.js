@@ -1,0 +1,1 @@
+showWord(["n. ","Sous enèji likid ki fè motè machin mache. Oto a bezwen gazolin.<br>"])

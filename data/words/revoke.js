@@ -1,0 +1,1 @@
+showWord(["v.","ki pèdi travay li sanzatann. Mwen pa menm konn poukisa yo revoke mwen an menm.<br>"])

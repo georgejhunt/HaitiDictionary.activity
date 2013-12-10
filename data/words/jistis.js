@@ -1,0 +1,2 @@
+showWord(["n. ","Ògànizasyon, sistèm pou aplike la lwa. 2. Rekonesans dwa yon moun.Desizyon ki respekte dwa moun, ki bay moun ki antò a pinisyon li merite. 3. Tribinal (lajistis). Pouvwa pou fè respekte lalwa. Gen anpil moun ki ap lite pou jistis egziste pou tout moun, timoun kou granmoun, pòv kou rich."
+])

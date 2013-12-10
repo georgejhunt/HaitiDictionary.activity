@@ -1,0 +1,2 @@
+showWord(["","laj, peryòd tan."
+])

@@ -1,0 +1,2 @@
+showWord(["np. ","Ekriven, powèt, novelis, jounalis, kritik literè, pwofesè. Li fèt Senlui-Dinò an Novanm 1936. Li te elèv nan lise Tètilyen Gilbo nan Pòdepè. Li te fonde yon jounal ALe Petit Samedi Soir@ dabò nan depatman Nòdwès apresa li vin enstale près la Pòtoprens. Li repibliye plizyè tèks nan literati Ayisyen epitou plizyè antoloji sou powèt nan Nòdwès. Li pibliye liv lekòl espesayalman manyèl literati Ayisyen."
+])

@@ -1,0 +1,1 @@
+showWord(["","Pyès teyat ki trè popilè nan ane 1980 yo. Otè a se Frank Etyèn. Pandan ennan yo fè depase 30 reprezantasyon. Leta te deside fèmen pyès la paske li te gen kritik ak refleksyon sosyal louvri-je ladan l.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Sikilasyon oto. Tout wout bloke tèlman trafik la malouk sou Granri a.<br>"])

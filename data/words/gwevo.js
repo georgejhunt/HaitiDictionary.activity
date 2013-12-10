@@ -1,0 +1,1 @@
+showWord(["n. ","Ti chanm ki sèvi pou sèvis vodou. Anjeneral li gen yon otèl ladan l. Si ou pa inisye ou pat dwe antre nan gwevo a.<br>"])

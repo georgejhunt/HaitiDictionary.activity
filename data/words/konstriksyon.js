@@ -1,0 +1,1 @@
+showWord(["n. ","1. Bilding. Ala yon bèl konstriksyon se kay sa a. 2. Chantye. Li lè pou konstriksyon sa a fini.<br>"])

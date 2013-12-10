@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pyebwa ki bay grenn zanmann. Pye zanmann bay lonbray.  2. Fwi ki soti nan pye zanmann. Timoun renmen kase zanmann. 3. Nwa ki andedan fwi a, nannan an. Lè timoun yo kase fwi a, yo jwenn nannan zanmann nan ladan l."
+])

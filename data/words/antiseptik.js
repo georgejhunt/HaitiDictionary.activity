@@ -1,0 +1,1 @@
+showWord(["n.","Yon pwodui ki kontwole devlopman  mikwòb epi anpeche koloni yo gwosi.<br>"])

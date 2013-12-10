@@ -1,0 +1,1 @@
+showWord(["v fr.","Gentan fè kichòy byen vit anvan lòt moun. Pye kout pran devan konsa li va gentan rive anvan pye long.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","riz  Ou gen odas pou ou plede toujou!<br>"])

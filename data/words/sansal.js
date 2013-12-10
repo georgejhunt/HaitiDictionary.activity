@@ -1,0 +1,1 @@
+showWord(["","1. a. Moun ki pa gen ijyèn osinon ki pa gen diyite. 2. Maladi enfeksyon nan san.<br>"])

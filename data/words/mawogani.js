@@ -1,0 +1,1 @@
+showWord(["n. ","Bwa di ki sèvi pou fè mèb ak eskilti.<br>"])

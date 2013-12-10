@@ -1,0 +1,1 @@
+showWord(["n. ","pati santral yon wou ki konekte ak aks.<br>"])

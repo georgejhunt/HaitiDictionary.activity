@@ -1,0 +1,1 @@
+showWord(["n fr. ","Papiyon ki aktif nannuit. Gade yon papiyon denuit.<br>"])

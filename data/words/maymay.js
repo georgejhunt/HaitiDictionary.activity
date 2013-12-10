@@ -1,0 +1,1 @@
+showWord(["n. ","Gwoup timoun ki ap fè bwi. Timoun piti. Mwen voye maymay la al jwe nan lakou a.<br>"])

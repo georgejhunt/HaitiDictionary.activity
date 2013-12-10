@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Tout bagay, tout enèji, tout latè, galaksi ak tout espas ki ant yo. 2. Latè ak tout sa ki ladan l ak tout sa ki sou li. 3. Ras moun. 4. [nan syans estatik] se tout moun ki rete nan yon espas defini ki sèvi kòm baz pou yo pran echantiyon."
+])

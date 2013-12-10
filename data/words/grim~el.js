@@ -1,0 +1,1 @@
+showWord(["n. "," Fi koulè klè ak tèt grenn. Ti grimèl sa a timid anpil. (al gade grimo)<br>"])

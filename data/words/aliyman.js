@@ -1,0 +1,1 @@
+showWord(["n.","pozisyon an liy.<br>"])

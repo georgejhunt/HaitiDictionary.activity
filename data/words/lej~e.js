@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Ki pa lou. Malèt sa a lejè paske li pa gen anyen ladan l. 2. Ki fasil pou atake moun. Men ou lejè papa, mwen di ou rete trankil, si ou kontinye ap ban mwen kou mwen ap goumen avè w."
+])

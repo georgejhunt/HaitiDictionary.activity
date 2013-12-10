@@ -1,0 +1,1 @@
+showWord(["a. ","Ki pa ka fè anpil bagay ak men l paske men an fèb. Men pòk.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo basen dlo dous (osinon brak) natirèl. Letan Somat toupre kay grann mwen. 2. Time<br>"])

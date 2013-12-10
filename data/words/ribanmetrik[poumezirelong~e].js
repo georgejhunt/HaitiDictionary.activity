@@ -1,0 +1,2 @@
+showWord(["n fr. "," Santimèt, riban ki make santimèt pa santimèt, anjeneral jiska swasant santimèt, epi ki pèmèt moun mezire twal osnon lòt materyèl. Koutiryè sa a toujou mache ak riban metrik li."
+])

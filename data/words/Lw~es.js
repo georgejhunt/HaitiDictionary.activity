@@ -1,0 +1,2 @@
+showWord(["np. ","Depatman ki gen Pòtoprens kòm chèflye. Li gen 5 awondisman, 18 komin, 6 katye ak 111 seksyon kominal. 2. Direksyon ki agoch yon moun ki bay direksyo nò lafas. Direksyon kote solèy kouche. Pwen kadinal."
+])

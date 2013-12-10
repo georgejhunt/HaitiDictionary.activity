@@ -1,0 +1,1 @@
+showWord(["v. ","kouvri ak twou.<br>"])

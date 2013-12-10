@@ -1,0 +1,1 @@
+showWord(["n. "," Gwoup moun ki antrene pou chante ansanm nan amoni. Kalin nan koral legliz batis la.<br>"])

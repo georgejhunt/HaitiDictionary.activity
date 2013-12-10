@@ -1,0 +1,1 @@
+showWord(["n. ","Kou ak pla men. Yo bay Jak de tap epi li ret trankil. 2. Te ap.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Medikaman luil osnon fèy ki netwaye trip moun. Madan Klod bay timoun yo medsin maten an. 2. Lamedsin. syans ki prepare doktè yo pou yo aprann swaye moun malad Branch pou aprann vin doktè. Jislèn ale nan fakilte medsin nan.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Nan jeyometri, yon segman liy ki gen oryantasyon. 2. Wòl tik osinon moustik ki transfere mikwòb sou yon lòt bèt osinon sou moun jwe nan transmisyon yon maladi. Marengwen se vektè malarya."
+])

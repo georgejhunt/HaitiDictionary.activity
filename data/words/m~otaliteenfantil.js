@@ -1,0 +1,2 @@
+showWord(["","Kalkil sou kantite timoun ki mouri pandan yo piti piti parapò a kantite timoun nan menm gwoup laj la. Ayiti, mòtalite enfantil 190 pou mil, sa vle di sou chak 1000 timoun ki fèt, gen 190 ki mouri anvan yo vin pi gran. Gen plis moun jenn pase moun vye. Fi viv jiska yon mwayèn laj 47 an men gason viv jiska yon mwayèn 49 an; enfòmasyon sa a endike gen anpil moun ki mouri jèn, sitou timoun piti."
+])

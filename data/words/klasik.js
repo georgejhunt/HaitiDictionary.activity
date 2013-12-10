@@ -1,0 +1,2 @@
+showWord(["a. ","1. Ki gen avwa ak klas nan lekòl. Founiti klasik.  2. Ki gen avwa ak epòk epi otè ki suiv yon seri règ pou yo ekri. Otè klasik.  3. Ki debyen, ki gen yon rafinman tradisyonèl, ki pa woywoy. Vànya abiye klasik. 4. Ki kouran, ki toujou fèt konsa. Sa se yon repons klasik."
+])

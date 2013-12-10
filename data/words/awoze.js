@@ -1,0 +1,1 @@
+showWord(["v.","mete dlo fe plant grandi osinon pou mouye yon bagay. Awoze rad yo sou mete dlo fe plant grandi osinon pou mouye yon bagay. Awoze rad yo sou <br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","trete san respè yon bagay relijye.<br>"])

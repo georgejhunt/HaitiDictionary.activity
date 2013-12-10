@@ -1,0 +1,1 @@
+showWord(["n. ","Bagay ki pa sèvi anyen. Odil plen tchanpan nan depo a.<br>"])

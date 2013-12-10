@@ -1,0 +1,1 @@
+showWord(["n. ","Zwazo ki konn chante. Madanm sa a gen yon vwa tankou resiyòl.<br>"])

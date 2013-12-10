@@ -1,0 +1,1 @@
+showWord(["","akwonim ki vle di Sèvis Divalyeris.<br>"])

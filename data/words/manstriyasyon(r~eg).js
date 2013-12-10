@@ -1,0 +1,2 @@
+showWord(["n. ","Peryòd regilye nan mwa (sik mansyèl) lè yon fi ap bay san ki soti nan matris li. Si fi a gen yon ze ki fètilize, manstriyasyon an pa vini chak mwa ankò. Apre akouchman règ la retounen nòmal ankò."
+])

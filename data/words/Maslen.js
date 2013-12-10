@@ -1,0 +1,2 @@
+showWord(["np. "," Ekriven. Ansanm ak frè l Pyè Maslen, li te ekri woman sou lavi peyizan Ayisyen. Pami yo, genyen ""Le crayon de Dieu"", Canapé Vert"", epi ak ""La Bète de Musseau"". Gen nan liv mesye sa yo ki tradui nan lang Angle."
+])

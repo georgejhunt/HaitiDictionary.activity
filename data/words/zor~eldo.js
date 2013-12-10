@@ -1,0 +1,1 @@
+showWord(["n fr. "," Zo ki fòme kolòn vètebral. Zo rèl do m ap fè m mal.<br>"])

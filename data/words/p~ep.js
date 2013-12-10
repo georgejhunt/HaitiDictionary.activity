@@ -1,0 +1,1 @@
+showWord(["n.","Gwoup moun ki ap viv nan yon peyi epi ki gen abitid ki sanble. Pèp ayisyen an pale Kreyòl.<br>"])

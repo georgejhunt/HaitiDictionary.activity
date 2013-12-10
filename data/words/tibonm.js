@@ -1,0 +1,1 @@
+showWord(["n. "," Fèy santi bon ki sèvi pou fè te. Alis ta bwè yon te tibonm.<br>"])

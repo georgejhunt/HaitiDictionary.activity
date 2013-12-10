@@ -1,0 +1,1 @@
+showWord(["np.","Chèmann yon gwoup anketè ki te sot Ozetazini pou te vin envestige an 1930 sou kondisyon Ayisyen pandan dominasyon meriken yo.<br>"])

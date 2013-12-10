@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Aksyon bosal, babari. Sa se sovajri jan yo tiye moun yo pou dan ri a. 2. Eta moun ki pa renmen mele ak sosyete, ki apa, yon jan sovaj. Se sovajri ki nan kò Elyasen si li pa ka desann vin salye fanmi an."
+])

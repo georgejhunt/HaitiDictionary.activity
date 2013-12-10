@@ -1,0 +1,1 @@
+showWord(["","pratikan nan relijyon Vodou.<br>"])

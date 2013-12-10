@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki manm nan yon gwoup kriminèl.<br>"])

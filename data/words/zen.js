@@ -1,0 +1,2 @@
+showWord(["","1. n. Tripotay, nouvèl ansoudin. Mwen telefone ou la a pou ou kapab ban mwen zen an byen. Yo ap bouyi zen. 2. Dyaz ayisyen ki jwe Ozetazini, sitou nan Nouyòk. Se yon dyaz ki gen anpil jenn moun ladan l epi li gen fi ki chante ladan l tou. Zen rekoni anpil, estil li gen enfliyans meriken ladan l men li kenbe anpil nan estil mereng ayisyen an tou. Li gen mizik sou fi, peyi Ayiti, patriyotis, tèt ansanm, elatriye."
+])

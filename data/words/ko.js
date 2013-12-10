@@ -1,0 +1,1 @@
+showWord(["","deja (M po ko)<br>"])

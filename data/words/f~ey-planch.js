@@ -1,0 +1,1 @@
+showWord(["","planch ki ki fèt lè yo siye tij pye bwa.<br>"])

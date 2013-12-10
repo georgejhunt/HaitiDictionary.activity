@@ -1,0 +1,1 @@
+showWord(["n.","klorat. Jwèt timoun ki frape klorat sou wòch pou fè l fè bri.<br>"])

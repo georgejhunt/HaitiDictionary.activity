@@ -1,0 +1,1 @@
+showWord(["n. ","patnè nan move zak; konplis.<br>"])

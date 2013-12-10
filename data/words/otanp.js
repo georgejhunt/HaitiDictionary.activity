@@ -1,0 +1,1 @@
+showWord(["n. ","Nan tanp. Yo prezante timoun nan otanp jodi a.<br>"])

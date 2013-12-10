@@ -1,0 +1,1 @@
+showWord(["n. ","fi ki pa gen bon prensip moral. manman penbèch.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","kabann moun pòv. Povrete.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","twal an koton ki sèvi pou fè rad timoun.<br>"])

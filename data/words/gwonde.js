@@ -1,0 +1,2 @@
+showWord(["v. ","1. Bwi ki sòti nan gòj moun osnon bèt lè li fache. Lè papa mwen move, li gen yon jan pou l gwonde se kouri nou kouri al kache. 2. Bwi ki fèt lè ou tande loraj. Li pral fè lapli, jan mwen wè loraj ap gwonde la a."
+])

@@ -1,0 +1,1 @@
+showWord(["v. ","Fè yon bwi ak gòj tankou chat fè. Chat la ap wonwonnen.<br>"])

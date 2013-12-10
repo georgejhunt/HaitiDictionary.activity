@@ -1,0 +1,1 @@
+showWord(["v. ","Bay madichon. Pa pale avè m ak bouch ou san lave pou ou pa madichonnen m.<br>"])

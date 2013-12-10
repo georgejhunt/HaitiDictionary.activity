@@ -1,0 +1,1 @@
+showWord(["n. ","Sitiyasyon ki pa jis osinon ki enjis. Pa fè lenjistis.<br>"])

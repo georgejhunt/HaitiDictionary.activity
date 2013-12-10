@@ -1,0 +1,1 @@
+showWord(["n. ","Atraksyon tankou ant leman ak fè. Prensip ki gouvène atraksyon ant de bagay.<br>"])

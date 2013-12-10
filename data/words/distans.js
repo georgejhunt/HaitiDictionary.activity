@@ -1,0 +1,2 @@
+showWord(["n. ","1.  Espas ant yon pwen jouska yon lòt.  Mwen pa konn ki distans ki genyen ant kote ou rete a ak kote mwen rete a. 2. Limit. Mwen ba ou distans ou, pa nan vin pale avèk mwen ankò. Mwen pran distans mwen."
+])

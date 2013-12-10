@@ -1,0 +1,1 @@
+showWord(["n. ","Rès zo apre lanmò. Zosman mò.<br>"])

@@ -1,0 +1,1 @@
+showWord(["onom.","Son pou endike bri yon bagay te fè.<br>"])

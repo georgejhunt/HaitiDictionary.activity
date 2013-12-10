@@ -1,0 +1,1 @@
+showWord(["n. ","gason ki gen plizyè madanm. Fi ki gen plizyè mari.<br>"])

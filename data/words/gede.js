@@ -1,0 +1,2 @@
+showWord(["n. ","Mistè ki reprezante lespri moun ki mouri. Lwa vodou ki anba kòmand bawon samdi. Dapre kwayans vodou lwa ki manje manje espesyal. Li renmen kleren, lanmori sale, piman pike, kasav ak manje boukannen."
+])

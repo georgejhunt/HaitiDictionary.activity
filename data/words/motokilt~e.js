@@ -1,0 +1,1 @@
+showWord(["n. ","machin agrikòl ki gen motè agaz epi ki ka pran diferan zouti pou fè diferan travay nan jaden.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," Depo ki fèt nan fon yon likid, ak tout tikal osnon ti moso solid fenfen ki te nan likid la. Si ou kite yon dlo sal poze ap gen sediman tout salte ki te nan dlo a ki pral chita nan fon veso a."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Kay anpay nan zòn riral. Mwen gen yon joupa andeyò.<br>"])

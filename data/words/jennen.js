@@ -1,0 +1,2 @@
+showWord(["v.","1. Ki nan difikilte, ki pa alèz. Misye jennen avèk mwen.  2. Ki sou wout. Ou jennen m la a, al chita laba a. 3. a. Etwat. La a jennen, pa gen espas pou nou tout. Se nan chemen jennen ou pran chwal malen."
+])

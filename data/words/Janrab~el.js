@@ -1,0 +1,1 @@
+showWord(["np. "," Vil nan depatman Nòdwès. Moun Janrabèl.<br>"])

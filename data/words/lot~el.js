@@ -1,0 +1,2 @@
+showWord(["n. "," Konstriksyon ki fèt pou resevwa vizitè ki bezwen rete la pou detwa jou. Gen lotèl ki gen anpil liks, ak bèl salon depi annantran epi chanm yo konn bèl tou. Anjeneral Ayiti se plis touris ki al nan lotèl."
+])

@@ -1,0 +1,1 @@
+showWord(["v. "," Difikilte pou poupou. Pitit la konstipe.<br>"])

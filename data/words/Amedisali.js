@@ -1,0 +1,1 @@
+showWord(["np.","òganizasyon legliz ki ede moun ki pòv lè yo vin manm legliz.<br>"])

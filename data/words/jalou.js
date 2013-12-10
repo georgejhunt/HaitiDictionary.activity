@@ -1,0 +1,1 @@
+showWord(["a.","1. Ki toujou sispèk gen lòt moun ki ap pataje lanmou li. Mwen se yon moun ki jalou.<br>"])

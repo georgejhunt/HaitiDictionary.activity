@@ -1,0 +1,1 @@
+showWord(["n. ","Ouvèti ki nan mi osnon panno yon kay pou kite lè ak limyè pase. Se nan fenèt sa a vòlè a pase a.<br>"])

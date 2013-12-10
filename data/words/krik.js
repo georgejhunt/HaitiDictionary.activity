@@ -1,0 +1,1 @@
+showWord(["entj.",". Entèjeksyon ki mande pou moun reponn Krak. Krik?Krak!<br>"])

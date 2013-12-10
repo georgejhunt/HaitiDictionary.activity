@@ -1,0 +1,2 @@
+showWord(["v.","1.  Mete nan bobin.  Vin anbobinen fil sa a pou mwen.   2. Bay yon moun manti. Jan anbobinen Beti. 3.  Melanje, foure kò nan yon bagay konplike.  Poukisa ou anbobinen tèt ou nan pwojè sa a?"
+])

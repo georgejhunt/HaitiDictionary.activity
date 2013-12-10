@@ -1,0 +1,2 @@
+showWord(["n. ","metòd divizyon nan selil. Nòmalman mitoz gen kat faz (etap) profaz, metafaz, anafaz ak telofaz. Nan mitoz, kromozom yo double (vin fè de) epi separe an de direksyon. Chak branch idandik ak lòt la. Chak branch vin ògànize pou tounen yon selil idantik youn ak lòt epi tou ki sanble ak manman selil ki te kòmanse yo a. An rezime, nan mitoz yon selil (manman) vin divize an de pou bay de selil idantik."
+])

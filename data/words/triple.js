@@ -1,0 +1,1 @@
+showWord(["","ki an gwoup twa. Ki vin twa ansanm<br>"])

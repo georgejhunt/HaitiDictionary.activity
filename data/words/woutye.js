@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène wout. 2. Tit nan ògànizasyon eskout. 3. Moun ki gen anpil eksperyans.<br>"])

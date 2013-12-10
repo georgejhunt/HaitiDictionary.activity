@@ -1,0 +1,1 @@
+showWord(["n. ","mo ki vilgè pou pati nan kò moun kote de kuis yo kontre. Pantalon an dechire nan fouk. <br>"])

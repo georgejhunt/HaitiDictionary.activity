@@ -1,0 +1,1 @@
+showWord(["n. ","1. Yon entèval tan ki kout. Aksidan an fèt nan yon moman.  2. Tan. Lè moman pa ou rive.<br>"])

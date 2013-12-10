@@ -1,0 +1,1 @@
+showWord(["v.","kole de moso twal ansanm ak egui ak fil. Fè kouti. Mwen pral aprann koud paske rad alèkile koute twò chè.<br>"])

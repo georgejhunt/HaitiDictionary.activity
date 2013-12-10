@@ -1,0 +1,1 @@
+showWord(["n. ","Zèb ki pouse sou tè. Gen raje ki sanble gazon men gazon li menm se yon zèb dekoratif ki fè bèbèl sou teren. Jan koupe gazon an chak mwa.<br>"])

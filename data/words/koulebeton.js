@@ -1,0 +1,1 @@
+showWord(["v fr.","Prepare epi vide melanj mòtye nan kofray la lè yo ap bati yon kay. Se jodi a yo ap koule beton an. <br>"])

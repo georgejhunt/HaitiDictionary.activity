@@ -1,0 +1,2 @@
+showWord(["n.","Moun ki gen resposablite pou deside nan tribinal osinon nan yon teren. Jij, jije m byen. Jij de-touch. 2. Majistra, moun ki gen responsabilite pou li aplike lalwa epi fè respekte jistis. Pwosè a fèt devan Jij Simon. 3. Moun ki andwa jije osnon bay opinyon li pou abitre yon sitiyasyon. Janjan sèl jij nan sitiyasyon sa a."
+])

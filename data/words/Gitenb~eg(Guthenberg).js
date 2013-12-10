@@ -1,0 +1,2 @@
+showWord(["","Alman ki envante epi devlope machin pou enprime. Teknk enpresyon te deja devlope an Chin, Gitennbèg devlope font mobil ak machin pou sèvi ak font yo. Se yon envansyon ki fè kominikasyon ak literati devlope an mas nan lemonn."
+])

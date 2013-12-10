@@ -1,0 +1,1 @@
+showWord(["a.","ki òganize dapre lòd alfabè.<br>"])

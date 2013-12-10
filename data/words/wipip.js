@@ -1,0 +1,1 @@
+showWord(["entj. ","Son pou endike admirasyon osinon kontraryete.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Riban flekib ki sèvi pou griji twal. Elastik kilòt la fini, se sa ki fè li ap plede tonbe sou timoun nan.  2. Riban kawotchou fleksib ki fèmen tankou yon sèk. Mwen woule papye yo epi mwen soutni yo ak de riban elastik.  3. a. Fleksib. Moun isit yo gen yon orè trvay ki elastik, yo louvri lè yo vle, yo fèmen lè yo vle."
+])

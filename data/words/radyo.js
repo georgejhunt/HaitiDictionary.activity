@@ -1,0 +1,2 @@
+showWord(["n.","1. zouti ki pèmèt ou pran pòs lè ou bezwen tande pwogram. Mwen pa gen radyo lakay mwen, se sa ki fè mwen pa gen nouvèl. 2. Estasyon kote pwogram nan soti a. Ou te konn tande Radyo Ayiti? 3. Ond pou tande pwogram."
+])

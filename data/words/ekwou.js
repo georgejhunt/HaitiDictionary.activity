@@ -1,0 +1,1 @@
+showWord(["","moso bwa osinon moso metal ki gen yon twou kote pou vis pase; boulon.<br>"])

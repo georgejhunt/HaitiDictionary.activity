@@ -1,0 +1,1 @@
+showWord(["n.","moun ou byen avè l. Mwen poko fè zanmi paske mwen fèk vin rete nan katye a.<br>"])

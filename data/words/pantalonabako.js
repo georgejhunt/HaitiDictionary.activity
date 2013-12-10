@@ -1,0 +1,2 @@
+showWord(["n.","Pantalon ki fèt ak yon twal ble koton. Pantalon abako yo solid anpil epi yo kapab pran pousyè. Lè nou pral pentire kay la, nou mete vye pantalon abako nou sou nou pou nou pa sal bon pantalon nou."
+])

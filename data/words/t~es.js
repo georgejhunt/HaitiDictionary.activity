@@ -1,0 +1,2 @@
+showWord(["n.","1. Egzamen laboratwa. Mwen t al fè tès kay doktè a, li di-m mwen anfòm, mwen pa malad. 2. Egzamen lekòl. Tès mwen t al pase lòtrejou a te byen di men mwen pase l kanmenm paske mwen fò."
+])

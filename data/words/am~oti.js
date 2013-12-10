@@ -1,0 +1,2 @@
+showWord(["v.","Absòbe, pare chòk.  Si se pat sou sab la pitit la te tonbe, chòk li pran an pa tap amòti, li te ka kase zo do l. Se gras ak kawotchou machin sa a ki fè chòk msye pran an amòti, si se pat sa msye te kapab kase ren l. Jwè a amòti balon an sou pye goch li, li choute ak pye dwat li --- gòl."
+])

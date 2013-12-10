@@ -1,0 +1,1 @@
+showWord(["np. ","sizyèm seksyon kominal nan komin PoP nan depatman Lwès. 2. Katye rezidansyèl Pòtoprens.<br>"])

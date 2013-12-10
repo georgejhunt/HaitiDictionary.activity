@@ -1,0 +1,1 @@
+showWord(["n. "," legim. Yon bon toufe ak militon toujou bon sou yon diri blan ak pwa bè.<br>"])

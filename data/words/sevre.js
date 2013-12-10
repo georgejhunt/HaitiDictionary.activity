@@ -1,0 +1,1 @@
+showWord(["v. "," Wete nan tete. Yo sevre Rachèl sou twa mwa.<br>"])

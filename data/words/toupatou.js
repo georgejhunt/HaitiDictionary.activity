@@ -1,0 +1,1 @@
+showWord(["adv. ","Tout kote. Marengwen yo toupatou.<br>"])

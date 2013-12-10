@@ -1,0 +1,2 @@
+showWord(["v.","1. Fè tèt ou travay, reflechi, kalkile. Mwen rete detanzantan mwen ap panse, se pa de reflechi mwen reflechi. 2. Pran swen. Netwaye yon maleng pou l pa enfekte. Panse maleng timoun nan non, fòk nou pa kite l enfekte."
+])

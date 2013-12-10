@@ -1,0 +1,1 @@
+showWord(["n. "," Pwodui moun brile pou odè li bay osinon pou enspirasyon li pote nan seremoni. Gen moun ki renmen brile lansan lè yo ap lapriyè.<br>"])

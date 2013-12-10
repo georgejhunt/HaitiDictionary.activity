@@ -1,0 +1,1 @@
+showWord(["n. "," Kote ki netwaye rad ak dolvan akd chalè. Mwen pral pote rad mwen yo nan dray jodi a.<br>"])

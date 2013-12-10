@@ -1,0 +1,1 @@
+showWord(["n. "," Fi ki batize ou la. Pwotestan pa gen marenn.<br>"])

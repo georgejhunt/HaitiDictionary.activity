@@ -1,0 +1,1 @@
+showWord(["","moun ki responsab sekirite lanuit.<br>"])

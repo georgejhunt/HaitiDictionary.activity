@@ -1,0 +1,1 @@
+showWord(["a. ","1. Ki renmen manje. Tigason sa a visye. 2. Ki gen vis. Granmè pa renmen lè Elifèt vini jwe avèk nou paske Elifèt visye.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Gwo bèt avèk bèl pwal mawon, nwa, ou byen blan. Gen moun ki renmen lous paske pwal yo bèl. 2. a. Mare lach, ki pa sere. Mwen pa renmen jan ou mare chyen an, li yon ti jan twò lous pou mwen, mwen pè pou l pa mòde mwen."
+])

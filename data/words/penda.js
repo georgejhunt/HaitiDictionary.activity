@@ -1,0 +1,1 @@
+showWord(["n. ","fi ki lejè.<br>"])

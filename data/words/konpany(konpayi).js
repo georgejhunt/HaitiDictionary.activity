@@ -1,0 +1,1 @@
+showWord(["n. ","1. Prezans. Wozmon te nan konpany yon bann zanmi.  2. Antrepriz. Bèta ap travay nan menm konpany avèk mwen. 3. Anbyans. Fito renmen konpany ti vagabon sa yo.<br>"])

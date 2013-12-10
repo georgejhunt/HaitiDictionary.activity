@@ -1,0 +1,1 @@
+showWord(["n. ","1. Grès ki ka gen medikaman melanje ladan l pou moun pase sou po yo. Viks se yon pomad.  2. Grès pou penyen. Gen tout kalite pomad pou cheve.<br>"])

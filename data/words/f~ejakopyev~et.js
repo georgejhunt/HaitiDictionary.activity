@@ -1,0 +1,1 @@
+showWord(["v fr.","Flate yon fi pou gen atansyon li. Pa vin fè jako pye vèt isi a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","estasyon radyo nan Pòtoprens ki te konn jwe wòl kritik sosyal epi ki bay anpil enfòmasyon an Kreyòl pou fè konneksyon ak tout moun. Enfòmasyon an Kreyòl nan ane 70 yo te louvri je anpil moun sou sitiyasyon peyi a epitou pèmèt yo konpare reyalite yo ak reyalite moun nan lòt peyi.<br>"])

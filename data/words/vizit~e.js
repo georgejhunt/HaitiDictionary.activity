@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki al vè yon vizit tanporè. Moun ki al vizite yon lòt<br>"])

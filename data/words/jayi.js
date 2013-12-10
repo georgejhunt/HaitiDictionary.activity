@@ -1,0 +1,1 @@
+showWord(["v. ","likid ki soti ak fòs. 2. Gen kriz.<br>"])

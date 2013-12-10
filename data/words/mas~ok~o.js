@@ -1,0 +1,1 @@
+showWord(["a. ","Ki mal fèt. 2. Yon kalite yanm ki pouse nan mòn.<br>"])

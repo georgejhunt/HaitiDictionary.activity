@@ -1,0 +1,1 @@
+showWord(["n. ","Anpil. Yon dividal moun.<br>"])

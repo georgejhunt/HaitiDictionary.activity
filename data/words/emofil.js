@@ -1,0 +1,2 @@
+showWord(["n. ","Yon maladi ereditè, san moun nan manke pwodui chimik ki pou fè san kaye. Lè moun sa a blese andedan kou deyò, li pèdi anpil san. Se plis gason ki gen maladi a alòske fi plis pote eleman jenetik la epi transmèt li bay pitit li. 2. a. Yon tip bakteri ki devlope byen kote ki gen emoglobin."
+])

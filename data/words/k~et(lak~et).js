@@ -1,0 +1,2 @@
+showWord(["n.","1. Koleksyon ranmase lajan pou yon pwojè osnon yon objektif byen klè. Pè a fè kèt nan chak mès yo.  2. ent. Kobaba, entèjeksyon ki endike jan yon bagay ka enpòtan. Kèt, kòman mwen pral fè la a?"
+])

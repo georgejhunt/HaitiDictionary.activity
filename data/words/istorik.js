@@ -1,0 +1,1 @@
+showWord(["a. ","1. ki merite pou tout moun sonje. 2. Ki gen rapò ak istwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Disk. Eske ou gen plak Tabou Konmbo a? 2. Mesaj ankadre sou yon bwa pou onore yon moun. Yo bay Marilisi yon plak pou remèsye l. 3. Lisans oto. 4. fo dan.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","yon kò chimik senp ki fè yon gaz vyolèt lè li chofe. Yo mete l nan tenti-dyòd pou sèvi kòm desenfektan.<br>"])

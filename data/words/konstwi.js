@@ -1,0 +1,1 @@
+showWord(["v.","Bati. Mwen pral bati yon gwo kokenn chenn kay sou teren m nan.<br>"])

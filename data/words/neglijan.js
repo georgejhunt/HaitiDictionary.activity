@@ -1,0 +1,1 @@
+showWord(["a. ","Ki pa pran prekosyon nesesè. Timoun neglijan.<br>"])

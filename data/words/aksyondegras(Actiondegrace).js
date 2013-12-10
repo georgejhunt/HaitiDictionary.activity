@@ -1,0 +1,1 @@
+showWord(["n.","1. Peryòd nan lamès. 2. Sèvis ki fè pati seremoni vodou.1. Peryòd nan lamès. 2. Sèvis ki fè pati seremoni vodou.1. Peryòd nan lamès. 2. Sèvis ki fè pati seremoni vodou.1. Peryòd nan lamès. 2. Sèvis ki fè pati seremoni vodou.1. Peryòd nan lamès. 2. Sèvis ki fè pati seremoni vodou.1. Peryòd nan lamès. 2. Sèvis ki fè pati seremoni vodou.<br>"])

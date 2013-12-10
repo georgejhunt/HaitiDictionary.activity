@@ -1,0 +1,1 @@
+showWord(["v. ","fòme koup. 2. mete yon aml ak yon femèl pou yo ka repwodui.<br>"])

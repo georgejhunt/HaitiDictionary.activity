@@ -1,0 +1,2 @@
+showWord(["n. "," Dapre kwayans, moun ki fè malefis epi ki manje moun, sitou timoun. Mo lougawou a siman soti nan mo lou ki vle di bèt sovaj ki konn manje moun. Gen moun ki di lougawou vole nan nuit pou yo al chèche vyann."
+])

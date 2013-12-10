@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pati ki gen komès nan yon vil. Mwen gen pou mwen desann lavil al fè kèk komisyon endsèjou, mwen poko gen tan. 2. Ki pa riral. Mwen pa moun lavil mwen menm, se peyisan mwen ye, mwen pa abitwe ak tout bagay sa yo. 3. Oganizasyon sosyal moun mete sou pye avèk yon majistra pou mennen, moun yo peye taks epi òganizasyon an bay sèvis tankou ranmase fatra, dlo potab, sekirite ak amizman."
+])

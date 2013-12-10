@@ -1,0 +1,1 @@
+showWord(["n fr. "," Sistèm pwoteksyon kò yon moun genyen ki fè li gen antikò pou defann tèt li kont atak mikwòb. Sistèm iminolojik yon moun ka febli apre li sibi plizyè enfeksyon menm lè a.<br>"])

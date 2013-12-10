@@ -1,0 +1,2 @@
+showWord(["n. ","Jijman osnon opinyon negatif ou fè sou yon moun osnon yon gwoup moun, san baz lojik, san evaliyasyon rasyonèl, men ki satisfè kwayans osnon enkyetid ou. Gen anpil moun ki pa gen prejije."
+])

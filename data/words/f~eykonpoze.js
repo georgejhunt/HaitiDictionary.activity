@@ -1,0 +1,1 @@
+showWord(["","fèy ki separe an de lòt ti fèy.<br>"])

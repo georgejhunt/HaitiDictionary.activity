@@ -1,0 +1,2 @@
+showWord(["n. ","Yon metal ki gen koulè gri ki pa twò di yo jwenn nan tè, nan plant, nan bèt, eltr. Yo sèvi ak tè ki gen kalsyòm pou fè siman, pwodui an metal ak anpil pwodui elektwonik. Kò moun bezwen kalsyòm."
+])

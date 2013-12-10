@@ -1,0 +1,1 @@
+showWord(["n. "," Enfeksyon timoun konn fè epi ki fè glann anba kou yo anfle. Lè konsa yo mare machwa timoun ki fè malmouton an ak yon twal ki gen medikaman.<br>"])

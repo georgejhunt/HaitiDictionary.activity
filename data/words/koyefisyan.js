@@ -1,0 +1,1 @@
+showWord(["n. ","Chif ki miltipliye yon varyab. Sis (6x) se koyefisyan an nan egzanp sa a.<br>"])

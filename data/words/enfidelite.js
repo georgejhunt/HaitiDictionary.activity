@@ -1,0 +1,1 @@
+showWord(["n. ","zak yon moun ki pa fidèl.<br>"])

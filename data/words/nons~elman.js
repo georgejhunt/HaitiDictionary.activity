@@ -1,0 +1,1 @@
+showWord(["konj. "," Sa pa ase. Non sèlman li pa vini men li pa rele nonplis.<br>"])

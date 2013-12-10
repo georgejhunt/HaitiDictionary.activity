@@ -1,0 +1,2 @@
+showWord(["n. ","1. Swe, likid ki soti nan kò yon moun ki ap travay di, osinon lè fè chalè. Moun ka pèdi anpil dlo nan kò yo si yo gen anpil transpirasyon. 2. Sitiyasyon, eta yon moun ki ap transpire. Moun ki rete deyò nan tan chalè gen tandans pèdi anpil dlo nan kò yo nan pakèt transpirasyon."
+])

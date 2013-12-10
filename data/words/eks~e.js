@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Sipli, diplis. Si ou gen eksè manje ou mèt retire yon plat pou mwen, tande.  2. Liks. Kote pou mwen ta pran lajan pou mwen ta va ap fè eksè konsa, se malere mwen ye.  3. Egzajerasyon. Mwen pa renmen eksè sa yo, pa gen nesesite pou ou mete tou makiyaj sa a."
+])

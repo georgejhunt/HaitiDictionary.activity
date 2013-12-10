@@ -1,0 +1,1 @@
+showWord(["a.","Ki ka adapte. Se pa tout moun ki adaptab. Ki ka adapte. Se pa tout moun ki adaptab. <br>"])

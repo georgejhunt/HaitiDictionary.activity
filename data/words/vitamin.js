@@ -1,0 +1,2 @@
+showWord(["n. "," Fòtifyan natirèl nan manje osnon sentetik ki endispansab pou kò moun mache byen. Pwodui ògànik. Gen vitamin atifisyèl tou yo fè nan laboratwa osinon nan manifakti. Gen plizyè kalite vitamin, yo tout enpòtan."
+])

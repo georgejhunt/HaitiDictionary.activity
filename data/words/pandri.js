@@ -1,0 +1,1 @@
+showWord(["n. ","espas kote pou mete rad.<br>"])

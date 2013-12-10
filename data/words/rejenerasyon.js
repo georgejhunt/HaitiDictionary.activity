@@ -1,0 +1,1 @@
+showWord(["n. ","Refè yon bagay mache. Rejenerasyon yon motè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","flè ki soti nan yon plant twopikal dekoratif.<br>"])

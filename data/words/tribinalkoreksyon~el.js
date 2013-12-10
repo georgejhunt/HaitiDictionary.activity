@@ -1,0 +1,1 @@
+showWord(["","Jistis kriminèl nan yon awondisman. Li gen jijman orijinal epi ak jijman apèl.<br>"])

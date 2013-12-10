@@ -1,0 +1,2 @@
+showWord(["n. ","Chanjman chimik ki fèt lè yon mikwòb (bakteri, levi) transfòme resous nan yon solisyon epi fè l tounen yon lòt bagay. Pa ekzanp bakteri fèmante lèt pou fè lèt kaye ak fwomaj; levi fèmante sik pou fè alkòl osinon vinèg, levi fèmante farin pou fè gaz nan pen."
+])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ki nan yon sitiyasyon ki pa ni likid, ni solid ki leje, ki ka melanje ak lè. Gen gaz ki gen sant, genyen ki pa gen sant. Gen yon gaz ki rele oksijèn epi gen idwojèn tou. 2. Pete gaz ki soti nan trip moun osinon nan trip bèt. Pa vin rann gaz sou moun la a non. 3. Gazolin, petwòl likid ki sèvi pou fè motè mache. Nan tan anbago sa a, pa janm gen ase gazolin. 4. Sous enèji pou fè chalè."
+])

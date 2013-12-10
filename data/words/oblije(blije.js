@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Gen responsabilite pou fè yon bagay. Li oblije bay timoun yo manje twa fwa pa jou. 2. Gen devwa fè yon bagay. Li oblije pote bon nòt paske nou ba li tout sa li bezwen pou li ka aprann byen lekòl.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","mete moun sou kontwòl ak ipnoz.<br>"])

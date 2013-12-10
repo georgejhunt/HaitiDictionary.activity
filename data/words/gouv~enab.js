@@ -1,0 +1,1 @@
+showWord(["a. ","sitiyasyon ki fasil pou jere.<br>"])

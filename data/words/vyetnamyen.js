@@ -1,0 +1,1 @@
+showWord(["n./a. ","moun ki sot nan peyi Vyetnàm. Ki konsène Vyetnàm.<br>"])

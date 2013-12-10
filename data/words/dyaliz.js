@@ -1,0 +1,1 @@
+showWord(["n. ","teknik ki pèmèt netwaye san yon moun ki pa gen bon ren. 2. Nan chimi teknik pou separe de eleman nan yon konpoze.<br>"])

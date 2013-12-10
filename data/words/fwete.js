@@ -1,0 +1,1 @@
+showWord(["v. ","Kale ak fwèt. 2. Bay kontra pou transpòte moun osinon machandiz.<br>"])

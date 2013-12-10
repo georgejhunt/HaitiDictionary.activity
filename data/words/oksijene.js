@@ -1,0 +1,1 @@
+showWord(["","1. Ki resevwa oksijèn. Poumon ou oksijene. 2. Ki satire ak oksijèn. Dlo oksijene.<br>"])

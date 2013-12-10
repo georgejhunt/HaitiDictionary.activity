@@ -1,0 +1,1 @@
+showWord(["n. "," jou ki vini apre madi. Se yon jou mèkredi madan Bòs te marye ak Bòs.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","pati nan yon zam osinon yon zouti optik kote pou operatè a gade pou li vize.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Anflamasyon yon pati nan kò yon moun apre yon chòk.<br>"])

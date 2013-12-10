@@ -1,0 +1,1 @@
+showWord(["","peyi etranje.<br>"])

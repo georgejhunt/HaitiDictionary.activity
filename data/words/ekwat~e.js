@@ -1,0 +1,1 @@
+showWord(["n. ","1.  Liy imajinè ki fè toutotou latè a distans egal ant de pòl yo epi ki divize latè an de pati egal. Ekwatè pèpandikilè ak aks wotasyon latè.  2. Peyi nan Amerik Disid. Kapital Ekwatè se Kito. 3. Rejyon sou latè kote li fè chalè.<br>"])

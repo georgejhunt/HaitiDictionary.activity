@@ -1,0 +1,1 @@
+showWord(["n. "," Egzaminasyon yon kadav. Ekzaminasyon epi diseksyon sou yon kò mò pou idantifye koz lanmò a. Mò a nan mòg toujou paske yo poko fè otopsi li.<br>"])

@@ -1,0 +1,1 @@
+showWord([""n."," a. ","kalite yon moun ki ap chèche pwogrès san limit, ki ap chèche pèfeksyon nan tout bagay."<br>"])

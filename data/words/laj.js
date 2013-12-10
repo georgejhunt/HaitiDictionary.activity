@@ -1,0 +1,2 @@
+showWord(["","1. Kantite ane depi yon bagay kòmanse, depi yon moun fè; dire yon vi; tan ki pase depi yon moun te fèt. Ki laj ou? 2. Peryòd nan listwa. Laj bwonz. 3. Ki pran anpil espas. Bagay ki laj pran anpil plas. 4. Ki pa sere. Jip la laj. 5. A. Lespri yon moun ki konpreyansif, ki ouvè, ki gen jenewozite."
+])

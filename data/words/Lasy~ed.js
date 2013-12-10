@@ -1,0 +1,1 @@
+showWord(["np. "," Peyi ki nan kontinan Ewòp. Moun ki soti nan peyi Lasyèd rele syedwa.<br>"])

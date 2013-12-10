@@ -1,0 +1,1 @@
+showWord(["n. "," Refleksyon son ki anplifye. Lè mwen al nan bwa mwen toujou renmen tande eko vwa mwen lè mwen pale fò.<br>"])

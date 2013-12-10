@@ -1,0 +1,1 @@
+showWord(["n. "," Zam long an metal sanble ak yon gwo lanm pwenti ki gen fòm manchèt. Gen moun ki te kon goumen ak epe lontan men mwen pa tande yo fè sa alèkile.<br>"])

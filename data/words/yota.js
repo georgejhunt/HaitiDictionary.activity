@@ -1,0 +1,1 @@
+showWord(["","lèt grèk ki reprezante lèt Ai@. 2. Ti kras tou piti.<br>"])

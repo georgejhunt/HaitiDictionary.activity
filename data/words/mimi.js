@@ -1,0 +1,1 @@
+showWord(["n. ","Chat. Gade yon mimi sou fenèt la.<br>"])

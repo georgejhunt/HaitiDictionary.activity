@@ -1,0 +1,2 @@
+showWord(["n. ","Pati nan atòm ki gen chaj negatif. Elektwon se inite fondamantal elektrisite. Elektwon toujou ap deplase toutotou a nwayo yon atòm. Ou gen kouran elektrik lè elektwon ap deplase san rete nan yon kò tankou fè, kuiv, alimonyòm eltr."
+])

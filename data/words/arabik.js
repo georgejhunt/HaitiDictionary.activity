@@ -1,0 +1,1 @@
+showWord(["a.","ki gen relasyon ak Arab. Gom arabik.<br>"])

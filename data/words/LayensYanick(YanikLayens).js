@@ -1,0 +1,2 @@
+showWord(["np. ","Ecriven, pwofesè literati ayisyèn. Li fèt Ayiti nan ane 1953. Li te etidye Ayiti ak an Frans (Sòbòn). Li pibliye AL=Exil, entre l=Ancrage et la Fuite, l=écrivain haitien@ yon analiz, 1990, Edisyon Deschamps, Pòtoprens. ATante Résia et les Dieux@ yon woman kout 1994, edisyon L=Harmatan, Frans."
+])

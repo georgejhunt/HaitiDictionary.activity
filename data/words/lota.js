@@ -1,0 +1,1 @@
+showWord(["n. "," tach nan figi. Adriyen plen lota dèyè kou l.<br>"])

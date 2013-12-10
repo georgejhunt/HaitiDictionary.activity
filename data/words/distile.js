@@ -1,0 +1,1 @@
+showWord(["v. "," Teknik pou konvèti yon pati nan yon likid an vapè (metòd separasyon) epi rafredi vapè a pou li ka tounen likid ankò. Yo distile ji kann fèmante pou fè kleren ak wonm.<br>"])

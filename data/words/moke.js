@@ -1,0 +1,1 @@
+showWord(["v. ","Pase nan betiz. Sispann moke tifi a.<br>"])

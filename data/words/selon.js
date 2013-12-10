@@ -1,0 +1,1 @@
+showWord(["pre.","Sa depan.  Se selon sa li di.<br>"])

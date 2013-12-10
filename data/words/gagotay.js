@@ -1,0 +1,1 @@
+showWord(["n. ","gaspiyaj; mete dezòd.<br>"])

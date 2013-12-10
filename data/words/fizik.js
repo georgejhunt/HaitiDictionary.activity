@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Kò. Mwen pa gen fizik pou mwen leve chay lou.  2. Syans ki etidye matyè, fòs ak deplasman. Mwen renmen kou fizik mwen an.  3. a. Ki regade kò moun. Al fè egzèsis fizik pou ou ka megri."
+])

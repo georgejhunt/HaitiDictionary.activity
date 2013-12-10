@@ -1,0 +1,2 @@
+showWord(["v.","1. Fè yon moun peye sa li te fè. Ma regle w, konnen ou pa konnen ki moun mwen ye. 2. Ki gen règ li. A ki laj ou regle, tifi?. 3. Kontwole, kalkile lajan. Mwen regle kòb la mwen wè l manke twa goud."
+])

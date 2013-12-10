@@ -1,0 +1,1 @@
+showWord(["n.","Pwodui ki kapab touye moun ou byen fè yo malad. Moun pa dwe kite pwazon kote timoun ka jwenn li.<br>"])

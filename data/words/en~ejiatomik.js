@@ -1,0 +1,1 @@
+showWord(["","Enèji ki soti nan atòm.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Pè osinon mè katolik ki nan kominote (Lòd relijye) Sen Franswa Dasiz. 2. a. Ki gen konneksyon /relasyon ak prensip Sen Franswa Dasiz<br>"])

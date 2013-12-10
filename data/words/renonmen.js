@@ -1,0 +1,1 @@
+showWord(["v. ","bay yon lòt non.<br>"])

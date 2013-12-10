@@ -1,0 +1,1 @@
+showWord(["","Aprann elèv lekòl pwogram klas yo a. Manman mwen se pwofesè nan lekòl kay mè yo; l ap fè lekòl la depi ane pase.<br>"])

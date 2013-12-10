@@ -1,0 +1,1 @@
+showWord(["v.","aksepte moun pou vin travay.<br>"])

@@ -1,0 +1,1 @@
+showWord(["adv.","jamè.jamè.<br>"])

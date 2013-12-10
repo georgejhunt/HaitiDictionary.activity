@@ -1,0 +1,2 @@
+showWord(["n. "," Dezyèm degre nan inisyasyon relijyon vodou. Grad ki pase sou konesans ak metriz dife. Moun ki kanzo kapab manyen chabon dife san yo pa boule. Jan ou kenbe chabon dife sa a, ou genlè kanzo."
+])

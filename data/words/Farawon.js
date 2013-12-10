@@ -1,0 +1,1 @@
+showWord(["n. ","tit yo bay wa nan ansyen Lejip.<br>"])

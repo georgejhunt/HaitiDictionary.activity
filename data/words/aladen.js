@@ -1,0 +1,1 @@
+showWord(["n.","moun ki pa gen anyen pou l fè; vakabon.<br>"])

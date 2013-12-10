@@ -1,0 +1,2 @@
+showWord(["","Non peyi Ayiti. Ayiti fè pati zile nan karayib yo. Se premye peyi nwa nan emisfè lwès la ki deklare tè li endepandan. Li pran endepandans li nan ane 1804 apre li te pote laviktwa nan yon batay kont Lafrans. Nan tout emisfè lwès la Ayiti se dezyèm peyi, apre Etazini, ki deklare tèt li endepandan. Ayiti mezire 10, 700 mil kare osnon 27 mil kilomèt kare. Nan lane 1999 gen 7 milyon Ayisyen. Mo Ayiti a vle di tè ki gen anpil mòn."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Garaj. Nou pral mennen oto a nan remiz. <br>"])

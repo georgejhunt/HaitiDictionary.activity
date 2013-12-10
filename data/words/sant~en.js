@@ -1,0 +1,1 @@
+showWord(["n. ","gwoup ki gen dis dizèn. 2. Kantite ki gen omwen san ladan l.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","repwodui rezilta yon lòt moun. Repete travay yon lòt moun.<br>"])

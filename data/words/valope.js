@@ -1,0 +1,1 @@
+showWord(["v. ","fè yon planch vin lis ak galè.<br>"])

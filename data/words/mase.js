@@ -1,0 +1,1 @@
+showWord(["v. ","1. Bay masaj. 2. Rasanble. Yon foul vin mase bò lakomin.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","1. Mete yon tèks osinon yon desen sou papye. Enprime yon liv. 2. Grave. Eksperyans sa a rete enprime nan memwa Silòt.<br>"])

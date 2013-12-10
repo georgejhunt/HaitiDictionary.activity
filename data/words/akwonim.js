@@ -1,0 +1,1 @@
+showWord(["n.","Mo ki fòme lè yo kole premye lèt (osinon plizyè lèt) ki soti nan plizyè mo. OPL se akwonim pou Oganizasyon Pèp an Lit.<br>"])

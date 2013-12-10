@@ -1,0 +1,1 @@
+showWord(["v.","reklame dwa. Se pa tout peyi kote yon moun kapab revandike san yo pa fouke w.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Gwoup manje ki gen anpil farin tankou diri, mayi, pitimi ak ble. Sereyal nou manje ak pwa nan peyi Ayiti se diri, mayi, piti ak ble.  2. Manje maten ki fèt ak manje ki gen anpil farin, yo kuit yo, mete fòtifyan ladan yo, yo konn ajoute sik ak lòt bagay tankou rezen tou. Nan peyi Etazini, anpil moun manje sereyal lematen."
+])

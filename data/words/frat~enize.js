@@ -1,0 +1,1 @@
+showWord(["v. ","asosiye an fratènite.<br>"])

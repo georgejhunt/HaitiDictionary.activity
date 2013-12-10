@@ -1,0 +1,1 @@
+showWord(["n. ","1. Gwosè. Men lajè madan Edwa. 2. Mezi longè. Ki lajè bwat la.<br>"])

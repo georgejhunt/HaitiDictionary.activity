@@ -1,0 +1,2 @@
+showWord(["n.","Mo ki soti nan peyi Dawome, ki vle di espri. Relijyon ki gen anpil kwayans ak tradisyon Afrik ladan l. Moun ki pratike l sèvi espri osnon lwa epi yo chache gen bon relasyon avè yo. Relijyon vodou a genyen sèvis, chante, danse. Enstriman ki pi enpòtan nan vodou se tanbou ak ason. Relijyon Vodou kòmanse devlope nan Karayib la lè anpil Afriken ki soti Togo, Benen, Nijerya eltr te rive nan Karayib la. Vodouyizan sèvi Bondye ak yk plizyè espri ki anba pouvwa Bondye."
+])

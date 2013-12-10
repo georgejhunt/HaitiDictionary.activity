@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Lotèl ki pa gen liks, ki ofri minimòm sa yon moun bezwen pou li pase yon tan kout pandan li anvwayaj. Anjeneral, motèl koute pi bon mache pase lotèl. 2. Bòdèl. Kote fi a gason ale pou yon tan kout. Nan sans sa a, gen anpil moun ki panse tout motèl se bòdèl men se pa vre."
+])

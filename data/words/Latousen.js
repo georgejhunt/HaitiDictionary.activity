@@ -1,0 +1,1 @@
+showWord(["np.","Fèt pou onore sen nan legliz katolik. Jou latousen se premye novanm.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a.","ki gen relasyon ak regleman yon administrasyon.<br>"])

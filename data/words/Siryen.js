@@ -1,0 +1,2 @@
+showWord(["n. ","1. Moun ki gen nasyonalite peyi Lasiri. Syrien yo soti prèske menm kote ak iranyen yo. 2. Moun klè, blan ak cheve nwa, ki rete nan peyi Ayiti depi plizyè jenerasyon, ki jwe yon wòl enpòtan nan komès Pòtoprens epi ak lòt vil enpòtan yo tou. Syrien yo gen tout kalite kòmès anba lavil la."
+])

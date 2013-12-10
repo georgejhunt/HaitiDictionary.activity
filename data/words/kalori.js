@@ -1,0 +1,1 @@
+showWord(["n. "," Inite enèji ki konsève kòm grès nan kò moun. Manje ki gen anpil kalori ka fè moun vin gwo. 2. Inite pou mezire chalè; yon kalori se kantite chalè ki kapab fè tanperati yon gram dlo monte yon degre santigrad.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Fleksibilite aksepte sa ki pa akseptab. Timoun sa yo maledve paske manman yo nan tolerans avèk yo.<br>"])

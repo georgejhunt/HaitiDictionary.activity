@@ -1,0 +1,1 @@
+showWord(["a. "," Ki cho. Klima twopikal se pou moun ki ka sipòte chalè.  2. Zòn toutotou latè ki cho. Rejyon twopikal. <br>"])

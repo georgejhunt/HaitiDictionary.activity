@@ -1,0 +1,1 @@
+showWord(["n fr. ","Plant ki gen bon gou ak bon sant ki sèvi pou leve gou manje sikre osnon desè. Kannèl ak lannis se de epis dous mwen renmen.<br>"])

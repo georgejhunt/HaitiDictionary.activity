@@ -1,0 +1,2 @@
+showWord(["v. ","1. Fè yon bèt osinon plant vin pa kapab repwodui. 2. Elimine tout mikwò sou yon bagay. Ou ka esterilize ak gwo chalè (chofe, bouyi) osinon ou ka esterilize yon bagay ak pwodui chimik ki touye tout mikwòb."
+])

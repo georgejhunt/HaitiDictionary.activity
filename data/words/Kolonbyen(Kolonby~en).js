@@ -1,0 +1,1 @@
+showWord(["n p.","1. Moun ki gen nasyonalite peyi Kolonbi. Edwardo ak Wanita se kolonbyen.  2. a. Ki pou peyi Kolonbi. Kafe kolonbyen.<br>"])

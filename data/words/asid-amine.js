@@ -1,0 +1,2 @@
+showWord(["n.","Konpoze ki genyen azot oksijèn, kabòn ak idwojèn ladan yo epi ki patisipe pou fòme pwoteyin. Asid-amine se inite fonksyonèl nan pwoteyin. Alanin, serin, lisin eltr se asid-amine. Mo amine a raple li gen azòt ladan l."
+])

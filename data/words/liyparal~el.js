@@ -1,0 +1,1 @@
+showWord(["n fr. "," De liy ki gen menm direksyon. De ri sa yo an liy paralèl.<br>"])

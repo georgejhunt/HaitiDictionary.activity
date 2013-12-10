@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki fèt nan pwovens Kebèk Okanada.<br>"])

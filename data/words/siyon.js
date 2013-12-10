@@ -1,0 +1,1 @@
+showWord(["n. ","Jès pou atire atansyon yon moun. Apa madanm sa a ap fè m siyon?<br>"])

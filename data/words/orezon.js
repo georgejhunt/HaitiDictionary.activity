@@ -1,0 +1,1 @@
+showWord(["n. ","Lapriyè. pè a fin di orezon an.<br>"])

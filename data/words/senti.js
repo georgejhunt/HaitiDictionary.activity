@@ -1,0 +1,1 @@
+showWord(["n.","1. Sentiwon. Bagay ou pase nan ren ou pou kenbe pantalon ou byen jip. Fòk mwen mete yon senti ak pantalon sa a paske li twò gwo pou mwen. 2. Pati nan kò moun nan nivo kote pantalon rive.<br>"])

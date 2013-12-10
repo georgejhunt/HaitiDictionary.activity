@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki ap vizite yon kote pou plezi l san li pa gen entansyon rete la. Ou sanble yon touris ak teni sa ki sou ou a.<br>"])

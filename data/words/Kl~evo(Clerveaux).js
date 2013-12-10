@@ -1,0 +1,1 @@
+showWord(["np.:","Yonn nan moun alatèt rebelyon kont Lafrans nan peryòd 1800 yo.<br>"])

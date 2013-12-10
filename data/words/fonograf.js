@@ -1,0 +1,1 @@
+showWord(["n. ","machin pou jwe disk mizik.<br>"])

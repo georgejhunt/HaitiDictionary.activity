@@ -1,0 +1,1 @@
+showWord(["","Lwa yon moun al chache nan fon dlo epi ou mete l nan kanari.<br>"])

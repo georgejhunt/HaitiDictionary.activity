@@ -1,0 +1,2 @@
+showWord(["","1. a. Moun eveye, ki panse epi ki konprann vit.  Timoun ki toujou premye nan klas yo gen tandans pou yo entelijan.   2. Moun ki ka sèvi ak sèvo l pou twonpe lòt moun san difikilte. Fè atansyon ak Elifèt, se yon nonm ki entelijan, mwen pale ou. "
+])

@@ -1,0 +1,1 @@
+showWord(["v. "," Limen lanp pou lapriyè. Jodi a Jera ap liminen pou sen Pyè.<br>"])

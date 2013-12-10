@@ -1,0 +1,1 @@
+showWord(["v. ","ki gen fòm won. koube.<br>"])

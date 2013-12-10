@@ -1,0 +1,1 @@
+showWord(["n. ","pwodui chimik ki sèvi pou tiye ti bèt dezagreyab tankou ensèk (ensektisid) ki ka fè dega nan jaden osinon nan depo osinon nan kay.<br>"])

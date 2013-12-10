@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène toupatou sou latè.<br>"])

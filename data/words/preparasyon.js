@@ -1,0 +1,1 @@
+showWord(["n. ","Demach preliminè ki pral pèmèt ou reyalize kichòy. Moun yo te fè tout preparasyon nesesè pou resepsyon an te ka reyisi. <br>"])

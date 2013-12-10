@@ -1,0 +1,1 @@
+showWord(["adv. ","pou tout tan.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan kabann ki gen resò epi ki kenbe matla a. Si yon kabann doub somyè li ka pi estab.<br>"])

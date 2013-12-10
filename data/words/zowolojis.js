@@ -1,0 +1,1 @@
+showWord(["n. ","espesyalis nan zowoloji.<br>"])

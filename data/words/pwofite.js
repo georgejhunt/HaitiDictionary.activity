@@ -1,0 +1,2 @@
+showWord(["v.","1. Sote sou yon okazyon pou fè yon bagay. Mwen tou pwofite pandan mwen nan katye a pou mwen vin rann ou yon vizit. 2. Grandi, devlope. Timoun nan pa pwofite ditou ditou, èske li dwe malad?"
+])

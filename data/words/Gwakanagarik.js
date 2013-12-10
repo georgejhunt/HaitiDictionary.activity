@@ -1,0 +1,1 @@
+showWord(["np","Chèf endyen nan sèzyèm syèk ki te nan pati Nòdwès zile Ispayola a. Pati sa a te rele Maryen. Gwakanagarik te resevwa Kristòf Kolon lè li te rive an 1492.<br>"])

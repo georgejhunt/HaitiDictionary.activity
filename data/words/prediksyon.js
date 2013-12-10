@@ -1,0 +1,1 @@
+showWord(["n. ","Annons davans anvan yon bagay rive. Prediksyon pa Jera sèke madanm li ap akouche anvan lè.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","Legim koulè jòn fonse ki nan fanmi kikibitase, tij li kouri atè nan jaden bò kay, li bay gwo legim. Yo sèvi ak joumou nan resèt pou fè soup. Ayiti tout moun fè bon soup joumou premye janvye."
+])

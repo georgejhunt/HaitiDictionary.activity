@@ -1,0 +1,1 @@
+showWord(["n. ","santiman ak sitiyasyon yon moun ki koupab. <br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","lè ze fi deplase soti nan ovè ale nan twonp falòp epi desann nan matris li.<br>"])

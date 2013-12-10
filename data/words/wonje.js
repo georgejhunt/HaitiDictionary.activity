@@ -1,0 +1,1 @@
+showWord(["v. ","manje tikras pa tikras. Rant la wonje savon an. 2. ki bay doulè san rete. Li gen yon doulè ki ap wonje l.<br>"])

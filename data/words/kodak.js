@@ -1,0 +1,1 @@
+showWord(["n. "," kamera. Zouti pou moun pran foto. 2. Mak kamera. Mwen pati tankou yon touris ak kamera kodak mwen sou do mwen.<br>"])

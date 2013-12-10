@@ -1,0 +1,1 @@
+showWord(["n. ","1. Plat laj kote yo pote manje pou sèvi moun. Vini ak yon plato sandwich tanpri. 2. Kote ki plat lè ou fin monte yon mòn. Plato Santral.<br>"])

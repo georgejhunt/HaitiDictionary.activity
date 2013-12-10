@@ -1,0 +1,1 @@
+showWord(["n.","Biznis. Antrepriz sa a rapòte kòb papa.Biznis. Antrepriz sa a rapòte kòb papa.Biznis. Antrepriz sa a rapòte kòb papa.<br>"])

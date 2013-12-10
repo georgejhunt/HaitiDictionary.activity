@@ -1,0 +1,2 @@
+showWord(["n. ","ti wou an metal ki gen ti mab metal andedan l. Nan woulobi gen yon silenn anndan ak yon silenn deyò, mab yo ant de silenn yo. Lè yon silenn ap vire, mab yo vire tou, se sa ki fè silenn deyò a ka vire alòske silenn anndan rete san vire. Kabwèt la gen twa woulobi. "
+])

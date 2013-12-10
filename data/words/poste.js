@@ -1,0 +1,1 @@
+showWord(["v. "," Voye pa lapòs. Jan poste yon lèt pou ou.<br>"])

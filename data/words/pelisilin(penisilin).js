@@ -1,0 +1,1 @@
+showWord(["n. "," Youn nan medikaman antibyotik pou trete enfeksyon. Doktè preskri madan Richa pelisilin pou enfeksyon li an.<br>"])

@@ -1,0 +1,1 @@
+showWord(["ent.","gwo zafè. Antèman Jera se bagay ololoy wi.<br>"])

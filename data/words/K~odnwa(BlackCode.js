@@ -1,0 +1,1 @@
+showWord(["","Lwa Franse ki te parèt an 1685. Li te dekri kijan relasyon blan ak nwa te dwe ye nan tan koloni a. Li te gen anpil pinisyon epi ak anpil diskriminasyon kont nwa yo.<br>"])

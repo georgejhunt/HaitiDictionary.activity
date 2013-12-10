@@ -1,0 +1,2 @@
+showWord(["np.","Pwofesè, politisyen, Chèf pati politik, kandida prezidansyèl, komèsan. Li fèt 23 Jen 1940. Li pran ekzil nan àne 1963. An 1969 li fonde PUCH, Pati Inifye Kominis Ayisyen, apresa nan 1978 li te vin Sekretè Jeneral li ak yon non prete (Jak Dòsilyen). Li tounen Ayiti an 1986. An 1987e 1990 li kandida pou prezidan. Li patisipe nan aktivite politik nan epòk la."
+])

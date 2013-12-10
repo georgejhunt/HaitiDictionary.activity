@@ -1,0 +1,2 @@
+showWord(["","1. n. Bèt ki pwodui ovil. Chyen sa a se yon femèl. 2. a. Ki kalifye yon bèt osinon yon bagay. Yon femèl chat. 3. Pati nan yon pyès kote yon lòt rantre. Boulon ak ekwou, youn mal lòt la femèl."
+])

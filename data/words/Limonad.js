@@ -1,0 +1,1 @@
+showWord(["np. "," Non yon moun ki te rele Jilyen Prevo te pran aprezavwa li t ap gouvène zòn ki rele Limonad la. Msye te sekretè deta epi li te minis Afè Etranjè nan wayòm Anri Kristòf la. Msye te bay Kristòf konsèy. Li te al lekòl nan peyi Lafrans.<br>"])

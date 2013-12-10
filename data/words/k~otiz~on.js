@@ -1,0 +1,1 @@
+showWord(["n. ","1. Omòn ki soti nan glann sirenal yo. Doktè a teste nivo kòtizòn Denni.  2. Medikaman. Mirèy ap pran kòtizòn.<br>"])

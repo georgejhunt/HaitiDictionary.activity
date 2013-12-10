@@ -1,0 +1,1 @@
+showWord(["n. ","1. Fèy papye ekri ògànize pou moun li. Ansanm enfòmasyon ekri ki reyini nan yon pakèt fèy papye ki kole sou yon bò Paj liv yo gen mo osnon foto ki vle di yon bagay. Gen anpil liv nan libreri lekòl la. Sa se yon liv sou jeyografi.  2. Inite pwa. De liv sik.<br>"])

@@ -1,0 +1,1 @@
+showWord(["onom.","pale anpil.<br>"])

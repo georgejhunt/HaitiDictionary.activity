@@ -1,0 +1,1 @@
+showWord(["n fr. ","Bikabonnat. Lè yo mete poud elevasyon nan yon pat li fè li leje.<br>"])

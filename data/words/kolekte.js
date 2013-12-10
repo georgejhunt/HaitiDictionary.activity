@@ -1,0 +1,1 @@
+showWord(["v. "," Ranmase. Nou ap kolekte lajan pou zèv.<br>"])

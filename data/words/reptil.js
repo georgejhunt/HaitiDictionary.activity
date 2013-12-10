@@ -1,0 +1,2 @@
+showWord(["n. "," Klas bèt bèt vètebre ki gen san frèt, ki rale atè, yo gen poumon, eskelèt zo, ponn ze, po yo gen yon seri kal tou piti. Gen ladan yo ki danjere. Koulèv, mabouya, zandolit, kwokodil, dinozò se reptil."
+])

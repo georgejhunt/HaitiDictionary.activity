@@ -1,0 +1,2 @@
+showWord(["n.","1. Pyès nan yon kay ki fèt pou moun al benyen, pwòpte kò yo, pise, poupou osnon bwose dan yo. Nan yon twalèt gen lavabo, douch, basen, bòl twalèt ak miwa. 2. Aktivite pou pwòpte kò. Mwen pral fè twalèt mwen paske lè a pre rive pou mwen al lekòl."
+])

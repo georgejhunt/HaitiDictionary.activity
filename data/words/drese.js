@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Kanpe. Si ou wè jan timoun nan drese l kont mwen.  2. Separe. Mwen pral drese manje a talè konsa. 3. Ranje, fè sa ki te kwochi vin dwat.  Drese poto a, ou pa wè li prèske tonbe."
+])

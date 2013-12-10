@@ -1,0 +1,1 @@
+showWord([". n","Atèmiyò. Kabann latànye pou moun kouche atè. Prete mwen yon nat pou mwen lage kò mwen pou mwen dòmi.<br>"])

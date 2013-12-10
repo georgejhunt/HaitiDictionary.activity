@@ -1,0 +1,1 @@
+showWord(["n fr. "," Dlo ki gen sèl ladan l. Fè yon ti dlo sale pou mwen tanpri.<br>"])

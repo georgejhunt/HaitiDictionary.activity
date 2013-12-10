@@ -1,0 +1,2 @@
+showWord(["n. ","1. Materyo ki di ki sèvi nan anpil endistri. 2. Non jenerik pou tout materyo ki kondi elektrisite ak chalè, ki di epi ki ka gen ekla. Fè, aliminyòm lò, ajan se metal. Gen metal ki solid anpil, ou kapab fè pyès machin avè yo."
+])

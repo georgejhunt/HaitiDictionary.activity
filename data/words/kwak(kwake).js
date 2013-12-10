@@ -1,0 +1,1 @@
+showWord(["konj.","Konjonksyon ki pote yon rezèv osinon ki anonse yon refleksyon ki vin apre yon premye refleksyon.<br>"])

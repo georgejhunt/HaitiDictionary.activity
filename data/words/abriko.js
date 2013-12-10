@@ -1,0 +1,2 @@
+showWord(["n.","Fwi koulè jònabriko ki gen po di epi ak gwo grenn andedan l, li gen anpil chè.  Lè mwen te timoun mwen pat renmen abriko paske li te konn si, Fwi koulè jònabriko ki gen po di epi ak gwo grenn andedan l, li gen anpil chè.  Lè mwen te timoun mwen pat renmen abriko paske li te konn si, Fwi koulè jònabriko ki gen po di epi ak gwo grenn andedan l, li gen anpil chè.  Lè mwen te timoun mwen pat renmen abriko paske li te konn si, "
+])

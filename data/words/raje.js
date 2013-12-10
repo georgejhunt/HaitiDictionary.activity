@@ -1,0 +1,1 @@
+showWord(["n. ","Zèb initil. Lakou a plen raje.<br>"])

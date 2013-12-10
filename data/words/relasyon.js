@@ -1,0 +1,1 @@
+showWord(["n. ","Rapò ant moun. Kalin gen bon relasyon ak tout moun li konnen.<br>"])

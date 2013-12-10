@@ -1,0 +1,2 @@
+showWord(["","1. n. Restavèk, moun ki ap fè travay nan kay pou yon lòt moun san yo pa peye l men yo bal manje ak dòmi. Kamita te domestik kay madan Chal.  2. a. Ki pase andedan kay, afè prive. Vòl sa a se yon vòl domestik, fòk se yon moun ki konn kay la fen-e-byen ki pou vin kase l konsa a. 3. Yon bèt ki viv andedan kay osinon ki viv sou moun. Chyen se yon bèt domestik, koulèv se yon bèt sovaj. 4. Tout koze ki konsène yon peyi. Ekonomi domestik."
+])

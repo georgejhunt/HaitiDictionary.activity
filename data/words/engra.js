@@ -1,0 +1,1 @@
+showWord(["a.","Ki pa gen rekonesans. Moun ki engra pa janm sonje moun ki ede yo.<br>"])

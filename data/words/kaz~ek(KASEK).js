@@ -1,0 +1,1 @@
+showWord(["akwonim. "," Konsèy Administrasyon Seksyon Kominal. Konsèy pou jere yon komin osinon yon distrik.<br>"])

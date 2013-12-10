@@ -1,0 +1,1 @@
+showWord(["",". 1. Ki pa gen dlo. Rivyè a sèch. Pwa konge sèch.<br>"])

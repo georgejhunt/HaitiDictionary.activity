@@ -1,0 +1,1 @@
+showWord(["n. ","Otorizasyon. Nou bezwen viza pou nou ale Kànada.<br>"])

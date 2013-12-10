@@ -1,0 +1,2 @@
+showWord(["","sistèm ki rasanble tout vyann nan kò moun. Si nou kapab deplase se gras ak Miskilati nou yo. Gen twa kalite Miskilati; gen Miskilati kadyak ki nan kè, gen Miskilati lis ki nan atè, venn, kapilè, lestomak eltr... epi gen Miskilati eskelèt ki se yon seri Miskilati ki al tache ak zo yo. Gen 656 diferan Miskilati nan kò moun, 200 ladan yo patisipe lè moun ap mache."
+])

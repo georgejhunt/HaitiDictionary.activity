@@ -1,0 +1,1 @@
+showWord(["n. ","Ofisye ki ekri epitou ki klase tout pwosedi nan tribinal sivil. Grefye yo pran nòt nan reyinyon ofisyèl.<br>"])

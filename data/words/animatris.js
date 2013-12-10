@@ -1,0 +1,1 @@
+showWord(["n.","monite fi ki ap oganize aktivite pou lot moun ka fe.<br>"])

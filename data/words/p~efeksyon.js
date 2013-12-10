@@ -1,0 +1,1 @@
+showWord(["n. ","degre avanse nan yon domèn etid. 2. Kalite yon bagay ki pa gen defo. Kalite moral yon moun ki pafè.<br>"])

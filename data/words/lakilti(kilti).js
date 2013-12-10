@@ -1,0 +1,2 @@
+showWord(["n. ","1. Edikasyon, fòmasyon. Jan se yon nonm ki gen lakilti. 2. Ansanm tradisyon, abitid, kwayans ak mannyè yon pèp. Lakilti se yon eritaj li ye pou yon pèp.  3. Konesans. Se paske ou gen lakilti ki fè ou konnen sou lavi tout gran entelektyèl sa yo.  4. Agrikilti. Li pa fasil pou fè lakilti nan tè bò isit la."
+])

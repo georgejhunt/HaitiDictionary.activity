@@ -1,0 +1,2 @@
+showWord(["","Konstitisyon ki te fèt sou anprè Desalin. Li fè konnen tout ayisyen se ""nwa"" epi li te met pinga pou etranje pa vin posede tè nan peyi a eksepte fi etranje ki te marye ak Ayisyen epi ak Polonè ak Alman ki te kolabore ak ayisyen yo nan lagè pou endepandans la. Konstitisyon sa a garanti ke Ayiti pap janm al eseye pwovoke ankenn lòt peyi. Li rekonèt dwa yon moun pou ou lib chwazi relijyon ou vle."
+])

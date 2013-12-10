@@ -1,0 +1,1 @@
+showWord(["n. "," Pati nan tè a ki monte wo anpil anpil. Gen anpil mòn. Gen moun ki di fè fre nan mòn yo epi pa gen marengwen nonplis tou.<br>"])

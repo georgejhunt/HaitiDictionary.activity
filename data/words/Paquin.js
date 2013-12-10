@@ -1,0 +1,2 @@
+showWord([". np.","komèsan, politisyen, diplomat, ekriven. Li fèt Gonayiv, li etidye syans politik ak ekonomik. Li te anbasadè Ayiti nan. Ògànizasyon Nasyonzini, sou gouvènman. Èta Paskal Twouyo. Li mouri nan vil Tampa, nan Eta Florida, nan peyi Etazini an Fevriye 1998."
+])

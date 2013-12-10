@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Valèt, nan jwèt kat. Ou oblije mete djak la atè kanmenm.  2. Zouti ki sèvi kòm levye pou ou soulve oto lè ou bezwen chanje kawotchou. Prete m djak ou a tanpri, mwen gen yon kawotchou anpàn la a. 3. Grad nan legliz kretyen. Lè pa gen pè, dyak ka fè batèm."
+])

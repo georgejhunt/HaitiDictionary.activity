@@ -1,0 +1,1 @@
+showWord(["adv. ","An kachèt. Estefèn antre an katimini nan estad la.<br>"])

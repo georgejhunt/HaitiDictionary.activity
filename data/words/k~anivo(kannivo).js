@@ -1,0 +1,1 @@
+showWord(["n.","Pati nan lari (bò twotwa) kote dlo desann. Kànivo a genlè bouche.<br>"])

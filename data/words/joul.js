@@ -1,0 +1,1 @@
+showWord(["n. ","inite enèji. Yon joul se travay yon fòs ki mezire yon nyoutonn pou deplase yon bagay sou yon mèt. <br>"])

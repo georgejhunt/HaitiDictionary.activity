@@ -1,0 +1,1 @@
+showWord(["ent.","Son pou make kontraryete osinon pou ensiste sou yon bagay. Son pou atire atansyon.<br>"])

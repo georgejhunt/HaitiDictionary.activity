@@ -1,0 +1,1 @@
+showWord(["n. ","Fi ki pa serye. Jaklin se yon vagabòn. 2. Fi ki pa gen kay fiks. Jaklin drivaye toupatou tankou li se yon vagabòn.<br>"])

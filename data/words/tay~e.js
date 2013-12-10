@@ -1,0 +1,1 @@
+showWord(["n.","metye moun ki konn fè pantalon ak kostim gason. Papa mwen te tayè nan ri Marengwen.<br>"])

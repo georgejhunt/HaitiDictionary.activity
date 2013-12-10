@@ -1,0 +1,2 @@
+showWord(["v.","1. Lonje kò ou plat yon kote. Al fè yon ti kouche non, ou sanble ou byen fatige la a. 2. Dòmi. Depi yèreswa li kouche li poko janm leve, mwen ap pral tyeke pou mwen wè si li pa malad. 3. Fè sèks. Tifi a di toutotan li pa marye li pap kouche ak menaj li a."
+])

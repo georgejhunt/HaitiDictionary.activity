@@ -1,0 +1,2 @@
+showWord(["n. ","1. Efò, lite, eseye. Se anba gwo jèfò Chantal resi remèt mwen liv mwen an. LI fè anpil jefò, men li pa pase paske li pa konprann keksyon yo. 2. Moun ki renmen sa ki pa pou li palafòs. Kouman ou fè gen jèfò konsa a, si jwèt la pa pou ou, pa goumen pou li, remèt mèt li."
+])

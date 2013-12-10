@@ -1,0 +1,1 @@
+showWord(["np. ","1. Nasyonalite moun ki fèt nan peyi Kostarika. Anntonyo se Kostariken. 2. a. Ki pou Kostarika. Gen yon liy avyon kostariken ki vini Miyami chak jou.<br>"])

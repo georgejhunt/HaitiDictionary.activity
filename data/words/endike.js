@@ -1,0 +1,2 @@
+showWord(["v. ","1. Montre. Vini endike m ki jan pou mwen kuit manje sa a, tanpri.  2. Dikte, preskri, rekòmande. Sa ou endike pou nou fè a, se sa nou ap fè.  3. Enfòme, temwaye. Msye endike kilès ki fè zak la."
+])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Moun ki fè fot relijyon li kondane. Pechè te dwe repanti.  2. Moun ki konn peche bèt nan lanmè osnon dlo dous, kòm metye osinon pou plezi. Kou li maten byen bonè pechè yo derape sou kannòt yo."
+])

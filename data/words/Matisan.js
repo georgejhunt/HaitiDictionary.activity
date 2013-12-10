@@ -1,0 +1,1 @@
+showWord(["np. ","Katye sou kote sid Pòtoprens.<br>"])

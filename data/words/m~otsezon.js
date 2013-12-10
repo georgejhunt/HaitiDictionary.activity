@@ -1,0 +1,1 @@
+showWord(["n. ","Peryòd ki pa gen aktivite. Nan mòtsezon nou pa fè kòb.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Bagay ansyen. Tan lontan. Depi nan antikite nèg ap ede nèg.Bagay ansyen. Tan lontan. Depi nan antikite nèg ap ede nèg.Bagay ansyen. Tan lontan. Depi nan antikite nèg ap ede nèg.Bagay ansyen. Tan lontan. Depi nan antikite nèg ap ede nèg.<br>"])

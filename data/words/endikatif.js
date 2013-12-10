@@ -1,0 +1,1 @@
+showWord(["n. ","1. siy pou make yon lòt bagay. 2. Fòm yon vèb an Fransè. Mòd endikatif osinon mòd sibjonktif.<br>"])

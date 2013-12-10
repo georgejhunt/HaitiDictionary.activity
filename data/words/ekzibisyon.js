@@ -1,0 +1,1 @@
+showWord(["n. ","ekspozisyon piblik. Cho.<br>"])

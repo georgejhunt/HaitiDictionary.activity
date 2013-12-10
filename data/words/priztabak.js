@@ -1,0 +1,1 @@
+showWord(["n fr. "," Kantite tabak ou mete nan pip pou ou fimen. Madanm nan mande vwazen li yon ti priz tabak.<br>"])

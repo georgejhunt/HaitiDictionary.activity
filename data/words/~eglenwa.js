@@ -1,0 +1,1 @@
+showWord(["","ekip foutbòl ki fonde an 1951.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n.","1. opòtinite, moun ki ap pati. Mwen pa jwenn yon okazyon pou mwen ta voye yon ti komisyon pou manman mwen. 2. Tranpòtasyon kamyon ki mennen nan pwovens. Mwen pral okazyon la a vè sizè konsa, mwen vle pran yon bon plas, mwen pral bonè."
+])

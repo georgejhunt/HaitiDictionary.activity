@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Presyon, otorite, kapasite, pouvwa pou konvenk lòt moun. Jak konnen li gen enfliyans sou Woza.  2. Kapasite yon moun genyen pou li pote chanjman endirekteman ak fòs li, lajan li, pozisyon. 3. Kontak, rezo nan sosyete a. Kalo se yon nonm ki gen anpil enfliyans nan gouvènman an."
+])

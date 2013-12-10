@@ -1,0 +1,1 @@
+showWord(["n. ","Deplasman nan yon espas nan yon tan kout; rapidite. Polèt kouri al pran telefòn nan an vitès.<br>"])

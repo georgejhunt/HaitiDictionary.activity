@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Moun ki monte cheval. Deniz renmen monte cheval anpil, li se yon bon kavalye. 2. Non yo bay de moun ki ap danse ansam. Si ou ap danse ak yon kavalye ki fò, ou kapab rale bon pa san ou pa pile l. 3. Yon pyon nan jwèt echèk. Lè ou ap jwe echèk, pa kite yo manje kavalye ou a, se yon pyon ki enpòtan anpil."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Vennsenkòb. Banm de gouden.<br>"])

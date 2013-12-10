@@ -1,0 +1,1 @@
+showWord(["n.","Ti plim tou piti piti sou tout kò poul ak kodenn lè ou fin deplimen yo. Ala poul gen zètòk papa.<br>"])

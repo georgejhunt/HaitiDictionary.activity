@@ -1,0 +1,1 @@
+showWord(["n. ","Panchan. Pitit sa a gen tandans dòmi sou kote.  <br>"])

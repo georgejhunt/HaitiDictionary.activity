@@ -1,0 +1,1 @@
+showWord(["n. ","Ba fè ki fè de liy paralèl ki sèvi wout pou tren. Moun pa dwe rete kanpe sou ray yo.<br>"])

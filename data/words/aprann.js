@@ -1,0 +1,2 @@
+showWord(["v.","Chache konnen, konnen kijan pou o fè yon bagay.  Mwen ta renmen aprann koud konsa mwen pa ta bezwen peye koutiryè pakèt lajan ankò.  Pran konesans sou yon bagay. Lè ou ap aprann, ou chèche eseye konprann. Nou aprann li nan klas la jodi a. Nou aprann yon bèl ti chante lekòl la."
+])

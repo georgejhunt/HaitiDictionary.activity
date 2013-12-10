@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fi ki pa piti ankò, ki fin devlope. Mwen se yon fanm ki plen kouray. 2. Metrès, fi ki ap viv ak yon nèg san marye. Se dat Jozefin se fanm Pyè, moun sa yo pap kite, jan yo damou sa a."
+])

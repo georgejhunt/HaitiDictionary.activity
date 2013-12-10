@@ -1,0 +1,1 @@
+showWord(["n. ","1. Nòt nesesè pou pase. Kalin fè mwayèn li. 2. Total plizyè vale divize pa kantite valè ki genyen an. Mwayèn klas la.<br>"])

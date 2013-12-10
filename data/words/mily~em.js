@@ -1,0 +1,1 @@
+showWord(["n. ","Kantite ki mil fwa pi piti pase yon inite. Yon milyèm piti anpil.<br>"])

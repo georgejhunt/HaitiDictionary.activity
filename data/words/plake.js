@@ -1,0 +1,2 @@
+showWord(["a. ","1. Sere. Rad plake. 2. Fè lakilbit nan mi. Timoun yo toujou ap plake sou mi sa a. 3. Jete, voye ak fòs.  Wozlin plake detwa verite nan figi Gaston. 3. Tache, kole. Plake paj la sou mi-an."
+])

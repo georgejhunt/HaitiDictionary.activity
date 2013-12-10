@@ -1,0 +1,1 @@
+showWord(["np. ","ekriven ALes Fous de Saint-Antoine@<br>"])

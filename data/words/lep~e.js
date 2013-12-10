@@ -1,0 +1,1 @@
+showWord(["n. ","Gason ki gen anpil laj. Lepè sa a gen katrevendizan.<br>"])

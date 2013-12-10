@@ -1,0 +1,1 @@
+showWord(["n. ","konpoze chimik yo fè lè yo melanje asid ak alkòl. Li sèvi kòm anestezi nan lopital. Se yon pwodui ki volatil epitou danjere.<br>"])

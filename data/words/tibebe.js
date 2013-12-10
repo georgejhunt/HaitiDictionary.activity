@@ -1,0 +1,1 @@
+showWord(["n.","timoun tou piti ki poko gen ennan. Granmè pran foto tibebe ki fèk fèt la pou l al montre zanmi l yo.<br>"])

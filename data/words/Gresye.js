@@ -1,0 +1,1 @@
+showWord(["","lokalite nan depatman Lwès ant Kafou ak Leyogàn.<br>"])

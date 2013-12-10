@@ -1,0 +1,2 @@
+showWord(["a.","1. San dekowòm. Pou ou jenn fi ap mache ak mini jip sere sa a nan lari a, ou tou wè se yon fi ki endesan.  2. Ki montre espektak sèks. Fim sa a yon jan endesan, timoun pat dwe wè l."
+])

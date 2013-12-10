@@ -1,0 +1,1 @@
+showWord(["v fr.","Anpeche yon bagay fèt. Yo ta pral marye men papa fi a mete abò.<br>"])

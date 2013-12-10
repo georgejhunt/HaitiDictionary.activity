@@ -1,0 +1,1 @@
+showWord(["n.","Manje ki fèt ak yon pat rale epi ki gen vyann nan mitan l. Mwen pito pate vyann moulen pase pate poul.<br>"])

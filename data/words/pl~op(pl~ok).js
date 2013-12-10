@@ -1,0 +1,1 @@
+showWord(["adv. "," Son ki endike bwi yon bagay ki tonbe atè vit. Liv la tonbe plòp.<br>"])

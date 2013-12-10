@@ -1,0 +1,1 @@
+showWord(["n fr. "," Zòn sou latè a kote ang mayetik la nan maksimòm li (90 degre). Pòl mayetik yo tounen alantou pòl jeyografik yo.<br>"])

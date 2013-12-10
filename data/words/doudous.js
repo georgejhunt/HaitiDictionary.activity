@@ -1,0 +1,1 @@
+showWord(["n. ","Mo pou endike afeksyon.<br>"])

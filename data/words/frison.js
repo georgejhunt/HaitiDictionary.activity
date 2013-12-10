@@ -1,0 +1,1 @@
+showWord(["n. ","Tranblad lè moun frèt osinon lè moun gen lafyèv. Mwen gen frison.<br>"])

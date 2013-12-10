@@ -1,0 +1,1 @@
+showWord(["n. ","1. Erè. Mwen fè yon grenn fòt nan dikte yo bay la. 2. Reskonsabilite. Se fòt mwen si aksidan an rive.<br>"])

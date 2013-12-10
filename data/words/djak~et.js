@@ -1,0 +1,1 @@
+showWord(["n. "," Manto ki kout. Djakèt Bòb la gen anpil bouton epi li gen de pòch.<br>"])

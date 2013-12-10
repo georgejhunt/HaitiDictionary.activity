@@ -1,0 +1,1 @@
+showWord(["n. ","Vitès yon moun pran pou li fè yon bagay. Li fini travay la ak yon rapidite.<br>"])

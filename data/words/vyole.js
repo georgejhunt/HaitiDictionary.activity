@@ -1,0 +1,1 @@
+showWord(["v.","moun ki fè vyòl. Yo te dwe arete ou pase ou vyole lalwa. 2. Moun ki sibi vyòl.<br>"])

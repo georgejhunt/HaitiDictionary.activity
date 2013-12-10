@@ -1,0 +1,1 @@
+showWord(["n. "," Twal yo mete sou tibebe alaplas pou kenbe poupou ak pipi. Kouchèt la mouye.<br>"])

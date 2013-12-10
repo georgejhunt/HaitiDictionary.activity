@@ -1,0 +1,1 @@
+showWord(["","Diplòm yo bay Ayiti apre yon moun fin fè sizan pwogram lekòl primè.<br>"])

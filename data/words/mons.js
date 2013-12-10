@@ -1,0 +1,1 @@
+showWord(["n. ","1. Bèt imajinè. Pa gen moun ki janm wè mons vre.  2. Moun osnon bèt ki defòme. Nèg sa a sanble yon mons.  <br>"])

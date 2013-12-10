@@ -1,0 +1,1 @@
+showWord(["n. ","Yon tisi epè ki ant zo yo ki anpeche yo fwote youn ak lot. Zo mou. Katilaj nen.<br>"])

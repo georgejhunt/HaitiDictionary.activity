@@ -1,0 +1,1 @@
+showWord(["","1. a. ki konsène ijyèn ak pwòte pati entim kò moun. Papye ijyenik. 2. Ki bon pou lasante.<br>"])

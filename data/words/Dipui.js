@@ -1,0 +1,2 @@
+showWord(["np. "," Yon konseye Anri Kristòf te genyen. Se te yon milat ki te nan lame sou Desalin men li pat janm gen twò gwo grad. Li te vin pati al Filadèlfi, kote li te vin rich epi li te fè gwo klas. Msye te retounen Ayiti sou Anri Kristòf. Se konsa li te vin sekretè epi entèprèt pou Kristòf nan wayòm nan."
+])

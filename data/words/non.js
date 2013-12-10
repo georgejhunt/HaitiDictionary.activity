@@ -1,0 +1,2 @@
+showWord(["n.","Mo pou distenge yon moun. Jan ou rele osnon jan yon bagay rele. Mo ki reprezante yon moun, yon kote, ton bagay. Yon non ka sèvi kòm sijè osinon konpleman. Kijan ou rele? Non mwen se Antwàn. 2. Repons negatif. Eske ou te manje? Non. 3. Pati yo ajoute nan fen yon fraz ki ranplase Aèske se pa vre@ osinon nèspa osinon pou konvenk san fòse. Vini non."
+])

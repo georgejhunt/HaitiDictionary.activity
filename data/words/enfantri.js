@@ -1,0 +1,1 @@
+showWord(["n.","branch nan lame ki antrene sòlda pou batay apye.<br>"])

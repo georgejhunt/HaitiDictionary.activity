@@ -1,0 +1,1 @@
+showWord(["n. "," Fòm jeyometrik ki gen kat kote egal. Tout kote yo gen menm longè.<br>"])

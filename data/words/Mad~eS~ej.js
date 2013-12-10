@@ -1,0 +1,2 @@
+showWord(["np. ","Li ap viv Wachintonn. Li se pwofesè sikoloji nan "" Howard University "". Li kolabore ak anpil jounal nan domèn edikasyon ak sikoloji. Misye pibliye twa liv kreyòl: Piti Piti Plen Kay, pwezi, (1987); Tezen, teyat (1988); Silo Sajès, pwovèb, (1992). Tout liv sa yo ap sèvi nan lekòl Nouyòk Siti ak nan lekòl Boston."
+])

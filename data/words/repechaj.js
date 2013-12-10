@@ -1,0 +1,1 @@
+showWord(["","aktivite pou admèt kandida ki te dwe elimine. Ekzamen siplemantè pou rekipere kèk elèv.<br>"])

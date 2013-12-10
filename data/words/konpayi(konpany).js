@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Prezans. Wozmon te nan konpayi yon bann zanmi.  2. Antrepriz. Bèta ap travay nan menm konpayi avèk mwen. 3. Anbyans. Fito renmen konpayi ti vagabon sa yo.<br>"])

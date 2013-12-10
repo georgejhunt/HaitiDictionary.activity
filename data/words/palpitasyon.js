@@ -1,0 +1,2 @@
+showWord(["n. ","1. Batman kè rapid. Kalo gen palpitasyon, pito nou rele doktè pou li. 2. Kontraksyon, fremisman ki altène. Gende jou, Jak kontanple palpitasyon zetwal yo tankou yon powèt ap kontanple vag lanmè."
+])

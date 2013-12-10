@@ -1,0 +1,1 @@
+showWord(["","1. atitid ki enpoze respè ak admirasyon.2. Non yon mak byè ki fèt Pòtoprens nan Brasri Nasyonal.<br>"])

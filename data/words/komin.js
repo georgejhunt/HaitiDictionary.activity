@@ -1,0 +1,1 @@
+showWord(["n. "," Gouvènman lokal rejyonal. Peyi a separe dabò an depatman epi an awondisman ki separe an komin yo menm. Chak komin gen bouk pa yo ak seksyon riral yo.<br>"])

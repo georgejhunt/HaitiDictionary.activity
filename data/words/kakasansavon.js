@@ -1,0 +1,1 @@
+showWord(["n fr. ","Timoun papa li pa ede manman li pran swen manman li.<br>"])

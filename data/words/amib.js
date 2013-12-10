@@ -1,0 +1,2 @@
+showWord(["n.","mikwòb ki viv nan dlo osinon ki viv kòm parazit andedan bèt. Li gen yon sèl selil (iniselilè). Li gen fòm yon ti sak dlo, li chanje pozisyon likid anndan li, pou li ka deplase. Li repwodui dapre metòd fisyon (yon pati nan selil la dekole epi devlope pou fè yon lòt amib) "
+])

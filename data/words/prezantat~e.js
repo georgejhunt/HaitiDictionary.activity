@@ -1,0 +1,2 @@
+showWord(["n. ","animatè, anonsè."
+])

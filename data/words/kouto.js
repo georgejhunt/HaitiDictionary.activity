@@ -1,0 +1,1 @@
+showWord(["n. "," Zouti ki fèt pou koupe. Yon kouto gen yon bò ki file ak yon manch. Manman mwen pran kouto a pou koupe vyann lan men li pa file ase.<br>"])

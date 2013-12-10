@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Kote moun sipoze al pase soufrans ak penitans nan flanm dife pou peye pou peche li fè sou latè a. 2. Kote ki fè cho. Isi a fè cho sou ou konn lanfè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," Son pijon osnon lòt zwazo fè. Tande pijon yo ki ap woukoule.<br>"])

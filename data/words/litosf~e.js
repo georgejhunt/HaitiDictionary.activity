@@ -1,0 +1,1 @@
+showWord(["n. "," Pati solid latè a. Plen min tout kalite nan litosfè a.<br>"])

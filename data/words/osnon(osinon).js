@@ -1,0 +1,1 @@
+showWord(["konj.","Oubyen. Limenm osnon oumenm.<br>"])

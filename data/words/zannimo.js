@@ -1,0 +1,1 @@
+showWord(["n. ","Tout bèt. Jezila pè tout zannimo.<br>"])

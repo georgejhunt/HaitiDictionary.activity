@@ -1,0 +1,1 @@
+showWord(["adv.","veye; fè atansyon; rete pare. <br>"])

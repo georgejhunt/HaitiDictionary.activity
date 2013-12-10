@@ -1,0 +1,1 @@
+showWord(["a.","Ki merite admirasyon.  Pòl se yon nonm admirab men li sounwa twòp.<br>"])

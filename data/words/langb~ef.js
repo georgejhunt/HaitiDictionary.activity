@@ -1,0 +1,2 @@
+showWord(["n fr. "," 1. Pati nan bouch bèf. Lang bèf la long. 2 Resèt jan yo kuit lang bèf. Kalo konn kuit lang bèf. 3. Desè ki gen fòm lang bèf. Chak tan Kalin ale nan patisri a, li toujou achte yon lang bèf."
+])

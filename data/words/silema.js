@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Kote ou al gade fim. Jera al silema Monpanas.  2. Fim. Nou sot silema.<br>"])

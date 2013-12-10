@@ -1,0 +1,1 @@
+showWord(["n.","Il. Mas tè ki antoure ak dlo. Gen zile ki gwo ase pou moun abite men gende yo ki tou piti tankou Ibobich.<br>"])

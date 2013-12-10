@@ -1,0 +1,2 @@
+showWord(["n. ","1. Materyèl elastik, enpèmeyab, ki fèt ak latèks osnon ki atifisyèl. Yo fè tout kalite bagay ak kaoutchou.  2. Wou machin. Kaoutchou sa a plat. 3. Tib kawoutchou. Prete m kaoutchou a pou mwen pran yon ti dlo anvan tiyo a rete."
+])

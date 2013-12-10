@@ -1,0 +1,1 @@
+showWord(["","ki pa vle tande. Ki fè tankou li pa tande. Ki refize reyaji apre yon konsèy.<br>"])

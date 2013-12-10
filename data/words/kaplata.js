@@ -1,0 +1,1 @@
+showWord(["n.","Mo pou iwonize ti minè ki ap pratike vodou.<br>"])

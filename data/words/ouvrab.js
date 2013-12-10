@@ -1,0 +1,1 @@
+showWord(["a.","jou nan semèn ki pa jou konje.<br>"])

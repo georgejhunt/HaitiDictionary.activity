@@ -1,0 +1,1 @@
+showWord(["n. ","Siy ki modifye nòt mizik ki suiv li a.<br>"])

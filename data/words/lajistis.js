@@ -1,0 +1,1 @@
+showWord(["n. ","sistèm kote yo aplike lwa; ògànizasyon sistèm jistis; legalite; kote yo rekonnèt dwa moun epi rann jistis. 2. Tribinal. Li rele l lajistis.  <br>"])

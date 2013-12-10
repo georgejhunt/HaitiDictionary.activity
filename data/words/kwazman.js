@@ -1,0 +1,1 @@
+showWord(["n. ","pozisyon an kwa. 2. Pase youn akote lòt nan direksyon opoze. 3. kafou kote de wout kontre. 4. Metòd pou repwodui bèt ak plant.<br>"])

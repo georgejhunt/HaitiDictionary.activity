@@ -1,0 +1,2 @@
+showWord(["n. ","1. fòm jwometrik ki gen kat kote egal (kare). Mwen renmen twal ki gen anpil kawo ladan l. 2. Desen nan jwèt kat. Mwen pral jwe las kawo la a, mwen pa fouti pa fè pwen. 3. Inite pou mezire sifas ki vo 1.29 ekta. Yon kawo tè gen 125 mèt pa 125 mè (125m x 125m). 4. Yon pyès mozayik."
+])

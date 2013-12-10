@@ -1,0 +1,1 @@
+showWord(["a. ","Ki gen kanf. Alkòl kanfre.<br>"])

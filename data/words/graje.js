@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Enève epi ki pa ka fè anyen. Kalo graje pou li wè Jan pran tout kòb la.  2. Fwote yon manje sou graj . Mwen fin graje kokoye a.  3. Grafouyen, abime. Madan Wobè graje janm li lè li tonbe a. 4. a. Eta yon manje apre ou fin fwote l sou graj. Kokoye graje."
+])

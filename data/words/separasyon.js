@@ -1,0 +1,1 @@
+showWord(["n. ","1. Divizyon. De mi yo separe ak yon planch.  2. Aksyon kote ou bay chak moun sa ki pou yo. Se papa Woje ki fè separasyon jwèt yo. <br>"])

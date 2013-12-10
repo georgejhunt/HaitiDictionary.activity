@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pakèt, koloni. Kolonn moun sa yo mwen pa konnen yo.  2. Liy vètikal. Premye kolonn.  3. Poto. Pa apiye sou kolonn nan. 4. Liy ekriti vètikal nan jounal. 5. Eskwad militè. 6. Gwoup travayè."
+])

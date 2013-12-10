@@ -1,0 +1,1 @@
+showWord(["np.","Prezidan Ayiti ant 19 Mas 1870 jiska 14 Me 1874. Gouvènman l nan te gen anpil pwoblèm ak Dominikani kote ki te gen yon lagè sivil. Li te gen pwoblèm ak peyi ki t ap fè Ayiti reklamasyon.<br>"])

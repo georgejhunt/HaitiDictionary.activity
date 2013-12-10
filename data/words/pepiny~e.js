@@ -1,0 +1,1 @@
+showWord(["n. ","1. Kote yo fè jenn ti plant yo pran anvan yo al plante yo. Chak maten Wolan al nan pepinyè a.<br>"])

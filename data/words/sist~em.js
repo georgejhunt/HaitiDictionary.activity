@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fonksyonman, teyorik epi pratik ògànize. Jan moun sa yo fonksyone yo pa gen menm sistèm ak konpayi pa nou an. 2. Metòd, fason. Ki sistèm yo itilize pou montre elèv yo lang Kreyòl la? 3. Rejim, estil jesyon politik. Sa se yon sistèm liberal. 4. Rasanbleman plizyè pati diferan pou kolabore pou fè yon travay. Nan sistèm sikilatwa, kè a, san, venn yo, atè yo kolabore pou voye oksijèn toupatou nan kò a."
+])

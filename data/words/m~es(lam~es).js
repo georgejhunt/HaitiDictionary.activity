@@ -1,0 +1,2 @@
+showWord(["n. ","1. Nan legliz katolik, seremoni kote pè a ak fidèl yo lapriyè epi yo kominyen. Annou ale mès katrè. 2. Seremoni pou sonje yon moun ki mouri. Fanmi Woje te bay fè yon mès pou li. 3. Abitid. Move mès."
+])

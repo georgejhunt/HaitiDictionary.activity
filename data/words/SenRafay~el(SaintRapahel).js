@@ -1,0 +1,1 @@
+showWord(["","Ti vil nan pati nò peyi Ayiti. Jaklin se moun Sen rafayèl. 2. Non yon sen nan legliz katolik. Timoun yo ale nan legliz Sen Rafayèl la chak dimanch.<br>"])

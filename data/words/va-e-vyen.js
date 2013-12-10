@@ -1,0 +1,1 @@
+showWord(["","Ale-vini. Mouvman altènatif ki fè yon bò epi ki retounen pou fè lòt bò a epi kontinye chak bò ale-vini san rete.<br>"])

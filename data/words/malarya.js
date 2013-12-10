@@ -1,0 +1,2 @@
+showWord(["n. "," Maladi twopikal enfektye (gen enfeksyon ak yon mikwòb) ki bay lafyèv frison, yon moun pran l lè moustik enfekte pike moun nan. Malarya transmisib (ak marengwen). Se moustik ki pwopaje mikwòb la. Malarya se yon maladi entèmitan (sa vle di li ale vini). Li bay lafyèv, frison ak swe frèt. Mikwòb ki pwopaje malarya a se yon parazit (plasmodyòm) mikwoskopik ki enfekte yon marengwen epi marengwen an enfekte moun."
+])

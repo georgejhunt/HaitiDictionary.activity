@@ -1,0 +1,2 @@
+showWord(["n. ","syans ki etidye latè ak tout sa ki gen sou latè, pozisyon yo, itilite yo, òganizasyon yo, distribisyon yo epitou devlope senbòl pou reprezante yo sou kat ak ilistrasyon. 2. Liv ki bay enfòmasyon sou domèn jeyografi.Jeyografi peyi Ayiti."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","ki gen kat làne.<br>"])

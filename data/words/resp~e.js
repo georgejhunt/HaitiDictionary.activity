@@ -1,0 +1,2 @@
+showWord(["n. ","1. Politès, konsiderasyon ki genyen nan fason yon moun abòde osnon trete yon lòt. Trete pwochen ou ak respè.  2. Diyite. Woje gen ase respè pou tèt li pou li pa ta manyen sa ki pa pou li."
+])

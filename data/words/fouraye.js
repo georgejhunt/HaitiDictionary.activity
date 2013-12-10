@@ -1,0 +1,1 @@
+showWord(["n. ","pèdi yon bagay tanporèman.<br>"])

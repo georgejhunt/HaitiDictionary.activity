@@ -1,0 +1,1 @@
+showWord(["v. "," Mare de men yon moun pou limite mouvman li. Yo minote vòlè a.<br>"])

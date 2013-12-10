@@ -1,0 +1,1 @@
+showWord(["np. "," Prezidan Ayiti depi 14 Out 1911 jiska 8 Out 1912. Msye te mouri nan yon gwo eksplozyon ki te gen nan palè nasyonal la.<br>"])

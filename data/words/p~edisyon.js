@@ -1,0 +1,1 @@
+showWord(["","kondisyon moun ki nan peche. 2. Moun ki soufri yon gwosès (ki ka imajinè) ki depase nèf mwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Aksepte. Nou tolere timoun yo ap fè bwi. <br>"])

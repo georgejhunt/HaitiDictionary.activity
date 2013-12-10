@@ -1,0 +1,1 @@
+showWord(["n. "," 1.Enfraksyon kont yon lwa osinon kont yon regleman. Sa ou fè a an kontravansyon ak lalwa peyi a. 2. Amann. Yo bay Richa kontravansyon.<br>"])

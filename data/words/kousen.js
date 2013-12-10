@@ -1,0 +1,1 @@
+showWord(["n. ","Sak ranboure ou ka mete sou chèz. Kousen sa yo bèl.<br>"])

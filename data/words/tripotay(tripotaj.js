@@ -1,0 +1,2 @@
+showWord(["n. ","Koze ki ka pa vre yo di sou yon moun dèyè do li pou detenn repitasyon l, swa paske yo anvye l swa paske yo vle pase pou pi bon. Vànya renmen tripotay, pa pale koze pèsonn moun avèk li."
+])

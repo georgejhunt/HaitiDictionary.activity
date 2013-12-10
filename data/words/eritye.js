@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki elijib pou resevwa byen yon lòt moun. Pitit madan Sànon yo eritye tout byen grann yo te mouri kite.<br>"])

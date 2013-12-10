@@ -1,0 +1,1 @@
+showWord(["n. "," Gwo zwazo domestik. Gen moun ki renmen kodenn kuit antye men mwen pito l dekoupe.<br>"])

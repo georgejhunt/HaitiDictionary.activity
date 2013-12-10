@@ -1,0 +1,1 @@
+showWord(["n. ","Zwazo ki sanble ak pijon men ki pi piti. Tande toutrèl yo ap woukoule.<br>"])

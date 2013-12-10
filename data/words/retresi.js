@@ -1,0 +1,1 @@
+showWord(["a. ","vin pi piti.<br>"])

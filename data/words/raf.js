@@ -1,0 +1,1 @@
+showWord(["n. ","lotri ki pa regilye. Mwen genyen yon oto nan raf la. Mwen pa ka vann oto a pito mwen fè yon ral avè l.<br>"])

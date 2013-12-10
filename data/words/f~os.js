@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Kouraj fizik. Mwen pa gen anpil fòs. 2. Rezistans. Lè m ap kale Edga li fè fòs avèk mwen. 3. Nivo. Mwen avèk ou nou pa gen menm fòs.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Batistè. Gen moun ki pa konn vrè dat fèt yo paske lontan anpil moun pat gen akdenesans.<br>"])

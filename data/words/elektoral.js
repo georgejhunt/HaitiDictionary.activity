@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène yon eleksyon.<br>"])

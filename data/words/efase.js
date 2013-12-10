@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Defèt, retire ak gonm. Mwen efase sa mwen te ekri ak kreyon an.  2. Disparèt. Efase ou la a, ban m talon ou. 3. a. Modès, ki pa renmen parèt. Grann mwen se te yon granmoun yon jan efase."
+])

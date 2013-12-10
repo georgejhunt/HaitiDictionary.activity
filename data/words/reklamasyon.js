@@ -1,0 +1,1 @@
+showWord(["n. ","Mande sa ki pou ou. Li fè reklamasyon malèt li a men yo poko jwenn li.<br>"])

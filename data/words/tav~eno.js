@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pyebwa ki bay planch. Yo koupe pye tavèno a pou yo al fè planch.  2. Planch ki fèt ak pye tavèno. Tavèno se yon bwa ki fè bèl mèb. <br>"])

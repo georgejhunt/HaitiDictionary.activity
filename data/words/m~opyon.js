@@ -1,0 +1,1 @@
+showWord(["n. ","Jwèt ti pwen ti kwa. Timoun yo ap jwe mòpyon. 2. Ti bèt parazit ki viv sou moun ki pa gen bon lijyèn. Chal gen mòpyon.<br>"])

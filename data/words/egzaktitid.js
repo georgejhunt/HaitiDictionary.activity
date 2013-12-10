@@ -1,0 +1,1 @@
+showWord(["n. "," Kalite sa ki egzak. Lari se yon nonm ki kenbe randevou li ak egzaktitid.<br>"])

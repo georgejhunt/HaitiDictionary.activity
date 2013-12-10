@@ -1,0 +1,1 @@
+showWord(["n. ","Ti mòn.<br>"])

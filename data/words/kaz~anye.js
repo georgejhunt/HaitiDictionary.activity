@@ -1,0 +1,1 @@
+showWord(["a. ","Ki renmen rete lakay; ki pa renmen soti.<br>"])

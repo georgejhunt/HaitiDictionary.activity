@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pwoteksyon kont danje. Se sistèm alam sa a ki ba nou sekirite.  2. Moun ki bay pwoteksyon. Edwa se yon sekirite nan palè.  <br>"])

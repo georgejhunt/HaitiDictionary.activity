@@ -1,0 +1,1 @@
+showWord(["v. "," Mete sèl. Sele chwal la pou nou ale.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","1. Pa krè. Mwen doute nou ap kapab rive alè. Mwen doute ou ka bat Chantal.<br>"])

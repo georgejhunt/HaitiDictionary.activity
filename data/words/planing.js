@@ -1,0 +1,1 @@
+showWord(["n. ","pratik planinikasyon familyal pou kontwòle kantite timoun yon moun vle fè.<br>"])

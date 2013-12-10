@@ -1,0 +1,1 @@
+showWord(["a. ","1. Anvan tout lòt. Etap primè a. 2. Nivo lekòl depi kou preparatwa ale jiska sètifika etid primè. Klas primè. 3. Atitid rapid ki aji anvan li reflechi. Karaktè primè.  4. n. Nivo lekòl. Timoun sa yo nan primè.<br>"])

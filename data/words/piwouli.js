@@ -1,0 +1,1 @@
+showWord(["n. ","Kalite sirèt ki koke nan yon ti bwa. Men machann piwouli a ap pase.<br>"])

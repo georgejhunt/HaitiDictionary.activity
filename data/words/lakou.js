@@ -1,0 +1,2 @@
+showWord(["n. "," Teren alantou yon kay. Marya plante legim nan lakou l la. 2. Òganizasyon sosyal andeyò kote gen yon chèf lakou ki responsab tout moun ki ap viv nan lakou-a. Yo se madanm li, fanmi li ak moun ki depannde li. Li ba yo travay, manje responsablite epi yo sipòte l, obeyi li epi defann li. 3. File yon fi."
+])

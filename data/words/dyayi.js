@@ -1,0 +1,1 @@
+showWord(["","Fè kriz. Madan Kal te dyayi nan lantèman mari l la lotrejou.<br>"])

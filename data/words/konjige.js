@@ -1,0 +1,1 @@
+showWord(["v. "," Di vèb yo ak sijè yo nan diferan tan ak pwonon. Konjige vèb avwa nan tan prezan.<br>"])

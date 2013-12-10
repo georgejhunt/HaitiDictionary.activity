@@ -1,0 +1,1 @@
+showWord(["v fr.","Akouche. Kilè madanm nan ap mete ba?<br>"])

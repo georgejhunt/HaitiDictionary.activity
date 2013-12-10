@@ -1,0 +1,1 @@
+showWord(["","Lekòl ki fonksyone ak lajan leta epi timoun ki al la pa gen pou peye lajan pa mwa.<br>"])

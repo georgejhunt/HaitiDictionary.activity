@@ -1,0 +1,1 @@
+showWord(["n.","moun ki nan laj ant 14 zan rive 18 tan.<br>"])

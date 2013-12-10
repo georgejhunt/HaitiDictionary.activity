@@ -1,0 +1,1 @@
+showWord(["n. ","a. Moun ki soufri maladi dyabèt.<br>"])

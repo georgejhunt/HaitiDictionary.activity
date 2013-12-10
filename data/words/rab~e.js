@@ -1,0 +1,1 @@
+showWord(["n. ","rediksyon nan pri pou vann yon bagay. Pratik fè yon ti rabè pou mwen. Jodi a pa gen rabè.<br>"])

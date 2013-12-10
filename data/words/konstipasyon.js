@@ -1,0 +1,1 @@
+showWord(["n. ","Difikilte pou moun poupou. Li gen yon konstipasyon ki ap fatige l.<br>"])

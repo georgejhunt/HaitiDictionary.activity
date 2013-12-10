@@ -1,0 +1,1 @@
+showWord(["n.","Syans ki montre kòman jere resous agrikòl.  Mwen pral etidye agwonomi.Syans ki montre kòman jere resous agrikòl.  Mwen pral etidye agwonomi.<br>"])

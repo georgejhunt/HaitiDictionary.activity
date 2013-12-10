@@ -1,0 +1,2 @@
+showWord(["","tan ki kòmanse a sizè diswa, lè solèy kouche. 2. Priyè espesyal moun ki katolik resite leswa pou pwoteje pandan lanuit kont move lespri. Son klòch nan legliz ki anonse li lè pou fè priyè lanjelis. Chak swa, kou li lanjelis, mè ak pè yo lapriyè."
+])

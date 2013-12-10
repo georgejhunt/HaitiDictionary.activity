@@ -1,0 +1,2 @@
+showWord(["n. ","Wout, distans chemen ki kòmanse yon kote epi fè yon tou konplè pou vin fini kote li te kòmanse a..Chemen kote elektwon (elektrisite) antre travay epi retounen nan sous kote li soti.  Sikui elektrik."
+])

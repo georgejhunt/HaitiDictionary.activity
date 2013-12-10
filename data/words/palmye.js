@@ -1,0 +1,1 @@
+showWord(["n.","pye palmis. Palmye sanble anpil ak pye kokoye men li pa donnen ankenn fwi.<br>"])

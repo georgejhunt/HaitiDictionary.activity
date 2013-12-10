@@ -1,0 +1,2 @@
+showWord(["np. ","Ecriven, jounalis, pwofesè, avoka. Li fèt 10 Fevriye 1873. Li te etidye nan Lise Petyon epi li te enfliyanse kontanporen li depi li te jenn gason. Li se yon ekriven enpòtan an Ajenerasyon Lawonn@ nan literati Ayiti. Li fonde plizyè jounal ak revi (La Jeune Haiti, Le Soir). Se Lerison ki ekri tèks ALa Desalinyèn@ im nasyonal la. Li ekri plizyè woman, ALa famille des Pitite Caille@ ak AZoune Chez sa Ninnaine@. Li mouri an 1907, li te gen 34 an."
+])

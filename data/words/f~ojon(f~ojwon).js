@@ -1,0 +1,1 @@
+showWord(["n. "," Metye moun ki travay nan fòj. Fòjon sa a fè bon travay.<br>"])

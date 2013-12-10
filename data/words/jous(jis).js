@@ -1,0 +1,1 @@
+showWord(["adv. "," 1. Jiskaske. Ou fè jous ou pa janm koud rad la pou mwen. 2. Nan konbyen tan. Jous kilè n ap wè ankò?<br>"])

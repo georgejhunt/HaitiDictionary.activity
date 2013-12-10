@@ -1,0 +1,2 @@
+showWord(["np ","ekriven, eseyis, kritik literè, jounalis, diplomat, pwofesè. Li fèt Pòtoprens an 1918. Li te elèv Kolèj Sen Masyal. Li te etidye Inivèsite Laval, Kebèk, Kanada ak Inivèsite Sòbòn, Pari, Frans. Li tounen Ayiti, li pwofese nan Afè etranjè ak an ansèyman. An 1966, li kite Ayiti li te vin pwofesè nan Inivèsite Albani, Nouyòk."
+])

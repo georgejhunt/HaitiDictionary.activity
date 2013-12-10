@@ -1,0 +1,1 @@
+showWord(["n. ","Seksyon nan yon lekòl pou elèv ki pa dòmi-leve.<br>"])

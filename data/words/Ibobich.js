@@ -1,0 +1,2 @@
+showWord(["","Plaj prive ki nan yon ti zile yo rele zile Kasik. Moun kapab pase wikenn yo nan Ibobich alèz, ou kapab lwe apatman pou yon jou osnon pou plizyè jou pou ou kapab rete pran plezi ou bò lanmè a."
+])

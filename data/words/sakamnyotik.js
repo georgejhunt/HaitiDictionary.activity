@@ -1,0 +1,1 @@
+showWord(["n fr. ","sak kote tibebe a ap grandi nan vant manman l.<br>"])

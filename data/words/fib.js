@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Pay. Chèz sa yo fèt ak fib.  2.Diferant kalite idrat kabòn moun jwenn nan manje. Fib bon pou sante. 3. Materyo ki pa pouri ki sèvi pou pwoteje osinon pou izole.<br>"])

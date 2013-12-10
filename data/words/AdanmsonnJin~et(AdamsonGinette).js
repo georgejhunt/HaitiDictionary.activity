@@ -1,0 +1,2 @@
+showWord(["np.","Pwofesè literati, ekriven, kritik literè. Li fèt Jeremi, li te al lekòl Okay, Pòtoprens ak Etazini. Li fè doktora nan literati fransè. Li se pwofesè inivèsite Wichita, nan eta Kanzas."
+])

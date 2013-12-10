@@ -1,0 +1,1 @@
+showWord(["n. "," Sa ki ale pa anba pou ranfòse yon twal. Achte doubli a menm koulè avèk twal la. 2. a. Ki la pou fasad. Prezidan doubli.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Dezyèm mwa nan yon àne. Mwa fevriye se mwa ki pi kout.<br>"])

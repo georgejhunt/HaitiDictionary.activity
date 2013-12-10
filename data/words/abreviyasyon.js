@@ -1,0 +1,1 @@
+showWord(["n.","Fason kontrakte pou ekri yon mo.  Retire yon pati nan yon mo pou ekri li rapidman. Abreviyasyon non mwen se M.H.<br>"])

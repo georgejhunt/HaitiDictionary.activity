@@ -1,0 +1,2 @@
+showWord(["v.","1. Bouje, deplase van. Van an soufle fò, li voye tout fèy tòl yo jete. 2. Bay osnon pran poul. Mwen pat konn leson an epi Richa soufle mwen twaka ladan l. 3. Refwadi. Mayi a cho anpil, mwen oblije soufle sou chak kiyè mwen pran pou mwen fè l frèt."
+])

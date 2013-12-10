@@ -1,0 +1,2 @@
+showWord(["np. ","Ekriven, edikatè, jounalis, mizisyen, konpozitè. Li te òdone prèt katolik an 1944. Li te patisipe pou renouvle chante legliz an Kreyòl lè li konpoze plizyè chante epi pibliye liv Tanboula. Li kite pè epi li marye an 1969, men aktivite edikatè anndan legliz katolik pa chanje. Li ak madanm li te animatè nan radyo Solèy. Li fè anpil demach ak piblikasyon pou valorize tout eleman nan kilti ayisyen. Li ekri ALe Vodou Libérateur@, 1999."
+])

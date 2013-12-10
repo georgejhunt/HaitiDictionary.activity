@@ -1,0 +1,1 @@
+showWord(["n f. ","Blokaj klate ki genyen lè lalin nan pase ant solèy ak latè. Gen moun ki toujou renmen suiv eklips solè yo.<br>"])

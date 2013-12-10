@@ -1,0 +1,1 @@
+showWord(["n.","Anflamasyon nan yon tisi osinon ògàn ki soti sou deyò parapò avèk kote tisi a nòmalman ta dwe ye. Kawòl gen yon èni nan lonbrit li.<br>"])

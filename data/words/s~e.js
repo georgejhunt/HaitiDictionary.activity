@@ -1,0 +1,2 @@
+showWord(["n.","1.  Kote ki òganize pou fasilite efè akimilasyon chalè solèy nan yon espas pou ka fè jaden.  Marenn Jinyò gen yon sè lakay li.  2. Moun ki menm manman, menm papa avèk ou. Joslin se sè m. "
+])

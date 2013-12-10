@@ -1,0 +1,2 @@
+showWord(["n. ","Pwodui kolore nou jwenn nan ògàn, tisi bèt osinon plant. Nan nan gen yon pigman ki fè san wouj, nan plant gen yon pigman ki fè fèy yo vèt.. 2. Pwodui natirèl osinon atifisyèl ki sèvi bou bay koulè, tankou nan manje, medikaman, penti eltr."
+])

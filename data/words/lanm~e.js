@@ -1,0 +1,1 @@
+showWord(["n. "," Gran espas dlo sale ki sou latè. Gen menm twa fwa plis dlo lanmè ke gen tè.<br>"])

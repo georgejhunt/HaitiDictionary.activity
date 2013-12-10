@@ -1,0 +1,1 @@
+showWord(["n. ","Fib ki sòti nan pye bannann. Yo fè pànye ak vantrès.<br>"])

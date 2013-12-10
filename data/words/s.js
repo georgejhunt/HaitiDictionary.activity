@@ -1,0 +1,1 @@
+showWord(["n. ","Lèt nan alfabè. S se premye lèt nan mo sosis.<br>"])

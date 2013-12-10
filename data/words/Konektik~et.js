@@ -1,0 +1,1 @@
+showWord(["np. ","Youn nan 13 eta orijinal ki te fòme Etazini. Li gen twa milyon mou sou 13 mil kilomèt kare. Kapital li se Atfòd.<br>"])

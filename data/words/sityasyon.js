@@ -1,0 +1,1 @@
+showWord(["n. ","1. Sikonstans. Pèsonn moun pat atann yo sitiyasyon an ta pral prezante konsa.  2. Kondisyon lavi. Jera gen yon bon sitiyasyon depi li pran travay sa a.<br>"])

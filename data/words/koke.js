@@ -1,0 +1,1 @@
+showWord(["v.","1. Pandye. Li koke rad li.  2. Anbrase. Jan koke Alis.  3. Lage nan kòsaj. Pa koke tèt chaje sa a nan kòsaj mwen.<br>"])

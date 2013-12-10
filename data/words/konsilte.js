@@ -1,0 +1,2 @@
+showWord(["v.","1. Al kay doktè. Odil sot konsilte.  2. Evalye sante yon moun. Doktè a konsilte Jan. 3. Al nan biwo avoka osinon kay oungan. Jak konsilte bòkò a, li di l yon malè ka rive l demen. 4. Verifye enfòmasyon nan yon liv. Konsilte yon diksyonè."
+])

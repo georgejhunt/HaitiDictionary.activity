@@ -1,0 +1,2 @@
+showWord(["","1. Rezon moun bay pou defann tèt li lè gen yon akizasyon. Ki eskiz ou genyen ki fè ou pa te al lekòl jodi a? 2. Pawòl yon moun di pou mande padon pou yon bagay li pat dwe fè. Mwen vin prezante eskiz pou maledve timoun yo fè nan fèt la. 3. Pretèks, fasad moun pran pou fè yon bagay li pat dwe fè. Yo revoke l paske pa gen lajan, agiman enkonpetann yo ba li a se yon eskiz."
+])

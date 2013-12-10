@@ -1,0 +1,1 @@
+showWord(["v. "," Mete kontak ant de plòg. Mete plòg nan priz elektrik. Pa konnekte radyo a.<br>"])

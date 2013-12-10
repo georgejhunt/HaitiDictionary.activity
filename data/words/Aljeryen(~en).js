@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki soti nan peyi Aljeri.  Jozèt marye ak yon Aljeryen.<br>"])

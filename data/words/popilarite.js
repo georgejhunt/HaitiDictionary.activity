@@ -1,0 +1,1 @@
+showWord(["n. ","ki gen admirasyon prèske tout moun. Ki gen admirasyon yon pèp.<br>"])

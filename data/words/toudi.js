@@ -1,0 +1,1 @@
+showWord(["a. ","Ki pèdi ekilib tanporèman. Madanm ansent la toudi.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Rad. Ki kalite abiman sa a ki sou ou la a?Rad. Ki kalite abiman sa a ki sou ou la a?<br>"])

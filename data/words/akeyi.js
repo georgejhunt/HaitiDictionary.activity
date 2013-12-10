@@ -1,0 +1,1 @@
+showWord(["v.","Resevwa. Madan Kalo akeyi m ak de bra.<br>"])

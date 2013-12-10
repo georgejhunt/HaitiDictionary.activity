@@ -1,0 +1,1 @@
+showWord(["n. "," Depi mwen te wè msye rantre ak tout malèt sa yo mwen te konnen li pa tap retounen ankò.<br>"])

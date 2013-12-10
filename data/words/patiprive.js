@@ -1,0 +1,1 @@
+showWord(["n fr. "," Ògàn sèks sou deyò. Pa montre pati prive ou.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n fr. ","Machan ki achte machandiz nan yon vil poul al vann nan yon lòt. Madan sara yo poko antre. 2. Zwazo perich. Gade kijan madan sara sa a vole wo.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","Bèt ki gen plim, ki gen de pat, ki gen de zèl, ki gen bèk, ki ponn ze, epi ki ka vole. Zòtolan se yon zwazo timoun yo renmen chase. Poul se yon zwazo. Pan se yon zwazo ki gen bèl plim."
+])

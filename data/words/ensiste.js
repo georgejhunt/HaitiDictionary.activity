@@ -1,0 +1,1 @@
+showWord(["v. ","pran yon pozisyon fèm; mande ak ensistans.<br>"])

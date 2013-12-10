@@ -1,0 +1,1 @@
+showWord(["v. "," retire tout sa ki genyen nan yon veso al mete nan yon lòt. Nou vide basen an.<br>"])

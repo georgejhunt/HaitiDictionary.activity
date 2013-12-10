@@ -1,0 +1,2 @@
+showWord(["n. ","1. Moun ki te konn okipe bèf lontan; kounye a se yon estil tipik nan zòn lwès nan peyi Etazini. Gen abiman espesyal pou kòbòy mete.  2. n fr.Vire an kòbòy, gate, kont met pye. Ti moun yo te ap pale a epi sanzatann jwèt la vire an kòbòy. 3. Ti liv ak anpil desen. "
+])

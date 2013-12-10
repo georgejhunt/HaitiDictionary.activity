@@ -1,0 +1,1 @@
+showWord(["a. ","ki genyen ògàn mal ak femèl nan menm bèt la. Vètè se yon bèt èmafwodit. Plant a-flè genyen ni estamèn (ògàn ki pote polèn) ni pistil.<br>"])

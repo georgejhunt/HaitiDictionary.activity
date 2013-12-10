@@ -1,0 +1,2 @@
+showWord(["n. ","1. Netwayaj, netwayay. Jodi a se jou menaj.  2. Peryòd kote de moun renmen, anvan yo fiyanse. Menaj pa vle di maryaj. 3. Relasyon ant de moun ki renmen. Jilbèt ak Janjan se menaj. 4. Fwaye, lavi yon koup. Gen moun ki panse yon menaj dwe pwoteje entimite li."
+])

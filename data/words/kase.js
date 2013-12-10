@@ -1,0 +1,2 @@
+showWord(["v.","1. Kraze, fann. Vè a sot tonbe, li kase anmiyèt moso. Apa ou kase asyèt mwen an? 2. Revoke. Yo kase papa mwen nan travay li te ye a. 3. Anile. Kase kontra. Mouvman moun fè ak vant yo lè yo ap danse fòlklò. Timoun, an al kase file."
+])

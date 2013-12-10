@@ -1,0 +1,1 @@
+showWord(["n. ","1. Dlo ki vin konjle. Mete glas nan ji a pou li kapab fre. 2. miwa. li ap gade nan glas. 3. moso vit.<br>"])

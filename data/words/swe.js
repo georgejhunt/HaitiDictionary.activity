@@ -1,0 +1,1 @@
+showWord(["","Dlo ki soti nan po yon moun paske l ap transpire. Depi mwen ap fè egzèsis mwen toujou swe. 2. Kondansasyon.<br>"])

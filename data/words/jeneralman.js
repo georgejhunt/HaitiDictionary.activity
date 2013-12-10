@@ -1,0 +1,1 @@
+showWord(["adv. ","an jeneral; leplisouvan.<br>"])

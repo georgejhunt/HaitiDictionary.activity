@@ -1,0 +1,2 @@
+showWord(["","1. a. Ki pa mouye, ki pa gen dlo. Lapli pa tonbe, se sa kifè tè a sèk konsa a. 2. n. Desen jeyometrik ki gen yon fòm won. liy desen ki gen fòm epi ki gen tout pozisyon li nan yon distans egal parapò ak sant (mitan) li. Fè yon sèk, nou pral jwe mab."
+])

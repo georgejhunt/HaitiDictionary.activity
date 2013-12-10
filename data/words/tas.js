@@ -1,0 +1,1 @@
+showWord(["n.","veso ki gen yon fòm won ak manch moun sèvi pou bwè bagay cho. Mwen ta pran yon tas kafe cho kounye a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Baraj alantou yon pwopriyete. Mete kloti pou moun pa pase sou teren ou.<br>"])

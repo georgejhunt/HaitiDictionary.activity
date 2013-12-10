@@ -1,0 +1,2 @@
+showWord(["","1. Non kolon Franse yo bay Ayiti. Se te yonn nan koloni ki te pi rich yo. Lè peyi a vin endepandan Ayisyen yo vin chanje non peyi a pou ba l non Ayiti, non li te genyen anvan kolonizasyon. 2. Non kapital peyi ki rele Repiblik Dominikèn. Si ou al Sendomeng, achte yon diksyonè panyòl pou mwen."
+])

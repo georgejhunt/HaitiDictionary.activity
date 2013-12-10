@@ -1,0 +1,1 @@
+showWord(["v. ","Plen. Bokit sa a ranpli ak dlo.<br>"])

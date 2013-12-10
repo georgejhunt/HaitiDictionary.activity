@@ -1,0 +1,2 @@
+showWord(["np. ","Powèt, womansye, chimis, aktè, jounalis, naratè. Li fèt Pòtoprens an 1928. An 1964 li pran ekzil epi li al viv Kanada. Li pibliye AMon pays que Voici@, pwezi, Paris 1968; Aorchidée Nègre, pwezi, Kiba, 1985; AMoins l=Infini@, woman, Paris 1973; ALes Doubles Quatrains Mauves@, Editions Mémoires, 1995, Pòtoprens."
+])

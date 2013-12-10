@@ -1,0 +1,1 @@
+showWord(["","Jounal ayisyen ki fonde nan ane 1898 epi ki fete santan nan ane 1998.<br>"])

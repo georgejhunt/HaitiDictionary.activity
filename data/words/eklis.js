@@ -1,0 +1,1 @@
+showWord(["n. "," Ti moso bwa. Gen yon eklis bwa ki rantre nan pla menm pandan mwen ap kloure chèz la.<br>"])

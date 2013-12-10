@@ -1,0 +1,2 @@
+showWord(["n.","1. Ògànis (bèt, plant) ki pwofite sou yon lòt pou li kapab viv. Si yon moun kenbe kò li pwòp, gen anpil chans pou li pa gen parazit antre sou li. 2. visye ki ap apiye sou moun. Mwen pap kapab peye pou ou monchè, degaje w, peye poukont ou, ou pa parazit."
+])

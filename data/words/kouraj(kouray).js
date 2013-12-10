@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fòs fizik, kran. Jan pa gen kouray ankò, li bouke. Moun sa yo gen kouraj, yo leve granmaten bonè epi li leswa byen ta yo poko al dòmi. 2. fòs moral, konsyans. Ou gen kouray ou trayi zanmi ou?  3. Kran. Leyon se yon nonm ki te gen kouray, li pat pè lagè. Pitit la pran doulè a ak kouray, li pa menm plenn. 4. Odas. Ou gen kouray ou ap vin bay manti la a. "
+])

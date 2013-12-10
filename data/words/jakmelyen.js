@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki fèt osinon ki rete Jakmèl.<br>"])

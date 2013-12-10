@@ -1,0 +1,1 @@
+showWord(["np. "," Youn nan kontinan yo. Nan kontinan Lafrik gen anpil moun ras nwa.<br>"])

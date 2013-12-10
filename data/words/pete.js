@@ -1,0 +1,2 @@
+showWord(["n.","1. gaz ki soti andedan vant yon moun epi ki konn fè bwi, gendelè li konn gen odè. Moun pat dwe pete sou moun, yo te dwe al pete an prive. 2 v. Eklate, kase, kraze, fann. Plat la rete konsa li pete epi li fè miyèt moso. Blad la pete. Li pete tèt ti gason an. 3. Twonpe, bay manti. Li panse li te ka pete m. 4. Pwovoke. Pete goumen."
+])

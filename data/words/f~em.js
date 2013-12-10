@@ -1,0 +1,2 @@
+showWord(["n. ","1. Espas kote ki òganize pou elve bèt, plante danre nan zòn riral. Mwen renmen al sou fèm granpapa mwen an lè vakans. 2. Sistèm lwe kay pa ane. Mwen pito fè fèm pase mwen peye lwaye chak mwa; fèm nan koute mwen mwens kòb. 3. a. Pa chanje. Mwen rete fèm sou desizyon m nan."
+])

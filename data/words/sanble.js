@@ -1,0 +1,2 @@
+showWord(["","1. v. Rasanble, mete ansanm. Sanble tout jwèt yo mete nan bwat sa a pou mwen. 2. Ki parèt menm bagay. Oumenm ak sè ou la sanble kou de gout dlo. 3. pr. Genlè. Sanble ou pa kontan sa mwen di a."
+])

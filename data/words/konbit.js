@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Rasanbleman moun ki reyini pou fè yon travay, pi souvan se travay latè. Travay ki òganize tankou yon fèt. Vwazen osnon zanmi reyini pou met tèt ansanm pou fè yon travay. Travay sa a pa peye men moun ki patisipe ladan l ap jwenn manje ak bwason. Anjeneral, pandan travay la moun yo bwè, yo chante yo danse epi konn gen moun ki ap bat tanbou. Travay la anjeneral fini nan apremidi konsa men amizman an andwa kontinye jous byen ta."
+])

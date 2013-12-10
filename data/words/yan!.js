@@ -1,0 +1,1 @@
+showWord(["entej. ","Son pou endike yon bagay ki reve toudenkou. Li louvri pòt la li fè yan sou mwen.<br>"])

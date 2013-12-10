@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Esplikasyon sou yon sitiyasyon. Pran enfòmasyon sou dyòb sa a pou mwen tanpri. 2. Nouvèl nan radyo jounal osnon nan televizyon sou evenman ki ap pase. Mwen pa tande enfòmasyon menm, èske ou kapab di mwen kijan sitiyasyon an ye?"
+])

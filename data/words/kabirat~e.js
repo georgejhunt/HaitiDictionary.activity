@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan machin ki kontwole kantite gaz nan motè. jan oto a mache a ou sanble ou ka gen yon pwoblèm kabiratè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. "," Ki gen rapò ak ond elektwomayetik. Ond ètzyèn.<br>"])

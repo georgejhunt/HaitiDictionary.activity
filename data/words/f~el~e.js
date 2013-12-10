@@ -1,0 +1,1 @@
+showWord(["","fè tan pase san aktivite itil. Pretann ou okipe alòske ou ap tann yon lè rive pou chanje aktivite.<br>"])

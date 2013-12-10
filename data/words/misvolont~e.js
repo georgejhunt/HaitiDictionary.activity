@@ -1,0 +1,1 @@
+showWord(["n fr. ","Vyann (miskilati) moun ka kontwole. Bibit se mis volontè.<br>"])

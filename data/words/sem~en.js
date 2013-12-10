@@ -1,0 +1,1 @@
+showWord(["n.","1. Sèt jou youn apre lòt depi dimanch rive sou samdi pa egzanp. Chak uit jou. Chak semèn mwen al fè mache Kafou Deriso. 2. Anvan uit jou. Nan semèn nan mwen gen pou mwen al wè matant mwen Okay.<br>"])

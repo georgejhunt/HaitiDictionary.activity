@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti kizin pou koule likid ki gen ma. Pase dlo kokoye a nan paswa a.<br>"])

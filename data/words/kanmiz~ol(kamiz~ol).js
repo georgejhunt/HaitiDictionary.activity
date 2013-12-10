@@ -1,0 +1,1 @@
+showWord(["n. ","Chemizèt. Kanmizòl sa a pachiman.<br>"])

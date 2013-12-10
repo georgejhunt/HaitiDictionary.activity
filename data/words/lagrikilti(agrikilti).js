@@ -1,0 +1,1 @@
+showWord(["n. "," Ansanm aktivite ki fèt sou yon tè pou fè l pwodwi manje pou moun ak bèt. Yo fè agrikilti nan peyi Ayiti.<br>"])

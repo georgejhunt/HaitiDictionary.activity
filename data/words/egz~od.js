@@ -1,0 +1,1 @@
+showWord(["n. ","lè anpil moun pati kite yon kote pou ale yon lòt kote.<br>"])

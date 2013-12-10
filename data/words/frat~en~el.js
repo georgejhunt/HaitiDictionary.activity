@@ -1,0 +1,2 @@
+showWord(["a. ","ki gen relasyon frè ak sè reyèl osinon kominotè. 2. Mo pou endike de jimo ki devlope apati 2 (de) ze diferan, konsa jimo yo gen diferans jenetik (yo pa idantik). 3. Relasyon ant manm nan yon sosyete."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Aktivite sèks ant de bèt ki nan menm espès pou yo kapab repwodui.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n fr. "," Pwen nan mitan ki gen distans egal ak tout pwen alantou li yo. Dyamèt yon sèk toujou pase pa sant simetri li.<br>"])

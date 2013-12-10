@@ -1,0 +1,2 @@
+showWord(["n. ","Pati nan kò yon moun, ki nan zòn kòf lestomak, kote chanjman lè fèt pou moun respire oksijèn epi ekspire gaz kabonik. Pitit sa a gen poumon frajil.Ògàn respirasyon moun ak bèt, li nan kòf lestomak (toraks) vètebre. Li sèvi pou melanje oksijèn ak san epi retire gaz kabonik nan san.  Poumon noun respire 3300 (twamil twasan) galon lè nan yon jounen. Lè nou respire lè ki soti nan nen nou (ekspirasyon) soti ak yon vitès prèske egal ak 4 mil-alè, lè nou estène lè a soti ak yon vitès ki prèske egal ak vitès yon siklòn. "
+])

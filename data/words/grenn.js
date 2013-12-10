@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pati yon plant, pafwa se avè l yo repwodui plant yo. Si ou plante yon grenn, li ap jèmen, li ka vin yon lòt plant menm jan ak plant kote li te sòti a. 2. Testikil, pati nan ògà repwodiksyon gason ak mal bèt. 3. inik. Yon grenn pitit mwen genyen."
+])

@@ -1,0 +1,2 @@
+showWord(["np. ","1. Ansyen prezidan peyi Etazini. Yo touye prezidan Dyonn F. Kenedi. 2. Ansyen kandida prezidan nan peyi Etazini. Yo ansasinen Jak Kenedi tou.  3. n. Pèpè, odeyid, rad dezyèm men yo kòmanse distribye nan peyi Ayiti pandan Dyonn F. Kenedi te prezidan nan peyi Etazini. Jera pa gen lajan pou li achte rad nèf, se kenedi li mete."
+])

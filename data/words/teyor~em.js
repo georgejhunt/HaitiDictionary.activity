@@ -1,0 +1,1 @@
+showWord(["n. ","yon pwopozisyon ki pa klè men ki kapab pwouve lè moun sèvi ak lwa ki deja etabli.<br>"])

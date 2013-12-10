@@ -1,0 +1,1 @@
+showWord(["","1. poupou chovsourit; poupou zwazo lanmè ki sèvi kò angrè natirèl.<br>"])

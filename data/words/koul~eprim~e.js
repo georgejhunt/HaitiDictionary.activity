@@ -1,0 +1,2 @@
+showWord(["nfr.","Nan fizik, koulè prensipal, twa koulè debaz, wouj, vèt ak ble. Si twa koulè sa yo melanje nan pwopòsyon ki kòrèk ou ap gen koulè blan; twa koulè sa yo rele koulè primè paske ou pa ka reyisi fè yo si ou melanje lòt koulè ansanm."
+])

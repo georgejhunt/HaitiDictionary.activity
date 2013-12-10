@@ -1,0 +1,1 @@
+showWord(["n. "," Aparèy ki fè ond yo reflechi gras a yon seri miwa. Reflektè yo ka reflechi limyè osnon chalè.<br>"])

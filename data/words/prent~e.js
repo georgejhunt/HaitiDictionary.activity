@@ -1,0 +1,1 @@
+showWord(["n. "," machin pou enprime enfòmasyon ki soti nan òdinatè (konpyoutè).<br>"])

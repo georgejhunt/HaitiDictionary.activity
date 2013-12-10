@@ -1,0 +1,1 @@
+showWord(["n. ","jan moun pwononse mo ak lèt.<br>"])

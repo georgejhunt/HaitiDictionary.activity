@@ -1,0 +1,1 @@
+showWord(["","1. a. Ki gen relasyon ak Espay. 2. n. Lang yo pale nan plizyè peyo Amerik Disid ak nan peyi Espay.<br>"])

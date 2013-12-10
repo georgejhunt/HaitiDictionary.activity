@@ -1,0 +1,2 @@
+showWord(["n.","tib ki pote san fonse soti toupatou nan kò a pou retounen nan kè ale nan poumon. Lè bòs mason an ap pote bokit siman an yo, tout venn nan bra l yo redi. 2. tib espesyalize nan fèy plant."
+])

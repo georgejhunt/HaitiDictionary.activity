@@ -1,0 +1,1 @@
+showWord(["np.","Atispent ki fèt nan vil Jakmèl. Li etidye penti nan Art Student League nan Nouyòk. Li te resevwa yon pri Wòkfèlè pou penti kreyatif li yo. Li ekspoze nan peyi Lafrans epi nan vil Wachinnton nan peyi Etazini. Li rete nan peyi Lafrans kounye a.<br>"])

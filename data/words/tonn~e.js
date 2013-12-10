@@ -1,0 +1,1 @@
+showWord(["n.","Bri ou tande lè movetan ap pare epi lapli pral tonbe. Gen kout tonnè ki mache ak gwo zèklè tou.<br>"])

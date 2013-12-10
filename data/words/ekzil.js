@@ -1,0 +1,1 @@
+showWord(["n. ","sitiyasyon yon moun ki oblije viv lwen peyi l osinon lwen kominote li.<br>"])

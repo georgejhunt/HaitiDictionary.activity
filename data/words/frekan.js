@@ -1,0 +1,2 @@
+showWord(["n. ","1.  Moun ki renmen foure kò sou moun, antre nan koze ki pa regade l. Jak se yon frekan. 2. a. Ki antre nan sa ki pa regade l. Mwen pa mele ak moun frekan.  3. adv. Souvan. Siklòn pa frekan nan zòn Kenskòf. 4. a. Enpètinan, ki pa bay respè. Ou pa manke pa frekan."
+])

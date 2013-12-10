@@ -1,0 +1,1 @@
+showWord(["n. ","non yo bay malanga sitou nan depatman Sid ak Grandans.<br>"])

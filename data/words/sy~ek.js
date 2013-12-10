@@ -1,0 +1,1 @@
+showWord(["n. ","1. Santan. Santan se yon syèk. 2. Lontan. Sa fè yon syèk depi manman ou ap tann ou.<br>"])

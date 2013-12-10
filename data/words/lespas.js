@@ -1,0 +1,1 @@
+showWord(["n. ","Kote vid san fwontyè ki anwo epi alantou latè a. Gen plànèt nan lespas la ki poko esplore. <br>"])

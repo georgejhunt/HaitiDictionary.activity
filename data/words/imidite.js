@@ -1,0 +1,1 @@
+showWord(["n. ","Eta yon bagay ki kenbe vapè dlo; patikil dlo nan lè. Imidite a fè m santi m ap toufe.<br>"])

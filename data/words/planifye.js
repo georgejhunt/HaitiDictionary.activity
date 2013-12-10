@@ -1,0 +1,1 @@
+showWord(["v","1. Òganize aktivite yon fason pou li reyalize jan ou vle a. Annou planifye al nan lanmè dimanch.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","Komite Inisyativ pou Kore Alfabetizasyon ann Ayiti.<br>"])

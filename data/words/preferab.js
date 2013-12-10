@@ -1,0 +1,1 @@
+showWord(["a. ","ki merite pou yo chwazi li alaplas yon lòt.<br>"])

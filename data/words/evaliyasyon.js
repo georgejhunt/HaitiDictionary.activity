@@ -1,0 +1,1 @@
+showWord(["","mezire valè osinon enpòtans yon bagay.<br>"])

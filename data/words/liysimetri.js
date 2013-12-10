@@ -1,0 +1,1 @@
+showWord(["n fr. "," Liy ki separe yon desen an de pati ki sanble epi egal. Liy simetri sa a separe kare a an de.<br>"])

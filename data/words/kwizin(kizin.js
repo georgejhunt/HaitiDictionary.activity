@@ -1,0 +1,1 @@
+showWord(["n. ","Kote moun fè manje. Pati nan kay kote yo fè manje a rele kwizin.<br>"])

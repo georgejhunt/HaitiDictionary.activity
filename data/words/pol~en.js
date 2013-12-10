@@ -1,0 +1,2 @@
+showWord(["n. ","Ti grenn fen tankou pousyè ki fèt nan flè plant ki pote selil repwodiksyon mal plant lant. Pousyè fen ki sot nan yon plant epi ki gen kapasite repwodwi plant sa a. Nan peryòd genyen anpil polèn nan lè a, gen moun ki konn fè alèji tankou anrimen, je wouj elatriye."
+])

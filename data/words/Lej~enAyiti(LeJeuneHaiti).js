@@ -1,0 +1,1 @@
+showWord(["","Se piblikasyon ki te premye parèt an 1894. Se Jisten Lerison ki te alatèt plizyè entelektyèl ansyen elèv Lise Petyon sa yo. Revi sa a te fè pwomosyon lafami Ayisyen.<br>"])

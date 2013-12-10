@@ -1,0 +1,1 @@
+showWord(["","Sinema kote kliyan yo antre ak oto yo pou gade yon fim.<br>"])

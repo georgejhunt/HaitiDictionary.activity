@@ -1,0 +1,1 @@
+showWord(["n. ","Sizyèm mwa nan ane a. Timoun yo an vakans nan mwa jen.<br>"])

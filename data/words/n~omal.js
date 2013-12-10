@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Ki akseptab dapre valè ak prensip. Atitid nòmal. 2. Akseptab. Kondisyon nòmal. 3. Òdinè. Li pase yon jounen nòmal.<br>"])

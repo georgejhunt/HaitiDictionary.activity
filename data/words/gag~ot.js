@@ -1,0 +1,1 @@
+showWord(["n. ","Dezòd. Gade gagòt mesye yo fè la a.<br>"])

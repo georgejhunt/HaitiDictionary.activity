@@ -1,0 +1,1 @@
+showWord(["v. ","mezire ak longè pye. Sèvi ak pye pou mezire longè. An nou pyete distans lan.<br>"])

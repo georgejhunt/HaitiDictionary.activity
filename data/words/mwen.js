@@ -1,0 +1,2 @@
+showWord(["pr.","Premye pwonon pèsonèl pou yon grenn moun, moun ki ap pale a osnon ki ap fè aksyon. Mwen pa konnen w. Mwen pa rekonèt ankenn nan moun sa yo, se dwe zanmi pa ou yo ye. Mwen gen sizan jodi a. Mwen pral nan makèt talè konsa."
+])

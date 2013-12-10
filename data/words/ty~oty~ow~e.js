@@ -1,0 +1,1 @@
+showWord([""adj"," n. ","jouda, frekan, antyoutyout, ki renmen zen."<br>"])

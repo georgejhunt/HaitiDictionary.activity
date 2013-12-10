@@ -1,0 +1,1 @@
+showWord(["n. ","Kote moun kontre pou fè seremoni mason osinon wozkwa. Chak dimanch Janwobè al nan lòj.<br>"])

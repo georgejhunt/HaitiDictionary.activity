@@ -1,0 +1,2 @@
+showWord(["n. ","1. Branch cheve. Li jwenn yon mèch cheve nan manje a. 2. Koton trese tankou yon kòd ki tranpe nan gaz; lè yo pase alimèt ladan l, li limen pou klere yon sal. Kalin pa kapab limen lanm pa paske li pa gen mèch."
+])

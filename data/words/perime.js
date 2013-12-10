@@ -1,0 +1,1 @@
+showWord(["v. ","ki pase nan li. medikaman perime.<br>"])

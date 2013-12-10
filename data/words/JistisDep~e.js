@@ -1,0 +1,1 @@
+showWord(["n fr","Tribinal. Biwo jistis lokal nan komin yo.<br>"])

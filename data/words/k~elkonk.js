@@ -1,0 +1,1 @@
+showWord(["a. ","nenpòt ki.<br>"])

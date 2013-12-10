@@ -1,0 +1,1 @@
+showWord(["","1. Make ak yon so. Tanpe papye a pou mwen.  2. Make po bèt ak fè cho. Yo tanpe chwal la.<br>"])

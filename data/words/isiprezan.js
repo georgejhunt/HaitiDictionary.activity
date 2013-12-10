@@ -1,0 +1,1 @@
+showWord(["","ki prezan kounye a kote moun ki ap pale a ye.<br>"])

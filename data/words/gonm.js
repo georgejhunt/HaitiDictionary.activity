@@ -1,0 +1,2 @@
+showWord(["","1. Lakòl. Mete plis gonm pou papye a ka kole.  2. Efas, pati nan kreyon pou efase. Kreyon Bondye pa gen gonm. 3. Chiklèt, pati nan plant moun moulen nan bouch san vale. Mwen rayi moulen gonm."
+])

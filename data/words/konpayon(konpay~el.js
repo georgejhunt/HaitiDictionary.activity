@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ki akonpaye yon lòt.  Tout elèv nan klas la se konpayon mwen.  2. Moun ou chwazi fè vi ou avèk li. Jan se konpayon madan Jan.<br>"])

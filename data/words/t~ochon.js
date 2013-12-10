@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pye bwa ki bay fib ki ka sèvi pou lave asyèt. Pye tòchon an donnen ane sa a.  2. Fib ki soti nan pye tòchon. Ou vle detwa tòchon? 3. Twal pou siye asyèt. Kenbe chodyè a ak tòchon. 3. Ki pa gen valè. Rad sa a se yon tòchon, ou mèt jete l."
+])

@@ -1,0 +1,1 @@
+showWord(["v. ","1. mete na bwat. 2. Mete nan pak.<br>"])

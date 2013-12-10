@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen vit. Ki transparan.<br>"])

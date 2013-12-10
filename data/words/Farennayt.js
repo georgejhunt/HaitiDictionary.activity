@@ -1,0 +1,2 @@
+showWord(["np. ","1. inite (echèl) pou mezire tanperati. Senbòl li se F. Lè tanperati dlo rive 32 degre F dlo a tounen glas (sa se conjelasyon), lè tanperati a rive 212 degre F dlo bouyi li vin fè vapè (evaporasyon). Lè vapè dlo an kontak ak yon bagay ki frèt (tankou yon vè ki gen glas ladan l) vapè dlo a vin tounen dlo ankò, sa rele kondansasyon. 2. Non moun ki envante yon kalite tèmomèt. Farennay se te yon fizisyen prisyen."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Plas pou pye yon kavalye lè li sou cheval. Pase pye ou nan zetriye a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","jete ak fòs.<br>"])

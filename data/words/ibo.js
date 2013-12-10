@@ -1,0 +1,2 @@
+showWord(["n. ","1. Dans fòlklò ki raple soufrans esklav yo epi efò yo te fè pou yo te kase chenn esklavaj la. Mwen te toujou anvi danse Ibo byen, men mwen pa fò ladan l. 2. Non lwa nan relijyon Vodou. Gen lwa Ibo epi gen dans Ibo tou. "
+])

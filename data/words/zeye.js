@@ -1,0 +1,1 @@
+showWord(["n. ","Kote pou pase lasèt nan soulye osinon rad. Tennis sa a manke yon zeye. 2. Zye zegui.<br>"])

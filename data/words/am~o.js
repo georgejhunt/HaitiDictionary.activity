@@ -1,0 +1,1 @@
+showWord(["adv.","jiska lekstrèm; jiskalamò.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki ap mande lacharite. Simòn bay mandyan an tout monnen li te rete.<br>"])

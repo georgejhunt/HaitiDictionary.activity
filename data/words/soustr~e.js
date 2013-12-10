@@ -1,0 +1,1 @@
+showWord(["v. "," Fè soustraksyon. Si ou soustrè 3 nan 8 ap rete 5.<br>"])

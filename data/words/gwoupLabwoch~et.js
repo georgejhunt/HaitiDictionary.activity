@@ -1,0 +1,1 @@
+showWord(["","Gwoup atis Ayisyen ki te vini ak yon estil nouvo. Se Liknè Laza ki te alatèt Gwoup Labwochèt la. <br>"])

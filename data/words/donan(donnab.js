@@ -1,0 +1,1 @@
+showWord(["a. "," Ki renmen bay. Ou kwè se nonm donan se Oska.<br>"])

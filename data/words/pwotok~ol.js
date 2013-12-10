@@ -1,0 +1,1 @@
+showWord(["n. ","Fòmil ak etap pou fè travay leta. 2. Fòmil ak etap pou fè yon eksperyans syantifik. 3. Konvansyon. Règ ki eksplike kijan pou diplomat konpòte yo an piblik. Règ konpòtman. <br>"])

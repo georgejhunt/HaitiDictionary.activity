@@ -1,0 +1,1 @@
+showWord(["n.","1. Zouti ki fèt ak metal; li genyen fòm yo gwo kiyè li sèvi pou travay latè. Pèl sa a bon pou pèlte tè. 2. a. ki gwo. pèl dan.<br>"])

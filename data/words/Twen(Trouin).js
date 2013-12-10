@@ -1,0 +1,1 @@
+showWord(["","Vil nan depatman Sidès. Nou te konn ale Twen chak samdi maten.<br>"])

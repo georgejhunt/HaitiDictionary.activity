@@ -1,0 +1,2 @@
+showWord(["n.","1. Seremoni kote ou kwape yon lwa yon moun voye sou yon lòt. Nou pral fè yon ranvwa aswè a, nou envite w.  2. Moun ki vini tou pare pou l anmède yon lòt. Rale kò ou tande, ou sanble ou se yon ranvwa, mwen kapab koresponn avèk ou tou."
+])

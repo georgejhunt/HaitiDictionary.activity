@@ -1,0 +1,1 @@
+showWord(["v. "," Rekòmandasyon dapre yon espesyalis. Doktè a preskri repo konplè.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. lametsin, syans ki prepare doktè yo pou yo ka konn okipe afè swaye moun malad. Jera nan twazyèm ane metsin.  2. Medikaman, luil osnon fèy ki netwaye trip moun. Demen granmè ap bay tout timoun yo yon metsin."
+])

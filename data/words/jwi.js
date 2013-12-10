@@ -1,0 +1,2 @@
+showWord(["v. ","1. Pran plezi. Gen plezi pou viv yon bagay. Jan se yon nèg ki renmen jwi lavi l seryèzman, li renmen banbòch anpil tou. 2. Pwofite. Yo di mwen madan Bòs fin jwi tout ti kòb Bòs te mouri kite pou li a."
+])

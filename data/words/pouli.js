@@ -1,0 +1,1 @@
+showWord(["n. ","Ti wou kote yon fil pase pou pèmèt ou rale pwa lou. Atansyon pou fil la pa soti nan pouli a.<br>"])

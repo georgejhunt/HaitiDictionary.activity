@@ -1,0 +1,1 @@
+showWord(["n. "," Panse. Opinyon pa medam yo sèke mesye yo te dwe ede yo plis. <br>"])

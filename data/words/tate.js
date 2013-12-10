@@ -1,0 +1,1 @@
+showWord(["v.","chache ak dwèt ou sa ou pa kapab wè ak je w. Mwen tate pòch la mwen pa jwenn kle a.<br>"])

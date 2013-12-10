@@ -1,0 +1,1 @@
+showWord(["n. ","Sistèm edepandan nan lespas ki gen plizyè milyon zetwal.<br>"])

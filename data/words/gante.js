@@ -1,0 +1,1 @@
+showWord(["v. ","Mete gan. Madan Chal al nan nòs la byen gante.<br>"])

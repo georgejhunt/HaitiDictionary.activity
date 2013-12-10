@@ -1,0 +1,2 @@
+showWord(["","Li fèt Pòtoprens. Kounye a misye ap viv nan Nouyòk. Li se atispent epitou li se aktè. Misye jwe nan plizyè fim ayisyen. Younn ladan yo se "" Lavi Ayisyen nan Nouyòk "". Bòb Lapierre te responsab youn ribrik nan jounal Ayiti Ekran kote li te konn pibliye anpil ti istwa sou fòm bann desine. Liv misye ekri se: The Haitian poet in North America (1984); Malfini-Byenfini, pwezi, (1986); eksetera. "
+])

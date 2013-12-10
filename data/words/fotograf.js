@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki gen ladrès ak teknik pou pran foto. 2. Metye moun ki pran foto.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n fr. "," Pwazon ki aktif nan seren. Fè atansyon pou yo pa ba ou yon piga seren.<br>"])

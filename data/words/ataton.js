@@ -1,0 +1,1 @@
+showWord(["san ale dirèk.san ale dirèk.san ale dirèk.san ale dirèk.san ale dirèk.san ale dirèk.san ale dirèk.san ale dirèk.","<br>"])

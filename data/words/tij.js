@@ -1,0 +1,2 @@
+showWord(["n. ","Pati nan plant ki pote branch yo. Pati nan plant ki pote tout pati vizib plant lan, branch, fèy, flè eltr. Tij la grandi an montan (alòske rasin pose an desandan). Tij transpòte manje monte desann ant rasin yo ak fèy yo. Se li ki sèvi sipò pou flè ak fèy devlope. 2. Yon moso bwa ki gen yon fòm an silenn. Gen divès kalite tij, gen tij rizom ki anba tè, tij aeryèn (majorite tij plant) gen tij grenpant eltr."
+])

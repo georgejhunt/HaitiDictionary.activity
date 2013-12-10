@@ -1,0 +1,1 @@
+showWord(["np. "," yon ti lokalite nan Petyonvil. Li fè fre epi gen anpil kay ki chè.<br>"])

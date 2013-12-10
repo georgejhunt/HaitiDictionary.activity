@@ -1,0 +1,1 @@
+showWord(["n.","Jou nan mwa novanm lè yo fete lèmò. Mwen pral pase fètdèmò nan peyi mwen.<br>"])

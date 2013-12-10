@@ -1,0 +1,1 @@
+showWord(["n.","Enfòmasyon ou pa vle nenpòt ki lòt moun konnen. Mwen ap di ou yon ti sekrè nan zòrèy.<br>"])

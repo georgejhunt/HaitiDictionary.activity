@@ -1,0 +1,1 @@
+showWord(["n. ","1. Non moun ki soti nan peyi Gwatemala. Anntonyo se yon Gwatemaltèk.  2. a. Ki gen avwa osnon ki pou Gwatemala. Tikal se yon piramid gwatemaltèk.<br>"])

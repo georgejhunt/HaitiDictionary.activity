@@ -1,0 +1,2 @@
+showWord(["n. "," 1. pati nan kò moun ki soti depi nan zèpòl rive bò ren toudebò kolòn vètebral, pa dèyè lestomak li 2. Ki padèyè. Jan t ap naje sou do nan pisin lan. 2. Nòt mizik, premye nòt mizik na kle do. Mwen pa konn jwe pyano, se sèman do re mi fa sòl la si do mwen konnen. 3. Kote opoze. Pa do. 4. Pati sou anro. Do kay moun, do pye."
+])

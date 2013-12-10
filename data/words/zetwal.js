@@ -1,0 +1,2 @@
+showWord(["n.","Reflè planèt osnon lòt mas ki nan inivè a moun kapab wè nan syèl la leswa lè fè nwa. Zetwal yo lwen anpil. Leswa mwen renmen gade zetwal nan syèl la, yo klere byen sitou lè pa gen nwaj. 2. Fòm konvavsyonèl ki gen 5 branch simetrik. 3. Fòs imajinè ki enfliyanse destine moun sou latè a. 4. Moun ki fò nan sa li ap fè.5. Aktè aktris ki gen anpil fanatik. 6. Senbòl sou papye ki ranvwaye nan yon lòt seksyon sou menm papye a."
+])

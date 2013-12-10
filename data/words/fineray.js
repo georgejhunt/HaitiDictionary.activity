@@ -1,0 +1,1 @@
+showWord(["","seremoni antèman ak pwosesyon pou moun ki mouri.<br>"])

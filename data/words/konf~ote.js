@@ -1,0 +1,1 @@
+showWord(["v. ","Soulaje yon moun ak bèl pawòl.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v.","1. Repwodui alamen osnon alamachin. Jànin kopye chante a deja. 2. Fè kopi. Jànin te al kopye chante a nan machin ki fè kopi a.  3. Pran poul. Jànin pa kopye sou Jizèl.<br>"])

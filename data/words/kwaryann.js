@@ -1,0 +1,1 @@
+showWord(["n. ","Min wòch. Gen yon kwaryann Miragwàn.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo zwazo rapas tèt kale ki manje fatra ak bèt mouri. Plen votou kote ki gen anpil fatra.  2. Karaktè moun ki vle pran tout bagay pou li sèl. Vànya tankou yon votou.<br>"])

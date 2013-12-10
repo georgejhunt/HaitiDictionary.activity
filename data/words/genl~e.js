@@ -1,0 +1,1 @@
+showWord(["n. ","Sanble Genlè ou pa renmen m ankò.<br>"])

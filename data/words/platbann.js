@@ -1,0 +1,1 @@
+showWord(["n. ","1. espas ki bare ak treng bwa pou fè pepinyè 2. espas pou fè plant jèmen. <br>"])

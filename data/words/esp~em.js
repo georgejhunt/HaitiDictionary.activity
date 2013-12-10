@@ -1,0 +1,1 @@
+showWord(["n. ","Semans gason.<br>"])

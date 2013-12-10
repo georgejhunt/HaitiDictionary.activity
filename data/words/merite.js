@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Dwa. Li merite digoud pou tout travay sa a. 2.  Valè. Liv sa a pa merite tout konpliman sa yo. 3. Rekonpans. Timoun yo merite al pase yon jounen sou plaj la apre egzamen yo.<br>"])

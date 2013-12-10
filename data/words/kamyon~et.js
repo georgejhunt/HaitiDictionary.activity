@@ -1,0 +1,2 @@
+showWord(["n. "," Transpòtasyon piblik ki popilè anpil Ayiti pou fè wout Kafou, Site, Kafou Fèy ak zòn Dèlma. Yo konn fè kamyonèt yo ak pikòp san dèyè yo. Kamyonèt yo toujou pentire ak koulè byen ge epi yo toujou gen desen ak pwovèb ekri toupatou sou tout kò yo. Gen kamyonèt ki konn gen mesaj relijyon, mesaj kretyen osnon blag. Pou fè yon kamyonèt, yo mete ban chak bò padèyè nan yon machin pikòp yo epi yo kouvri anlè tèt li ak yon ankadreman anbwa."
+])

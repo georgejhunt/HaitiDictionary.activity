@@ -1,0 +1,2 @@
+showWord(["np:","Nan relijyon Vodou se lwa ki kontwole dlo lanmè ak tout plant ak bèt ki viv nan lanmè. Li gen pouvwa tou sou tout bato ki vwayaje nan lanmè. Li reprezante ak yon gason wouj ki gen zye vèt, ki pote inifòm militè, gan nan men ak kas sou tèt."
+])

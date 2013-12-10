@@ -1,0 +1,2 @@
+showWord(["","Mòn Lavout se yon sit akeyolojik Ayiti kote genyen yon seri gwòt estra-òdinè nan Sid Ayiti, toupre Pòtapiman. Yo klase gwòt Lavout yo kòm nimewo de nan zòn karayib la. Annayiti se nimewo en."
+])

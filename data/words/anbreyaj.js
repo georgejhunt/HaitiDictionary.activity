@@ -1,0 +1,1 @@
+showWord(["n.","Antre klòch machin nan yon vitès.<br>"])

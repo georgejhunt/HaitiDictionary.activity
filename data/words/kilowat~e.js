@@ -1,0 +1,1 @@
+showWord(["n. ","inite pou mezire travay yon machin. Travay yon motè ki gen yon pisans 1 kW (1000 wat) fè apre inèdtan depi li ap mache.<br>"])

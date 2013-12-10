@@ -1,0 +1,1 @@
+showWord(["n.","Reyaksyon kò ou fè lè li pa kapab sipòte yon bagay. Mwen fè alèji ak pelisilin.Reyaksyon kò ou fè lè li pa kapab sipòte yon bagay. Mwen fè alèji ak pelisilin.<br>"])

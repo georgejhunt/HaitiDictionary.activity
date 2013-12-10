@@ -1,0 +1,1 @@
+showWord(["n.","1. Demonstrasyon. Ban m yon jòf pou mwen wè si machin nan mache.  2. Montre detay nan kò pou atire atansyon. Sonnya gen yon kòsaj ki bay ti mesye yo jòf.<br>"])

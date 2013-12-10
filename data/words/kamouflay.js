@@ -1,0 +1,2 @@
+showWord(["n. ","Pandan lagè, mask osnon makiyaj pou moun ak pou zam pou lenmi pa rekonèt yo nan bwa a. Lè ou nan lagè, ou konn pa ka wè si lenmi an pre ou paske li mete kamouflay ki menm koulè ak fèy pyebwa yo."
+])

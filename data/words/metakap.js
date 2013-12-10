@@ -1,0 +1,1 @@
+showWord(["n. ","Zo men ki konekte ak zo ponyèt ak zo dwèt.<br>"])

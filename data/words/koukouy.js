@@ -1,0 +1,1 @@
+showWord(["n. "," Bèt ki bay yon ti limyè leswa. Koukouy yo fè tankou yo gen yon flach nan kò yo.<br>"])

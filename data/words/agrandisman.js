@@ -1,0 +1,1 @@
+showWord(["n.","Ogmantasyon gwosè yon bagay.  Agrandisman kay la koute mwen anpil lajan.Ogmantasyon gwosè yon bagay.  Agrandisman kay la koute mwen anpil lajan.Ogmantasyon gwosè yon bagay.  Agrandisman kay la koute mwen anpil lajan.Ogmantasyon gwosè yon bagay.  Agrandisman kay la koute mwen anpil lajan.<br>"])

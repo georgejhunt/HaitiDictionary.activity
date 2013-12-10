@@ -1,0 +1,2 @@
+showWord(["np. ","Lwa lagè ak espri lagè nan relijyon vodou .Patwon fòjon ak fèblantye. Dapre kwayans vodou, lwa sa a renmen koulè wouj. Li renmen kòk wouj ak pwa wouj. Yo di lwa Ogou yo te patisipe nan lagè endepandans. Gen plizyè manm nan fanmi lwa Ogou, gen Ogou Badagri ki chèf la, Ogou feray ki se pitit Badagri Ogou Balindyo Ogou Shango, Ogou Jewouj, Ogou Ozany . Lotrejou, Ogou te monte Edga."
+])

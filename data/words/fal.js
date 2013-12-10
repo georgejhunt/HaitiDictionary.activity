@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pati nan sistèm dijestif zwazo. Fal poul la te plen manje ladan l. 2. Kòf lestomak.<br>"])

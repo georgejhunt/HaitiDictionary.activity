@@ -1,0 +1,1 @@
+showWord(["","1. Plant ki bay kakawo. Gen detwa pye kakawo nan jaden an. 2. Fwi ki soti nan plant kakawo a. Chokola ki fèt ak kakawo se pi bon bwason. 3. Pwodui ki devlope apre yo fin transfòme fwi kakawo a. Bwason ki fèt ak fwi kakawo.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," Sereyal moun manje bouyi osinon boukannen, dous osnon sale. Mwen renmen mayi ak pwa, mwen pito l ak sòs pwason. Mayi boukannen, kè mayi, farin mayi, mayi moulen, mayi agren, zepi mayi, bab mayi, kase mayi. 2. Plant ki bay mayi. Jaden mayi."
+])

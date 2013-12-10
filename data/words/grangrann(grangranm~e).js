@@ -1,0 +1,1 @@
+showWord(["n. "," Manman grann. Gran grann mwen te rele Likrès.<br>"])

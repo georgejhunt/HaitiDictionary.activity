@@ -1,0 +1,1 @@
+showWord(["n. ","Fèy plant ki sèvi pou atizana ak pou kontriksyon tanporè. Pànye latànye.<br>"])

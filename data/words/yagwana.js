@@ -1,0 +1,1 @@
+showWord(["np.","Yon vil Ispayola. Franswa Leklè te detwi li nan àne 1553. Kounye a se la Pòtoprens bati.<br>"])

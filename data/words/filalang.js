@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Jès kote ou soti lang ou epi ou antre li byen vit . Mwen ap fè timoun yo filalang. 2. Jès pou endike sa ou ap montre a ou pap bay li. Si ou fè m filalang ak lajan an, mwen ka tòde men ou mwen pran li pafòs."
+])

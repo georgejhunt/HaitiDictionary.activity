@@ -1,0 +1,1 @@
+showWord(["a. ","ki rete an rapò epi ki varye nan menm pwopòsyon.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," seremoni kote de moun marye. Mwen pral nan maryaj sè mwen an demen swa.<br>"])

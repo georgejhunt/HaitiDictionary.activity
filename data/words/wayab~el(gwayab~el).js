@@ -1,0 +1,1 @@
+showWord(["n. ","estil chemiz gason ki gen pòch sou anba ak ti pli sou devan. Le dimanch mesye met wayabèl pou ale legliz.<br>"])

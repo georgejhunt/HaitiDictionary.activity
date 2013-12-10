@@ -1,0 +1,1 @@
+showWord(["n. ","Yon machin ki chanje vòltaj nan kouran elektrik.<br>"])

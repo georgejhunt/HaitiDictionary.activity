@@ -1,0 +1,1 @@
+showWord(["v. ","Kòmanse. Moun yo tanmen pale.<br>"])

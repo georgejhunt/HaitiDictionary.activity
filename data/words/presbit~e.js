@@ -1,0 +1,1 @@
+showWord(["n. ","kay ak biwo kire yon pawas nan leglis katolik.<br>"])

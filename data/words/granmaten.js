@@ -1,0 +1,1 @@
+showWord(["n. ","Bonè. M ap tann ou demen granmaten.<br>"])

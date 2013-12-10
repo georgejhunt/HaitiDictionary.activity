@@ -1,0 +1,1 @@
+showWord(["n. ","Medikaman ki fèt ak sèl mayezyòm. Lèt mayezi.<br>"])

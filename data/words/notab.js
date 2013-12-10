@@ -1,0 +1,1 @@
+showWord(["n. ","1. Ki enpòtan nan yon kominote. Mesye sa a se yon notab nan vil la.  2. a. Ki fasil pou ou wè. Moniman sa a notab.<br>"])

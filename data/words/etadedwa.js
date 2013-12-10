@@ -1,0 +1,1 @@
+showWord(["","Doktrin politik ki mande pou tout aksyon yon gouvènman pou jere sosyete a fèt dapre lwa ki ekziste.<br>"])

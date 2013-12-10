@@ -1,0 +1,1 @@
+showWord(["n. ","gwoup ki rasanble pou diskite yon pwoblèm kouran. 2. Pwogram radyo ki analize yon sijè kouran.<br>"])

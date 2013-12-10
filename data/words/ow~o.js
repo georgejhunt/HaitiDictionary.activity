@@ -1,0 +1,1 @@
+showWord(["n. ","Klate anvan solèy leve. Owò boreyal.<br>"])

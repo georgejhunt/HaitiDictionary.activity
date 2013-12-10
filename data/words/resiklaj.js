@@ -1,0 +1,2 @@
+showWord(["n. ","Aksyon kote ou retounen sèvi ak yon bagay ou te ka jete. Resiklaj gen plizyè avantaj, non sèlman ou ka ekonomize lajan lè ou pratike li men tou, ou kontribye kontwole kantite fatra peyi a ap akimile."
+])

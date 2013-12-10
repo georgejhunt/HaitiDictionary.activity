@@ -1,0 +1,1 @@
+showWord(["adv. ","1. Ki kantite. Konbyen moun ki ap vini?  2. Pakèt. Sa ki konnen konbyen fwa li fè sa deja.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","Vire epi peze pou retire dlo. Tòde rad. 2. Vire epi peze pou koze doulè. Tòde bra.<br>"])

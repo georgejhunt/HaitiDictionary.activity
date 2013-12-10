@@ -1,0 +1,1 @@
+showWord(["n. ","1. Aktivite lè yon moun ap li yon bagay ki ekri. Chak jou elèv yo fè lekti. 2. Tèks pou elèv yo li. Lekti sa a gen anpil mo nouvo ladan l.<br>"])

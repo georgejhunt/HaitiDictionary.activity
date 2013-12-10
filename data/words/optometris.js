@@ -1,0 +1,1 @@
+showWord(["n.","metye moun ki mezire kijan moun wè pou preskri linèt.<br>"])

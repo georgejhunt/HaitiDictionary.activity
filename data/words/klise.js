@@ -1,0 +1,1 @@
+showWord(["v. "," Mete klisad (klisay). Lè ou fin klise nou ka mete mòtye.<br>"])

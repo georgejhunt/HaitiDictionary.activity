@@ -1,0 +1,1 @@
+showWord(["n. ","Mikwòb vèt osinon alg ki pouse lè gen dlo kouche osinon lè gen imidite. Rigòl la plen limon. 2. Ti tè fen ki desan ak dlo lè lapli fin tonbe.<br>"])

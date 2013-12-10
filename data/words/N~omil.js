@@ -1,0 +1,1 @@
+showWord(["np.","Li te fèt Pòtoprens nan àne 1934. Li se yon atis rekoni pou estil penti li ki gen anpil bèt. Koulè tablo li yo ge anjeneral.<br>"])

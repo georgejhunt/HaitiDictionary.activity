@@ -1,0 +1,1 @@
+showWord(["n. "," 1 Pye bwa. Gen de pye kajou nan lakou Doris la.  2 a. Kalite bwa ki sèvi pou fè mèb. Bwa kajou sa a bèl.<br>"])

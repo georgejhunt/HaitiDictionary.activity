@@ -1,0 +1,2 @@
+showWord(["n. "," 1. peryòd lè van pa vante. Deyò a fè cho, van pa vante, konbyen tan kalmi sa a ap dire? 2. Nan komès, peryòd lè tout aktivite bese. Semen sa a pa gen afè menm, mwen pa janm wè yon kalmi konsa."
+])

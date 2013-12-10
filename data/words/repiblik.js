@@ -1,0 +1,1 @@
+showWord(["n.","Sistèm politik kote se sitwayen ki nonmen reprezantan ki pou dirije yo.<br>"])

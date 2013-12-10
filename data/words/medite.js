@@ -1,0 +1,1 @@
+showWord(["v. ","Reflechi sou yon bagay. 2. Lapriyè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen anpil fyète ak amou pou patri li.<br>"])

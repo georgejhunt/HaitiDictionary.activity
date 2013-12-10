@@ -1,0 +1,1 @@
+showWord(["","1. n. Volan bato ki sèvi pou kontwole direksyon. Se premye fwa mwen manyen gouvènay yon bato.<br>"])

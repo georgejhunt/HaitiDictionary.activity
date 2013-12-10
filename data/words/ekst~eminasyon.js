@@ -1,0 +1,2 @@
+showWord(["n. ","detwi, abolisyon"
+])

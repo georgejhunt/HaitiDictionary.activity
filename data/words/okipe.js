@@ -1,0 +1,1 @@
+showWord(["v.","Si yon moun okipe se paske li ap fè yon bagay. Wobèta pa kapab vini jwe avè nou paske l okipe ap fè devwa li.<br>"])

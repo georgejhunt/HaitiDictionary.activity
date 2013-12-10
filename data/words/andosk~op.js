@@ -1,0 +1,1 @@
+showWord(["n.","aparèy pou gade anndan kò moun. Teknik andoskòp (pou gade anndan kò moun) sèvi ak ti tib optik an vit ki kondui reyon limyè osinon imaj vizib ale vini nan de sans anndan yon tiyo fleksib.<br>"])

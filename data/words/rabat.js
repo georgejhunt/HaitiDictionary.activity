@@ -1,0 +1,1 @@
+showWord(["v. ","Reziyen ou pran yon lòt chwa ou pat vle. Jozefa rabat li sou poul men se pwason li te vle. 2. Pliye. Li rabat woulèt jip la.<br>"])

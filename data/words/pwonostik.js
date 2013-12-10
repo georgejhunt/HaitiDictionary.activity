@@ -1,0 +1,1 @@
+showWord(["n. ","previsyon kijan yon bagay (maladi osinon evennman) pral devlope.<br>"])

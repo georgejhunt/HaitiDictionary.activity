@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Ki pa kite kouran pase.Kouvèti plastik ki kouvri fil kouran pou pa gen chòk. 2. a. Ki gen karakteristik pou pa kite kouran pase. Materyèl izolan. 3. Ki pa kite fredi osinon chalè pase.<br>"])

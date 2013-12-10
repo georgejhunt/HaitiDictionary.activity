@@ -1,0 +1,1 @@
+showWord(["n. "," Timoun piti. Richa konnen Inès depi li te ti katkat.<br>"])

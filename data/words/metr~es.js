@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Fi ki ap viv ak yon nèg sou kote pandan msye gen madanm marye l. Yon metrès pa gen ankenn dwa legal menm si se li nèg la pi renmen. 2. Pwopriyetè, moun ki posede yon bagay. Kay sa a se mwen ki chè mèt, chè metrès li. 3. Fi ki pwofesè lekòl."
+])

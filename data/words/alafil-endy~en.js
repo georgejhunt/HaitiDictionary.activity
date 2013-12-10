@@ -1,0 +1,1 @@
+showWord(["adv.","anliy youn dèyè lòt.anliy youn dèyè lòt.anliy youn dèyè lòt.anliy youn dèyè lòt.<br>"])

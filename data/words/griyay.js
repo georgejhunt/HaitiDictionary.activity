@@ -1,0 +1,2 @@
+showWord(["n. "," tuil, materyo an metal osinon an plastik ki tankou yon twal an fè ki gen anpil ti twou ladan l pou lè pase men pou moustik ak marengwen pa pase. Pa gen griyay sou galri madan Chal la, se sa ki fè marengwen anvayi ou konsa a."
+])

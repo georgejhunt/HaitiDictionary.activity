@@ -1,0 +1,1 @@
+showWord(["n. ","Reyinyon ofisyèl pou debat yon sijè; diskou akademik nan inivèsite; reyinyon pou bay enfòmasyon. Konferans pou laprès. Inès fè yon konferans sou lang Kreyòl. 2. Asanble.<br>"])

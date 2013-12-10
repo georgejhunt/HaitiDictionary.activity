@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki gen responsablite pou egzamine osinon enspekte. Enspektè a di se pou nou repare twati kay la tousuit.<br>"])

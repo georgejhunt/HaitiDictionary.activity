@@ -1,0 +1,1 @@
+showWord(["n. ","nan jwèt volebòl se lè yon jwè frape balon-an ak fòs soti nan kan pa li ale nan lòt kan an pou li fè yon pwen.<br>"])

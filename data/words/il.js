@@ -1,0 +1,1 @@
+showWord(["n.","Yon mas tè ki antoure ak dlo. Lagonav ak Latòti se il yo ye.<br>"])

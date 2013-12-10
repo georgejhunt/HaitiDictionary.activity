@@ -1,0 +1,2 @@
+showWord(["","Vomi, soti. Depi mwen bay Magarèt remèd la, li rann de vè. 2. Remèt, pote. Apre detwa jou Jak fè nan kache, li al rann tèt li bay otorite yo. 3. Lakoz. Pwoblèm sa a vin rann timoun nan chimerik toutan."
+])

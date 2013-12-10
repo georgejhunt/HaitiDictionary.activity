@@ -1,0 +1,1 @@
+showWord(["n. ","1. apwentman yon moun resevwa pou travay li fè. 2. Kantite lajan moun resevwa regilyèman nan travay li.3. Bon pèy. Ki peye dèt li. 4. Move pèy. ki pa peye dèt li alè.<br>"])

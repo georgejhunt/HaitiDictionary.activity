@@ -1,0 +1,1 @@
+showWord(["","Estil mizik nan karayib la ki devlope anpil nan peyi Jamayik. Youn nan atis-filizòf ki konni anpil nan mizik rege se Bò Male<br>"])

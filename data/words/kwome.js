@@ -1,0 +1,1 @@
+showWord(["v. ","Mete kwom.<br>"])

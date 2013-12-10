@@ -1,0 +1,1 @@
+showWord(["v fr.","Sitiyasyon kote tribinal mete entèdiksyon pou moun fè antre soti yon kote ki sou kont lajistis. Yo poze sele sou kay madan Edwa a. <br>"])

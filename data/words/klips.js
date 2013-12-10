@@ -1,0 +1,1 @@
+showWord(["n. "," zepeng pou tache papye ansanm. Prete mwen yon klips pou mwen tache de dosye sa yo.<br>"])

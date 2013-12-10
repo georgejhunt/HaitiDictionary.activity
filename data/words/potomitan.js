@@ -1,0 +1,2 @@
+showWord(["","1. Sipò ki nan mitan yon konstriksyon. Dapre kwayans vodou, se sant kote lwa a desann pou l antre sou moun la p moute a. 2. Moun ki met tout kouray li pou fè yon bagay reyalize. Asefi se poto mitan fanmi an li ye, si moun sa yo rive gen yon ti kòb se grasa li."
+])

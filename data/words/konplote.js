@@ -1,0 +1,1 @@
+showWord(["v. "," Fè konplo. Jinèt renmen konplote sou do moun.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","ki obsève pratik yon relijyon. Ki pratike yon aktivite.<br>"])

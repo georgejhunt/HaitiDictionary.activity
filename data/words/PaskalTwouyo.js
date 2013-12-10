@@ -1,0 +1,2 @@
+showWord(["np.","Li fèt jou ki te 13 Out 1943. Kòm jij nan Lakou Kasasyon, li te vin nonmen prezidan pwovizwa nan peyi a jou ki te 13 mas 1990. Se premye fi ki prezidan peyi Ayiti. Li remèt pouvwa a apre eleksyon ki pote Jan Bètran Aristid opouvwa."
+])

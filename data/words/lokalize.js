@@ -1,0 +1,1 @@
+showWord(["v. "," idantifye ki kote yon bagay osinon yon kote ye.<br>"])

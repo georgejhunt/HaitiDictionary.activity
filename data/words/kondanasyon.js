@@ -1,0 +1,1 @@
+showWord(["n. "," 1. sitiyasyon yon moun ki kondane. Jij la bay Kalo kondanasyon l. 2. Mo fatal. Se sa li al di a ki vin sèvi kondanasyon l.<br>"])

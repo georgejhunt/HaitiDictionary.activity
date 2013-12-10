@@ -1,0 +1,2 @@
+showWord(["","1. Ki gen gou moun pito. Manje mwen an pibon pase pa ou la. 2. Ki gen pibon kè. Jan pibon moun pase Ketli. 3. Ki preferab. Chwa sa a pibon, ou ap pi renmen l. Ki pifò. Mwen pibon nan dikte pase w."
+])

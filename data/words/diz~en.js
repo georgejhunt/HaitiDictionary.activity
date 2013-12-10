@@ -1,0 +1,1 @@
+showWord(["n. ","Gwoup dis. Mè nan lekòl mwen yo toujou resite yon dizèn chaplè chak maten.<br>"])

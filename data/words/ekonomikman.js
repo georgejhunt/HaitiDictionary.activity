@@ -1,0 +1,1 @@
+showWord(["adv. ","yon jan ki pa gaspiye lajan.<br>"])

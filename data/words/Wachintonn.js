@@ -1,0 +1,1 @@
+showWord(["np. ","Vil Ozetazini. Kapital Etazini. 2. Ansyen prezidan Etazini.<br>"])

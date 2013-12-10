@@ -1,0 +1,2 @@
+showWord(["n. ","1. Kote abitan plante manje ak danre. Moun renmen al nan jaden gran maten anvan solèy leve. 2.Kote nan lakou ki gen pye bwa, kote moun plante flè. Gade kijan jaden an bèl, siman ou fèk fè koupe gazon an."
+])

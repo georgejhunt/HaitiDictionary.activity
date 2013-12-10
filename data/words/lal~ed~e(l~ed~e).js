@@ -1,0 +1,1 @@
+showWord(["n. "," Jouman pou moun ki lèd. Fi sa a se yon lalèdè.<br>"])

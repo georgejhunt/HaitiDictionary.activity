@@ -1,0 +1,1 @@
+showWord(["n. ","Ensèk. zege mache sou dlo. 2. Moun ki mèg epi ki kout. Yon ti zege gason.<br>"])

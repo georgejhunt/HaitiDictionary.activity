@@ -1,0 +1,1 @@
+showWord(["n. "," Bèl bagay ki depase sa yon moun ta espere. Sitadèl Laferyè se mèvèy peyi Ayiti.<br>"])

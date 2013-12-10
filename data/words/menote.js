@@ -1,0 +1,1 @@
+showWord(["v.","Mete menòt. Jandam nan menote Elifèt.<br>"])

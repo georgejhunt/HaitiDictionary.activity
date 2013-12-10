@@ -1,0 +1,2 @@
+showWord(["np. ","Politisyen, medsen, ansyen konsil nan Monreyal, ansyen minis sou gouvènman J.C. Divalye, ansyen dirijan VSN. Li te tòtire plizyè moun ki te opozan rejim Divalye. Apre eleksyon Aristid, li te eseye fè yon koudeta ki pa t reyisi. Li mouri nan prizon pandan yon pwotestasyon."
+])

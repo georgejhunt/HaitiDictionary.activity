@@ -1,0 +1,1 @@
+showWord(["n. ","manje endistriyèl enpòte ki fèt ak mayi yo manje lematen ak lèt ak sik.<br>"])

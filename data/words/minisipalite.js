@@ -1,0 +1,1 @@
+showWord(["n. ","Biwo ak tout moun ki ap dirije yon vil osinon yon komin.<br>"])

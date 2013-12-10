@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Son pou avize moun pou li evite danje. Chofè a peze klaksonn nan.  2. Pyès ki bay son pou avize moun pou li evite danje. Oto sa a pa gen klaksonn.  3. Avètisman. Lanmò pa gen klaksonn.<br>"])

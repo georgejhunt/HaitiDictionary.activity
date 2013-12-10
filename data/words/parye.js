@@ -1,0 +1,1 @@
+showWord(["v.","Fè pari osnon paryaj. Jera parye lapli ap vini apremidi a men Silòt di lapli pap vini.<br>"])

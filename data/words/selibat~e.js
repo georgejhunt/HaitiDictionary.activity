@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki pa marye. Mwen te toujou vle ret selibatè men lè mwen rankontre Kalo mwen chanje lide.<br>"])

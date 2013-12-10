@@ -1,0 +1,2 @@
+showWord(["np. "," Militè, politisyen, diktatè. Li fèt an 1949. Li te diplome nan lekòl militè an 1973. Li vin rive kolonè an 1989. An 1991 li fè you koudeta militè kont Prezidan Aristid. Li vin prezidan defakto 1991-1994. Pandan twazan koudeta a Sedras te ògànize yon rejim ki te fè masakre anpil moun pou li te kapab rete opouvwa. An 1994 lè Aristid retounen Ayiti ak pwoteksyon lame ameriken, Sedras te pati al viv nan Peyi Panama. An 1999 gouvènman Preval la fè efò diplomatik pou Panama ka voye Sedras Ayiti pou li vin jije, men Panama pa t voye Sedras retounen."
+])

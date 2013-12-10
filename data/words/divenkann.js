@@ -1,0 +1,1 @@
+showWord(["n fr. "," Bwason fèmante ki fèt ak kann. Gen moun ki pito diven kann pase kleren.<br>"])

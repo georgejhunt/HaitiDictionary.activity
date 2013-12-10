@@ -1,0 +1,2 @@
+showWord(["n. ","1. Aksidan ki rive paske yon moun enpridan. Kalo ap kouri machin nan vit, se enpridans sa a ki fè li pèdi kontwòl oto a. 2. Erè, move kalkil. San Silòt pa reflechi, li al komèt enpridans pwomèt Jaklin yon oto."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo fèt kote yo sèvi anpil manje.  Janin fè yon festen pou pitit li a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Pyès nan yon kay ki rezève pou moun chita manje. Gen yon tak ak sis chèz nan salamanje a.<br>"])

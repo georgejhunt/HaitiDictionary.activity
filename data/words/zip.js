@@ -1,0 +1,1 @@
+showWord(["n.","Pati nan yon rad ki pèmèt li ouvè epi fèmen fasilman. Mwen genlè pran yon ti grès paske zip rad mwen an pa kapab fèmen.<br>"])

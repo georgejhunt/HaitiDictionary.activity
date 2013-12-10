@@ -1,0 +1,1 @@
+showWord(["a. "," Ki fè pè. Mwen pa renmen fim efreyan yo.<br>"])

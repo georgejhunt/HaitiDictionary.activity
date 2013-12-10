@@ -1,0 +1,1 @@
+showWord(["pre. ","Anfas. Antwàn avèk Kalo rete vizavi.<br>"])

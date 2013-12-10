@@ -1,0 +1,2 @@
+showWord(["n. "," 1.Chanjman, transfòmasyon pou amelyorasyon. Gen yon gwo evolisyon nan kalite pwodui konpayi sa a mete sou mache a. 2. Chanjman nan mès ak tradisyon. Evolisyon alèkile a twòp pou mwen, timoun yo vin twò lib. 3. Nan syans biyolojik, se chanjman pwogresif ki pote rezilta ki enpòtan . 4. Devlopman yon espès, osinon yon ògàn soti nan yon etap primitif rive nan yon etap aktyèl."
+])

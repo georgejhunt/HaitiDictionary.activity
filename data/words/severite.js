@@ -1,0 +1,1 @@
+showWord(["n. "," Fason estrik pou adrese yon sitiyasyon. Manman Odil pale l ak severite.<br>"])

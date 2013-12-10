@@ -1,0 +1,1 @@
+showWord(["","pandant tout lavi.<br>"])

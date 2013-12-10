@@ -1,0 +1,1 @@
+showWord(["np.","Peyi nan kontinan Ewòp. Yo pale Franse nan peyi Lafrans.<br>"])

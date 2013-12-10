@@ -1,0 +1,1 @@
+showWord(["np","Yon kòmandan nwa ki te kenbe tèt ak peyi Lafrans. Li te nan ekip Tousen ak Desalin.<br>"])

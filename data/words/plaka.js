@@ -1,0 +1,1 @@
+showWord(["n. ","bifèt pou mete rad osinon manje osinon pou estoke lòt bagay. Mete liv yon nan plaka a pou mwen.<br>"])

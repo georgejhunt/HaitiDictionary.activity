@@ -1,0 +1,1 @@
+showWord(["n. ","1. Yon tab nan yon atelye ki sèvi pou fè aktivite atelye a.  Pa apiye sou etabli a tande.  2. Enstale. Depi kilè ou etabli ou Pòtoprens?<br>"])

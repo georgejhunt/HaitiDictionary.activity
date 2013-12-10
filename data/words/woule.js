@@ -1,0 +1,1 @@
+showWord(["v.","1. vire yon bagay anwon. Vin ede mwen woule tapi sa a. 2. Toujou ap chanje dat pou ou fè yon bagay. Se pa de woule minis la woule mwen anvan li te resi siyen papye pansyon mwen an pou mwen. 3. Fè yon machin mache pou li pa wouye. A woule machin nan. 4. Bat tanbou. Woule tanbou a.<br>"])

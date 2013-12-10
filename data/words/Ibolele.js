@@ -1,0 +1,2 @@
+showWord(["","espri nan relijyon vodou. 2. Dans pou rele lespri. 3. Dans fòlklorik, gen plizyè mouvman nan dans ibo, gen you kote dansè kole de ponyèt li ansanm, li souke kòl adwat epi agoch, kòm si li ap fè efò pou li libere de men li yo si yo ta mare ak yon chenn, sa se mouvman liberasyon, ak senbòl kase chenn esklavaj. 4. Group etnik ki gen origin nan peyi Nijerya, nan kontinan Afrik. 5. Lele se yon mo nan lang Ibo ki vle di Apuisan@."
+])

@@ -1,0 +1,1 @@
+showWord(["","Vilaj tou pre vil Okap.<br>"])

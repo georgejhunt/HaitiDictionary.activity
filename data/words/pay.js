@@ -1,0 +1,2 @@
+showWord(["n.","1. Fèy osnon zèb ki seche. Plen pay nan lakou a, al bale yo non. 2. Ki lejè. Msye pa lou non, li peze tankou yon pay. 3. Move kat. Mwen pa kapab manje las ou a, se pay sèlman mwen genyen la a, kat la mal bat."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Etap pou kòmanse. Depi nan preliminè yo ekip nou an te pèdi. 2.a. Ki nan kòmansman. Demach preliminè yo.<br>"])

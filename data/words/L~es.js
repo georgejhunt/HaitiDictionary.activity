@@ -1,0 +1,1 @@
+showWord(["","Pwen kadinal kote solèy la leve lematen. Solèy la leve nan lès epi li kouche nan lwès.<br>"])

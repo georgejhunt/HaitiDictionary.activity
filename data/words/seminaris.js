@@ -1,0 +1,1 @@
+showWord(["n. ","Etidyan pansyonè ki ap prepare pou yo vin fè prèt osinon pastè. Elèv nan seminè. <br>"])

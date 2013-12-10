@@ -1,0 +1,1 @@
+showWord(["n.","1. Lang yo pale nan peyi Frans ak nan plizyè lòt peyi nan kontinan Afrik ak nan Karayib. Tika pale Franse.  2. Moun ki gen nasyonalite franse. Janklod ak Mari se Franse yo ye.<br>"])

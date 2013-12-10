@@ -1,0 +1,2 @@
+showWord(["np. ","Militè, Chèf-Deta defakto. Li fèt 2 Oktòb 1932. Lè Janklod Divalye pati, Nanfi te vin prezidan KNG (Konsèy Nasyonal Gouvènman). Li pase gouvènman an bay Maniga, apresa li fè yon koudeta pou reprann li. Apre masak nan legliz Senjan Bosko yo rnavèse gouvènman li a. "
+])

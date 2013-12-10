@@ -1,0 +1,2 @@
+showWord(["v.","1. pwononse son ki vle di kichòy. Se pa tout timoun ki pale bonè. Manman mwen chita la a, ou pa menm tande vwa l menm. Mwen pa janm wè yon moun pale anpil konsa pase konpè Dyo. 2. Esprime, di bèl mo yon jan pou moun kontan. Jak se moun ki konn pale, ou konnen se avoka li ye."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Bonèt tibebe. Mete tetyè a pou bebe a anvan ou soti avèk li.<br>"])

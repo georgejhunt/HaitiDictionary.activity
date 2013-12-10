@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Ki ap avanse nan laj. Tout moun gen pou yo vyeyi.  2. a. Antre nan laj.  Kawòl vyeyi.<br>"])

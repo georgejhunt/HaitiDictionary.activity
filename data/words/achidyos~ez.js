@@ -1,0 +1,1 @@
+showWord(["n.","Bilding kote achevèk rete. Teritwa yon achevèk.<br>"])

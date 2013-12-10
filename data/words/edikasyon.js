@@ -1,0 +1,2 @@
+showWord(["n. "," Mwayen, metòd ak resous ki la pou devlope lespri moun ki nan yon peyi . Sistèm edikasyon Annayiti pran anpil tan pou fè lekòl nan lang Kreyòl, nan lang tout moun pale tout bon vre a. 2. Savwa ak teknik moun aprann lekòl. 3. Lisay, manyè moun genyen pou yo kominike ak lòt moun. Timoun Otwou gen bon edikasyon."
+])

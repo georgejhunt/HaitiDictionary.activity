@@ -1,0 +1,2 @@
+showWord(["","1. v. Charye. Andre ap pote yon gwo chay sou do li. 2. Mennen vini. Pote machandiz la montre mwen. 3. Prezante. Kijan ou pote kò ou konsa a, ou sanble ou dekouraje. 4. n. Kantite timoun ki nan vant yon moun ansent. Se yon pòte jimo madan Blan gen nan vant li la a."
+])

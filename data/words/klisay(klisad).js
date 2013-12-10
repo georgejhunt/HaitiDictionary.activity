@@ -1,0 +1,1 @@
+showWord(["n. ","Ògànizasyon planch palmis osinon planch kokoye pou fèmen yon panno.<br>"])

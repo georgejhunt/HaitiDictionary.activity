@@ -1,0 +1,1 @@
+showWord(["n. "," Kontribisyon leta pran sou sitwayen yo. Moun ki pa travay pa peye enpo.<br>"])

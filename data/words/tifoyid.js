@@ -1,0 +1,1 @@
+showWord(["n.","Yon enfeksyon ki grav ki bay moun lafyèv. Lontan anpil moun te konn mouri ak tifoyid men kounye a gen plis kontwòl sou maladi a.<br>"])

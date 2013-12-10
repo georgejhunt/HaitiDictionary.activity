@@ -1,0 +1,1 @@
+showWord(["ent. ","ebyen<br>"])

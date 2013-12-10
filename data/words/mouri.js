@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Ki pa gen lavi. Papa li mouri.  2. Ki fèmen. Je mouri.<br>"])

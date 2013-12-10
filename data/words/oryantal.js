@@ -1,0 +1,1 @@
+showWord(["a. ","Ki plase sou kote ès pa rapò ak yon kote. 2. Ki soti nan oryan. Ki pa soti nan oksidan.<br>"])

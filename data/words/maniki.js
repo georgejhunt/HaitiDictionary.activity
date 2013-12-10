@@ -1,0 +1,1 @@
+showWord(["n. ","Swen zong ak men.<br>"])

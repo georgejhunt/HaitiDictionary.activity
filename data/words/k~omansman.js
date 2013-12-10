@@ -1,0 +1,1 @@
+showWord(["n. "," Premye pati yon bagay. Lè mwen te fèk ap aprann Kreyòl mwen te twouve kòmansman an difisil men kounye a mwen fò nèt. Kòmansman istwa a te pi bon pase fen an.<br>"])

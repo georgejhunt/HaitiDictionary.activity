@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Konvenk. Pyè sedui Jera nan pwojè a; yo pral fè l ansanm.  2. Lè yon nèg fòse yon fi fè sèks avèk li. Se malonèt sa pou yon nèg sedui yon fi.<br>"])

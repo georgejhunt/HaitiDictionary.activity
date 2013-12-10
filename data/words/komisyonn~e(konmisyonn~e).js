@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki pote komisyon. Jera se komisyonè Andre.<br>"])

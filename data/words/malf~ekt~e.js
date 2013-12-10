@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki konn fè moun mal pou danri. Gaston se yon malfektè.<br>"])

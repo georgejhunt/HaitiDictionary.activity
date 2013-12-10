@@ -1,0 +1,1 @@
+showWord(["n.","Pantalon gwo ble koton. Mwen pa renmen wè abako sa a sou ou.<br>"])

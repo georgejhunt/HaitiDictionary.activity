@@ -1,0 +1,1 @@
+showWord(["n.","Branch nan matematik ki sèvi ak senbòl pou reprezante chif. Kou ou rive nan segondè ou ap kòmanse aprann aljèb.,,<br>"])

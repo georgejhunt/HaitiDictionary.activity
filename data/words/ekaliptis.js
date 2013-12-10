@@ -1,0 +1,1 @@
+showWord(["n. ","pyebwa ki gen fèy vè-gri ki gen luil esans ki santi bon.<br>"])

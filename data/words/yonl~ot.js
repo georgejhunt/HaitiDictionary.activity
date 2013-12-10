@@ -1,0 +1,1 @@
+showWord(["","Youn ankò. Eske mwen kapab pran yon lòt moso pen. Li eseye yon lòt chanday paske premye sa li te eseye a te twò piti.<br>"])

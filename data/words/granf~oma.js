@@ -1,0 +1,1 @@
+showWord(["n. "," Granpanpan. Ki granfòma ou vin ap fè la a? 2. Dimansyon ki depase dimansyon regilye.<br>"])

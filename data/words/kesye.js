@@ -1,0 +1,1 @@
+showWord(["","moun ki sou kès pou resevwa lajan.<br>"])

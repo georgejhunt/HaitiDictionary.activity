@@ -1,0 +1,2 @@
+showWord(["pwo.","Premye epi dezyèm pwonon pèsonèl pou plizyè moun. Se pa afè pa mwen sèlman ki ap regle la a, se afè pa nou tout ki ap regle tande. Nou pa ta kapab di Jan pa bon moun. Se nou ki di, se pa mwen."
+])

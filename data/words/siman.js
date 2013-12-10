@@ -1,0 +1,2 @@
+showWord(["n.","1. matyè anpoud ki fen anpil ki sèvi pou bati kay. Yo melanje siman, lacho ak sab epi dlo pou fè mòtye, mòtye a vin tankou yon pat, men lè li seche, li vin di epi tout pati yo rete kole solid. 2. Petèt. Siman mwen te peye ou deja."
+])

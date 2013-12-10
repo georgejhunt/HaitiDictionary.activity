@@ -1,0 +1,1 @@
+showWord(["a. "," Sa moun paka wè ak je l. Bondye envizib men gen moun ki di yo santi l nan kè yo menm si yo pa kapab wè l ak je yo.<br>"])

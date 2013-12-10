@@ -1,0 +1,1 @@
+showWord(["a.","ki gade doktin ak tradisyon evek legliz katolik. Ki konsene lepap ak apot yo.<br>"])

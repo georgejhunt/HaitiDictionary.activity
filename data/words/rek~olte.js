@@ -1,0 +1,1 @@
+showWord(["v. "," Resevwa fwi sa ou te plante. Madan Pyè rekòlte anpil mango fil ane sa a.<br>"])

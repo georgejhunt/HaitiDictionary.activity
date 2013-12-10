@@ -1,0 +1,1 @@
+showWord(["n. "," ti bato. Mwen toujou pè monte kannòt men mwen pa pè monte gwo bato.<br>"])

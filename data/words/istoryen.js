@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki etidye istwa. Moun ki ekri pou rapòte istwa.<br>"])

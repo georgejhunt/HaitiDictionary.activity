@@ -1,0 +1,1 @@
+showWord(["n. "," Zouti atispent osnon bòs pent sèvi pou mete penti. Achte de penso pou mwen. <br>"])

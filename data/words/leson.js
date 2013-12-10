@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pati nan yon liv osnon plizyè liv pwofesè a bay elèv yo al etidye. Tout timoun dwe konn leson yo anvan yo al jwe. 2. Egzanp. Mwen pran sa pou leson, mwen pap janm pale ak moun mwen pa konnen nan lari ankò. 3. Kou yon pwofesè bay apa pou elèv ki bezwen plis esplikasyon. Mwen pral pran leson nan men mèt Jozèf pandan vakans la."
+])

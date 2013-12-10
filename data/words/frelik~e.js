@@ -1,0 +1,1 @@
+showWord(["a. "," Jennjan ki mèg men ki ap pran pòz enpòtan li. Kòman pou Anita te ka al nan renmen ak frelikè sa a?<br>"])

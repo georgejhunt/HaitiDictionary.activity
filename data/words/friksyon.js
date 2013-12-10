@@ -1,0 +1,1 @@
+showWord(["n. ","Masaj ak lwil osinon ak ponmand. Vini mwen fè yon friksyon viks pou ou. 2. Fwotman de bagay youn ak lòt. 3. Konfli ant moun ki pa gen menm lide.  4. Nan domèn fizik se yon fòs ki reziste ak yon lòt fòs.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Ti van leje ki ap vante. Aswè a gen yon bon labriz.<br>"])

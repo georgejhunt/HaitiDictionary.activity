@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène koze fè kouran elektrik lè dlo pase nan yon tibin ki al vire yon jeneratè.<br>"])

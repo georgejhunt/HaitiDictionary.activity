@@ -1,0 +1,1 @@
+showWord(["v. "," Fè tèk. Tigason konn teke mab pi byen pase tifi.<br>"])

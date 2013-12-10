@@ -1,0 +1,1 @@
+showWord(["","varyasyon rejyonal pou Arele@<br>"])

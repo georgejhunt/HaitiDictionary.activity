@@ -1,0 +1,1 @@
+showWord(["v fr.","Ale nan prizon. Gistav te pran prizon pou gremesi paske li pat koupab.<br>"])

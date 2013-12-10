@@ -1,0 +1,1 @@
+showWord(["n. ","1. Lèt alfabè. Lèt G vini apre lèt f epi li anvan lèt h. 2. senbòl ak abreviyasyon pou reprezante gram. 3. Senbòl pou reprezante gravite.<br>"])

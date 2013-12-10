@@ -1,0 +1,1 @@
+showWord(["n. ","1. Gadyen. Nou gen yon gad sou teren an. 2. Ran militè. Antwàn se gad palè.3. fòm kontrakte pou vè gade. Gad lè ou.<br>"])

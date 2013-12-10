@@ -1,0 +1,1 @@
+showWord(["","Konvwa moun prezidan meriken Ebè Ouvè (Herbert Hoover) te voye an 1930 pou te fè rekòmandasyon sou kijan pou yo fini ak dominasyon meriken an nan peyi Ayiti. Kamewon Fòb (Cameroun Forbes) te alatèt konvwa sa a.<br>"])

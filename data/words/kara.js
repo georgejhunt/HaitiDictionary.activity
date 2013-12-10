@@ -1,0 +1,1 @@
+showWord(["n. ","Inite mezi ki sèvi nan bijoutri. Yon bijou 14 kara gen plis lòpase yon bijou 14 kara.<br>"])

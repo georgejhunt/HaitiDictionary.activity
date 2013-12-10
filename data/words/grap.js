@@ -1,0 +1,1 @@
+showWord(["n. ","1. Fwi osinon flè ki rasanble ansanm. 2. ògàn seks gason.<br>"])

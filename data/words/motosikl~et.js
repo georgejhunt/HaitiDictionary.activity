@@ -1,0 +1,1 @@
+showWord(["n. "," Machin a de wou tankou yon bisiklèt men ki gen motè. Motosiklèt pi kout pase bisiklèt men motosiklèt pi lou epi pi rapid.<br>"])

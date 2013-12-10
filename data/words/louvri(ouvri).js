@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Etale. Machan nan louvri tout machandiz li yo pou montre nou. 2. Fè plas pou antre soti. Mèt magazen an louvri pòt li yo. 3. Kòmanse. Enskripsyon louvri.  4. Ekspoze. Ou louvri lestomak ou nan van an. 5. Disponib, fleksib. Jak se yon moun ki louvri pou diskisyon."
+])

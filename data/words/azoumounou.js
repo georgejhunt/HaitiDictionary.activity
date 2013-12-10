@@ -1,0 +1,2 @@
+showWord(["n.","1. Mo karesan, entimite.  Tout lajounen ou nan yon sèl azoumounou ak Tijo, sa ou pran se pa w.  2. Maladi je ki te pwopaje nan peyi Dayiti nan ane 1981, yo te rele l konsa paske je moun ki te enfekte yo te toujou ap fè dlo epi moun yo te toujou ap miyonnen je a pou yo netwaye lasi ki tap sot ladan l.  Mezanmi, mwen sot Pòtoprens la a, tout moun mwen wè anba lavil la gen yon azoumounou."
+])

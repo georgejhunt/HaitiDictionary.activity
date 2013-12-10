@@ -1,0 +1,2 @@
+showWord(["n. "," Lèt yon gason ekri fanmi yon fi pou mande lapèmisyon pou marye avè fi a. Lademand la ka fèt fasafas kote gason an al pale ak fanmi fi a. Lontan, toutotan fanmi fi a pat reponn lademann nan, renmen an potko konsidere ofisyèl."
+])

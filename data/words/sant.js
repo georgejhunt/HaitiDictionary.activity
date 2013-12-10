@@ -1,0 +1,1 @@
+showWord(["n. ","1. Mitan. Sant latè 2. Odè. Mwen pran yon sant. 3. Klinik. Sant sante. 4. Enstitisyon. Sant Na Rive se yon sant ki bay èd pou moun ki ateri nan vil Monreyal.<br>"])

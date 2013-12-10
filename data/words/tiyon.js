@@ -1,0 +1,2 @@
+showWord(["n.","1. Kantite ki depase anwo tèt yon mamit. Mwen ba ou mamit mayi a ak tout tiyon l. 2. twòkèt, mouchwa machann mete sou tèt yo kòm kousen pou yo kapab pote pànye yo pi byen. Si mwen pat mete tiyon an, kou mwen ta fè mwen mal."
+])

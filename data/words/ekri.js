@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Liv, ansanm tèks ki enprime. Ekri Leyon Lalo yo popilè anpil. 2. v. Yon seri mo ansanm pou fòme yon tèks ki fè sans. Mwen pito pale nan telefòn pase mwen ekri.  3. Mete lide sou papye. Se pa mwen ki di, se repete mwen ap repete sa msye ekri. 4. Pibliye. Mwen ekri plizyè liv men se youn mwen pi renmen."
+])

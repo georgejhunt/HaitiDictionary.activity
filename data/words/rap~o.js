@@ -1,0 +1,2 @@
+showWord(["n.","1. Jan ou boule ak yon lòt moun. Mwen gen bon rapò ak Jan, si mwen mande l yon sèvis, li pa kapab refize mwen. 2. Komisyon, pote plent. Ou toujou gen pou ou al pote rapò bay manman w, tankou se yon timoun piti ou ye. 3. Gaz. Chak tan mwen manje chou, li fè mwen fè rapò si."
+])

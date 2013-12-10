@@ -1,0 +1,1 @@
+showWord(["","1. direksyon kote solèy kouche. 2. Depatman.<br>"])

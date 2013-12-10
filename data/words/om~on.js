@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Sibstans chimik yon glann moun pwodui epi ale vide nan san pou fonksyon espesyal. Ensilin pankreyas nou pwodui a se yon òmòn li ye.  2. Medikaman ki gen òmòn prepare nan laboratwa doktè ka preskri yon moun. Elifèt ap pran òmòn paske tiwoyid li pa travay byen.<br>"])

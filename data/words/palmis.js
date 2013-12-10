@@ -1,0 +1,1 @@
+showWord(["n.","pye bwa ki pouse nan peyi cho. Anpil palmis wo epi yo gen yon pakèt fèy laj. Pye palmis sanble ak pye kokoye.<br>"])

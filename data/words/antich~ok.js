@@ -1,0 +1,1 @@
+showWord(["n.","Pwoteksyon kont chòk. Chòk absòbe se antichòk.Pwoteksyon kont chòk. Chòk absòbe se antichòk.Pwoteksyon kont chòk. Chòk absòbe se antichòk.Pwoteksyon kont chòk. Chòk absòbe se antichòk.<br>"])

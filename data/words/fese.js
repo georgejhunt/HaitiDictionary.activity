@@ -1,0 +1,1 @@
+showWord(["v. "," 1. lage atè. 2. Bat yon timoun nan fès.<br>"])

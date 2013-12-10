@@ -1,0 +1,2 @@
+showWord(["n.","1. Evantay ki chak bò kote zwazo yo epi ki pèmèt yo vole. Pati zwazo ak ensèk ki sèvi pou yo vole anlè. Si mwen te gen zèl, ala vole mwen ta vole. 2. Motivasyon pou yon moun fè yon bagay. Mwen wè ou mete anpil zèl pou ou fè travay la pou Jan, ou genlè tonbe pou li."
+])

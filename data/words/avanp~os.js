@@ -1,0 +1,1 @@
+showWord(["n.","Ti estasyon lapolis ki pa gen anpil pouvwa. Anvanpòs Kafou.Ti estasyon lapolis ki pa gen anpil pouvwa. Anvanpòs Kafou.Ti estasyon lapolis ki pa gen anpil pouvwa. Anvanpòs Kafou.Ti estasyon lapolis ki pa gen anpil pouvwa. Anvanpòs Kafou.Ti estasyon lapolis ki pa gen anpil pouvwa. Anvanpòs Kafou.<br>"])

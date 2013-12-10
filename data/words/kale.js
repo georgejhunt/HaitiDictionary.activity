@@ -1,0 +1,2 @@
+showWord(["v. ","1. Lè yon ze louvri pou soti. Poul la fèk kale twa ze la a.  2. Bay kou, bat yon moun osinon yon bèt. Wozlin kale Richa ak sentiwon.  3. Genyen yon pati nan jwèt. Mwen kale ou nan jwèt domino a. Èglenwa kale ti Resin. 4. Wete po. Kale fig sa a pou mwen tan pri, mwen malad nan dwèt."
+])

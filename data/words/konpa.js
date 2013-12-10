@@ -1,0 +1,2 @@
+showWord(["n. "," 1. estil mizik, kadans. 2. Selon règ, ès-ès. Iv oblije mache sou konpa pou Ivwoz pa mete l deyò. 3. Estil mizik Ayisyen danse. Konpa Dirèk. 4. Zouti pou trase sèk. 5. Zouti pou oryante nan lanmè ak nan lespas."
+])

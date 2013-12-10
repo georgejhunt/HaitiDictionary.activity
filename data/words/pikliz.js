@@ -1,0 +1,2 @@
+showWord(["n. ","Sòs espesyal, preparasyon ki gen piman pike, zorany si, vinèg, zechalòt, kawòt, chou ak tandòt legim yo kite tranpe ansanm pou yo ka wouze l sou fritay osnon lòt manje. Elifèt renmen mete pikliz sou fritay li."
+])

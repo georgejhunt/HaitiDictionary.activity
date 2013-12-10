@@ -1,0 +1,1 @@
+showWord(["n. ","Refleksyon lojik ki mennen jiska yon chwa nan panse. Sa se yon move rezonman ou fè la a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","fè youn rankontre lòt. Anonse yon moun anvan li kòmanse pale nan yon fonksyon.<br>"])

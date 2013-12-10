@@ -1,0 +1,1 @@
+showWord(["n. "," Chèz long kote plizyè moun ka chita osnon yon sèl moun ka lonje kò l. Pòl gen kanape sa a depi lontan.<br>"])

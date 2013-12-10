@@ -1,0 +1,2 @@
+showWord(["np. ","Prèt katolik espiriten. Li fèt Pòtoprens 24 Avril 1940. Li diplome nan teyoloji ak nan literati. Li te pwofesè nan Kolèj Sen Masyal. An 1969, sou gouvènman Divalye, li pran ekzil ak uit lòt moun. Li te ale kòm pwofesè nan kontinan Afrik epitou apre li ale Kanada ak Bahamas. An 1986 li retounen Ayiti epi li se pwofesè."
+])

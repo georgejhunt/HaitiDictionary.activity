@@ -1,0 +1,2 @@
+showWord(["v fr."," 1. Ki pa pè avanse. Jera al pase egzamen nan medsin epi nan agwonomi, se pa nèg ki pè mete pye l nan dlo.  2. Al nan konnen. Simòn te al mete pye l nan dlo pou li konnen dekiprevyen."
+])

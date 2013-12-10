@@ -1,0 +1,1 @@
+showWord(["a. "," Ki konplemante osnon konplete sa ki pa konplè. Sa se yon travay konplemantè sou sa ki te planifye a.<br>"])

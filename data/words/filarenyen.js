@@ -1,0 +1,1 @@
+showWord(["n fr. ","Twal arenyen fè pou viv epitou pou trape bèt ki ap vole. Pa kite fil arenyen an kole nan cheve ou.<br>"])

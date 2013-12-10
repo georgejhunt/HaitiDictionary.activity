@@ -1,0 +1,1 @@
+showWord(["n. ","veso an metal ki fèt espesyalman pou depoze losti konsakre epi ekspoze li pou fidèl yo ka adore.<br>"])

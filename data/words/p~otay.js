@@ -1,0 +1,1 @@
+showWord(["n.","pòt antre nan yon vil. Pòtoprens gen pòtay Sen Jozèf ak pòtay Leogann.<br>"])

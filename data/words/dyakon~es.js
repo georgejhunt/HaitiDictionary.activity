@@ -1,0 +1,1 @@
+showWord(["n. ","Fi ki dyak nan legliz kretyen.<br>"])

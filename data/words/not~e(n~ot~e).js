@@ -1,0 +1,1 @@
+showWord(["n. "," Ofisye sivil ki ka asire si yon papye otantik. Yo te al pote papye tè yo kay notè.<br>"])

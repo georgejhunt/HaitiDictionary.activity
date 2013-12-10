@@ -1,0 +1,1 @@
+showWord(["n. ","Tib san ki pote san soti nan kè ale nan tèt.<br>"])

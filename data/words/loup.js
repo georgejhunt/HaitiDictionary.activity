@@ -1,0 +1,1 @@
+showWord(["n. "," Zouti ki pèmèt ou wè yon bagay pi gwo ke jan li ye. Nou pran loup la pou nou te kapab li sa ki te ekri sou ti bwat la tèlman lèt yo te piti.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a.","Ki soti nan kontinan Azi. Ki konsène Azi.<br>"])

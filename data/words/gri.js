@@ -1,0 +1,1 @@
+showWord(["a. ","Koulè ant nwa ak blan. Gen moun ki gen cheve gri ou byen zye gri. Lè lapli pral tonbe nwaj yo vin gri. Gri tankou po silabè.<br>"])

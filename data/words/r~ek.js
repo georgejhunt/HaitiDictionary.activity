@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Ki gen matirite mi, yon fwi ki rive nan tèm pou keyi li, ki pa wòwòt. . Kokoye rèk. 2. Ki di, ki pase laj swetab. Mayi sa a twò rèk, ou pa ka fè mayi griye avèk li. 3. Ki granmoun. Fi rèk sa a pa ta kapab ap jwe ak timoun piti sa yo."
+])

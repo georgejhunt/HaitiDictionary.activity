@@ -1,0 +1,2 @@
+showWord(["np.","1832-1903 Yon militè ameriken ki te vini Ayiti an 1891 pou l te vin siveye enterè meriken nan afè lwe Mòlsennikola. Msye te eseye tout kalite teknik, li fè presyon, li fè menas men li pat janm te rive met men sou Mòl la."
+])

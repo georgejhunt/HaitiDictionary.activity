@@ -1,0 +1,2 @@
+showWord(["n. ","1. (Pak) Annivèsè jou Jezi resisite. Dimanch Pak. 2. Plas, kote ki gen anpil pyebwa moun ka al layite kò yo. Gen yon pak bò legliz la. 3. Mèb pou mete ti bebe. Yo mete tibebe a nan pak li. 4. Espas pou bèt rete. Pak kochon. 5. (pakt) Akò sekrè. 6. Akò ofisyèl ant de peyi."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Bann mistik ki soti lannuit. Gen moun ki di Wozita nan zobop.<br>"])

@@ -1,0 +1,2 @@
+showWord(["adv. "," 1. Manke; konparatif enferyorite. Kay sa a vo mwens kòb. Kòb la pa rive fè senk goud, li mwens pase kat goud. Lajan an manke, ou ban mwen l anmwens. 2. Soustraksyon. karant mwens dis egal trant. 3. Pipiti. Li gen mwens bonbon pase ti frè a."
+])

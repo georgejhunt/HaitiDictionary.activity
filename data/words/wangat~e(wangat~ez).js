@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki pratike wanga. Odil pa renmen byen ak moun ki wangatè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Atitid. Mari gen yon konpòtman dwòl jodi a.<br>"])

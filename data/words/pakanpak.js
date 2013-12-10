@@ -1,0 +1,1 @@
+showWord(["adv.","Toupatou. Yo sal kay la pak an pak.<br>"])

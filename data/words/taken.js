@@ -1,0 +1,1 @@
+showWord(["a. ","Ki renmen pase moun nan jwèt. Tigason sa a taken anpil.<br>"])

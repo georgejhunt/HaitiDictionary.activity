@@ -1,0 +1,1 @@
+showWord(["n.","Aparèy ki gen yon ekran epi ki pèmèt ou gade epi tande yon pwogram ki soti byen lwen. Aparèy ki transmèt imaj ak distans grasa ond ètzyèn. Pou ou gen plis pwogram ou kapab pran kab men gen de twa estasyon ou kapab pran san kab.<br>"])

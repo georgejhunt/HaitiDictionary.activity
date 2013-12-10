@@ -1,0 +1,1 @@
+showWord(["a. ","an rapò ak lank espayòl. 2. An rapò ak Lespay.<br>"])

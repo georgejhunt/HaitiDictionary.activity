@@ -1,0 +1,1 @@
+showWord(["n. ","zouti pou moun met manje nan bouch. Fouchèt kenbe manje a byen lè pou ou koupe l ak kouto.<br>"])

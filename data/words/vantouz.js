@@ -1,0 +1,1 @@
+showWord(["n. ","Klòch an vè yo plake sou pa yon moun pou rale kichòy nan po moun nan. Yo mete vantouz pou madan Wobè.<br>"])

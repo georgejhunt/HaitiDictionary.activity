@@ -1,0 +1,1 @@
+showWord(["n. ","Maladi lè moun gen tansyon yo wo ki depase 140/90 mm/hg (140=sistol/ 90=dyastol).<br>"])

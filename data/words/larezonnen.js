@@ -1,0 +1,1 @@
+showWord(["n.","Salitasyon pou joudlan. Jak al swete larezonnen.<br>"])

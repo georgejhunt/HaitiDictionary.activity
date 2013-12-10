@@ -1,0 +1,2 @@
+showWord(["np. ","Powèt, jounalis, diplomat ki fèt Jakmèl 27 Out 1912. Elèv kay Frè Enstrisyon Kretyèn ak nan Lise Penchina. Li te direktè Aiyiti Jounal. Kòm diplomat li te travay nan vil Pari ak nan vil Nouyòk. Li mouri 7 Desanm 1961 nan vil Pòtoprens. Li ekri AAssaut à la Nuit@ pwezi, Pòtoprens 1940; AGerbe pour de Amis@ an kolaborasyon ak Moriso-Lewa ak Jan Briyè. ALa Multiple Présence@ 1958, ki pote pri pou pwezi Dimasè Estime."
+])

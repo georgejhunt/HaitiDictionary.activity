@@ -1,0 +1,1 @@
+showWord(["v. ","mete gonm. Tab la gonmen ak siwo.<br>"])

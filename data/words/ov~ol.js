@@ -1,0 +1,1 @@
+showWord(["adv. ","pandan deplasman; pandan vòl anlè.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n.","Enstriman mizik popilè Ayiti. Yo fè tyatya ak kalbas netwaye epi seche. Apresa, yo mete grenn sèk ladan l. Lè ou souke tchatcha a, li bay yon bon son kadans ki sèvi pou akonpaye mizik twopikal."
+])

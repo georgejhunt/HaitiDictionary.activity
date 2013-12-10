@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pyès won ki ka vire osnon ki ka fè yon machin deplase. Wou bisiklèt. Wou sa yo nèf. 2. zouti agrikiti pou vire tè osinon pou rache move zèb.<br>"])

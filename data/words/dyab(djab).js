@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Satan. 2. Sèvi ak satan. Moun sa yo sanble dyab.<br>"])

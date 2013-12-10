@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Travay ou fè lè ou mete rad nan savon ak dlo epi ou fwote l pou wete kras ladan l. Ayiti moun fè lesiv ak men yo men Ozetazini moun kapab lave rad yo nan machin. 2. Pil rad ki pral lave osnon ki sot lave. Nou pliye tout lesiv la anvan nou mete l nan tiwa.<br>"])

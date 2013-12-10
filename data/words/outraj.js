@@ -1,0 +1,1 @@
+showWord(["n. ","ofans grav ki fè moun fache osinon ki merite pinisyon sevè.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n.","1. Zouti pou moun koupe twal. Mwen fèk achte yon sizo la a, li koupe byen. 2. Bèt, ensèk. Gade kijan sizo manje twal mwen an. 3. Dans kote pye ak janm moun ki ap danse a kwaze tankou sizo. Aswè a mwen pral danse yon sizo anba tonèl la."
+])

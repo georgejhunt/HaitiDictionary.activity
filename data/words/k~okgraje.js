@@ -1,0 +1,2 @@
+showWord(["n fr. "," Desè ki fèt ak lèt, kokoye epi sik; yo koupe li an ti moso piti longè ak lajè dwèt yon moun; yo vann li nan boutik toupatou kote yo vann dous lèt, ponmkèt. Eske ou renmen kòk graje?"
+])

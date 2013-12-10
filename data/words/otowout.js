@@ -1,0 +1,2 @@
+showWord(["n. ","wout ki laj epi ki rezève pou trafik oto ak kamyon, kote pyeton pa dwe pase. Li gen de seksyon, ki separe nan mitan, chak seksyon ale nan yon direksyon opoze epitou pa gen kafou pou lòt machin kwaze. Otowout Dèlma se pa yon otowout."
+])

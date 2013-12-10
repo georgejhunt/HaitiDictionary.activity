@@ -1,0 +1,1 @@
+showWord(["n. ","move tretman enjis yo fè plizyè fwa sou yon moun. Pongongon.<br>"])

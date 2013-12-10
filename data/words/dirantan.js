@@ -1,0 +1,1 @@
+showWord(["adv. ","pandan yon tan long.<br>"])

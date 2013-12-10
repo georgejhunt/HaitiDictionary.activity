@@ -1,0 +1,2 @@
+showWord(["n.","1. aktivite sou sèn pou montre yon evenman. Mwen pral gade yon pyès teyat. Teyat-de-Vèdi, teyat Mòn Ekil. 2. Bagay ki fo, manti, ki envante, plan. Pa vin jwe teyat devan mwen la a, ou kwè mwen kwè w?. 3. Non yo bay lekòl Janmari Giyou."
+])

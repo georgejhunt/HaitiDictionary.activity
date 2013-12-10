@@ -1,0 +1,2 @@
+showWord(["n. ","Blesi ki pa ka geri. Pye a pa geri, li devlope yon ilsè. 2. Maladi nan lestomak. Lolo soufri ilsè. 3. Yon blesi (ki pa maleng) oswa yon iritasyon nan po osinon nan manbràn mikez (anndan) ki fè sekresyon (pi) epi ki fè tisi (kote ilsè a ye) a dezentegre.."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo moniman kote yo mete moun mouri ki te enpòtan lè yo te vivan. Mozole Desalin.<br>"])

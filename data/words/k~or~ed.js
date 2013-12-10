@@ -1,0 +1,1 @@
+showWord(["a.","moun ki pa kapab bay kò yo mouvman alèz. Kijan nou fè kòrèd konsa a?<br>"])

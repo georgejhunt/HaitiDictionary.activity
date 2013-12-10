@@ -1,0 +1,1 @@
+showWord(["n fr. "," Glann ki pwodui òmòn ki al dirèkteman nan san.<br>"])

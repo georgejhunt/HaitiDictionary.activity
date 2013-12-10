@@ -1,0 +1,1 @@
+showWord(["n. "," Apèsi gade rapidman. Te mwen fè yon koudèy.<br>"])

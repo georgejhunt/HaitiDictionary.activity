@@ -1,0 +1,1 @@
+showWord(["n. ","Twal osinon pay moun mete sou tèt yo anvan yo mete yon chay pou amòti chòk epitou pou bay ekilib lè yo ap pote chay lou. Machann nan mete tòkèt.<br>"])

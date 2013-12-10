@@ -1,0 +1,1 @@
+showWord(["v.","pase nan yon zòn tankou ou ap chache yon bagay. Msye sa a toujou ap wode nan katye a.<br>"])

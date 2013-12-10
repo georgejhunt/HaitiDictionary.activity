@@ -1,0 +1,1 @@
+showWord(["v. "," Gaspiye. Tifrè tchaktchak manje a epi li kite l.<br>"])

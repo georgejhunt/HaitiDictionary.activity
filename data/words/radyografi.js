@@ -1,0 +1,1 @@
+showWord(["n. ","Foto andedan kò yon moun pandan yo pase l reyon X. Kalo sot fè radyografi.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Trete ak mechanste. Madan wobè maltrete tifi ki rete avèk li a. 2. Pa pran swen. Jan te maltrete fi a anpil, li degoute, se pou sa li divòse. 3. Abime, sèvi ak yon bagay san prekosyon. Timoun yo, pa maltrete liv nou yo."
+])

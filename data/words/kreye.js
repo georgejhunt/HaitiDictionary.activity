@@ -1,0 +1,2 @@
+showWord(["v.","lè yon moun fè yon bagay ki pa te la anvan sa. Lè yon moun panse yon bagay ki nouvo. Envante. Si ou se kretyen, ou panse se Bondye ki kreye syèl la ak tè a. Atis la kreye yon estil penti nouvo."
+])

@@ -1,0 +1,2 @@
+showWord(["n. "," Ti moso glas fenfen ki sot nan syèl la lè fè frèt anpil. Patikil vapè dlo ki konjle anlè epi ki tonbe atè tankou ti kristal fen, koulè blan. Nan peyi tankou Kanada ak Etazini gen anpil nèj pafwa nan sezon ivè. Pa gen nèj Ayiti."
+])

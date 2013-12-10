@@ -1,0 +1,2 @@
+showWord(["","1. adv. Bò laba. Mwen la a nan kwizin nan. 2. Atik defini. Tas la ak asyèt la te menm koulè. 3. Grès ki soti anba po kochon. 4. Ki pa mouri, ki poko mouri. Papa m la, se manman m ki mouri. 5. Kounye a . Mwen ap manje la a. 6. Entèjeksyon. La! bourik. 7. Nòt mizik ki vin apre sòl, anvan si."
+])

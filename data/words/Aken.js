@@ -1,0 +1,1 @@
+showWord(["np.","awondisman ak komin nan depatman Sid. Vil nan depatman sid. Kristòf Kolon te rive nan pò Aken an 1494 lè sa a Tayino yo te rele zòn nan Yakimo. Gen yon lòt eksploratè Amerigo Vespouchi te poze Aken tou. Gen plizyè atis ak ekriven ki moun Aken. Aken se kote ki gen bèl plaj epi moun yo janti tou.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Mwayen.  Mwen pa gen dispozisyon pou mwen achte kay sa a.  2. Desizyon. Mwen pran dispozisyon mwen pou mwen achte kay la ane sa a. 3. Disponib. Mwen aladispozisyon ou nenpòt kilè ou vle.<br>"])

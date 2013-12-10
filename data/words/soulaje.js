@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Kalme. Doulè a fè yon ti soulaje pou kounye a.  2. Leje paske yon pwa sot so li. Nouvèl sa a soulaje Elifèt.<br>"])

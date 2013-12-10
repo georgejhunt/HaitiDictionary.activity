@@ -1,0 +1,1 @@
+showWord(["","senbòl ELEKTRISITE DAYITI<br>"])

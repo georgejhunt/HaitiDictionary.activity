@@ -1,0 +1,1 @@
+showWord(["n.","ji ki fèt ak divès kalite fèy ak legim moun pan lematen pou remonte yo. <br>"])

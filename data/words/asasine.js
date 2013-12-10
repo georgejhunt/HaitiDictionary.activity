@@ -1,0 +1,1 @@
+showWord(["v.","Tiye yon moun nan tan lape. Mechan yon asasine peyizan yo.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","1. n. moun ki fè move zak tankou tiye moun san rezon. Malfetè, asasen. Tout kriminèl te dwe jije epi pini dapre lalwa. 2. a. Sovè te pase de jou nan rechèch kriminèl, se pakèt lajan mwen peye pou lage l."
+])

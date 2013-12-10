@@ -1,0 +1,1 @@
+showWord(["v. "," Repare yon travay beton. Bòs la ap masonnen mi an pou mwen.<br>"])

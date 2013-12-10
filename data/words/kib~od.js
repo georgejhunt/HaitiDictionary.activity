@@ -1,0 +1,2 @@
+showWord(["n. ","Enstriman mizik elektwonik. 2. Touch nan enstriman mizik tankou pyano, òg, amonyòm, akòdeyon eltr. mizisyen pese osinon frape touch you pou fè son. 3. Touch ki bay lèt a chif pou tape enfòmasyon nan yon machin-a-ekri osinon nan yon òdinatè."
+])

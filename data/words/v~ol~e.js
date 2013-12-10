@@ -1,0 +1,2 @@
+showWord(["","1. n. Moun ki pran sa ki pa pou li. Adilka se gwo vòlè, lotrejou yo resi kenbe l. 2. v. Aksyon yon moun ki ap pran sa ki pa pou li. Tigason an gentan vòlè degoud la sou mwen la a, mwen pa menm wè sa."
+])

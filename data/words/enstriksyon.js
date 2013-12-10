@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Fòmasyon moun pran lekòl. Si ou te gen enstriksyon, ou pa tap pale konsa.  2.Eksplikasyon, etap pou moun suiv pou yo fè yon bagay. Si ou gade nan enstriksyon an, ou ap wè kijan li fasil pou ou monte mèb sa a. 3. Edikasyon, elevasyon, konesans. Jozèf se yon nonm ki gen enstriksyon."
+])

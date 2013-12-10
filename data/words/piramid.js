@@ -1,0 +1,2 @@
+showWord(["n. ","Moniman kote yo te konn antere farawon yo lontan, yo gen yon baz kare epi kote yo gen fòm triyang, kote yo te konn antere wa nan Ejip. Moniman nan peyi Meksik. 2. Fòm jewometrik ak twa dimansyon ki gen baz an fòm poligòn epi ki gen kote yo an fòm triyang ak yon ang ankomen. . 3. Reprezantasyon enfòmasyon sou tablo pou montre relasyon ant chak eleman nan tablo a."
+])

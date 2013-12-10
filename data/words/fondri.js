@@ -1,0 +1,1 @@
+showWord(["n. ","izin kote yo fonn fonn metal pou ba li fòm. Ayiti metal se yon fondri.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","Pi wo nivo tribinal Ayiti. Biwo kou kasasyon gen yon prezidan, yon vis-prezidan ak 10 jij ki fè ekip tribinal sa a. Kou Kasasyon divize an de chanm ki gen 5 jij a yo chak men lè l ap fonksyone annapèl, tout jij yo travay ansanm."
+])

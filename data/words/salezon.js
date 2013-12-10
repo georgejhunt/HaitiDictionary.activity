@@ -1,0 +1,1 @@
+showWord(["n. ","Vyann sale. Mete salezon nan legim nan.<br>"])

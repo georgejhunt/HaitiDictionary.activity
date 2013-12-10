@@ -1,0 +1,1 @@
+showWord(["a.","Twò klere pou je. Ki anpeche ou wè byen.  Limyè sa a aveglan anpil.Twò klere pou je. Ki anpeche ou wè byen.  Limyè sa a aveglan anpil.Twò klere pou je. Ki anpeche ou wè byen.  Limyè sa a aveglan anpil.Twò klere pou je. Ki anpeche ou wè byen.  Limyè sa a aveglan anpil.<br>"])

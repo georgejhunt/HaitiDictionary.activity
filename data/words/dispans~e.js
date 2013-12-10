@@ -1,0 +1,1 @@
+showWord(["n. "," Klinik. Ti sant sante kote yo swaye moun. Mwen konn enfimyè ki nan dispansè isi a.<br>"])

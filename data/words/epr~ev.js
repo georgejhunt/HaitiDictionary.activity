@@ -1,0 +1,2 @@
+showWord(["n. ","1. Soufrans, malè, danje ki pote tristès. Madan Chal pèdi twa moun nan fanmi li nan de mwa, sa se yon gwo eprèv pou li. 2. Tès, egzamen ki difisil. Bakaloreya se yon eprèv anpil etidyan pa rive pase."
+])

@@ -1,0 +1,2 @@
+showWord(["np.","Militè, li rive jeneral lame. Li fèt an 12 Desanm 1937nan vil Tomazo. Etnològ, diplome nan akademi militè (1961 sou-lyetnan). Li te chèf gad-de-kò Jan Klod Divalye. Li te konseye nan KNG ki ranplase J.K. Divalye. Li patisipe nan koudeta youn kont Lesli Maniga epi yon lòt kont Anri Nanfi. Li te prezidan enkonstitisyonèl an 1988-1990. Gen anpil moun ki mouri paske yo te kont Avril. Li kite Ayiti nan yon avyon militè Ameriken pou ale Florida. Apresa li viv nan Dominikani ak Etazini."
+])

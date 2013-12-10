@@ -1,0 +1,1 @@
+showWord(["","Seremoni kote yo ofri lwa yo premye fwi yo keyi yo.<br>"])

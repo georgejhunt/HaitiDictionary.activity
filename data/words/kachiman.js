@@ -1,0 +1,2 @@
+showWord(["n. ","Fwi twopikal ki gen po vèt ak anpil ti boul nwa sou po l; li sikre; andedan li sanble tigout ak kowosòl, chè a blan epi li gen ti grenn nwa. Gen moun ki renmen ji kachiman ak lèt, men ou kapab manje konsa osinon fè krèm glase ak li."
+])

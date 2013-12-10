@@ -1,0 +1,1 @@
+showWord(["a.","Ki fè apeti ou vini.  Manje sa a apetisan anpil.<br>"])

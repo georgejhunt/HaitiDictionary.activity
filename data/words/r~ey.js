@@ -1,0 +1,2 @@
+showWord(["","n. Tan pandan yon wa ap jere yon pèp. Sou rèy Anri Kristòf ki te wa nan peyi Ayiti, peyi a pat yon repiblik, li te yon wayote. 2. divizyon ak klasifikasyon nan lanati. Gen twa gran rèy, rèy vejetal (tout plant), rèy animal (tout bèt) ak rèy mineral."
+])

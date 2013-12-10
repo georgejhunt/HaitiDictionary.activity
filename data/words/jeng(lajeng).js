@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Kote nan lanati se fòs, entelijans ak malis ki kòmande. Mwen ta renmen konnen kijan lyon ak rena boule nan jeng la.  2. Anbyans dezòganize kote chyen manje chyen san etik. Nou pa nan jeng, kouman nou fè ap malmennen younalòt konsa?"
+])

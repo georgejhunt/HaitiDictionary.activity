@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki mele nan afè achte ak vann moun nwa. 2. Bato ki transpòte moun nwa pou yo al vann kòm esklav.<br>"])

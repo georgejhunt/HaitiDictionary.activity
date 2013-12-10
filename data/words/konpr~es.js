@@ -1,0 +1,1 @@
+showWord(["n. "," Moso twal moun mare sou yon kote ki malad. Mete konprès sou tèt madanm nan.<br>"])

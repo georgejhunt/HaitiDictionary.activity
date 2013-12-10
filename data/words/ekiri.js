@@ -1,0 +1,1 @@
+showWord(["n. ","Kote yo gade bèf ak cheval. 2. Dezòd nan administrasyon.<br>"])

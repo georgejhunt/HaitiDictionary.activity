@@ -1,0 +1,1 @@
+showWord(["n fr. "," Fòs ki kenbe atòm ansanm. Gen lyezon chimik doub.<br>"])

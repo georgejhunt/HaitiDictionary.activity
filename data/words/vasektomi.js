@@ -1,0 +1,1 @@
+showWord(["n. ","lè yo koupe osinon mare tib ki gen espèmatozoyid pou anpeche yon gason fè pitit.<br>"])

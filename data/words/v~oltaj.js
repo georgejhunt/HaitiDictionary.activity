@@ -1,0 +1,1 @@
+showWord(["n. ","kantite vòlt ki nesesè pou fè yon aparèy mache. 2. Tansyon elektrik ki rive nan yon kay.<br>"])

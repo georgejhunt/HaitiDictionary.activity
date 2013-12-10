@@ -1,0 +1,1 @@
+showWord(["adv.","Ki pa sou anwo. Nou mete bale a nan plaka ki pa anba eskalye an.<br>"])

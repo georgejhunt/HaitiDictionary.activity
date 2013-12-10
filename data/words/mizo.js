@@ -1,0 +1,1 @@
+showWord(["n. ","1. Senti an kui yo met nan bouch chen pou li pa manje osinon pou li pa jape. Mizo chyen.  2. Anpechman pou moun pale.Yo met mizo pou Pòl.<br>"])

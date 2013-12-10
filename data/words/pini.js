@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Bay pinisyon. Pwofesè a pini elèv yo. 2. An pinisyon. Yo pini m paske mwen pa fè devwa m. 3. Bay pinga. Mwen pini ou vin devan pòt mwen an. 4. Gen pinga. Yo pini Kalo parèt pwent tèt li nan lari a. <br>"])

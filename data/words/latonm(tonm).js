@@ -1,0 +1,1 @@
+showWord(["n. ","Kote yo mete moun mouri pou li dekonpoze san li pa enfekte moun ki vivan. Kote yo mete moun mouri pou ba li respè li merite. Moniman pou moun ki mouri.<br>"])

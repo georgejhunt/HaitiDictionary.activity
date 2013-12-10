@@ -1,0 +1,2 @@
+showWord(["np. "," Pwofesè literati, ekonomis, jounalis, ekriven, womansye, eseyis, editè jounal, . Li fèt Jeremi an Me 1941. Li pibliye AProses Pour un Homme Seul@ pwezi, 196?, AOswald Durand@, esè, 1968; AEtzer Vilaire ce Méconnu@ , esè 1970, Edisyon Faden; ALes Possédés de la Pleine Lune@ 1987; AAube Tranquille@ 1990; AHokufu@ 1993; ALa Dernière Goutte d=Homme@, 1999."
+])

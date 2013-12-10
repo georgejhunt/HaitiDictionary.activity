@@ -1,0 +1,1 @@
+showWord(["n.","sètifye yon bagay bon osnon li akseptab. Mwen te gen yon rekòmandasyon pou mwen te pote bay bòs Kantav pou li te pran mwen nan izin li an.<br>"])

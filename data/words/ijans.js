@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Nesesite moun genyen pou aji vit, san pèdi tan. Mwen gen yon ijans la a, mwen pa kapab rete. 2. Seksyon nan lopital kote yo resevwa moun ki fè aksidan osnon ki bezwen swen tousuit. Mennen timoun nan ijans tousuit."
+])

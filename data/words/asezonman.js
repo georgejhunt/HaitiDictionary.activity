@@ -1,0 +1,1 @@
+showWord(["n.","reset epis pou mete nan manje.<br>"])

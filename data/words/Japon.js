@@ -1,0 +1,1 @@
+showWord(["np.","Peyi endistriyèl nan kontinan Azi. Mwen ta renmen vizite Japon.<br>"])

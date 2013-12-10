@@ -1,0 +1,2 @@
+showWord(["n. ","1. Metal ki di, ki ka wouye, ki solid ki sèvi pou fè zouti, amati kay ak tout bagay ki dwe solid. Balkon kay sa a fèt ak fè fòje. 2. Yon eleman chimik ki gen senbòl Fe.3. Zouti pou pase rad. Gen fè chabon, gen fè elektrik. 4. v. Reyalize, konstwi, bati. Mwen gentan fè anpil bagay nan lavi a men mwen ret anpil pou mwen fè toujou. Mwen konn fè kouti, mwen konn fè manje, mwen pap janm mouri san travay."
+])

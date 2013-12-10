@@ -1,0 +1,1 @@
+showWord(["","1. n. moun ki diplome nan inivèsite. 2. Pwofesè inivèsite. 3. a. Ki konsène inivèsite; ki gen relasyon ak inivèsite.<br>"])

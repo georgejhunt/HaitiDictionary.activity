@@ -1,0 +1,1 @@
+showWord(["n.","tout teritwa ki anba yon anpere.<br>"])

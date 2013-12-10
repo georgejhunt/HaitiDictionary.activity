@@ -1,0 +1,2 @@
+showWord(["n. "," Bèt domestik moun manje. Kochon gen janm kout, yo gra epi yo gen bouch long. Kochon Ayiti yo te nwa te gen anpil rezistans kont maladi jouskaske teknisyen yo te idantifye yon maladi viris ki te atake kèk kochon. Olye yo te trete osinon touye kochon ki te malad yo Ameriken yo te konvenk moun touye tout kochon nwa yo epi ranplase yo ak kochon woz pou evite yon epidemi. Vyann kochon sèvi pou fè griyo, janbon, la, grès, andui eltr."
+])

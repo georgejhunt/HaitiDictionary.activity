@@ -1,0 +1,1 @@
+showWord(["","pèdi tan.<br>"])

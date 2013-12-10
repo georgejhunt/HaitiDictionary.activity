@@ -1,0 +1,1 @@
+showWord(["n. ","zouti chapantye ak menizye sèvi pou koupe bwa.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v.","1. Mache dèyè yon lòt. Ou pral nan bakaloreya ane sa a, mwen ap swiv ou pye pou pye. 2. Gad fent ou. Mwen ap swiv ou pou mwen wè jiskibò ou prale. 3. Gade ak atansyon. M ap swiv kou sa a depi ane pase, mwen wè li byen fasil."
+])

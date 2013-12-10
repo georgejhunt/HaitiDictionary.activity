@@ -1,0 +1,1 @@
+showWord(["","1. n. Asistans. Gwoup moun ki sanble yon kote pou tande ou byen gade yon bagay. Se pa de piblik ki reyini sou deran pou gade bagay sa a. 2. Popilè. Pwogram sa a louvri pou tout piblik ki vle al patisipe. 3. a. Mwen pa renmen eskandal piblik.<br>"])

@@ -1,0 +1,1 @@
+showWord(["np. ","Non manman Jezi. Lasentvyèj Mari. Non fi. Mari-Andre.<br>"])

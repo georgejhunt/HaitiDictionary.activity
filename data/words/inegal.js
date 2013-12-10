@@ -1,0 +1,1 @@
+showWord(["a. ","ki pa egal; ki diferan; ki pa lis; ki pa regilye.<br>"])

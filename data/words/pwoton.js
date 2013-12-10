@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan nwayo atòm ki gen chaj elektrik pozitif egal ak chaj elektwon yo men ki gen yon mas ki pi gwo. Se mas pwoton ki defini mas yon nwayo. Pwoton gen pi gwo mas pase elektwon.<br>"])

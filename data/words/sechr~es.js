@@ -1,0 +1,1 @@
+showWord(["n.","Detrès lè pa gen dlo osnon lè lapli pa tonbe epi tout plantasyon ap fin brile nan solèy. Lè lapli pa tonbe konn gen sechrès nan zòn nòdwès.<br>"])

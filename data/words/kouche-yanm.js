@@ -1,0 +1,2 @@
+showWord(["","selebrasyon nan relijyon vodou ki fèt nan fen mwa desanm. Se yon seremoni epi se yon selebrasyon. Gen plizyè etap nan selebrasyon an. Moun yo fouye epi rekòte rasin yon pye yanm nan yon jaden yo idantifye davans. Apresa, yo mete yanm nan kouche atè epi yo resite priyè remèsiman pou dilespri yo mèsi pou rekòt osinon divès siksè ki fèt nan ane a."
+])

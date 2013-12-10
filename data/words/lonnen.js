@@ -1,0 +1,1 @@
+showWord(["v. ","Mezire. Machann nan lonnen twal la. (Al nan lònen)<br>"])

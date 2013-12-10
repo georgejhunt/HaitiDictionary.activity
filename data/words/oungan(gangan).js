@@ -1,0 +1,2 @@
+showWord(["n. ","Pè vodou. Moun ki fè seremoni, ki kondui seremoni vodou, ki fè sèvis. Sèvis yo pa menm, yo chanje dapre moun ki ap kondwi yo a epi pouki lwa. Yon oungan andwa konn trete moun epi li andwa yon divinò tou."
+])

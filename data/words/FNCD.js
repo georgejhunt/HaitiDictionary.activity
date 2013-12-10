@@ -1,0 +1,1 @@
+showWord(["","Fwon Nasyonal pou Chanjman ak Demokrasi. Pati politik.<br>"])

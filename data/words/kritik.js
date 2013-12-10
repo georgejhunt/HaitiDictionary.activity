@@ -1,0 +1,1 @@
+showWord(["n. "," Opinyon ki eksplike yon bagay osinon ki dekri yon moun dapre yon analiz. Kritik toujou di pou moun yo ap kritike a; men gen kritik ki itil. 2. Ki enpòtan. Peryòd eleksyon se yon moman kritik nan politik yon peyi.<br>"])

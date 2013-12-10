@@ -1,0 +1,1 @@
+showWord(["","1. Ki chanje soti likid pou vin tounen gaz. Dlo a vapore. 2. Ki vin pi konsantre paske enpe nan dlo a seche. Lèt vapore. 3. Ki pa panse klè. Kalo sanble yon moun ki vapore la a.<br>"])

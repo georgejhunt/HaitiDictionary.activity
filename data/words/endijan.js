@@ -1,0 +1,1 @@
+showWord(["n. ","Pòv. Lopital la ofri tout endijan yo yon sèvis gratis.<br>"])

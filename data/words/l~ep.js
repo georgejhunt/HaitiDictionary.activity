@@ -1,0 +1,1 @@
+showWord(["n. ","Maladi po atrapan moun pran nan basiy Hannsenn. Lèp se yon maladi ki wonyen vyann moun.<br>"])

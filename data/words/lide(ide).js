@@ -1,0 +1,2 @@
+showWord(["n. ","1. Panse. Jozèf gen lide vini rete Florida. 2. Konsèy. Ban m yon lide sou sa ou ta fè si ou pa pase nan bakaloreya. 3. Pwojè. Sa se yon bon lide. 4. Imajinasyon, envansyon. Pent sa a gen anpil lide, tablo li yo rich. 5. Lespri. Lide m frape sou ou."
+])

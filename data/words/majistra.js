@@ -1,0 +1,1 @@
+showWord(["n. ","1. Fonksyonè nan administrasyon piblik ki responsab pati nan jistis nan pakè (opakè). Jera te majistra nan seksyon nò a. 2. Fonksyonè ki jere la komin. Majistra kominal.<br>"])

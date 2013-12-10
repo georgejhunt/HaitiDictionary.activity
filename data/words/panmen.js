@@ -1,0 +1,1 @@
+showWord(["v.","debat. Se pa jodi a Alisya ap panmen ak yon doulè tranche non.<br>"])

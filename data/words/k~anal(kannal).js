@@ -1,0 +1,1 @@
+showWord(["n. "," Filè dlo. Gen yon kanal ki pase dèyè ri sa a.<br>"])

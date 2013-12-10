@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Konpetisyon. Se Jaklin ki genyen nan kous la. 2. Komisyon. Mwen fin fè tout kous mwen yo. 3. Deplasman. Taksi a fè anpil kous anvan li depoze mwen.<br>"])

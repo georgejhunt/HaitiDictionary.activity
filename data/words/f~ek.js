@@ -1,0 +1,1 @@
+showWord(["","Mo ki kole ak yon vèb pou endike yon aksyon ki fin pase yon ti moman anvan. Mwen fèk fin manje mwen pa kapab al kouri jwe boul.<br>"])

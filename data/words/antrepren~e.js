@@ -1,0 +1,2 @@
+showWord(["n.","Biznismann, moun ki ap antreprann aktivite, ki pran responsabilite fè yon bagay; moun ki gen talan pou yo fè bagay mache.  Woje se gwo antreprenè li ye, li pa fouti pa konn sa pou li fè ak lajan."
+])

@@ -1,0 +1,1 @@
+showWord([""anmèdman"," nuizans.",<br>"])

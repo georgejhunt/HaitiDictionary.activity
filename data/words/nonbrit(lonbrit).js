@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan kò moun kote ou te makònen ak manman ou lè ou te tibebe nan vant. Jerad gen gwo lonbrit.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a/n.","pi piti. <br>"])

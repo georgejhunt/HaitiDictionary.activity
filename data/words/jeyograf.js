@@ -1,0 +1,1 @@
+showWord(["n. ","espesyalis sou koze jeyografi.<br>"])

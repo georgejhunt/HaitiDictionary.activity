@@ -1,0 +1,2 @@
+showWord(["","1. Divizyon (separasyon) an de pati. 2. Nan biyoloji, se yon fòm repwodiksyon asksyèl (san kwazman) kote yon selil divize pou bay de endividi egal e total. Fisyon se yon estrateji repwodiksyon ki fèt nan plant senp, nan mikwòb ak nan plizyè animal envètebre (san zo)."
+])

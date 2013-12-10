@@ -1,0 +1,1 @@
+showWord(["n.","1. Peyi kote Endyen yo te kwè lanm moun ale lè yo mouri. 2. Fwi ki yon koulè jòn tankou mango konsa men li konn yon tijan si. Mwen te renmen zabriko men mwen te toujou met sik sou li.<br>"])

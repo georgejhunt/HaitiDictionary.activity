@@ -1,0 +1,1 @@
+showWord(["","Mouvman Enstorasyon Demokrasi Ayiti. (Mouvement pour l=instauration de la Démocracie en Haiti.)<br>"])

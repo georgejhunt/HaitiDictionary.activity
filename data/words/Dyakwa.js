@@ -1,0 +1,1 @@
+showWord(["np. "," Yon powèt epi jounalis ki te alatèt gwoup Lègriyo a nan lane 1935.<br>"])

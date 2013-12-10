@@ -1,0 +1,1 @@
+showWord(["n. ","Twal ki ale anba rad yon tifi pou bay rad la fòm. Talatàn anba rad la ba li sipò.<br>"])

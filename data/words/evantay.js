@@ -1,0 +1,1 @@
+showWord(["n. ","katon osinon twal pou fè van lè li fè cho.<br>"])

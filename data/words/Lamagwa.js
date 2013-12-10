@@ -1,0 +1,1 @@
+showWord(["","Wayòm endyen ki te nan zòn nòdès nan Ispayola. Zòn sa a vin rele Vega Reyal apresa.<br>"])

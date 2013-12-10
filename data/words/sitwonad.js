@@ -1,0 +1,1 @@
+showWord(["n.","Ji yo fè ak sitwon. Mwen ta pran yon sitwonad ak bonkou glas ladan l.<br>"])

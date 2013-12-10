@@ -1,0 +1,1 @@
+showWord(["n fr. ","Pèsonalite ki pa vle aprann pou aji debyen. Kalito se yon zo bouke chen.<br>"])

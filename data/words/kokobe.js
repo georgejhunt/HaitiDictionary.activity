@@ -1,0 +1,2 @@
+showWord(["n.","1. Ki enfim. Jan kokobe, li pa fouti leve mache. 2. Gaga, egare, san reyaksyon. Ou se yon kokobe si ou kite timoun piti sa a ap fè ou kriye. 3. Fatige, kò kraze. Mwen gen yon lafyèv ki ap fin kokobe mwen la a, ban mwen yon ti remèd non."
+])

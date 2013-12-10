@@ -1,0 +1,1 @@
+showWord(["n. ","prevwa sa ki pral pase nan lavni. Pare pou sa ki pral vini.<br>"])

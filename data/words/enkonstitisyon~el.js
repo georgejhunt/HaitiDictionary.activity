@@ -1,0 +1,1 @@
+showWord(["a. ","ki pa fèt dapre konstitisyon.<br>"])

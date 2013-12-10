@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pyès nan yon kay osinon nan yon bilding. Yo ka itilize gwo sal sa a pou konferans.  2. Lasal, salon; pati nan kay kote ou ka resevwa moun. Tout moun te chita nan sal la lè Jak rantre. 3. a. Ki pa pwòp. Rad sou ou a sal."
+])

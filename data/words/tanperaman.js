@@ -1,0 +1,1 @@
+showWord(["n. ","1. Karaktè. Jera gen move tanperaman. 2. Pa etap. Peye pa tanperaman.<br>"])

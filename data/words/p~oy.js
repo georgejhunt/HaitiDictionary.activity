@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki menm fòs osnon menm laj avèk ou. Mari ak Terèz se pòy Kalin.<br>"])

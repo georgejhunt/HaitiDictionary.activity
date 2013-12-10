@@ -1,0 +1,2 @@
+showWord(["","ki pa rive souvan. Mwen gen lontan mwen pa wè ou kijan ou fè ra konsa a? 2. a. kout, kole avèk. Li mete yon jip ra kuis. Li kouche ra tè. Li plen vè a ra bouch. Ra bouch, ra bòl. 3. ono. derape ak tout boulin. Li ra li kouri."
+])

@@ -1,0 +1,1 @@
+showWord(["np. ","pèsonalite nan nouvo testaman. Pons Pilat. 2. Vil nan depatman nò.<br>"])

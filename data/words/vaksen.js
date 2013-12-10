@@ -1,0 +1,2 @@
+showWord(["n. "," Piki pou pwoteje moun kont maladi, pou devlope sistèm pwoteksyon kò yo. Yon melanj ki fèt ak mikwòb ki mouri osinon yon ti pati tou piti ki soti nan yon mikwòb yo enjekte nan kò moun osinon kò bèt pou yo ka devlope iminite (pwoteje) kont maladi mikwòb sa a ta ka bay lè li te vivan. Nan tan lontan, tout vaksen te sou fòm piki, men kounye a gen lòt fòm ak metòd pou devlope iminite kont maladi. Jodi a nou pran vaksen kont tifoyid."
+])

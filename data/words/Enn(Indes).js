@@ -1,0 +1,1 @@
+showWord(["","Yon peyi ki nan zòn Azi. Moun ki sot nan peyi Enn yo rele Endyen.<br>"])

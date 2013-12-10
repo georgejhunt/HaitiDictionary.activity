@@ -1,0 +1,1 @@
+showWord(["a. ","1. Moun ensipòtab.  Woland se yon fi ki pès. 2. n. Ensèk ki fè anpil dega nan jaden. Pès yo fini ak danre madan Chal yo. 3. a. Ki gen relasyon ak kilti pèsik osinon pozisyon jwografik Pès. 4. Ki gen malis. Se yon ti pès ti fi sa a ye.<br>"])

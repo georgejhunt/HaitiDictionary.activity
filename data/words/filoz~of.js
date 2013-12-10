@@ -1,0 +1,2 @@
+showWord(["n",".1.  Moun ki fè filozofi, ki f ini lekòl segondè. Jan se yon filozòf kounye a. 2. Moun ki fè etid pwofonde sou filozofi. Montèy te yon filozòf mwen te admire. 3. a. Saj. Jan se yon filozòf, anyen nan lavi a pa egare l. "
+])

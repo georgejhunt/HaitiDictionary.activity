@@ -1,0 +1,2 @@
+showWord(["np. "," Moun ki te vin reprezante Lafrans Annayiti an 1798. Msye te vini pou l te mentni Sendomeng pou pirèd sou dominasyon Lafrans. Msye te gen pwojè tou pou l te anvayi Jamayik ak èd Tousen ak Rigo men, Tousen te anbake msye voye l tounen nan peyi l."
+])

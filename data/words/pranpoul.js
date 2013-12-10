@@ -1,0 +1,1 @@
+showWord(["v fr.","Kopye sou sa lòt moun fè. Rita pran poul sou rad mwen an pou li fè rad pa li a.<br>"])

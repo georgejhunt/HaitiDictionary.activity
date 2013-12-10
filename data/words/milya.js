@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Kantite ki mil fwa plis pase milyon. Yon milya foumi se anpil foumi. 2. Anpil lajan. Gaston se nonm ki chita sou milya kote ou wè li ye la a.<br>"])

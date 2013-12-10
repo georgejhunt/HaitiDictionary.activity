@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Motè ki mache akgaz lou. Machin pejo yo gen motè dizèl sou yo.  2. Gazolin espesyal ki fèt pou motè dizèl. Mwen pa gen gaz ankò, fòk mwen rete nan estasyon gazolin nan pou mwen pran senk galon dizèl."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki vin apre enjenyè a osnon gwobwa a. Jera te yon kontremèt.<br>"])

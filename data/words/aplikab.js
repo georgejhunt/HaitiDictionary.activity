@@ -1,0 +1,1 @@
+showWord(["a.","ki kapab mete an pratik.<br>"])

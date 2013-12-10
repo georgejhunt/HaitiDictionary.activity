@@ -1,0 +1,1 @@
+showWord(["a.","moun ki manje anpil epi byen vit. Moun ki saf konn fin manje epi apresa yo vonmi lamenm.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Gwoup moun ki viv ansanm osnon ki pataje anpil bagay ansanm. Gen yon ti kominote ayisyen nan vilaj sa a.  2. Kouvan, kongregasyon. Mè Woz ap viv nan yon kominote salezyen kounye a. 3. Inite, ekip. Jan ak madanm li gen byen yo an kominote."
+])

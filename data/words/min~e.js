@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ki ap travay nan min. Minè yo touche anpil lajan. 2. Moun ki poko gen dizuitan. Timoun se minè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["np. ","Premye avoka fi ayisyen 1933.<br>"])

@@ -1,0 +1,2 @@
+showWord(["np. ","Foutbolè li te jwe nan Don Bosko Petyonvil, li te nan seleksyon nasyonal 1971-1974. Li te jwe nan koup foutbòl mondyal an Almay an 1974. Nan koup mondyal la, nan yon match kont Itali, Sanon te bay yon gòl tout moun te panse enposib. An reyalite, gadyen an (Dino) te enpenetrab, nan tout match li te jwe anvan, li pa t pran gòl. Sanon defèt mit la. Apre tounwa a, li te al jwe nan ekip Antèb an Bèljik epi Sen Etyèn an Frans. Apresa li te vin viv Ozetazini nan vil Sann Dyego, nan eta Kalifòni kòm antrenè. Li retounen Ayiti kòm antrene an 1998."
+])

@@ -1,0 +1,2 @@
+showWord(["","1.  Deplase. Wete yon bagay yon kote. Mwen pran tout lajan ki te sou tab la. Fè yon bagay vin pa w. Mwen pran de pen nan pànye a. 2. Kenbe, ranmase, bwote. Chalan pran Tikalo paske l te pye atè. 3. Aksepte, Mwen pa pran priyè. 4. Antrave. Msye pran nan twa wa."
+])

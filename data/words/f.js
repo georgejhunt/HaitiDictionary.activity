@@ -1,0 +1,1 @@
+showWord(["n. "," Lèt alfabè. Lèt Af@ vini tousuit apre Ae@.<br>"])

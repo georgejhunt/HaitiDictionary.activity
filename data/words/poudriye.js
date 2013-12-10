@@ -1,0 +1,1 @@
+showWord(["n. ","Veso kote yo mete poud. Poudriye sa a plen poud ladan l.<br>"])

@@ -1,0 +1,1 @@
+showWord([""," Gwo je.  Fi sa a gen je bourik. 2 Ki iyoran.<br>"])

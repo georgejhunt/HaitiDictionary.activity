@@ -1,0 +1,1 @@
+showWord(["n.","1. Kadejak. Yo arete Beniswa pou vyòl. 2. Ki fè bagay kont lalwa. Si yon moun vòlè lajan leta sa se yon vyòl konfyans.<br>"])

@@ -1,0 +1,1 @@
+showWord(["np. ","1. Moun ki gen nasyonalite peyi Mawòk. Abdala se yon mawoken ki janti. 2. a. Ki pou Mawòk. Kwi mawoken.<br>"])

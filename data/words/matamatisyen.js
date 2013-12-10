@@ -1,0 +1,1 @@
+showWord(["n. ","metye moun ki travay nan domèn matematik.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki ap pase. Pasan yo ap gade Lora ki ap pale fò. <br>"])

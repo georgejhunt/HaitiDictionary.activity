@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo zwazo. Gen yon pakèt kaou bò isi a.<br>"])

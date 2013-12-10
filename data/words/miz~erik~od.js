@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Sansiblite pou moun ki nan malè, padon, pitye. Jan gen mizèrikòd pou Andre. 2. ent. Bondye papa; entèjeksyon ki endike siplikasyon osnon sezisman. Mizèrikòd, men timoun nan jete tout chodyè manje a."
+])

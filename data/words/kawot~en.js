@@ -1,0 +1,1 @@
+showWord(["n. "," Pigman ki nan plant ak nan bèt ki devlope pou vin fè vitamin A.<br>"])

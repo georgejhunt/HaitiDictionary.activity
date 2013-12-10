@@ -1,0 +1,1 @@
+showWord(["n. ","1. Wotè; Dimansyon. Ki grandè Michlin? Ki grandè poto a? Si ou wè grandèt timoun yo vini. 2. Enpòtans sosyal. Mari gen foli grandè.<br>"])

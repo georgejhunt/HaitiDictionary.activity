@@ -1,0 +1,1 @@
+showWord(["a. "," 60 Chif ki vini apre senkantnèf. Swasant fwa.<br>"])

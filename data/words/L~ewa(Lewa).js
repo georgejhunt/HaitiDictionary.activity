@@ -1,0 +1,1 @@
+showWord(["np. ","Jou ki fete twa wa maj ki te vin adore Jezi yo. Nou fete lèwa jou ki sis janvye.<br>"])

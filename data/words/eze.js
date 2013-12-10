@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen tout sa li bezwen. ki pa nan bezwen.<br>"])

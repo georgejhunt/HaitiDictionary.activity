@@ -1,0 +1,1 @@
+showWord(["","Lè vòlè antre epi vòlè bagay nan yon kay.<br>"])

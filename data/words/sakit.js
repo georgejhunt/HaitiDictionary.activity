@@ -1,0 +1,1 @@
+showWord(["n.","ti sache an twal osnon papye moun mete bagay enpòtan ladan l epi yo sere l byen lwen. Madan Oban se anba tete l li met sakit li a.<br>"])

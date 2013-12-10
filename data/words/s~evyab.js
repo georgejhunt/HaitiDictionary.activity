@@ -1,0 +1,1 @@
+showWord(["a. "," Ki renmen rann sèvis. Jozèt se yon moun ki sèvyab.<br>"])

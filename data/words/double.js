@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Ki an defwa repete menm jan an. Mwen double salè mwen depi mwa pase. 2. Rekòmanse. Mwen pat konprann leson yo se sa ki fè mwen double klas elemantè de a.<br>"])

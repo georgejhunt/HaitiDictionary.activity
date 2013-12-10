@@ -1,0 +1,1 @@
+showWord(["n. "," Antant. Lè moun antann yo sou yon bagay. Mwen pat gen kontra pou mwen te travay dòmi leve avèk ou.<br>"])

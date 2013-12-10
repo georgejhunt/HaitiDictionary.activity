@@ -1,0 +1,1 @@
+showWord(["n. "," Etap. Mwen pa nan faz pou mwen ap pèdi tan.<br>"])

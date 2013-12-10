@@ -1,0 +1,1 @@
+showWord(["v. "," Annonse davans anvan yon bagay rive. Labib predi lafendimonn.<br>"])

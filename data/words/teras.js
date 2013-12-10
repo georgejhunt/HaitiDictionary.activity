@@ -1,0 +1,2 @@
+showWord(["n.","1. Ki monte , ki fè tankou eskalye. Gen kote mòn nan yo sitan wo, peyizan an yo plante nan yon estil yo rele teras. 2. Galri anwo nan balkon. Mwen pral pran yon ti van sou teras la si ou bezwen mwen wa vin kote mwen."
+])

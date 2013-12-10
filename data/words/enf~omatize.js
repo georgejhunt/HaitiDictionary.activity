@@ -1,0 +1,1 @@
+showWord(["v. ","opere tout fonksyon ak òdinatè. 2. Ekipe tout depatman ak òdinatè.<br>"])

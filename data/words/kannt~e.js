@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Ti bato ki pa ekipe. 2. Pran kanntè. monte ti bato ki pa ekipe pou pran direksyon yon lòt peyi. Gen anpil moun ki pran kanntè depi 1980 pou yo sove kite sitiyasyon difisil ki gen nan peyi Ayiti. 3. Mak kamyon ki pote wòch.<br>"])

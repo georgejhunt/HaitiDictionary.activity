@@ -1,0 +1,2 @@
+showWord(["v.","1. v. Konplete. Mwen fini ak devwa sa mwen t ap fè a, kounye, mwen pral pran yon ti repo. 2. v. Kaba, pa ladan l ankò. Mwen fini ak Kalo, depi li te fin fè koken an. 3. anyen. Mwen sot kontre Nikès, msye fini, li tounen zo ak po. 4. Ou sèvi ak fini + vèb pou endike aksyon vèb sa a konplete. Lè prezidan an fin pale tout moun bat bravo. Li senkè tout moun fin travay, yo fèmen tout pòt."
+])

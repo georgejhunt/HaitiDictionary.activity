@@ -1,0 +1,1 @@
+showWord(["n.","Ansanm fèy ki sou yon pye bwa. Pye bwa sa a bay yon bèl feyaj.<br>"])

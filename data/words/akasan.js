@@ -1,0 +1,1 @@
+showWord(["n.","Labouyi farin mayi fen moun manje tankou sereyal. Resèt akasan soti nan peyi Nijerya ak Dahome. Vin al achte ven kòb akasan pou mwen nan bout kafou a.<br>"])

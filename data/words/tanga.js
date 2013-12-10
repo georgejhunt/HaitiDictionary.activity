@@ -1,0 +1,1 @@
+showWord(["n.","Rad toukout ki soti nan senti rive nan jenou. Ou pa sa mete tanga sa a pou ou al sinema.<br>"])

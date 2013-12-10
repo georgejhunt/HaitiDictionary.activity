@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Konpetans, savwa, syans, edikasyon, enfòmasyon dapre sa ou aprann. Ki konesans ou genyen nan fè kòmès? 2. Moun ou konnen men ki pa zanmi ou. Mwen fè konesans madan Jan kay Joslin men mwen pa kwè si li wè mwen nan lari, l ap rekonèt mwen. 3. Enpresyon, sansasyon, santiman. 4. Entelijans. 5. Konsyans, konesans, lisidite, espri. Li pèdi konesans."
+])

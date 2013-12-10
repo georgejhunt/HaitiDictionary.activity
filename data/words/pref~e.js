@@ -1,0 +1,2 @@
+showWord(["n.","Reprezantan gouvènman an nan yon awondisman. Moun ki ap gouvène yon awondisman. Ayiti, peyi a divize an depatman, depatman yo divize an awondisman epi awondisman yo divize an komin."
+])

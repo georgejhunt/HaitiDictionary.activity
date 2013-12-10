@@ -1,0 +1,2 @@
+showWord(["n.","Inite pou mezire tan ki vo 12 mwa osinon  365 jou. Tan latè pran pou fè tou solèy la. Nan yon peyi, ane a kòmanse premye janvye a minui, epi ane a fini 31 Desanm a onzè-senkantnèf diswa. 2. Nenpòt peryòd ki gen douz mwa konsekitif.  3. Peryòd aktivite ki rive chak ane, menmsi li pa dire tout ane a. Kanaval ane pase a te gen anpil moun moun."
+])

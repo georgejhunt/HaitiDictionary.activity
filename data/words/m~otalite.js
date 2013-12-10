@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Sitiyasyon lè yon moun gen moun mouri. Nan ka mòtalite mwen sot ye la a, mwen pa gen senk kòb. 2. Se kantite moun ki mouri nan yon peryòd, osinon nan yon gwoup moun. Mòtalite Ayiti wo anpil."
+])

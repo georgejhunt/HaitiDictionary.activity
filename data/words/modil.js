@@ -1,0 +1,1 @@
+showWord(["n. ","pati ki repete plizyè fwa pou fòme yon inite.<br>"])

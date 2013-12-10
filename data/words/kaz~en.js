@@ -1,0 +1,1 @@
+showWord(["n. "," Barak kote sòlda rete. Tout sòlda rantre nan kazèn nan.<br>"])

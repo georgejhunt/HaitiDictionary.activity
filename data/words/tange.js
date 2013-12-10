@@ -1,0 +1,1 @@
+showWord(["v.","Balanse de bò adwat agòch osinon devan dèyè. Bato a ap tange.<br>"])

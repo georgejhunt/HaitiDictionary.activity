@@ -1,0 +1,2 @@
+showWord(["n.","1. Edikasyon. Si ou te gen elevasyon, ou pa tap janm pale lèd ak granmoun konsa. 2. Wotè. Ki elevasyon mi sa a?  3. Pil, bagay ki wo. Yon mòn se yon elevasyon wòch ak tè nan yon anviwonman. 4. Ogmantasyon, akselerasyon. Jan elevasyon kou lavi a ye la a, si yon moun pa gen yon bon salè, ou nan ka."
+])

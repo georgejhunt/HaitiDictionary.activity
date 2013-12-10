@@ -1,0 +1,1 @@
+showWord(["n. ","1. Santiman konfyans moun gen pou lòt osinon pou yon reprezantan Bondye osinon pou Bondye. Mirèy gen lafwa. 2. Konfyans. Jak gen lafwa nan Mirèy.<br>"])

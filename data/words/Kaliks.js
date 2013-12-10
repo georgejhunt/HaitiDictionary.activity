@@ -1,0 +1,1 @@
+showWord(["np. "," Kòmandan Gad Dayiti apre lè okipasyon meriken an te resi fini nan ane 1934.<br>"])

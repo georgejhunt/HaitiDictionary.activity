@@ -1,0 +1,1 @@
+showWord(["n. ","Espas kote lanmè antre nan tè. Mwen poko janm al nan Gòf Lagonav la.<br>"])

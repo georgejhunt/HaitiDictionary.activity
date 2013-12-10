@@ -1,0 +1,1 @@
+showWord(["a. ","Ki egal nan tout kote li yo. Si triyang sa a ekilateral ebyen ang li yo gen menm valè tou.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Wout. Ki trajè nou ap pran?<br>"])

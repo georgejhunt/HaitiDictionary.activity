@@ -1,0 +1,1 @@
+showWord(["","1. n. manm palman (depite ak senatè). 2. a. Ki gen rapò ak palman.<br>"])

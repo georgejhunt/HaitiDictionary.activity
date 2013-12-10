@@ -1,0 +1,1 @@
+showWord(["","komin nan awondisman Gonayiv depatman Latibonit.<br>"])

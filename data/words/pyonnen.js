@@ -1,0 +1,1 @@
+showWord(["v. ","bay pyon. Poze pyon pou fè advèsè-a bay legen.<br>"])

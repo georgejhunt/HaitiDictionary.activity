@@ -1,0 +1,1 @@
+showWord(["n. "," Bagèt an bwa ki gen yon min pou ekri. Kreyon sa a pa gen gòm.<br>"])

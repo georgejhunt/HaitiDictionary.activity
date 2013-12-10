@@ -1,0 +1,2 @@
+showWord(["v.","1. dousi yon ji osnon yon manje dous ak sik. Gen moun ki renmen sikre kafe ak rapadou osnon ak siwo myèl men mwen pito sikre ak sik blan. 2. Dousi. Cheri, ti koze a sikre kè mwen anpil."
+])

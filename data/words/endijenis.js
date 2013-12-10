@@ -1,0 +1,2 @@
+showWord(["n. ","mouvman literè ak filozofik ki pran enspirasyon nan sa ki ap pase anndan peyi-a, (koutim, mizik, relijyon, dans) konpare ak yon lòt literati ki vire sou sa ki ap pase deyò peyi-a. Mouvman sa a te fòmile plis (1927) pandan okipasyon ameriken (1915-1934). Ekriven yo te gen yon jounal yo te rele ALa Revue Indigène@. Revi a pat dire lontan, li te pibliye 6 nimewo, men mouvman te kontinye devlope."
+])

@@ -1,0 +1,1 @@
+showWord(["v fr.","Ekspresyon ki endike yon bagay yon moun ka pa kwè paske li egzajere. Se laraj pou ou wè jan moun yo ap goumen pou gremesi.<br>"])

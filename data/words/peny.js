@@ -1,0 +1,1 @@
+showWord(["n.","zouti pou demele cheve. Mwen sèvi ak peny gwo dan paske cheve mwen rèd anpil. Yo pase l nan peny fen.<br>"])

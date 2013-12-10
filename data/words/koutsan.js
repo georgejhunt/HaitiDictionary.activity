@@ -1,0 +1,1 @@
+showWord(["n fr. "," Move san. Kout san pa bon pou ou.<br>"])

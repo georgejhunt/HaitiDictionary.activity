@@ -1,0 +1,1 @@
+showWord(["v. "," Fè yon bagay vin senp; wete sa ki pa nesesè. Annou senplifye travay la.<br>"])

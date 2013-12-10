@@ -1,0 +1,1 @@
+showWord(["v.","Di bonjou. Li pase li pa salye mwen.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","goumen.<br>"])

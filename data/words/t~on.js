@@ -1,0 +1,1 @@
+showWord(["n.","Inite mezi pou pran pèz yon bagay. Yon tòn metrik egal 1000 kilogram osinon 2200 liv. <br>"])

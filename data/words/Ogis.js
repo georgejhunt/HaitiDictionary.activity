@@ -1,0 +1,1 @@
+showWord(["np.","Ansyen prezidan Ayiti depi 8 Out 1912 jiska 2 Me 1913. Li mouri anpwazonnen.<br>"])

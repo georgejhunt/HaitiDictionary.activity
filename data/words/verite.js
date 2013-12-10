@@ -1,0 +1,1 @@
+showWord(["n. ","Ki pa manti. Di la verite.<br>"])

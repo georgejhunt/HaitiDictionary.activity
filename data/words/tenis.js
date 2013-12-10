@@ -1,0 +1,1 @@
+showWord(["n.","1. Soulye twal. Mwen renmen met tenis paske li dous nan pye mwen. 2. Jwèt. Tenis se yon espò ki enteresan menm jan ak foutbòl men mwen pito foutbòl.<br>"])

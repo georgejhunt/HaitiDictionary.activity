@@ -1,0 +1,1 @@
+showWord(["n. ","pratike yon metye.<br>"])

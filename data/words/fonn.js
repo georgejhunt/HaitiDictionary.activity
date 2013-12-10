@@ -1,0 +1,2 @@
+showWord(["v. ","chanjman eta lè yon bagay solid ki ap vin likid; delye yon solid nan yon likid. Lè glas pran chalè li fonn, li tounen dlo. Si ou retire krèm la lan frizè a, l ap fonn. Fonn sik la nan dlo a."
+])

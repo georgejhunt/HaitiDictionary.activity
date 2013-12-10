@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki konn ranje mont. Al pot mont sa a kay òfèv la pou mwen.<br>"])

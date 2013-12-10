@@ -1,0 +1,1 @@
+showWord(["n. ","Syans ki etidye klima. Olivye al etidye klimatoloji.<br>"])

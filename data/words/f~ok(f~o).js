@@ -1,0 +1,1 @@
+showWord(["v.","1. oblije; ou pa kapab pa... Fòk ou vini kanmenm. 2. Non yon gwo bèt lanmè.<br>"])

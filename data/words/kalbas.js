@@ -1,0 +1,2 @@
+showWord(["n. "," Fwi ki soti nan pyebwa kalbasye; li sèvi fè kui epi pou fè veso moun bwote dlo; fwi, moun pa manje l. Li gwo, anjeneral, yo fè yon ti twou ladan l pou louvri l, osnon yo koupe l debò. Pati andedan kalbas la yo jete l. Lè pati padeyò a seche, li vin di, yo fè l fè veso pou mete likid osinon grenn. 2. Pyebwa ki fè kalbas."
+])

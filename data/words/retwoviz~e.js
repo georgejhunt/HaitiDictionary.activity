@@ -1,0 +1,1 @@
+showWord(["n","glas (miwa) ki nan machin pou ede chofè a wè sa ki ap pase pa dèyè.<br>"])

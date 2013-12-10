@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Aparèy ki fèt pou transfòme kouran elektrik an son. Opalè sa yo pisan anpil. 2. Nan palè. Prezidan an konvoke minis yo opalè.<br>"])

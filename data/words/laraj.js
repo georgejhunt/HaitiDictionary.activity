@@ -1,0 +1,2 @@
+showWord(["n. ","1. Maladi kontajye mòtèl ki pase soti nan yon bèt enfekte ale sou yon moun (osinon yon lòt bèt) lè sa ki enfekte a mòde sa ki pa enfekte a. Se yon viris ki responsab enfeksyon an. Chyen sa a gen laraj. 2. Kolè ki vini ak agresyon, ak vyolans fizik osinon vèbal."
+])

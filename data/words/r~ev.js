@@ -1,0 +1,2 @@
+showWord(["n. ","1. Dezi, ve, anvi yon moun gen nan tèt li men ki poko ka reyalize. Rèv Mirèy se al vizite Dondon. 2. Evenman imajinè ki pase nan tèt yon moun pandan li ap dòmi. Gen moun ki fè move rèv, yo rele sa kochma."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","plizyè fant orizontal ki nan pòt pou vantile osinon pou fè limyè pase. Fèmen pèsyèn nan.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti an metal ki ka pwodui son lè ou aktive l. Peze sonèt pòt la pou moun yo ka vin louvri pou nou.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Enfòmasyon. Radyo bay nouvèl la. 2. Eta, kondisyon. Ban m ti nouvèl ou? 3. Rapò. Nouvèl yo pa bon, rezilta tès la pozitif. 4. Ki fèk rive. Fi sa a se yon nouvèl li ye, li pa konn travay la. 5. a. Ki fèk rive. Nouvèl anplwaye a pa konn travay la."
+])

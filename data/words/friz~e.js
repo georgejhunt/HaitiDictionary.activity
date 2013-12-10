@@ -1,0 +1,1 @@
+showWord(["n. ","Aparèy pou konjle manje solid ossinon likid. Mwen fèk achte yon frizè.<br>"])

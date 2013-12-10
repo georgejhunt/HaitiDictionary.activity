@@ -1,0 +1,2 @@
+showWord(["","1. a. Ki pa wo. Lari nan katye lakay mwen an plat, li pa gen yon ti bit menm. 2. Ki pa bonbe. Joslin gen vant plat. 3. n. Asyèt. Veso san rebò moun manje ladan l. Mwen vle manje nan plat fayans. 4. plak-de-pari, anplat, materyo ki sèvi nan konstriksyon,. 5. pozisyon orizontal. teren plat."
+])

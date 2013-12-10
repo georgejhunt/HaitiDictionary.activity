@@ -1,0 +1,1 @@
+showWord(["n. ","aparèy ki sèvi pou louvri andedan vajen pou konsiltasyon medikal.<br>"])

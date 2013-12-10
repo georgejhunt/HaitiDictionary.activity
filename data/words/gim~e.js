@@ -1,0 +1,1 @@
+showWord(["n. ","de siy pou make osinon izole yon mo. A...@.<br>"])

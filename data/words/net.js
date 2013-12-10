@@ -1,0 +1,1 @@
+showWord(["a. ","1. Ki pa pozitif ni negatif. Rezilta net.  2. Ki pa gen opinyon. Pozisyon net.<br>"])

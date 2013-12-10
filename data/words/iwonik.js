@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen iwoni.<br>"])

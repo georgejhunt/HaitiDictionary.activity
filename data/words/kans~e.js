@@ -1,0 +1,1 @@
+showWord(["n. ","Maladi lè selil anòmal ap repwodui san rete. Joslin di li ta renmen lasyans dekouvri yon tretman kont kansè.<br>"])

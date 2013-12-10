@@ -1,0 +1,1 @@
+showWord(["","Inite pou mezire pisans yon sistèm. 1 kilowat egal 1000 wat.<br>"])

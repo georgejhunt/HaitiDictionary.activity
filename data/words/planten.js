@@ -1,0 +1,1 @@
+showWord(["n.","Bannann. Fwi ki nan menm fanmi ak fig (fig bannann). Li gen anpil farin ladan l. Bannann se youn nan manje Ayiti pwodwi anpil.<br>"])

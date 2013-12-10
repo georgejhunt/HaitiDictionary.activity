@@ -1,0 +1,1 @@
+showWord(["n. ","Kreyon tif pou ekri sou tablo; kalkè yo moulen epi mete l nan moul pou bal fòm yon gwo kreyon ki sèvi pou ekri sou tableau Lakre tout koulè.<br>"])

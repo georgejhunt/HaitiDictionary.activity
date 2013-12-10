@@ -1,0 +1,1 @@
+showWord(["n fr. ","Tomat konsantre yo mete nan bwat konsèv; li sèvi pou bay vyann gou ak koulè wouj. Mete pat tomat nan sòs la.<br>"])

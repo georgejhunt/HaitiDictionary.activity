@@ -1,0 +1,2 @@
+showWord(["n. ","zouti, enstriman, aparèy yo itilize pou wè bagay ki twò piti pou wè ak je. Yon mikwoskòp gen yon seri lantiy ki ògànize pou moun ka fè bagay ki piti anpil tankou bakteri, fè yo parèt gwo, konsa moun ka wè yo epi etidye yo.Nan klas la nou aprann kijan pou nou sèvi ak yon mikwoskòp."
+])

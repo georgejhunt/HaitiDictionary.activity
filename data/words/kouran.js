@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Wout dlo. Kouran dlo sa a rive jous nan rivyè a. 2. Elektrisite. Yo pran kouran an. 3. Tandans. Sa se yon nouvo kouran nan literati peyi a. 4. Komen, ki ap fèt toutan. Sa ou ap di la a se yon evenman kouran."
+])

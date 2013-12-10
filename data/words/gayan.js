@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki pote yon pri. 2. Moun ki destene pou li pote premye pri.<br>"])

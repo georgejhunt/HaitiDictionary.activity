@@ -1,0 +1,1 @@
+showWord(["","1. Zo tèt. Tifi a di li santi yon doulè nan kalbas tèt li. 2. Tèt. Kalbas tèt ou di si ou pa tande manman ou ap rele ou.<br>"])

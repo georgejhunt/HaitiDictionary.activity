@@ -1,0 +1,2 @@
+showWord(["n.","Vyann moulen woule yo mete nan trip osnon nan yon tib fenfen tankou yon ti ba, li sanble ak ti baton. Li long epi li fen men li konn gwo tou. Anvan ou manje l se pou ou kwit li. Yo ta p vann sosis pandan match foutbòl la."
+])

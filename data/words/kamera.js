@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti pou pran foto. Jera gen yon bon kamera.<br>"])

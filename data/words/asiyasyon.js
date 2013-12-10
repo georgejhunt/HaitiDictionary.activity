@@ -1,0 +1,1 @@
+showWord(["n.","papye pou ale nan tribinal.<br>"])

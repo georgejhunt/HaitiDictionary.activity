@@ -1,0 +1,1 @@
+showWord(["n.","Mèb nan salamanje. Pou ou chita sou tab fòk ou chita sou chèz. Tout timoun pou vin chita devan tab la pou etidye leson yo.<br>"])

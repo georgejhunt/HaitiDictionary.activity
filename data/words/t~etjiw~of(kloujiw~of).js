@@ -1,0 +1,1 @@
+showWord(["n fr. ","Yon grenn jiwòf antye. Jera pa renmen jwenn tèt jiwòf nan manje l.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","mare. Vin ede mwen jouke chay sa a tanpri.<br>"])

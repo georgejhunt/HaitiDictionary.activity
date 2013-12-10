@@ -1,0 +1,2 @@
+showWord(["n. ","1. Nivo, klas. Plizyè kouch nan popilasyon an pa dakò. Kouch ekonomik peyi a. Mete plizyè kouch manba sou pen an.  2. Kouchèt tibebe. Li lè pou ou chanje kouch timoun nan. 3. Akouchman. Madan Chal fè bòn kouch.  4. Klas. "
+])

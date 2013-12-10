@@ -1,0 +1,1 @@
+showWord(["np. ","Peyi nan kontinan Azi. Se yon pakèt zile ki fòme peyi a. Kapital li se Maniy.<br>"])

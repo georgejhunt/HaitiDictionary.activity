@@ -1,0 +1,2 @@
+showWord(["np. ","Gwoup literè ki te fòme nan komansman ane 1950. Bi manm yo se travay pou vansman lang kreyol la te fet kòmilfo nan literati, kominikasyon eltr. Se avèk kreyasyon MOUVMAN KREYOL jou 18 desanm 1965 lan nou te vin gen premye kolaborasyon ant gwoup òganize pou fe pwomosyon lang kreyol la ak kilti natif‑natal la. MOUVMAN KREYOL te vin sispann fonksyone jou 6 avril1969 la, paske gouvenman Franswa Divalye a te fè arete manm fondate yo, doktè Ernst Mirville, Henry‑Claude Daniel, Jean‑Marie W. Denis, elatrye."
+])

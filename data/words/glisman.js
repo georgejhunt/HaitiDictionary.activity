@@ -1,0 +1,1 @@
+showWord(["","glise san kontwòl nan direksyon yon bagay.<br>"])

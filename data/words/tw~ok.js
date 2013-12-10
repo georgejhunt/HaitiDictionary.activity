@@ -1,0 +1,1 @@
+showWord(["n. ","1. Echanj byen osnon sèvis san lajan. Si ou ban mwen yon lam veritab epi mwen ba ou yon glòs luil sa se yon twòk.  2. Gwo machin ki gen anpil espas pa dèyè pou li bwote chay. Twòk sa a pa gwo ase pou li pran tout machandiz mwen yo.<br>"])

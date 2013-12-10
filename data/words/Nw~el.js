@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Tan ki raple lè Jezikri te fèt. Nou pral fete nwèl. 2. Jou 25 desanm. Lavèy nwèl nou ap fè reveyon. <br>"])

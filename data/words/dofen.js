@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Gwo bèt lanmè ki manje vyann. Mwen pè dan dofen sa a. 2. Eritye gwo chabrak.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Antant ant moun pou rankontre yon kote nan yon moman egzak. Nou gen randevou ak Kalin a dezè. Nou ap kase yon randevou.<br>"])

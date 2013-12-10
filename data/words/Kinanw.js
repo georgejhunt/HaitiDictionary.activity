@@ -1,0 +1,1 @@
+showWord(["pwo.","pa ou.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","Yon moun osinon yon bagay moun kapab dirije.<br>"])

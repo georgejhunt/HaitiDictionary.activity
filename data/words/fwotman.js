@@ -1,0 +1,2 @@
+showWord(["n. "," Rezilta lè gen fwote. Se fwotman an ki fè ou brile a. 2. Lè de kò ap deplase epi rete an kontak youn ak lòt, nan domèn fizik fwotman asosye ak rezistans epi rezistans asosye ak pwodiksyon chalè. 3. n. Frekantasyon, relasyon pouvwa ant moun nan yon sosyete. Li gen gwo fwotman."
+])

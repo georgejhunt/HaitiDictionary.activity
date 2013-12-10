@@ -1,0 +1,1 @@
+showWord(["n. ","Non yo bay gason ki pa timoun. Te gen yon mesye ki tap mande pou ou la a.<br>"])

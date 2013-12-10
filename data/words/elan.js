@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Mouvman pou prepare ou anvan ou sote. Si ou pran elan ou byen, ou ap kapab sote pi wo pase lòt moun yo.  2. Avansman. Kawòl pran yon sèl elan nan biznis li ya, se pa de kòb li ap fè. "
+])

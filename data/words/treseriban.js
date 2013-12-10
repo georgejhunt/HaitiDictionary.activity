@@ -1,0 +1,1 @@
+showWord(["","Dans fòlklò kote plizyè moun lap danse kwaze anba yon poto epi pandanstan an yo tou ap trese riban tout koulè nan poto a.<br>"])

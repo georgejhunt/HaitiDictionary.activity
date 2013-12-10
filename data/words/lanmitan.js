@@ -1,0 +1,2 @@
+showWord(["adv. "," 1. mitan, nan nannan, pami. Anayiz chita lanmitan zanmi l yo. 2. Nan kè, omilye, nan nannan. Mwen te lanmitan estad la lè goumen an pete. Mwen mete chak jennjan yo sou kote mwen epi mwen derape lanmitan yo."
+])

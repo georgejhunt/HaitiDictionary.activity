@@ -1,0 +1,2 @@
+showWord(["np.","Yon ameriken nwa, msye te ede lòt nwa parèy li yo Ozetazini. Msye te al Ayiti pou ede bati lekòl epi konvèti moun nan pwotestan. Li te fanatik Anri Kristòf epi li te bali anpil sipò. Listwa di se li ki premye pote vaksen Ayiti."
+])

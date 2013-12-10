@@ -1,0 +1,1 @@
+showWord(["v. "," Vin pi piti. Twal la vin ratresi apre nou fin lave li.<br>"])

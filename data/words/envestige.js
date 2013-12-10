@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Fè ankèt, chèche konnen. Leta te envestige sou krim sa a men yo pa janm jwenn kilès ki fè l. 2. Dokimante, ranmase enfòmasyon pou abouti jwenn rezilta syantifik. Gen plizyè syantis ki ap envestige maladi Sida a."
+])

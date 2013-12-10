@@ -1,0 +1,1 @@
+showWord(["","1. 2. Moun ki louvri vàn dlo.<br>"])

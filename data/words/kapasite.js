@@ -1,0 +1,2 @@
+showWord(["n. ","1. Posibilite, resous, konpetans. Ou pa gen kapasite fè fi a pèdi travay li.. Ou gen kapasite pou ou double rannman restoran an. 2. Espas, mezi. Sal sa a gen kapasite pou li pran twasan moun."
+])

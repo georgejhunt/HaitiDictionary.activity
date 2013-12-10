@@ -1,0 +1,1 @@
+showWord(["n. ","imaj ak son ki anrejistre ansanm epi moun ka wè ak tande nan yon aparèy mayetofòn.<br>"])

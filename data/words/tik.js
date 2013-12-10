@@ -1,0 +1,2 @@
+showWord(["n. ","1. Bèt, parazit ki souse san moun epi ki ka transmèt maladi enfektye tou.  Madanm sa a gen tik. 2. Abitid, reyaksyon nè yon moun pa ka kontwole. Nèg sa a ap plede bat je l toutan tankou yon moun ki gen yon tik."
+])

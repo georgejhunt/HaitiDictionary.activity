@@ -1,0 +1,1 @@
+showWord(["np. ","komin nan awondisman Leyogàn nan depatman Lwès. Vil bò lanmè ki a 50 mil Pòtoprens. Moun Tigwav konn fè bon dous makòs.<br>"])

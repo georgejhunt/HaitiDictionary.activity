@@ -1,0 +1,1 @@
+showWord(["","1. Plant ki bay flè blan santi bon. Kamelya sa a fleri bonè ane sa a. 2. Flè. Flè kamelya sa a santi bon anpil.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Apèsi.Yon ti goute anvan.  Sa se  yon avangou sou pwogram dimanch la.Apèsi.Yon ti goute anvan.  Sa se  yon avangou sou pwogram dimanch la.Apèsi.Yon ti goute anvan.  Sa se  yon avangou sou pwogram dimanch la.Apèsi.Yon ti goute anvan.  Sa se  yon avangou sou pwogram dimanch la.Apèsi.Yon ti goute anvan.  Sa se  yon avangou sou pwogram dimanch la.<br>"])

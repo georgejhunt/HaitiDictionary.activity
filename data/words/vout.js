@@ -1,0 +1,1 @@
+showWord(["n. ","pati won nan yon bilding (ki sou anlè)<br>"])

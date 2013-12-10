@@ -1,0 +1,1 @@
+showWord(["","1. Pake. 2. Kenbe nan memwa. 3. Espas nan Palèd-Jistis kote jij yo reyini.<br>"])

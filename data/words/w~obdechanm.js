@@ -1,0 +1,1 @@
+showWord(["n.","Rad laj moun mete pou yo ret nan kay anvan ou byen aprè yo fin benyen. Moun pat dwe janm soti nan lari ak wòbdechanm yo.<br>"])

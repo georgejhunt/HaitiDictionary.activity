@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Ansanm tout ògan ak tout sistèm reyini ansanm ak lespri a ki fè yon moun. Mwen santi kò mwen pa bon menm semèn sa a. Rale kò ou la a tande, si ou pa vle bourèt la frape ou. 2. Kadav, sa ki rete lè moun mouri. Se devan mwen anbilans vin pran kò a. 3. Pati nan po pye osinon men ki vin di. Soulye a ban m kò."
+])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fraz, senbòl, metafò. Mwen renmen lè ou itilize espresyon sa a.  2. Fòmil matematik pou make valè yon sistèm. Gen nan espresyon sa yo ki konn konplike.  3. Imaj, mesaj ou ka li sou figi yon moun. Lè mwen gade espresyon figi madan Jan, mwen konnen li ta pral dekonpoze. Pòz nan yon foto. Mwen renmen espresyon kote ou ap ri a."
+])

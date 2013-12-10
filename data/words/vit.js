@@ -1,0 +1,1 @@
+showWord(["","1. n. Materyèl transparan epitou solid. Vit sa a epè. 2. a. Rapid. Leyon mache vit.<br>"])

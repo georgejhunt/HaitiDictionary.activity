@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Syans ki etidye kijan lajan ak lòt resous yon peyi (osinon yon kominote) pwodui, distribye,dechèpiye ak akimile; kijan yo pwodui resous yo epi yo separe yo. Ekonomi Dayiti. 2. Rezèv lajan, bwat sekrè. Si ou pat konn fè ekonomi ou pa tap janm kapab achte kay sa a."
+])

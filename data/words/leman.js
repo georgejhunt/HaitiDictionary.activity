@@ -1,0 +1,1 @@
+showWord(["n. "," Yo moso fè ki gen kapasite pou l atire fè kole avè l. Mari ranmase klou li te jete yo ak yon leman.<br>"])

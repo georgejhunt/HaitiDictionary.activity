@@ -1,0 +1,1 @@
+showWord(["adv","Pa pale avèk. Jantilis pa gen bonjou ak Jera.<br>"])

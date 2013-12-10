@@ -1,0 +1,2 @@
+showWord(["n. ","Yon maladi kontajye epi enfektye ki devlope lakay timoun. Se yon viris ki bay maladi sa a, viris la fè matyè-griz epin dòsal la anfle, li bay lafyèv ak paralizi.Kounye a gen vaksen kont polyo."
+])

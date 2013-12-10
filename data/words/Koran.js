@@ -1,0 +1,1 @@
+showWord(["","liv sakre nan relijyon mizilman yo ki gen doktrin Islam.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Flannè ki renmen fi.<br>"])

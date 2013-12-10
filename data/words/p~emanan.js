@@ -1,0 +1,1 @@
+showWord(["a. ","ki la tout tan.<br>"])

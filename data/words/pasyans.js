@@ -1,0 +1,1 @@
+showWord(["n. ","Kapasite yon moun genyen pou li kapab tann san li pa nève. Pa pèdi pasyans.<br>"])

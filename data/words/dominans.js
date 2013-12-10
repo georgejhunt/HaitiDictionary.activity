@@ -1,0 +1,2 @@
+showWord(["n. ","kontwòl, otorite."
+])

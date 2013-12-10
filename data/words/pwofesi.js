@@ -1,0 +1,1 @@
+showWord(["n. ","prediksyon ki soti nan bouch yon moun ki resevwa enspirasyon.<br>"])

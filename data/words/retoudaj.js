@@ -1,0 +1,1 @@
+showWord(["n. ","aktivite yon moun ap fè alòske li depase laj pou li gen enterè pou sa a.<br>"])

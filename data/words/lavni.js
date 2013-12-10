@@ -1,0 +1,1 @@
+showWord(["n. ","Tan ki ap vini pi devan. Moun yo ap prepare lavni yo.<br>"])

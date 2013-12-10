@@ -1,0 +1,1 @@
+showWord(["np. ","komin nan awondisman Gonayiv nan depatman Latibonit. Gen anpil plantasyon ak komès diri nan Lestè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","Fèt riral lokal ki baze sou jou fèt sen legliz katolik ki patron pawas lokal la.<br>"])

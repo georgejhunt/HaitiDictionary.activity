@@ -1,0 +1,1 @@
+showWord(["np. ","Non yon otèl nan Petyonvil.<br>"])

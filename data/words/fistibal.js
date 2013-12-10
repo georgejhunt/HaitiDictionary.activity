@@ -1,0 +1,2 @@
+showWord(["n. ","Yon ti zam ki fèt ak yon kwòk bwa, de moso elastik epi ak yon ti moso po bèf ; Fistibal sèvi pou voye wòch. Gen timoun ki konn tiye zòtolan ak fistibal. Timoun renmen jwe ak fistibal menmjan yo renmen jwe revòlvè."
+])

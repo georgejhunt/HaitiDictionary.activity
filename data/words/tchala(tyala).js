@@ -1,0 +1,1 @@
+showWord(["n. ","Liv pou enspire moun ki ap jwe lotri. Gaston gade nan tchala a pou li konn ki nimewo li ap jwe.<br>"])

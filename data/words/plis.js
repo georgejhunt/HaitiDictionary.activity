@@ -1,0 +1,2 @@
+showWord(["adv.","1. Pi fasilman. Ou plis ka wè moun sa yo pati al Anfrans pase pou yo al an Espay paske yo pa konn pale panyòl. 2. Ankò. Mwen vle plis gato. Plis pase sa, se non mèsi. 3. Pi gwo. Pa m nan plis pase pa-w la. [plis pase/ konparatif siperyorite]"
+])

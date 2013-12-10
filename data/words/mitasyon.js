@@ -1,0 +1,1 @@
+showWord(["n. ","nan domèn jenetik se chanjman inatandi (espontane); nan yon endividi ki fè li diferan lè yo konpare l ak lòt endividi nan menm popilasyon an.Mitasyon selil.<br>"])

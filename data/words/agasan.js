@@ -1,0 +1,1 @@
+showWord(["a.","yon sitiyasyon ki fè yon moun pèdi pasyans. Bri sa a agasan li anpeche mwen lapriyè.yon sitiyasyon ki fè yon moun pèdi pasyans. Bri sa a agasan li anpeche mwen lapriyè.yon sitiyasyon ki fè yon moun pèdi pasyans. Bri sa a agasan li anpeche mwen lapriyè.yon sitiyasyon ki fè yon moun pèdi pasyans. Bri sa a agasan li anpeche mwen lapriyè.<br>"])

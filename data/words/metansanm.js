@@ -1,0 +1,2 @@
+showWord(["","1. Adisyonnen, rasanble. Si nou vle achte kay la se pou nou mete lajan nou ansanm. 2. Antann. Si nou pa met ansanm, peyi a pap janm ranje. 3. Abiye rad youn ak lòt. Mwen achte rad sa a pou nou toulede paske mwen konnen nou met ansanm."
+])

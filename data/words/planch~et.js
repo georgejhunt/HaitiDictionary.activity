@@ -1,0 +1,1 @@
+showWord(["n. ","Tab fè. Li lè pou madanm nan achte yon lòt planchèt.<br>"])

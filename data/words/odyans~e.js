@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ki gon bay odyans. Jak se bon odyansè.  2. Moun ki ap ranse. Mwen pa gentan pou mwen ap pèdi ak odyansè.<br>"])

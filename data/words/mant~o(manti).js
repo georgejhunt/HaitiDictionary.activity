@@ -1,0 +1,1 @@
+showWord(["v. "," ki pa di laverite. Jak mantò si li di ou li te vini isi a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","1. Abreviyasyon pou Agenyen@. 2. Benefis.<br>"])

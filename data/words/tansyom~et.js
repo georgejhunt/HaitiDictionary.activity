@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti pou mezire tansyon yon moun. Tansyomèt la endike tansyon mwen wo jodi a.<br>"])

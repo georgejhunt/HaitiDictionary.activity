@@ -1,0 +1,1 @@
+showWord(["n.","Poud gri ki rete lè yon bagay fin boule. Gen yon pil sann ki rete kote nou sot boule fèy yo.<br>"])

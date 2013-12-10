@@ -1,0 +1,2 @@
+showWord(["n.","1. Lè. Mwen pa janm gen tan pou mwen pèdi, si ou gen yon bagay ou ap di m, di mwen li vit. 2. Tanperati, movetan. Tan an mare la a, li sanble li pral fè yon gwo siklòn, te mwen antre lakay mwen byen vit."
+])

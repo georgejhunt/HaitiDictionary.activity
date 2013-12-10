@@ -1,0 +1,1 @@
+showWord(["n. ","Kote yon moun al depoze yon bagay ki gen valè kòm garanti pou yo ka prete l lajan. Gen mezondafè ki bay gwo ponya.<br>"])

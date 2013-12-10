@@ -1,0 +1,2 @@
+showWord(["np.","Moun ki te ekri deklarasyon endepandans peyi Ayiti. Bwawon te di konsa nou dwe ekri endependans la sou po yon blan epi nou ta sèvi ak san blan sa a kòm lank, ak yon bayonèt kòm plim."
+])

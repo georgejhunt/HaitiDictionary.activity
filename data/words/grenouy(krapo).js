@@ -1,0 +1,2 @@
+showWord(["n. "," Bèt ki gen po lis, batrasyen. Li devlope pa etap, yon etap lav kote li devlope kè ak najwa nan dlo (akwatik) ak yon etap adilt (teryen) kote li vin gen pat epi najwa yo tounen poumon. Gade yon grenouy."
+])

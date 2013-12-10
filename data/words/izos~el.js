@@ -1,0 +1,1 @@
+showWord(["","ki gen de kote ki egal. Triyang izosèl.<br>"])

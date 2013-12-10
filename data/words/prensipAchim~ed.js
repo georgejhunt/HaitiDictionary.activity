@@ -1,0 +1,1 @@
+showWord(["","Yon kò ki nan dlo deplase yon valè dlo ki peze menm pwa ak pwa kò a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Machin ki mezire mouvman ak fonksyon kè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","1. Branch nan lame ki siveye lanmè. Mesye gadkòt yo ap pase kounye a.<br>"])

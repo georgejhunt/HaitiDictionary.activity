@@ -1,0 +1,2 @@
+showWord(["v.","Reflechi, panse, fè tèt ou travay. Sa ou genyen ou ap kalkile konsa a, ou sanble yon moun ki gen lapenn anpil. Sispann kalkile tande, sinon tout cheve nan tèt ou va vin tou blan. 2. Rezout pwoblèm matematik."
+])

@@ -1,0 +1,1 @@
+showWord(["a. ","Kote ki palòtbò dwat la. a gòch a dwat.<br>"])

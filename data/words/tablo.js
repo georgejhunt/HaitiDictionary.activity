@@ -1,0 +1,2 @@
+showWord(["n.","1. Ankadreman plat ki fèt pou ou ekri sou li ak lakre. Mwen sot ekri yon dikte sou tablo a. 2. Penti. Tablo sa a bèl anpil, ou wè se yon gwo atis ki fè li. 3. Peyisaj, vi. Gade yon tablo devan je-m la a, dat mwen pa wè yon bèl lanmè ak yon bèl plaj konsa, se Ayiti vre pou mwen ta wè sa."
+])

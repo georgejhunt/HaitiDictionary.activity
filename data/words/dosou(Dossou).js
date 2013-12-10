@@ -1,0 +1,1 @@
+showWord(["n. "," Pitit ki vin apre yon pòte jimo.<br>"])

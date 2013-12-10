@@ -1,0 +1,1 @@
+showWord(["n. ","tit ki bay moun onè. 2. nivo pèfeksyon.<br>"])

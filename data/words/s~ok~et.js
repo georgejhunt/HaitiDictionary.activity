@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pyès ki vise yon anpoul. Gade pou wè si sòkèt la byen vise nan anpoul la.  2. Chosèt. Timoun yo mete bèl sòkèy yo dimanch maten pou yo ale legliz.<br>"])

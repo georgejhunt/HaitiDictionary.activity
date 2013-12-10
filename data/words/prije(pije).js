@@ -1,0 +1,1 @@
+showWord(["v. "," Peze pou wete ji. Yo prije tout zorany yo.<br>"])

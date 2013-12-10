@@ -1,0 +1,1 @@
+showWord(["a. ","San dan. bouch fobop.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","piblikasyon ebdo ki parèt chak samdi. Li te jon revi ki te kritike gouvènman Divalye epi yo te atake plizyè nan jounalis li yo pou sa. Pami jounalis yo, te gen... Dieudonne Fardin, Jean-Claude Fignolé, Michel Soukar, Rene Philoctete, Pierre Antoine, Gasner Raymond, Jean Robert Herard, Dany Laferriere, Carl Henry Guiteau, Pierre Clitandre."
+])

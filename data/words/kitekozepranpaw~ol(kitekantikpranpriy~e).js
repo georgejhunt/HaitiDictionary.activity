@@ -1,0 +1,1 @@
+showWord(["v fr.","Annou chanje koze. Kite koze pran pawòl; apa mwen tande ou pral marye?<br>"])

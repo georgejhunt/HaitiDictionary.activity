@@ -1,0 +1,2 @@
+showWord(["","pè Lebren se Klod Lebren, (Claude Lebrun) ki te mèt yon magazen ki vann kawotchou machin. Li te konn fè reklam nan televizyon pou kawotchou. Non msye te vin sèvi pou nonmen yon siplis. 2. yon siplis terib lè yo mete yon kawoutchou nan kou yon lennmi epi yo mete dife nan kawoutchou a. "
+])

@@ -1,0 +1,2 @@
+showWord(["n. ","Eleman chimik ki nan tout ògànis vivan. Senbòl li se C, ou jwenn li nan chabon, nan flanm dife eltr. Kò yon moun gen kabòn tou patou, si tout kabòn sa yo te reyini yo ansanm tap gen ase po fè 9,000 (nèf mil) min kreyon."
+])

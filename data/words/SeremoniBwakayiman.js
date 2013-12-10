@@ -1,0 +1,2 @@
+showWord(["","Seremoni kote Afriken nan Sendomeng yo te chwazi lanmò pase pou yo te rete nan kondisyon sa yo te ye a. Sa te fèt yon jou 14 out 1791, nan Laplèndinò. Seremoni sa a konsidere tankou se kòmansman revolisyon esklav yo."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","plant jaden bò kay yo kiltive pou yon seri gwo fui li bay. Yo sèvi ak joumou nan resèt pou fè soup.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","1. Dans nan relijyon vodou pou sipliye, pou mande yon bagay. Nan dans sa a, moun ki ap danse a koube sou devan louvri de bra l (osinon poze bra l sou jenou li) epi woule zèpòl li ak rèl do l. 2. Estil dans fòlklò. Mwen pi renmen danse yanvalou pase kontredans."
+])

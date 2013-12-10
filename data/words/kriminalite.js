@@ -1,0 +1,1 @@
+showWord(["n. ","Kantite zak kriminèl ki rive pandan yon tan defini.<br>"])

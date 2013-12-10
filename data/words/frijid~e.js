@@ -1,0 +1,1 @@
+showWord(["n. ","Aparèy pou konsève manje frèt. Mwen pral achte yon frijidè. <br>"])

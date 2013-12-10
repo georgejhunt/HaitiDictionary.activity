@@ -1,0 +1,1 @@
+showWord(["a. ","1. Gate. Mango sa yo pouri. 2. Santi. La a gen yon odè pouri.<br>"])

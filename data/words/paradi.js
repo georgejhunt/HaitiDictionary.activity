@@ -1,0 +1,2 @@
+showWord(["n.","1. Syèl. Dapre relijyon katolik, kote moun ki pa fè peche yo ale lè yo mouri. Yo di gen anpil zanj nan paradi, ou kwè se vre? 2. Kote ki agreyab pou moun pase yon moman. Mwen renmen vin sou laplas sa a, li bèl epi fè bon tankou se nan paradi ou ye."
+])

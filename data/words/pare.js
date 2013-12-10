@@ -1,0 +1,2 @@
+showWord(["v. ","1. Pre, prepare, fè tout sa ki te pou fèt. Li pare pou li soti. 2. Kuit. Manje pare. 3. Ap tann pou atake. Ti vagabon yo te pare pou yo te vòlè bous mwen. 4. Eskive. Li pare tout atak yo."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan sistèm zo ki ant zo kalbas tèt ak zo basen. Segman zo ki chita joun sou lò pou fòme kolòn vètebral al (zo rèl do). Zo rèl do a se yon seri vètèb ki kole youn ak lòt ki bay kò a sipò soti nan tèt ak kou ale nan ranch ak kòksis. Vètèb yo kòmanse depi nan kou rive jous nan kòksis. 2. youn nan zo ki nan rèldo a.<br>"])

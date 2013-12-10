@@ -1,0 +1,1 @@
+showWord(["n. ","1. Fwi tropikal. Grenad gen yon pakèt ti grenn si andedan l.  2. Zam ki ka eksploze. Yo sèvi ak grenad nan lagè.<br>"])

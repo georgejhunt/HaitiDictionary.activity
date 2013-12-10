@@ -1,0 +1,1 @@
+showWord(["","1. Yon moun ki rive nan dezièm nivo nan konesans vodou. 2. Moun ki pa pè kenbe dife chabon nan pla men yo. Dapre kwayans vodou moun ki kanzo manyen dife san yo pa boule <br>"])

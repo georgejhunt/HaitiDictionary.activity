@@ -1,0 +1,2 @@
+showWord(["n. ","kondisyon reyèl kote ki pa gen limyè yon kote. 2. Sitiyasyon kote ki gen anpil medyokrite, mechanste, sipèfisyalite ak sotiz. Tout peyi ap soufri akoz yon peryòd tenèb ki gaye nan sosyete a. 3 ABat tenèb@, lè plizyè moun nan plizyè kafou ap frape sou poto elektik an metal pou demontre mekontantman osinon kominike solidarite ak patisipasyon. Vandredi sen, a twazè, yo bat tenèb an Pòtoprens."
+])

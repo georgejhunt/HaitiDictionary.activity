@@ -1,0 +1,1 @@
+showWord(["a. ","san pèdi tan.<br>"])

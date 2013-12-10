@@ -1,0 +1,1 @@
+showWord(["nf","Atak nè. Tifi a gen yon kriz nè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","1. Melanj alkòl ak fèy remèd. Gaston konn prepare zo douvan. 2. Plant ki sèvi pou fè remèd. Pye zo douvan.<br>"])

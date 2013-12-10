@@ -1,0 +1,1 @@
+showWord(["n fr. "," Viris ki bay maladi sida. Tout moun te dwe viv yon jan pou yo pa enfekte ak viris sida a.<br>"])

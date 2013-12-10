@@ -1,0 +1,1 @@
+showWord(["n. ","Balanse sou chèz dodin.<br>"])

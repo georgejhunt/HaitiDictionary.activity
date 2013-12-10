@@ -1,0 +1,1 @@
+showWord(["n. "," Vyann kochon ki tanpe nan epis ak sèl pandan kèk tan epi ki sèvi pou bay manje gou. Mete soupoudre nan legim nan. 2. Simen. <br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Mezi ki defini gwosè. Epesè mi an se douz pous.<br>"])

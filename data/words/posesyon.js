@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Ki pou ou, ki pa ou, pwopriyete, byen. Kay sa a se posesyon ou li ye.  Jak se yon nonm ki gen yon pakèt posesyon. 2. An posesyon, nan men. Tout papye yo an posesyon notè a. 4. Defile relijye. Gen posesyon jou dimanch ramo."
+])

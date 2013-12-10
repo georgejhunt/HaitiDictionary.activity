@@ -1,0 +1,1 @@
+showWord(["adv fr.","Seryezman. Terèz renmen Jera toutbon.<br>"])

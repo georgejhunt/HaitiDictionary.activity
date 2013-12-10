@@ -1,0 +1,1 @@
+showWord(["n. ","1. Moun ki ap flannen. Te gen anpil flannè sou pak la.  2. Jennjan ki renmen ranse. Pòl se yon flannè ki rete nan katye lakay mwen an.<br>"])

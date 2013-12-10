@@ -1,0 +1,1 @@
+showWord(["n. ","Metòd ak mwayen pou detèmine nati maladi lè yo egzaminen sentom yo.<br>"])

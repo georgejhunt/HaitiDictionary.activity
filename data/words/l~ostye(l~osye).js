@@ -1,0 +1,1 @@
+showWord(["n. ","Ti moso piti. Ba li yon ti lòstye.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," pati nan liv ki bay difinisyon mo ki nan liv la.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","Ki gen fòm bonbe sou andedan. Lantiy konkav.<br>"])

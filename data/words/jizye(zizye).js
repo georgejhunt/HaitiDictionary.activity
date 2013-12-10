@@ -1,0 +1,1 @@
+showWord(["n. ","sak ki fè pati nan tib dijestif zwazo.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Mezi sifas ki egal dimil mèt kare. Konbyen ekta tè ou genyen nan Laplenn nan?<br>"])

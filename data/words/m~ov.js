@@ -1,0 +1,1 @@
+showWord(["a. "," Ki gen koulè vyolèt. rad mòv.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v. "," Soutire, aksepte sa ki pa akseptab paske ou pa gen kè osnon fèmte pou ou estope sa. Si manman yon timoun sitire li, lè li vin gran li ap desi pou li wè lòt moun pap sitire l menm jan an."
+])

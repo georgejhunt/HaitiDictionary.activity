@@ -1,0 +1,1 @@
+showWord(["n. "," Chit dlo. Gen yon bèl kaskad nan zòn Aken.<br>"])

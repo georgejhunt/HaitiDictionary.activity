@@ -1,0 +1,1 @@
+showWord(["","ale nan kouraj.<br>"])

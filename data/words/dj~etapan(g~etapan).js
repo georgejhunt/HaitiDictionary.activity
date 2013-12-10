@@ -1,0 +1,1 @@
+showWord(["n. ","Pyèj. Se nan yon djètapan yo te pran Alsibyad.<br>"])

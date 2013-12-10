@@ -1,0 +1,1 @@
+showWord(["n.","Pik ki sèvi pou kase glas. Pote pikaglas la vini pou mwen kapab kase glas la.<br>"])

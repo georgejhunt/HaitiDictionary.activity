@@ -1,0 +1,1 @@
+showWord(["n. ","Verifikasyon andedan yon kadav. Topsi a montre se yon pwazon ki tiye Dyedone.<br>"])

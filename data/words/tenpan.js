@@ -1,0 +1,1 @@
+showWord(["n. ","Yon ti vwal ki nan zòrèy ki vibre lè gen son se li transfòme son yo pou sèvo a ka konprann yo. Klwazon ki separe pati sa yo rele kannal tande ekstèn nan ak sa yo rele zòrèy mwayen an. Nèg sa a gen pafouten sou chak bò tenpan l.<br>"])

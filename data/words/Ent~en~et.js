@@ -1,0 +1,1 @@
+showWord(["","rezo konpyoutè ki ka konekte/kominike youn ak lòt.<br>"])

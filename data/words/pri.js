@@ -1,0 +1,2 @@
+showWord(["n.","1. Sa yon bagay koute. Ou pa konn pri rad sa a, se rad mwen achte byen chè tande. 2. Senbòl yo bay yon moun pou konplimante l pou efò l epi jan li reyisi byen. Se Enòk ki gen premye pri nan kous la."
+])

@@ -1,0 +1,2 @@
+showWord(["v. ","1. Pa pran swen. Ou neglije kay la. 2. Bliye. Ou neglije Woje, ou pa menm ba li yon ti kout fil.  3. Iyore, met sou kote. Si yon moun ap pale avèk ou, ou pa kapab neglije l konsa. 4. a. San swen, pa anteni, an delala. Pa mache nan lari a an neglije konsa. 5. n. Dezabiye. Alè sa a ou gen neglije ou sou ou toujou?"
+])

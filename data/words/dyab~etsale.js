@@ -1,0 +1,1 @@
+showWord(["n fr. "," Maladi sik kote moun nan pa bezwen pran ensilin. Madan Kalo fè dyabèt sale depi ane pase.<br>"])

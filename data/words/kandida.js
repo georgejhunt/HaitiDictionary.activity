@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ki mete l sou lis pou yon pozisyon. Wobè se youn nan kandida pou pòs la.  2. Moun ki legalman nonmen pou li antre nan konpetisyon pou yon pòs enpòtan. Kalito te youn nan kandida prezidan nan peyi Ayiti.<br>"])

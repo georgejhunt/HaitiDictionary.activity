@@ -1,0 +1,1 @@
+showWord(["n.","Pati nan bra ki  ant men ak koud.  Se nan avanbra a bibit yo ye.Pati nan bra ki  ant men ak koud.  Se nan avanbra a bibit yo ye.Pati nan bra ki  ant men ak koud.  Se nan avanbra a bibit yo ye.Pati nan bra ki  ant men ak koud.  Se nan avanbra a bibit yo ye.Pati nan bra ki  ant men ak koud.  Se nan avanbra a bibit yo ye.<br>"])

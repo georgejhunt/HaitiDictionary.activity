@@ -1,0 +1,1 @@
+showWord(["np. ","Peyi nan kontinan Afrik ki bay sou lamè Mediterane. Lejip se yon ansyen kilti ki gen depase 4500 ane anvan Lekris. Langletè te vin okipe Lejip ant 1882 rive 1922. Lejip gen 51 milyon mou sou yon teritwa yon milyon kilomèt kare. Kapital li se Lekè (Le Caire).<br>"])

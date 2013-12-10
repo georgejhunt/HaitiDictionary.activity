@@ -1,0 +1,1 @@
+showWord(["n. "," Idantifikasyon sèvis imigrasyon bay yon moun ki bezwen pati ale lòtbò. Janklod al fè paspò l .<br>"])

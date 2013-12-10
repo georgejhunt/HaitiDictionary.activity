@@ -1,0 +1,1 @@
+showWord(["n. ","Kay ki fin kraze.<br>"])

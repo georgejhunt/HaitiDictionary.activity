@@ -1,0 +1,1 @@
+showWord(["n. "," Mechanste. Pa trete timoun ak malonnèkte.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Egzèsis moun fè pou yo kapab gen bon sikilasyon san osnon pou yo kapab pèdi pwa. Kote moun al fè jimnastik la yo konn rele l jim.<br>"])

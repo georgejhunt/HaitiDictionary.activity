@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki alatèt administrasyon yon inivèsite.<br>"])

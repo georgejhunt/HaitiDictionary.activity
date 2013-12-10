@@ -1,0 +1,1 @@
+showWord(["n. "," Zwazo ki renmen fè twou nan pyebwa. Plen sapantye bò isi a.<br>"])

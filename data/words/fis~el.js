@@ -1,0 +1,1 @@
+showWord(["n. "," Kòd fen men ki solid. Mare bwat la ak yon fisèl.<br>"])

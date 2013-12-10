@@ -1,0 +1,1 @@
+showWord(["a. ","ki soti nan yon vòlkan. Ki gen relasyon ak vòlkan.<br>"])

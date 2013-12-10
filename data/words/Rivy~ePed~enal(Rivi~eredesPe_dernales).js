@@ -1,0 +1,1 @@
+showWord(["","Rivyè ki sou fwontyè Ayiti ak Dominikani. Li devèse nan Lanmè Antiy yo.<br>"])

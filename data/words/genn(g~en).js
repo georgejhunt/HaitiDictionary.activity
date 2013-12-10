@@ -1,0 +1,1 @@
+showWord(["","Rad ki pran fòm kò moun ki mete li pou sipòte miskilati li. Gen fi ki met genn chak jou.<br>"])

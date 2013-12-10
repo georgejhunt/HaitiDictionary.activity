@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Ki gade règ konduit nan yon sosyete. Moun sa yo gen moral. 2. Pati nan filozofi. Moral se syans lwa natirèl, lòd ideyal lavi a.  3. Onèt, jis. Jak se yon nonm ki gen moral, li pap fè tout bagay. 4. Dispozisyon ki fè moun pa pè danje. Malad la gen bon moral. 5. a. Ki respekte lwa epi ki suiv bon konduit. Konduit moral."
+])

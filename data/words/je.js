@@ -1,0 +1,2 @@
+showWord(["n. ","1. plizyè bagay ki mache ansanm. Yon je vè se plizyè vè ki mache ansanm, ki gen menm desen, menm koulè. 2. Zye, Pati nan kò moun ki pèmèt li wè. Sa je pa wè kè pa tounen. Se ak de grenn je-m mwen te wè batay la. "
+])

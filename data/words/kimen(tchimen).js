@@ -1,0 +1,1 @@
+showWord(["v. "," Fè kim. Bouch madanm nan kimen lè li endispoze a.<br>"])

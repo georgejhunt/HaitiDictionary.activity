@@ -1,0 +1,1 @@
+showWord(["n. ","aparèy pou seche rad osinon rekòt osinon cheve.<br>"])

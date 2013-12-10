@@ -1,0 +1,1 @@
+showWord(["n. ","1. Tout moun. Lèzòm dwe repanti anvan jou jijman an rive. 2. Tout gason. Lèzòm egoyis.<br>"])

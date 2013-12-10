@@ -1,0 +1,2 @@
+showWord(["","1. Pati nan yon fraksyon ki nan denominatè a. Nan 2/5, 5 se divizè a.  2.  Moun ki ap divize. Ou pa rann ou kont se Kawòl ki divizè a nan sitiyasyon an? 3. Moun osnon bagay ki fè separasyon, nan manifakti. Pase pat la nan divizè pou koupe pate yo. Pou ou dekoupe salon an, ou ta ka sèvi ak playwod kòm divizè."
+])

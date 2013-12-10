@@ -1,0 +1,1 @@
+showWord(["v. ","Ankouraje ak anpil ensistans.<br>"])

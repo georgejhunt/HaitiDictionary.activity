@@ -1,0 +1,1 @@
+showWord(["n. ","Plas piblik. Moun yo al sou laplas.<br>"])

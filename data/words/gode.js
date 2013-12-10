@@ -1,0 +1,1 @@
+showWord(["n. ","veso pou moun bwè. Mwen gen yon gode aliminyòm.<br>"])

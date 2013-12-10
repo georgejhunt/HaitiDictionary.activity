@@ -1,0 +1,1 @@
+showWord(["a. "," Ki an metal ki konsène bagay ki fèt ak metal. Chèz metalik.<br>"])

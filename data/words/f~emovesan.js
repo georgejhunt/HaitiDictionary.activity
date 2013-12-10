@@ -1,0 +1,1 @@
+showWord(["v fr.","Fache san kontwòl. Lè mwen fè movesan kè m bat fò.<br>"])

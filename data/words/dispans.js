@@ -1,0 +1,1 @@
+showWord(["n. "," Pèminsyon pou pa fè yon bagay<br>"])

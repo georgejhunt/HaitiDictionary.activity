@@ -1,0 +1,1 @@
+showWord(["v. "," Fè raf ak yon bagay. Yo rafle oto a men pèsonn moun pa genyen l.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","1. non gason. 2. Profèt ebre nan labib. 3. Liv nan labib ki rapòte pwofesi pwofèt Ezekyèl.<br>"])

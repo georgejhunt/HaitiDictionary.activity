@@ -1,0 +1,1 @@
+showWord(["v.","Netwaye ak lang ou. Chat la niche tout kò l. 2. Enstale nich.<br>"])

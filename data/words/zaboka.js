@@ -1,0 +1,1 @@
+showWord(["n. ","1. Zabèlbòk; fwi pye zaboka. Gen moun ki renmen salad zaboka.  2. Pye bwa ki bay fwi zaboka. Pye zaboka sa a ap donnen ane sa a.<br>"])

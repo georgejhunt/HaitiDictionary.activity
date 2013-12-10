@@ -1,0 +1,2 @@
+showWord(["n.","1. Ti dòmi sou chèz, san zatann. Mwen pa te vle deranje ou paske mwen te wè ou te ap fè yon ti kabicha. 2. Dòmi lajounen yon moun al fè nan kabann pou yon tan kout. Mwen ap vini, mwen pral fè yon ti kabicha la a."
+])

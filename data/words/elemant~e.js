@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Senp, debaz. Silòt renmen jan ou fè prezantasyon ou an, ou prezante prensip elemantè sijè a ak anpil klate. 2. Esansyèl, san pèdi tan nan detay. Rapò ou a long anpil, mwen ta pito ou prezante mwen pati elemantè a pito.  3. Ki gen avwa ak kat eleman fòs lanati yo.  Latè, dlo, lè ak dife se fòs elemantè ki endispansab pou lavi nou sou latè a. 4. n. Klas primè ki vini apre klas preparatwa yo nan pwogram lekòl primè. Timoun ki nan elemantè en ak elemantè de poko konn fè rasin kare byen."
+])

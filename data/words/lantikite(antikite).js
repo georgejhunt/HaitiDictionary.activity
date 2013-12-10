@@ -1,0 +1,1 @@
+showWord(["","Tan ki pase lontan. Nan tan lontan<br>"])

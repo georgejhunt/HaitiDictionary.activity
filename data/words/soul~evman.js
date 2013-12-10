@@ -1,0 +1,1 @@
+showWord(["n. ","mouvman revòt jeneral. <br>"])

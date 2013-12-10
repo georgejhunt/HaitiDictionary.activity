@@ -1,0 +1,1 @@
+showWord(["n. ","Ponp ki gaye likid nan lè. Vaporizatè Mwen te gen yon flit pou mwen flite pou tiye pinèz.<br>"])

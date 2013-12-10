@@ -1,0 +1,2 @@
+showWord(["np.","1761-1811. Moun Okay, nan sid Ayiti. Li te fèt 17 Janvye 1761, papa l te blan, manman l te nwa. Li te mouri nan àne 1811. Nan àne 1790, li te alatèt nwa ak milat lib yo. Msye ak Tousen te rive met kolon Angle yo deyò. Angle yo te eseye achte l, yo te ofri li 3 milyon fran men li te refize kòb sa a."
+])

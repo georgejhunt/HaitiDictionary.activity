@@ -1,0 +1,2 @@
+showWord(["n. "," Bwason ki fèt ak lèt, ji kokoye, sik, alkòl epi ak esans. Kremas se tankou yon kòktèl, gen moun ki renmen l ak gato. Kremas mapou se yon resèt kremas ki popilè nan Miyami, yo vann li nan Libreri Mapou."
+])

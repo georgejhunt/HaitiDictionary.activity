@@ -1,0 +1,2 @@
+showWord(["","pyès ki nan konpyoutè ki pèmèt konpyoutè a pase nan fil telefòn pou kominike ak lòt konpyoutè. Pou yon konpyoutè ki isit ka kominike ak yon lòt ki ta Ayiti, fò toulede gen modèm epi fò toulede konekte ak liy telefòn."
+])

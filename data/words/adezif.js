@@ -1,0 +1,1 @@
+showWord(["n.","Tep ki sèvi pou kole. Pote adezif sa a prete mwen pou m kole malèt la.<br>"])

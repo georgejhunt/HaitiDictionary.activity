@@ -1,0 +1,1 @@
+showWord(["v.","Retire sou je. Kache kòb la.<br>"])

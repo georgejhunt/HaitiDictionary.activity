@@ -1,0 +1,1 @@
+showWord(["n.","Eskalye anbwa. Zouti an bwa osnon an metal ki gen plizyè etaj pou moun monte anlè. Nechèl sanble ak yon eskalye pòtatif.<br>"])

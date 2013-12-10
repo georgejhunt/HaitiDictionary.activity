@@ -1,0 +1,1 @@
+showWord(["","1. np. Non yo bay moun ki gen nasyonalite peyi Swèd (Laswèd). Kawòl se yon swedwa.  2. a. Ki pou peyi Laswèd. Teritwa swedwa.<br>"])

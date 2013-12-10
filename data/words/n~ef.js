@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Ki poko sèvi, ki fèk achte. Bwòsadan sa a nèf. Oto sa a nèf. 2. Chif ant uit ak dis. Nèf vach ak de towo. 3. n. Nan yon legliz, espas ant lotèl la epi ak kote fidèl yo vin kominye a. Pa gen moun ki chita nan nèf la."
+])

@@ -1,0 +1,1 @@
+showWord(["n.","Deklarasyon oswa pwomès moun fè sou tèt yo oswa sou pitit yo pou yo fè yon bagay. Mwen fè sèman mwen pap janm moute bisiklèt ankò.<br>"])

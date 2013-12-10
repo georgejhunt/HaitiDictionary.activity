@@ -1,0 +1,1 @@
+showWord(["n. ","1. Klasifikasyon nan biyoloji pou tou sa ki vivan. Gen wayom plant gen wayom bèt. 2. Teritwa yon wa. Wa a chita nan wayom li.<br>"])

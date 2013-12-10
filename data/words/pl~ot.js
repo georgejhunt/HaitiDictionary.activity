@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pil. Chyen an fè yon plòt poupou atè a. 2. Fil plòtonnen. Al achte yon plòt fil pou mwen.<br>"])

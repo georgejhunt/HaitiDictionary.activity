@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Akeyi. Moun yo pa byen resevwa Wozita. 2. Gen nan men ou sa yon moun voye ba ou. Nou poko resevwa lèt ou.<br>"])

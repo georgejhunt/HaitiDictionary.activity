@@ -1,0 +1,1 @@
+showWord(["n.","1.  Moun yon manman ak yon papa fè. Jera se pitit Demostèn ak madan Demostèn. Kalo se pitit gason madan Richa. Joslin se pitit fi madan Richa. 2. Sa yon moun ye pou manman l ak papa l. Mwen se pitit madan Bwason.<br>"])

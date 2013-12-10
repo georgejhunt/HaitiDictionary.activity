@@ -1,0 +1,1 @@
+showWord(["n. ","demi vwayèl nan alfabè Kreyòl.<br>"])

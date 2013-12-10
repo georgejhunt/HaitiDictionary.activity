@@ -1,0 +1,2 @@
+showWord(["np. "," 1900-1953 Prezidan ki te enstale an 1946. Msye te gen bonsans reyalize majorite Ayisyen pa t patisipe nan politik peyi a paske yo pat al lekòl epitou akoz diskriminasyon yon ti gwoup moun te peze sou yo. Estime te pwomèt pou sa chanje. Se sou gouvènman l Latibonit devlope. An 1950, msye te vle vin reeli men lame te ba l panzou, voye l annegzil."
+])

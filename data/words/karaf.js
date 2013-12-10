@@ -1,0 +1,1 @@
+showWord(["n. ","Veso an vit (vè) ki gen anba laj epi kou fen. Yon karaf diven.<br>"])

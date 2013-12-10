@@ -1,0 +1,1 @@
+showWord(["n. ","ladrès pou fè tout kalite ekzèsis ak dwèt.<br>"])

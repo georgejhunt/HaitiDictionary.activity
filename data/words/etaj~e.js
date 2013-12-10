@@ -1,0 +1,1 @@
+showWord(["n. "," espas ki òganize youn sou lòt pou pèmèt moun ranje bagay. Nan boutik kay madan Lesko a gen yon etajè ki gen kola sèlman epi gen yon lòt etajè kote ki gen dousmakòs.<br>"])

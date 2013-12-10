@@ -1,0 +1,1 @@
+showWord(["np. ","Pèsonalite nan lejann Ayiti. Men sa Kasayòl te di bèf la...<br>"])

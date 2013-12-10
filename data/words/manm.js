@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pati nan kò pou mache epi kenbe,tankou bra ak janm. Bra yo se manm siperyè, janm yo se manm enferyè. Kou mwen pran sezisman, tout manm mwen yo kraze. 2. Moun ki nan menm pati, menm asosyasyon. Nou tout se manm fanmi Bondye a."
+])

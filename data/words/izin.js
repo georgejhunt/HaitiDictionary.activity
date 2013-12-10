@@ -1,0 +1,1 @@
+showWord(["n. ","kote ki gen anpil machin pou pwodui epi gen anplwaye ki ap fè machin yo mache. Iizin sik Asko.<br>"])

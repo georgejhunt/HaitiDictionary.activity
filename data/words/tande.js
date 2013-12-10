@@ -1,0 +1,2 @@
+showWord(["","1. Pòte atansyon sou sa moun ap di. Si yon moun ap pale avèk ou, fòk ou tande sa li ap di ou a. 2. Sèvi ak zòrèy pou ou kite enfòmasyon antre nan sèvo ou. Pitit la tande men li pa ka pale."
+])

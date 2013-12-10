@@ -1,0 +1,1 @@
+showWord(["n. ","1. Plant ki gen luil esansyel. Jera gen yon pye mant nan lakou li a.  2. Sirèt ki gen gou mant. Timoun yo al achte mant. 3. Esans moun met nan manje dous. Kalin gen esans mant.<br>"])

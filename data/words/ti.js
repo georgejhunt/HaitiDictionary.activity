@@ -1,0 +1,2 @@
+showWord(["a.","1.Piti, ki pa gwo. Gade yon ti pitit.  2. Fason afektye pou ou lonmen yon moun. Ti cheri, ti zanmi. 3. Enpe, pa tout. Jak yon ti jan kras. 4. Ki pap dire lontan, ki kout. Mwen pral fè yon ti koutfil la a.  5. Ki pa ofisyèl, ki san fason, tètatèt antre nou, an konfyans. Annou fè yon ti koze."
+])

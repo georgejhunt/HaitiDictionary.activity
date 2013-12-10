@@ -1,0 +1,1 @@
+showWord(["np.","komin nan awondisman Gwomòn nan depatman Latibonit.<br>"])

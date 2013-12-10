@@ -1,0 +1,1 @@
+showWord(["n. "," Sitiyasyon kote yon moun vin rete tanporèman lakay yon lòt. Kalin fè ladesant kay Kawòl.<br>"])

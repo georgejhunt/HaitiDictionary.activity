@@ -1,0 +1,1 @@
+showWord(["n. ","Zwazo ki rete bò lanmè. Gade yon mwèt!<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","pati nan syans ki etidye jan lespri ak panse moun ògànize ak jan li <br>"])

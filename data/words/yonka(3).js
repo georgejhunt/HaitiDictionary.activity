@@ -1,0 +1,1 @@
+showWord(["n fr. "," Youn nan kat pati yon inite. Yon ka luil.<br>"])

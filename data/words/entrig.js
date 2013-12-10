@@ -1,0 +1,1 @@
+showWord(["n. ","pati nan pyès teyat osinon nan yon woman ki reveye kiryozite. 2. Preparasyon pou fè yon move kou; konplo.<br>"])

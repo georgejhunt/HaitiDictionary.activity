@@ -1,0 +1,2 @@
+showWord(["np. "," Rèn Ayiti soti 1811 rive 1820. Se te madanm Rwa Henri Christophe, li te fè 4 pitit ak li.Marie Louise te fèt 8 me 1778. Li soti nan yon fanmi nwa lib Coidavid. Kòm manman pitit, Marie Louise te sibi anpil. Napoleyon touye premye pitit li lè l te gen 9 lane. Yo touye dènye a sou Bwaye lè l te gen 16 lane. Marie louise D'Haiti mouri nan yon chato fanmi l te genyen nan pise (peyi Itali) ansanm ak 2 pitit fi l."
+])

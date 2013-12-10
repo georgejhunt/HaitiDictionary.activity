@@ -1,0 +1,1 @@
+showWord(["n. ","Kalite twal koton. Koutiryè konn fè doubli rad ak pèkal.<br>"])

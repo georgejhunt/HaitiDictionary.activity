@@ -1,0 +1,1 @@
+showWord(["n. ","Komèsan ki achte danre bon mache epi tann lè pri monte pou li revann.<br>"])

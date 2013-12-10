@@ -1,0 +1,2 @@
+showWord(["n. ","lekòl nivo siperyè ki vin apre lekòl segondè. Inivèsite gen plizyè fakilte; plizyè depatman, plizyè inite rechèch, plizyè laboratwa. Inivèsite fè fòmasyon elèv epitou fè rechèch ki itil kominote (piblik, komèsyal, enstitisyon ak prive) kote li ye a."
+])

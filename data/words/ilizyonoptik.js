@@ -1,0 +1,1 @@
+showWord(["n fr. "," Enpresyon moun genyen li wè yon bagay ki pa vrèman la. Sa ou wè la-a se yon ilizyon optik.<br>"])

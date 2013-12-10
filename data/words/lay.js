@@ -1,0 +1,1 @@
+showWord(["n. ","Epis ki gen odè fò pou met nan manje sale. Lay òganize an plizyè dan ki kole ansanm pou fè yon gous. Po lay.<br>"])

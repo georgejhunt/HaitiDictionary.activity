@@ -1,0 +1,1 @@
+showWord(["n. ","sirèt ki gen mant mous souse pou soulaje gòj.<br>"])

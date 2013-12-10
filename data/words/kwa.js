@@ -1,0 +1,1 @@
+showWord(["n. ","1. Lè de liy osinon de poto kwaze. 2. Kote yo te kloure Jezi nan mòn kalvè.3. Senbòl nan relijyon katolik ki raple lanmò Jezikri.<br>"])

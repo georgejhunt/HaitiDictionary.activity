@@ -1,0 +1,1 @@
+showWord(["n. "," Ezitasyon. Mwen gen dout mwen sou koze sa a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," eskandal. Franswa se moun ki pa renmen lòbèy menm.<br>"])

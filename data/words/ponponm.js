@@ -1,0 +1,1 @@
+showWord(["","fè pwomenad sou plas piblik pou atire atansyon lèpasan. Fè chèlbè. Atitid Apa m bi bèl@.<br>"])

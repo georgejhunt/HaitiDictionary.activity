@@ -1,0 +1,1 @@
+showWord(["adv.","Ki gen kòn. Bèt akòn.Ki gen kòn. Bèt akòn.Ki gen kòn. Bèt akòn.Ki gen kòn. Bèt akòn.Ki gen kòn. Bèt akòn.Ki gen kòn. Bèt akòn.Ki gen kòn. Bèt akòn.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," 1. refleksyon. Ou sanble yon moun ki nan yon kalkil serye la a. 2. matematik. Mwen pa janm te fò nan kalkil.<br>"])

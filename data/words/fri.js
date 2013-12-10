@@ -1,0 +1,1 @@
+showWord(["v. ","1. Kuit nan luil cho. Mwen ta manje yon ti pwason fri. <br>"])

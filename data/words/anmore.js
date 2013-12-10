@@ -1,0 +1,2 @@
+showWord(["n.","1.  moun ki damou.  Antwàn se anmore Silvi. 2. Moun ki renmen yon lòt.  Mwen gen yon anmore la a, sanble mwen avè l nou kapab rive marye. 3. Moun ou renmen, moun ki renmen w.  Jozèf se anmore mwen depi ane pase, ane sa a nou pral marye."
+])

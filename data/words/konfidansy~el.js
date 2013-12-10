@@ -1,0 +1,1 @@
+showWord(["a. ","Ki fèt pou rete an sekrè.<br>"])

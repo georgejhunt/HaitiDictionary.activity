@@ -1,0 +1,2 @@
+showWord(["np. "," Gouvènè Latòti an 1665. Li te kontwole boukànye yo kare bare epi li te òganize plizyè ti vil. Li te voye chache fi Anfrans pou mesye yo. Apati 1675, ane msye mouri a, boukànye yo vin tounen plantè. Antretan, pati lwès peyi a vin tounen sou dominasyon Lafrans ki fè Latòti vin tonbe nan men Lafrans tou."
+])

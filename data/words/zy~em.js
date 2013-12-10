@@ -1,0 +1,1 @@
+showWord(["","sifiks ki ale apre yon chif pou montre pozizyon. Dizyèm se pozisyon nimewo 10."])

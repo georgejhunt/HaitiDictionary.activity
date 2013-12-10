@@ -1,0 +1,1 @@
+showWord(["n. ","Dekorasyon pou zòrèy. Fi sa a gen yon bèl zanno.<br>"])

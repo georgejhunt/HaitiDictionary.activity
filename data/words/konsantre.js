@@ -1,0 +1,1 @@
+showWord(["v.","Fikse atansyon. Konsantre ou sou sa ou ap fè a tande.<br>"])

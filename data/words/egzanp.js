@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Modèl. Li ta bon si ou ta suiv bon egzanp manman ou ak papa ou ba ou yo.  2. Kòm. Tout mo ki gen son ò ekri ak yon aksan grav sou o a, egzanp: vòlò.  3. Echantiyon. Mwen voye yon egzanp ba ou pou ou ka wè."
+])

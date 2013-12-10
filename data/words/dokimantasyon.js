@@ -1,0 +1,1 @@
+showWord(["n. ","dokiman pou apiye yon etid; prèv pou konfime yon agiman.<br>"])

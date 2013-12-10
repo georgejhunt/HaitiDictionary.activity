@@ -1,0 +1,1 @@
+showWord(["n. ","eleman chimik ki gen senbòl Zn. Yo sèvi ak li pou fè pil ak batri epitou nan medikaman ak vitamin. <br>"])

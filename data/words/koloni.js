@@ -1,0 +1,1 @@
+showWord(["n. ","1.  Kote ki sou dominasyon kolon. Ayiti te koloni peyi Lafrans lontan. 2. Pakèt. Gen yon koloni moun ki fèk rantre.<br>"])

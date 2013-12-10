@@ -1,0 +1,1 @@
+showWord(["","Kote kouti a pwòp. Pa andedan yon rad se lanvè l men sou deyò l se landwat li.<br>"])

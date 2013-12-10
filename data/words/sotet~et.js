@@ -1,0 +1,2 @@
+showWord(["v fr.","1. Pase devan, pase sou moun. Moun yo sote tèt mwen kareman, kifè mwen pa konte? 2. Koupe tèt. Nèg la sote tèt twa inosan.  3. Menas. Rale kò ou la a, anvan sanginè sa yo sote tèt ou."
+])

@@ -1,0 +1,1 @@
+showWord(["v. ","ale flannen nan vwazinaj.<br>"])

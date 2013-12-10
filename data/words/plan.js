@@ -1,0 +1,2 @@
+showWord(["n.","1. Detay yon pwogram ki planifye anvan yo egzekite l. Anvan ou kòmanse fè yon travay se yon bon abitid pou ou genyen yon plan. 2. Pwojè. Mwen gen yon plan la a, men mwen pap di pèsonn moun anyen joustan lide m di mwen. 3. Manti, konplo. Ou genlè sou plan la a, mwen pa konn si pou mwen pran ou oserye."
+])

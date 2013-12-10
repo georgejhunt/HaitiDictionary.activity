@@ -1,0 +1,2 @@
+showWord(["n. ","Reyaksyon kò yon moun ki fè tanperati kò yon moun vin pi wo (depase 38 degre santigrad akòz yon enfeksyon osinon yon maladi. Pitit la sanble li gen lafyèv. 2. Eksitasyon, kontantman ki depase nivo nòmal, chalè, pasyon, dife."
+])

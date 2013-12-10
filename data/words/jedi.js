@@ -1,0 +1,1 @@
+showWord(["n. "," Katriyèm jou nan semenn nan. Jou ki vini apre mèkredi. Jedi maten mwen pral kay doktè.<br>"])

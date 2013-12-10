@@ -1,0 +1,1 @@
+showWord(["entèj. ","defèt tout ran!. Sòlda wonpe!<br>"])

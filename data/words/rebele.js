@@ -1,0 +1,1 @@
+showWord(["v. ","Reyaji kont. Anplwaye yo rebele yo kont chanjman nan orè travay la.<br>"])

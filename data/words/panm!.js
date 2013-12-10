@@ -1,0 +1,1 @@
+showWord(["ent. "," Onomatope ki endike bwi yon evenman sanzatann. Yo mete Jera atè nan travay li a Panm! epi madanm li tou kite l.<br>"])

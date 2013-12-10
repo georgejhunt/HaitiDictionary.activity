@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki ap poze kesyon.<br>"])

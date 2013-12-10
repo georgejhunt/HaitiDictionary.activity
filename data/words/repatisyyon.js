@@ -1,0 +1,2 @@
+showWord(["","separasyon, distribisyon ekitab."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Papye graj pou netwaye bwa osinon fè. Bòs la sèvi ak papye sable fen pou mèb yo.  2. v. Fwote papye sable sou mèb osnon sou fè. Nou pral sable tab la jodi a.<br>"])

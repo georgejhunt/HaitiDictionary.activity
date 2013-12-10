@@ -1,0 +1,1 @@
+showWord(["akw.","Gwoup inisyativ Anseyan Lise.<br>"])

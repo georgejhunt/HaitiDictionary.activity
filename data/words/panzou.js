@@ -1,0 +1,2 @@
+showWord(["n.","1. Tap ki jete sa ki nan mwen yon moun pafòs. Ou fè tout manje a tonbe, poukisa ou ban mwen panzou sa a? 2. Koudeta. Yon koudeta se yon panzou paske yon pati osnon yon moun pran pouvwa a nan men yon moun ki te genyen l nan men l legalman. Anjeneral, se militè ki bay panzou."
+])

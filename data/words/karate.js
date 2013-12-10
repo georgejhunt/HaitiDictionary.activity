@@ -1,0 +1,1 @@
+showWord(["n. "," Espò ki mande volonte epi anpil kontwòl fizik ak mantal. Fi kou gason ka aprann karate.<br>"])

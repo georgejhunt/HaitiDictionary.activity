@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Tiye yon bèt kòm sakrifis pou bay Bondye osnon yon sen glwa. Yo sakrifye de poul ak yon kochon nan seremoni yè swa a.  2. Fatige kò, pase mizè, viv lavi di, trakase kò ak anpil devosyon pou yon kòz. Manman timoun sa a yo sakrifye tèt li pou yo."
+])

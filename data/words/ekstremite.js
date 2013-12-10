@@ -1,0 +1,1 @@
+showWord(["n. ","mezi ki pi fò.<br>"])

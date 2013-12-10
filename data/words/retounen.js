@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Tounen kote ou te sòti a. Li retounen vin chèche malèt li yo. 2. Fè ankò. Li retounen di Maryàn menm koze a.<br>"])

@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Ki pa gen valè, ki pa gen enpòtans. Sa ou di m nan se yon pwoblèm ensiyifyan nou ka rezoud pou ou lamenm.  2. Bànal, piti, kreten. Ti nonm nan tou ensiyifyan epi li parèt sou Silòt ak yon awogans."
+])

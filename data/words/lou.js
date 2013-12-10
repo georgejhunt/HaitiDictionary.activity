@@ -1,0 +1,2 @@
+showWord(["","1. a. Ki peze anpil. Lè yon bagay lou, li pa fasil pou leve. Sachè pwovizyon an twò lou pou nou pote l. 2. n. Bèt. Lou se yon bèt sovaj ki nan menm fanmi ak chyen men li konn manje moun."
+])

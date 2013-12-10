@@ -1,0 +1,1 @@
+showWord(["n. "," Maladi enflamasyon sinis yo. Doktè preskri Richa yon antibyotik pou sinizit li a.<br>"])

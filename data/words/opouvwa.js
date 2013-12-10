@@ -1,0 +1,1 @@
+showWord(["","Ki gen responsabilite ak otorite pou li jere. Gen prezidan ki konn fè abi lè yo opouvwa.<br>"])

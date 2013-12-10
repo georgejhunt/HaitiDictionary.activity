@@ -1,0 +1,1 @@
+showWord(["n.","Domèn nan syans biyoloji ki etidye devlopman bèt ak plant nan peryòd depi fètilizasyon (de ze kontre) jiska lè pitit la kale.<br>"])

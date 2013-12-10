@@ -1,0 +1,1 @@
+showWord(["np. "," Prezidan Ayiti depi 16 desanm 1888 rive jous 22 out 1989. Msye te toujou nan hingjang ak jeneral Flòvil Ipolit.<br>"])

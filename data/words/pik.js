@@ -1,0 +1,1 @@
+showWord(["n.","Zouti ki tankou yon bout fè pwenti epi ki long ki gen yon manch anbwa. Gen pikaglas epi gen pikwa men pik la diferan.<br>"])

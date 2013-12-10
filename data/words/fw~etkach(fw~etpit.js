@@ -1,0 +1,1 @@
+showWord(["n fr. "," 1 Fwèt pou mennen bèf. Kote fwèt kach mwen an.  2. Degizman kànaval. Mwen bezwen yon fwèt kach pou mwen al nan kanaval.<br>"])

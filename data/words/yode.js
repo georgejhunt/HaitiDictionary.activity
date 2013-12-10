@@ -1,0 +1,1 @@
+showWord(["v. ","mete yòd nan yon bagay.<br>"])

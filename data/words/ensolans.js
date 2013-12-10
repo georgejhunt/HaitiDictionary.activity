@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Frekansite. Sa se yon ensolans sa pou yon moun konprann li ap vin di mwen kijan pou mwen jere lakay mwen.  2. Afwon, mankdega. Pitit sa a sitan maledve, li andwa fè ensolans avèk ou lè lide l di l."
+])

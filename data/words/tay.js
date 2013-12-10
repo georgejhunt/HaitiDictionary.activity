@@ -1,0 +1,1 @@
+showWord(["n.","1. Zouti pou file pwent kreyon. Prete mwen tay kreyon ou lan. 2. Senti. Ala moun gen tay fin papa.<br>"])

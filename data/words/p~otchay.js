@@ -1,0 +1,1 @@
+showWord(["n. ","Pati padèyè nan yon machin kote yo ka mete chay. Mete malèt la nan pòtchay la pou mwen tanpri.<br>"])

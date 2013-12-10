@@ -1,0 +1,1 @@
+showWord(["n. "," Zo ki nan pati zèpòl. Inès kase klavikil li nan fè espò.<br>"])

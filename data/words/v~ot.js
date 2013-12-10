@@ -1,0 +1,1 @@
+showWord(["","aktivite pou jwen opinyon yon gwoup sou yon sijè. Eleksyon. Rezilta eleksyon.<br>"])

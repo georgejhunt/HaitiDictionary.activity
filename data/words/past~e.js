@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Yon moun ki gen responsablite pou dirije legliz ak fidèl yo; gid espirityèl, gid kominotè, chèf kongregasyon. 2. Moun ki gen konesans teyolojik pou li gide yon gwoup pwotestan. Legliz pastè Jan an gen anpil fidèl."
+])

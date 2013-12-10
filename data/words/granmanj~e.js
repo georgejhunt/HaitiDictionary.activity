@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki abize lajan leta.<br>"])

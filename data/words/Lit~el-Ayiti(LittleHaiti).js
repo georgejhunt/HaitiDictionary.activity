@@ -1,0 +1,2 @@
+showWord(["","Katye nan Miyami kote gen anpil Ayisyen ak anpil komès, legliz Ayisyen. Nan lekòl piblik yo gen anpil elèv Ayisyen tou.Lekòl Tousen Louvèti ak Lekòl Edison se de nan lekòl ki pi koni yo."
+])

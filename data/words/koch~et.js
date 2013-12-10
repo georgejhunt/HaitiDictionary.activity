@@ -1,0 +1,1 @@
+showWord(["n. "," manch an metal ki kenbe yon pòt pou li pa louvri. Mwen paka antre si pa gen yon moun ki pou vin wete kochèt la nan bayè a.<br>"])

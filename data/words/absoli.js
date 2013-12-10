@@ -1,0 +1,2 @@
+showWord(["n.","ki pa gen restriksyon ni rezèv. 2. Ki pa fèt dapre lalwa men ki fèt dapre fòs pouvwa ki fè aksyon an; otoritè, entranzijan, ki pa sipòte kontradiksyon. 3. Ki pa chanje, ni lè li pozitif, ni lè li ta negatif. Valè absoli."
+])

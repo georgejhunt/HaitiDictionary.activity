@@ -1,0 +1,1 @@
+showWord(["np.","Prezidan Ayiti depi 1896 jiska 1902. Gouvènman l la se kenbe tèt ak gouvènman Alman ki t ap fè Ayiti reklamasyon.<br>"])

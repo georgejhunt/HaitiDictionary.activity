@@ -1,0 +1,1 @@
+showWord(["n. ","Sosyete sekrè nan relijyon Vodou. Sanble li nan chanprèl.<br>"])

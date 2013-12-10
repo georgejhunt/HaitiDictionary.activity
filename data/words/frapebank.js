@@ -1,0 +1,1 @@
+showWord(["v fr.","Mande. Li frape bank mwen pou de goud.<br>"])

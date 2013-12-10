@@ -1,0 +1,1 @@
+showWord(["adv. "," Ki pa lwen. Kay Jinèt la pre bò isit la.<br>"])

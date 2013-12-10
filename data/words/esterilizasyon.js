@@ -1,0 +1,1 @@
+showWord(["n. ","rezilta lè yo esterilize yon bagay osinon yon bèt.Metòd pou anpeche yon bèt repwodui osinon pou anpeche mikwòb devlope yon kote.<br>"])

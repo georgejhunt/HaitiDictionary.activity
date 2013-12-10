@@ -1,0 +1,1 @@
+showWord(["n. ","1. Manda. Yo voye yon sitasyon bay Wozmon pou li konparèt nan tribinal.<br>"])

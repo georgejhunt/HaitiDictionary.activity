@@ -1,0 +1,1 @@
+showWord(["n. ","Bay moun atansyon ak jantiyès. Madan Pòl toujou gen prevnans pou tout moun.<br>"])

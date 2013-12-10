@@ -1,0 +1,1 @@
+showWord(["n. ","sakreman enpòtan nan legliz katolik ki reprezante sakrifis Jezikris.<br>"])

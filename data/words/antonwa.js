@@ -1,0 +1,1 @@
+showWord(["n.","Tib ki gen yon fòm kòn. Lè ou sèvi ak antonwa pou vide yon likid ou pa jete anyen.Tib ki gen yon fòm kòn. Lè ou sèvi ak antonwa pou vide yon likid ou pa jete anyen.Tib ki gen yon fòm kòn. Lè ou sèvi ak antonwa pou vide yon likid ou pa jete anyen.Tib ki gen yon fòm kòn. Lè ou sèvi ak antonwa pou vide yon likid ou pa jete anyen.<br>"])

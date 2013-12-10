@@ -1,0 +1,1 @@
+showWord(["","mak sigarèt.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","1. fi ki yenyen ki pa gen kran. 2. Gason ki pa gen aktivite viril.<br>"])

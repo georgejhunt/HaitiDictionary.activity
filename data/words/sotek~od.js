@@ -1,0 +1,1 @@
+showWord(["v fr.","Jwèt timoun kote yo sote ponpe pandan yon kòd ap pase anba pye yo. Timoun yo renmen sote kòd apre lekòl chak apremidi.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","(Zo koupyon) Dènye vètèb. Gen moun ki renmen koupyon poul.<br>"])

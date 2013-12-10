@@ -1,0 +1,1 @@
+showWord(["n. "," Zegi pwenti ou jwenn nan tij plant tankou woz konsa. Polèt pa renmen al nan jaden an poutèt pou pikan pa pike l.<br>"])

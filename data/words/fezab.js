@@ -1,0 +1,1 @@
+showWord(["a. ","ki ka fèt. Ki posib ak resous ki disponib yo.<br>"])

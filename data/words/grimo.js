@@ -1,0 +1,2 @@
+showWord(["n. ","Moun ki nan ras nwa melange ki koulè klè epi ki gen tèt grenn; pitit yon milat ak yon moun nwa, osnon pitit de milat, osnon pitit yon moun nwa fè ak yon moun blan. Antwàn se yon nèg klè, yon grimo ki rete nan Ri Dipèp la, èske ou konnen l?"
+])

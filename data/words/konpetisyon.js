@@ -1,0 +1,2 @@
+showWord(["n. ","chanpyona, koup, match, konkou. Sitiyasyon lè plizyè moun ap fè efò pou youn pote premye lo. 2. Nan syans anvironnman se lè plizyè ògànis ap lite pou pwofite sa ki genyen nan lanati kote yo ap viv la."
+])

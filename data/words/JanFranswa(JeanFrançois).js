@@ -1,0 +1,2 @@
+showWord(["np. "," Youn nan moun ki te alatèt rebelyon esklav yo nan ane 1791 la. Jan Franswa te ansanm ak Jàno, Byasou epi Boukmann. Se apatide rebelyon sa a ki te mennen anpil lanmò, masak epi ak dife toupatou."
+])

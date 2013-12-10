@@ -1,0 +1,1 @@
+showWord(["v. "," Pran nouriti. Yo nouri timoun yo ak bon jan fèy.<br>"])

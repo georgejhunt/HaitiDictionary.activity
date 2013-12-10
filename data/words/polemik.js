@@ -1,0 +1,1 @@
+showWord(["n. ","Atitid yon moun ki pran opozisyon aktivman kont yon tandans. Fanatik Siko ak Nemou te toujou nan polemik.<br>"])

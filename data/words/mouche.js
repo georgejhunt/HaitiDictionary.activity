@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Non yo bay gason. Mouche a di li poko ap vini. 2. Non pa si tèlman janti pou gason. Mouche sa a mwen pa renmen binèt li menm.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v.","Deplase kite yon kote pou ale nan yon lòt. Andre soti li ale legliz. Lè soti kole ak yon lòt vèb, li endike yon aksyon ki fèk pase. Mwen sot pase devan legliz la mwen wè pè a ap fè lamès."
+])

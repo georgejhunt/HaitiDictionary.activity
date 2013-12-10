@@ -1,0 +1,1 @@
+showWord(["v. "," Mete kochèt. Mwen kochte bayè a anvan mwen al dòmi men kounye a mwen jwenn li dekochte.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," Mete kostim. Jak te byen kostime maten an.<br>"])

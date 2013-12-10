@@ -1,0 +1,1 @@
+showWord(["n. ","Siwo kann ki rete apre sik fin kristalize. Gen moun se ak melas yo sikre kafe.<br>"])

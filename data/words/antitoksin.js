@@ -1,0 +1,1 @@
+showWord(["n.","Yon pwodui kò a fè pou elimine pwazon (toksin) ki vin nan kò a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","1. n. Fèt pou selebre senkant ane yon ògànizasyon osinon yon relasyon.<br>"])

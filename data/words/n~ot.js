@@ -1,0 +1,2 @@
+showWord(["n. ","1. Nan mizik, son do re mi fa sòl. Ki nòt mizik ki vini apre re?  2. Akò, nan mizik. Nòt sa yo ap ba ou la majè. 3. Total sa ou dwe, nan restoran. Sèvè a pote nòt la tousuit. 4. Detay, enfòmasyon. Nou tout pran nòt. 5. Fè atansyon. Pran nòt pou nou pa bliye. "
+])

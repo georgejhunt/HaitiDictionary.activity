@@ -1,0 +1,2 @@
+showWord(["n. ","Pwodui nan plant ki bay koulè vèt. Pwodui vèt (pigman vèt) nan plant ki jwe yon wol enpotan nan fotosentèz, li trape limyè solèy, konsan enèji limyè ka transfòme pou tounen enèji chimik. Yo sèvi ak klowofil tou pou mete koulè nan medikaman ak nan manje."
+])

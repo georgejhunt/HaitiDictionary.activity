@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Ki gen koulè lò. Mwen renmen valiz koulè dore sa a. 2. Chofe pou gen koulè kramel. Lè ou fin dore vyann nan ou mèt kite l sou dife a pou senk minit ankò. 3. Glase, dekore. Mwen pa renmen jan ou dore gato a. 4. a. Dekri koulè moun klè ki gen cheve wouj. Gen yon chabin dore byen anfòm ki rete nan kafou a."
+])

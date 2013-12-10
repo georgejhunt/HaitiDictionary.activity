@@ -1,0 +1,2 @@
+showWord(["n. ","Jan yo ekri yon mo tout moun konsidere kòm kòrèk, epitou ki respekte règ gramè ak lòt konvansyon ki etabli. 2. Sistèm ki defini ki senbòl ki dwe sèvi pou ekri chak son ki nan lang nan. Gendelè gen varyasyon toudepan nan ki peryòd yon otè te ekri. Òtograf lang Kreyòl Ayisyen defini nan yon dekrè Depatman Edikasyon Nasyonal Ayiti ki parèt nan jounal ""Le Nouveau Monde"", jedi 6 mas 1980."
+])

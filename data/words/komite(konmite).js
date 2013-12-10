@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun pou reprezante yon gwoup pou rezoud osinon etidye yon pwoblèm. Komite dakèy.  2. Detwa moun ki gen responsabilite travay sou yon dosye. Aleksi nan komite ki ap revize dosye a.<br>"])

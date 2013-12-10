@@ -1,0 +1,1 @@
+showWord(["n. ","Aktivite pwòpte pou kenbe moun an sante. Tout moun te dwe suiv bon prensip lijyèn.<br>"])

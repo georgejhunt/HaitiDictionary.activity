@@ -1,0 +1,1 @@
+showWord(["n. ","charyo pou pouse timoun.<br>"])

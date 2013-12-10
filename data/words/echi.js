@@ -1,0 +1,1 @@
+showWord(["","ki rive nan dat echeyans.<br>"])

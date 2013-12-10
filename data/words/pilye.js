@@ -1,0 +1,1 @@
+showWord(["n. ","pati nan konstriksyon ki pote pwa konstriksyon an. 2. Moun ki gwo epi solid. Yon pilye gason.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Liy ant gwo dlo ak tè. Timoun yo ap jwe bò rivaj la.<br>"])

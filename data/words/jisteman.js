@@ -1,0 +1,1 @@
+showWord(["adv. ","1. Ekzakteman. 2. Selon lajistis.<br>"])

@@ -1,0 +1,2 @@
+showWord(["np. ","Pastè epi lidè politik ameriken. Li fèt an Janvye 1929, li mouri asasine an 1968. Li lite anpil pou Ameriken Nwa gen dwa sivil ak dwa politik tankou tout moun san diskriminasyon. Kinn te koni anpil pandan ane 1950-1968. Li te ankouraje nwa yo pou yo pwoteste kont segregasyon, men pou yo te pwoteste san yo pa te fè vyolans. Anpil moun apran pa kè yon seri bèl diskou Kinn te konn bay. Gen youn ki rele AMwen gen yon rèv@."
+])

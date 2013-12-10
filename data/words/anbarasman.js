@@ -1,0 +1,2 @@
+showWord(["n.","1. Wont, eskandal.  Gade yon lòbèy nèg la vin fè devan pòt mwen an la a, sa se yon anbarasman mezanmi.  2. Timidite.  Se konsa Jera ye, li pa renmen fè diskou, pou li pale devan moun se tout yon anbarasman."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","senbòl pou make yon valè enkoni.<br>"])

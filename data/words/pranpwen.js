@@ -1,0 +1,1 @@
+showWord(["","Al chache genyen pouvwa sinatirèl pou pwoteje ou osnon pou ou kapab fè byen osnon mal. Ou te konnen Chantal pral pran pwen pou l kapab gen lajan?<br>"])

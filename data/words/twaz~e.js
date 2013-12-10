@@ -1,0 +1,1 @@
+showWord(["n. "," Lè li ye si ti zegui a make 3 epi gwo zegui a make 12. Li twazè egzakteman.<br>"])

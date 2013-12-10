@@ -1,0 +1,1 @@
+showWord(["","medikaman pou maltèt ak lafyèv.<br>"])

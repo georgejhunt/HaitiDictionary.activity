@@ -1,0 +1,1 @@
+showWord(["n fr. ","Wòch ki sèvi pou kenbe chodyè lè moun ap kuit manje ak bwa-dife. Mete twa wòch dife epi fè bwa yo pran pou nou sa kòmanse kuit manje a.<br>"])

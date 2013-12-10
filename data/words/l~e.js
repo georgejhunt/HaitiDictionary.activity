@@ -1,0 +1,2 @@
+showWord(["n. "," 1. melanj gaz ki envizib, ki antoure latè epi ki sèvi pou moun ak bèt respire. Gaz sa nou respire a. Lè a tou patou menm si nou pa wè l; si pa gen lè, yon moun ap toufe. 2. Pandan, omoman. Lè mwen di ou sa a, mwen gentan kouri byen vit al rele ponpye. 3. Aparans. Gade lè ou non! 4. Melodi yon mizik. Ban mwen lè mizik batèm nan. 5. Epòk. Nan lè pa mwen pat gen minijip."
+])

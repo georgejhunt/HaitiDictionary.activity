@@ -1,0 +1,2 @@
+showWord(["","Milis prive Divalye te moute pou defann pwòp kòz li. Makout yo te gen inifòm wouj e ble pou imite koulè Zaka ak Ogou. Moun sa yo te gen dwa touye moun, rapòte moun. Popilasyon an te pè yo anpil."
+])

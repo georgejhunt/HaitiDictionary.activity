@@ -1,0 +1,1 @@
+showWord(["v. ","mete etap sou yon bèt. Poze so.<br>"])

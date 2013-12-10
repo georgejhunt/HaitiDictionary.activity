@@ -1,0 +1,1 @@
+showWord(["n. ","maladi enfektye timoun pran nan yon viris ki bay bouton wouj toupatou sou po yo. Lè Kalin te piti li te fè saranpyon.<br>"])

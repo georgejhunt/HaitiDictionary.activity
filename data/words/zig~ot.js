@@ -1,0 +1,2 @@
+showWord(["","Nouvo Selil ko fòme lè yon selil mal (espèmatozoyid) ini ak yon selil femèl (ovil, ze), anvan yo kòmanse divize. Nòmalman zigòt la divize sistematikman pou li tounen yon òganis ki genyen anpil selil (miltiselilè). 2. Rezilta fètilizasyon."
+])

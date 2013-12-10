@@ -1,0 +1,1 @@
+showWord(["n.","1.  Lang moun ki soti nan peyi Almay pale.  Mwen ap aprann Alman. 2. Moun ki soti nan peyi Almay.  Msye se yon Alman li ye.<br>"])

@@ -1,0 +1,1 @@
+showWord(["np. ","Achevèk Pòtoprens. Li fèt Okay.<br>"])

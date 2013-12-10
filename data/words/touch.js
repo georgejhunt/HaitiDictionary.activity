@@ -1,0 +1,1 @@
+showWord(["n. ","Sitiyasyon nan foutbòl lè balon sot deyò liy jwèt la. Jwè nimewo kat la fè yon touch kounye a.<br>"])

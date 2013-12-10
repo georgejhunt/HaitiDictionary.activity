@@ -1,0 +1,1 @@
+showWord(["n. ","pwal ki toutotou popyè je.<br>"])

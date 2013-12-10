@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Mesaj ki ekri nan labib. Dapre ekriti yo, yon jou, latè a ap disparèt.  2. Lèt alfabèt yo. Pitit sa a pa fò nan ekriti ditou. 3. Estil jan yon moun mete lide l sou papye. Mwen renmen ekriti ki komik."
+])

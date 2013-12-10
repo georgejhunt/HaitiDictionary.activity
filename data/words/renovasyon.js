@@ -1,0 +1,1 @@
+showWord(["","remete nan yon bon kondisyon.<br>"])

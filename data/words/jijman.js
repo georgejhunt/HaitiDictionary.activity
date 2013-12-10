@@ -1,0 +1,2 @@
+showWord(["n.","1. Rezilta ki soti lè moun al nan lajistis. Etap, konsiderasyon, santans yon moun nan lajistis. Rezilta jijman sa a te fè tout moun sezi.  2. Opinyon pèsonèl sou yon sitiyasyon. Jijman pa m di m li antò.  3. Jou règleman, dapre labib. Nou va kontre nan jou jijman."
+])

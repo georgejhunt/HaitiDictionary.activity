@@ -1,0 +1,1 @@
+showWord(["v. "," Bay ak vyolans. Li flanke moun nan yon kalòt.<br>"])

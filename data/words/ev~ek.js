@@ -1,0 +1,2 @@
+showWord(["n. ","Tit elve nan legliz katolik yo bay prèt ki responsab yon dyosèz. Yo mete tit Monsenyè devan non tout evèk yo. Nan ane 1997 men evèk ayisyen yo: Franswa Gayo, Achevèk Okap, Ibè Konstan, Fòlibète. Lwi Kebwo, oksilyè Pòtoprens. Franswa Ligonde, Achevèk Pòtoprens. Emanyèl Konstan, Gonayiv. Leyona Lawòch, Ench. Wili Womelis, Jeremi. Aliks Verye, Okay. Frans Kolimon, Pòdepè. Jozèf Lafontan (Sede plena). Gi Poula, Jakmèl."
+])

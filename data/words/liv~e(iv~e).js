@@ -1,0 +1,1 @@
+showWord(["n. ","Peryòd fredi. Ivon pa vle rete nan peyi Kanada pandan livè.<br>"])

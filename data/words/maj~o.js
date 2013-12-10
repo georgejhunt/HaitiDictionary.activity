@@ -1,0 +1,1 @@
+showWord(["n. "," Grad nan lame. Kalo majò depi sou prezidan Vensan.<br>"])

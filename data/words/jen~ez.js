@@ -1,0 +1,1 @@
+showWord(["n.","1.. premye liv nan labib ki esplike kijan lavi te kòmanse sou latè. 2. Istwa ki esplike kijan yon bagay fè rive kote li ye jodi a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Manje dous ki fèt ak sik. Tito ka kole nan dan ou epi li ka ba ou maldan apresa.<br>"])

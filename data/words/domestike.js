@@ -1,0 +1,2 @@
+showWord(["a. ","1. Ki vin adapte pou viv ak moun. Gen moun ki konn domestike lyon. 2. v. Ki sou enfliyans osnon abi yon lòt moun. Nèg la annik marye ak dam nan, msye domestike l alèz, se sa li vle dam nan fè pou li fè. 3. Fè yon moun travay kòm domestik."
+])

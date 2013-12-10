@@ -1,0 +1,1 @@
+showWord(["a. ","Moun ki fè anpil efò pou yo pa depanse. Kras. Gason kripya.<br>"])

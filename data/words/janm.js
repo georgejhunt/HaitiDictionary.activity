@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan kò ki ant kwis ak pye. Moun ki gen janm long kapab kouri pi vit pase mou ki gen janm kout. 2. Kontraksyon pou Ajamè@. Li pa janm ale Okap.<br>"])

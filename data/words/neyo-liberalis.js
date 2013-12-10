@@ -1,0 +1,1 @@
+showWord(["","doktrin ekonomik kapitalis ki limite patisipasyon leta.<br>"])

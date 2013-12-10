@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Selebre nan yon legliz osnon devan yon ofisye deta sivil inyon yon fi ak yon gason. Iv ak Jaklin ap marye demen.  2. a. Sitiyasyon legal yon gason ki gen madanm osinon yon fi ki gen mari. Jan se yon nonm marye.<br>"])

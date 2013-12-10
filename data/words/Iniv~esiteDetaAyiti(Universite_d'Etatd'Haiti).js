@@ -1,0 +1,2 @@
+showWord(["","Inivèsite Ayiti ki sou administrasyon leta. Se an 1944 li te kòmanse fonksyone. Fakilte li te premye egziste yo se Fakilte Agwonomi, Fakilte Syans, Fakilte Medsin, Fakilte Dantis, Fakilte Lèt ak Edikasyon, Fakilte Dwa ak Administrasyon, Fakilte Jeni ak Fakilte Etnoloji. Kounye a, gen lòt inivèsite ki egziste."
+])

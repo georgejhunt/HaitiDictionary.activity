@@ -1,0 +1,1 @@
+showWord(["n. "," Lè li ye lè ti zegi a sou sèt epi gwo zegi a sou douz. Nou ap tounen a setè.<br>"])

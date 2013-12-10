@@ -1,0 +1,1 @@
+showWord(["v. "," Ranmase fwi ki sot nan pye bwa. Annou al keyi mango. <br>"])

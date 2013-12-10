@@ -1,0 +1,1 @@
+showWord(["n. ","Kabin kote moun izole yo pou yo vote.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Sèvi ak chalè pou transfòme yon manje ki te kri joustan li pare pou moun manje l. Pwa a kwit. 3. Fè manje. Se Woza ki ap kuit manje jodi a.<br>"])

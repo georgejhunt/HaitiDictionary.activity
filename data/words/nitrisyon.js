@@ -1,0 +1,2 @@
+showWord(["n. "," Syans ki okipe zafè manje ak mal-manje, fòtifyan ki nan manje yo epi bezwen moun genyen pou fòtifyan sa yo. Syans ki etidye dyèt ballanse pou moun ka gen lasante. Moun ki fè espò dwe manje dapre prensip bon nitrisyon."
+])

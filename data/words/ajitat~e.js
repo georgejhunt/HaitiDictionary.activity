@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki ap mete dezòd nan yon sitiyasyon.<br>"])

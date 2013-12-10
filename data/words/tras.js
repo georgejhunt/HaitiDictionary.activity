@@ -1,0 +1,2 @@
+showWord(["n. ","1. Liy osnon seri enfòmasyon ki mennen ou jwenn kichòy. Vòlè a kite tras san li atè a. 2. Tigout, titak. Kalo kite yon tras kafe nan kafetyè a. 3. Rès, lonbray. Rale kò ou la a, pa kite mwen wè tras ou."
+])

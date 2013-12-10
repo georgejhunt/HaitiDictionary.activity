@@ -1,0 +1,1 @@
+showWord(["","se yon seri glann ki sekrete òmòn al mete nan sikilasyon san an. Omòn yo kontrole aktivite lòt glann yo. Glann pituitè ki nan tèt pa dèyè zye; glann tiwoyid ki nan kou sou devan larenks lan; glann paratiwoyid (yo 4) ki kole ak glann tiwoyid la; glann adrenal ki chita sou chak ren yo; glann pakreyas ki bay ensilin; gonad yo (testikil pou gason ak ovè pou fi).<br>"])

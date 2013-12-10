@@ -1,0 +1,2 @@
+showWord(["","gaspiyè, depansè."
+])

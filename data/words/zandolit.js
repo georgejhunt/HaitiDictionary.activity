@@ -1,0 +1,1 @@
+showWord(["n. ","Reptil ki toupatou kote ki gen fèy. Gade yon zandolit.<br>"])

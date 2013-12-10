@@ -1,0 +1,1 @@
+showWord(["n.","Separasyon. Nou te oblije vann paske frè mwen an te mande pataj.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Ti kamyon pou pote chay. 2. Machin pou jwe plak.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Inite mezi tanperati. Li fè 20 degre santigrad deyò a.<br>"])

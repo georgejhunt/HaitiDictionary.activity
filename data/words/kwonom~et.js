@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti pou mezire tan avèk presizyon.<br>"])

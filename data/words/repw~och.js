@@ -1,0 +1,1 @@
+showWord(["n. ","Obsèvasyon yo fè yon moun pou sa li fè ki pa kòrèk. Se pa de repwòch yo fè Loran pou neglijans li fè ak ti zanmi li yo.<br>"])

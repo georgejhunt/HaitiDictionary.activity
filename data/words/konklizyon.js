@@ -1,0 +1,1 @@
+showWord(["n. ","Pati final yon prezantasyon. Konklizyon sa a pa ale ak entwodiksyon an ditou.<br>"])

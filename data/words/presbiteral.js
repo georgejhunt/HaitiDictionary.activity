@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène presbitè. Ki konsène pè. 2. Konsèy pou ede yon evèk nan yon dyosèz.<br>"])

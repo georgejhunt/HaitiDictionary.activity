@@ -1,0 +1,2 @@
+showWord(["np. ","ekriven, edikatè, entèprèt, tradiktè, komèsan, politisyen. Li ekri ADis Pa Nan Lang Ayisyen@ yon dokiman pou moun aprann gramè kreyòl. Liv la se pibliye tou nan lang Anglè ak lang Franse. Anplis, li devlope kasèt odyo ak videyo pou ale ak liv la."
+])

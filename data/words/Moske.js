@@ -1,0 +1,1 @@
+showWord(["","Bilding konsakre pou lapriyè nan relijyon Islam.<br>"])

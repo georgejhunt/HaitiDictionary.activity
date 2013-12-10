@@ -1,0 +1,1 @@
+showWord(["n. ","Figi osinon desen jeyometrik ki gen nèf kote ak nèf ang. Desen sa a se yon nonagòn.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki bay panzou osnon koudeta. <br>"])

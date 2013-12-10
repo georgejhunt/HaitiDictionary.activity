@@ -1,0 +1,1 @@
+showWord(["np. ","Prèt katolik ki te akeyi F. Divalye ki te nan kache sou gouvènman Maglwa. Apresa li te vin minis sou F. Divalye.<br>"])

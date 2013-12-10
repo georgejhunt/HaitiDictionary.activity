@@ -1,0 +1,1 @@
+showWord(["n. ","Pòt ki glise sou koulis. Madan Chal vle mete yon pòtakoulis nan salon an.<br>"])

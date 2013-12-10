@@ -1,0 +1,2 @@
+showWord(["n.","1. Kote yon bagay ye. Nan ki pozisyon ou vire, adwat osnon agòch? 2. Ka, antrav. Nan ki pozisyon ou mete mwen la a, ou pa konnen mwen ka al nan prizon pou sa? 3. Eksite, enkyete. Kouman ou san pozisyon konsa a, ou annafè ak kèk moun? 4. Dyòb. Papa mwen te nan yon bon pozisyon nan biwo lekòl la."
+])

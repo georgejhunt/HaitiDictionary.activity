@@ -1,0 +1,1 @@
+showWord(["n.","Bwason ki gen alkòl ak sik. Janjan sou kou yon pipirit lè li fin bwè sele-bride a.<br>"])

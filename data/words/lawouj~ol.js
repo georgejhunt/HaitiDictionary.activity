@@ -1,0 +1,1 @@
+showWord(["n. "," maladi moun pran lè yo gen yon enfeksyon ak yon viris. Li kontajye anpil epi li ka touye moun. Lè yon moun genyen lawoujol li gen la fyèv epi yon bann bouton wouj leve sou po l. Gen vaksen pou pwoteje moun kont lawoujòl.<br>"])

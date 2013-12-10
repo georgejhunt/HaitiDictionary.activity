@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Tan, epòk nan lavi yon moun kote li jenn, li pa vye. Jenès se yon bèl peryòd nan lavi. 2.  Tan fou, lè moun fè erè fasil. Izabèl se te yon foli jenès mwen.  3. Fi ki gen relasyon ak gason pou lajan. Fè atansyon pou ou pa pran maladi nan men jenès yo deyò a."
+])

@@ -1,0 +1,2 @@
+showWord(["n. ","Yon metod repwodiksyon aseksyèl nan plant kote yo kole pati yon plant nan yon lot plant ki sipòte li, pou rive pwodui fwi ki gen avantaj toude plant yo. 2. Operasyon medikal pou ranplase yon ògàn nan yon moun ki malad ak yon ògàn ki soti nan yon lòt moun. Grèf kè, grèf fwa, grèf po."
+])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Moun nan sosyete a ki pi devan nan lajan osinon nan panse ak ideyoloji. Lelit entelektyèl. 2. Moun ki ap fè chemen pou lòt suiv, lidè. Zansèt nou yo se yon lelit nan goumen kont lesklavaj.  3. Fiksyon sosyal, ilizyon siperyorite ki egziste baze sou yon seri valè ki fo. Jan se moun lelit, li pa enterese nan pwoblèm lamas."
+])

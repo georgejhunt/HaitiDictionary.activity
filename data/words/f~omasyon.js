@@ -1,0 +1,2 @@
+showWord(["n. ","1.Konpozisyon, kreyasyon, devlopman. 2. Posisyon milit_, pozisyon eskout, pozisyon foutbol_. 3. Groupman militè. Group sendika, group politik, group ògànize pou fòme yon ekip nan espò, nan mizik eltr. 4. Edikasyon entelektyèl ak moral yon moun. 5. Metye, aprantisaj. "
+])

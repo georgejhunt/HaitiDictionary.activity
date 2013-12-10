@@ -1,0 +1,1 @@
+showWord(["","1. Kategori lwa nan relijyon vodou. Lwa petwo. 2. Dans ak misik ki gen kadans rapid asosye ak lwa Petwo. Dans petwo.<br>"])

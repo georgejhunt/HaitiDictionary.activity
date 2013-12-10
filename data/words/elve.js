@@ -1,0 +1,2 @@
+showWord(["v. ","1. Ki wo. Poukisa mi an elve konsa a?  2. Ki chè. Pri a twò elve, Silòt pap ka achte kay la.  3. Ki edike. Timoun sa yo elve ak prensip.  4. Ki grandi ansanm. Nou tout elve nan men matant nou."
+])

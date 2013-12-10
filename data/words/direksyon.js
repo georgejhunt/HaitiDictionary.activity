@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Oryentasyon. Nan ki direksyon kay ou ye la a? 2. Esplikasyon pou jwen yon adrès. Direksyon ou yo te bon, mwen rive nan kay la san pwoblèm. 3. Kòmand. Timoun nan sou direksyon ou, sa ou di li, se sa. 3. Biwo direktè. Pase nan direksyon."
+])

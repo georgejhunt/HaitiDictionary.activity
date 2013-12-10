@@ -1,0 +1,1 @@
+showWord(["v. ","Fè yon espas an beton vin lis. Yo glasiye pewon kay madan Loran an.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","kontraksyon pou Aelatriye@ ki vle di Aak tout lòt yo@.<br>"])

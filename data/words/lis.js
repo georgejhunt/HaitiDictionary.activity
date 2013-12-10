@@ -1,0 +1,1 @@
+showWord(["n. "," mo ki ekri nan lòd youn apre lòt. Sara fè lis moun l ap envite nan fèt li. Maryo al fè makèt; fò l achte tout sa ki sou lis la.<br>"])

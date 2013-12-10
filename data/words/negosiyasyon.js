@@ -1,0 +1,1 @@
+showWord(["n. ","demach ant de gwoup pou rive nan yon akò.<br>"])

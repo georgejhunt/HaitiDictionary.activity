@@ -1,0 +1,1 @@
+showWord(["np. "," 1. Non yo bay moun ki gen nasyonalite peyi Ondiras.  Wolanndo se yon ondiryen. 2. a. Ki pou Ondiras. Teritwa Ondiryen.<br>"])

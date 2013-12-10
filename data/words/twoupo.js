@@ -1,0 +1,1 @@
+showWord(["n.","Gwoup bèt ki viv ansanm epi ki vwayaje ansanm. Twoupo mouton sa a toujou vin nan pak sa a chak maten.<br>"])

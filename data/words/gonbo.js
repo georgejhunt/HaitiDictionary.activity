@@ -1,0 +1,1 @@
+showWord(["n. ","Kalalou. Mwen ta manje yon bon gonbo.<br>"])

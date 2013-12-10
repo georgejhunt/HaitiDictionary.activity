@@ -1,0 +1,1 @@
+showWord(["v fr.","Sibi difikilte. Nou pase traka sou wout la.<br>"])

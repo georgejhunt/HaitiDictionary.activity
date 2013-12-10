@@ -1,0 +1,1 @@
+showWord(["n. ","Pwodui chimik ki nan kafe ak plizyè lòt bwason san alkòl. Kafeyin eksite sistèm nè moun. Kafeyin konn anpeche moun dòmi.<br>"])

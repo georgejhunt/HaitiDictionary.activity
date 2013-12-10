@@ -1,0 +1,1 @@
+showWord(["n. "," Pyès an bwa osnon an metal ki taye pa andedan pou vis osnon boulon ka chita ladan l.  Mwen pa konnen si ekwou sa a ap bon pou travay la.<br>"])

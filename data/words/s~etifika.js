@@ -1,0 +1,2 @@
+showWord(["n.","1. Klas final nan kou primè yo. Maryo se klas sètifika l ap fè kounye a, li fin gran nèt. 2. Egzamen leta pou ou pase kou primè yo epi pou ou lib antre nan kou segondè yo. Ane sa a Maryo ap desann sètifika. Papye yo bay yon moun lè li konplete yon antrénman."
+])

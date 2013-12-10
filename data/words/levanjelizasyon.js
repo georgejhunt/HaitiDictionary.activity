@@ -1,0 +1,1 @@
+showWord(["n. ","Preche pou konvèti moun nan relijyon kretyen.<br>"])

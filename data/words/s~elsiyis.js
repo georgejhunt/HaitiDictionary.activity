@@ -1,0 +1,1 @@
+showWord(["n. ","Inite pou mezire tanperati. Li fè karant degre sèlsiyis.<br>"])

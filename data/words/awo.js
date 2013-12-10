@@ -1,0 +1,1 @@
+showWord(["a.","Ki byen fet. Se yon bagay awo. 2. Mak chemiz. Chemiz awo.<br>"])

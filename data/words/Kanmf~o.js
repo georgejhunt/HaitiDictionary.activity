@@ -1,0 +1,2 @@
+showWord(["np.","Pwofesè, ekriven, powèt, eseyis, animatè radyo. Li fèt Pòtoprens an 1942. Li diplome nan Lekòl nòmal siperyè ak nan Fakilte Etnoloji. Li etidye literati ak filozofi an Frans. Li viv Ozetazini, nan Nouyòk ak nan Florida. Li ekri AEaux, Poemes@, Pòtoprens, 1964."
+])

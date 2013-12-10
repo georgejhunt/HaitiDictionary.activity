@@ -1,0 +1,1 @@
+showWord(["n. ","Premye mwa nan ane. Nou fete Endepandans nou premye janvye chak ane.<br>"])

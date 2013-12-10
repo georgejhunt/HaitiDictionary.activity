@@ -1,0 +1,2 @@
+showWord(["n.","1. nan jwèt boul, voye balon an bay yon lòt moun nan ekip ou a. Si Franswa te fè pas la bay Tichal, ekip li a tap genyen pati a. 2. Fè yon jès pou fè yon moun konnen ou enterese nan li. Ti dam sa a gentan fè mwen yon pas la a, men malerezman mwen te akonpaye deja ak yon lòt dam."
+])

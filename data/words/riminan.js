@@ -1,0 +1,2 @@
+showWord(["n. ","Bèt mamifè ak kat pat ki gen lestomak divize an twa oubyen kat seksyon. Manje ale nan premye seksyon an epi li retounen nan bouch la pou kontinye dijesyon an. (Kat seksyon nan lestomak riminan yo se woumenn, retikoulòm, omasoum epi obomasoum)."
+])

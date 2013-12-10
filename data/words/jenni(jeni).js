@@ -1,0 +1,1 @@
+showWord(["","1. Ki gen kapasite estwòdinè pou li fè bagay bon osnon move anpil lòt moun pa ka fè. Gende travay Oska fè ou wè se yon jenni li ye.<br>"])

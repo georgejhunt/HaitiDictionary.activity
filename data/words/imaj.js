@@ -1,0 +1,2 @@
+showWord(["n.","Reprezantasyon, repwodiksyon yon bagay reyèl osinon yon lide. Imaj televizyon an bay la pa sanble ak Rene. 2. Resanblans. Nou se imaj Bondye. 3. Foto, ki raple yon bagay reyèl. Imaj sa a raple m vil Okap. 3. Repitasyon, renome. Jozèf gen bon imaj nan vil Okap."
+])

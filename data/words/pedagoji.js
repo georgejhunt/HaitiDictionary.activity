@@ -1,0 +1,1 @@
+showWord(["","syans ak ladrès pou prepare elèv epi pou fòme espri moun.<br>"])

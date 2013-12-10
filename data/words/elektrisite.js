@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Kouran elektrik, yon fòm enèji, yon chaj elektrik. 2. Yon branch nan domèn fizik ki etidye kouran elektrik. 3. Kouran ki disponib nan kay pou fè aparèy elektrik mache. 4. Tansyon moun santi lè li gen anpil emosyon."
+])

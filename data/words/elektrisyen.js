@@ -1,0 +1,1 @@
+showWord(["n. ","Metye moun ki repare osinon enstale aparèy elektrik. Rele yon elektrisyen pou vin vin met limyè nan chanm nan.<br>"])

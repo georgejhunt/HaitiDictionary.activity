@@ -1,0 +1,1 @@
+showWord(["n. ","mekanisyen ki espesyalize nan pentire metal.<br>"])

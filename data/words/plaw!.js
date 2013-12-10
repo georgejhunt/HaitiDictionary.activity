@@ -1,0 +1,1 @@
+showWord(["onom.","Son ki imite yon bagay ki tonbe fò.<br>"])

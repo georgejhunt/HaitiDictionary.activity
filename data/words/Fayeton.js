@@ -1,0 +1,1 @@
+showWord(["np. ","Vil nan depatman Nòdès. Non yon plantasyon agrikòl an depatman Nòdès.<br>"])

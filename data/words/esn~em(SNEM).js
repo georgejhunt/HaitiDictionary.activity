@@ -1,0 +1,1 @@
+showWord(["","Sèvis Nasyonal Eradikasyon Malarya). Sèvis gouvènnman pou kontwole maladi malarya nan peyi a.<br>"])

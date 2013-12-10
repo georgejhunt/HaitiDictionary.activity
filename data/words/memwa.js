@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Kapasite sonje yon bagay. Si ou sonje mwen sa vle di ou gen memwa. 2. Kapasite sere enfòmasyon andedan yon konpyoutè. Konpyoutè sa a gen plis pase katsan kilobit espas nan memwa l.<br>"])

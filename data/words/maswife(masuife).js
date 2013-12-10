@@ -1,0 +1,2 @@
+showWord(["n. ","1. Poto ki gen suif ak grès sou tout longè li epi sou tèt li gen yon lajan ak manje pou rekonpans. Moun fè konpetisyon grenpe maswife a pou rive jwenn mayòl la. 2. Tray,difikilte. Madan Jan ap pase yon maswife ak tifi li a."
+])

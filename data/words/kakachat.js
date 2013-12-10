@@ -1,0 +1,1 @@
+showWord(["n. ","Sekrè. Kakachat la soti. 2. Poupou chat. Netwaye kakachat la.<br>"])

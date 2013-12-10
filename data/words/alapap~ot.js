@@ -1,0 +1,1 @@
+showWord(["adv.","okòmansman; anvan ou kòmanse. imedyatman.okòmansman; anvan ou kòmanse. imedyatman.okòmansman; anvan ou kòmanse. imedyatman.<br>"])

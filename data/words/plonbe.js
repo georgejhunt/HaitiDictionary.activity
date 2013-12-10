@@ -1,0 +1,1 @@
+showWord(["v","1. Bouche yon dan pike ak yon melanj ki fèt pou sa. Dantis la plonbe dan madan Jan an yè maten. 2. bouche twou nan yon veso. Al bay plonbe bokit la. <br>"])

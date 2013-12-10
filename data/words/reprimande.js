@@ -1,0 +1,1 @@
+showWord(["v. "," Blame epi menm pini yon moun pou move konpòtman li. Papa Jera reprimande l pou dezòd li te fè nan lekòl la.<br>"])

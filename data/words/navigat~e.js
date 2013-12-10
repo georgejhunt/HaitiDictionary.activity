@@ -1,0 +1,1 @@
+showWord(["n. ","manm ekipaj ki pilote avyon osinon bato.<br>"])

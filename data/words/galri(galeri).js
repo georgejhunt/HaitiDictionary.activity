@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pati nan kay, devan osinon dèyè kote moun chita pou pran van. Mwen renmen chita sou galri lakay mwen an. 2. Kote atispent ekspoze penti yo. Mwen ta renmen louvri yon galri anba lavil la."
+])

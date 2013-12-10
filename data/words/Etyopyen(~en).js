@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki fèt nan peyi Etyopi. Mwen te konnen yon bèl ti Etyopyèn.<br>"])

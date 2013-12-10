@@ -1,0 +1,1 @@
+showWord(["v. ","Sezi byen yon moun.<br>"])

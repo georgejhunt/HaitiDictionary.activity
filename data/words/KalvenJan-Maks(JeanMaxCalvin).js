@@ -1,0 +1,2 @@
+showWord(["np. ","Powèt, teknisyen laboratwa. Li fèt Pòtoprens an Jen 1945. Li al lekòl primè nan lekòl Jan-Mari Giyou epi lekòl segondè Lise Petyon ak ak Lise Louvèti. Li te ekzile ale Nouyòk an 1967. Li pibliye ALa legende de l=Ombre@ (1966); Anneau (1976); ADéclic@ (1987); APlis du Sable@ (1987)."
+])

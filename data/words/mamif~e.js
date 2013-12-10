@@ -1,0 +1,1 @@
+showWord(["n. "," Ki gen tete. Yon gwoup vètebre ki gen san cho ki gen cheve oswa pwal. Yo bay pitit yo lèt ki soti nan glann mamè (tete).<br>"])

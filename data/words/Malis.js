@@ -1,0 +1,2 @@
+showWord(["n. ","1. Teknik ki pa fin onèt. Janjan di sa ak malis.  2. Movèzfwa, mechanste kalkile. Ti nonm sa gen malis, li fè ou konprann yon bagay epi li fè yon lòt. 3. Kout entelijans, kouba. Mwen pa renmen boule ak moun ki gen malis. 4. np. Non yon pèsonaj enpòtan nan tradisyon kont ak istwa ayisyen. Bouki ak Malis."
+])

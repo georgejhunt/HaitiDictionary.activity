@@ -1,0 +1,2 @@
+showWord(["v. ","1. lè ou pa ka jwenn yon bagay ou te genyen anvan. Li pèdi bous li. 2. lè ou mize lajan sou yon lotri osinon nan yon komès ki pa rapòte. M pèdi lajan nan bòlèt. 3. gaspiye. pèdi tan. 4. batba nan yon jwèt osinon nan yon konpetisyon. Li pèdi match la. 5. mouri. M pèdi matant mwen depi ane pase. 6. Konfizyon. M pèdi wout mwen. Li pèdi tèt li, li pèdi fèy, pèdi lakat. 7. Fè bak, regrese. Li pèdi fil. 8. endispoze. Pèdi konsyans."
+])

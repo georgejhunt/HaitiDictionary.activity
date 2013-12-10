@@ -1,0 +1,2 @@
+showWord(["np. ","Youn nan lwa fi, nan relijyon Vodou. Li se Mètrès dlo dous, li gade fontèn, lak, sous ak tout dlo dous, li gen fòm lasirèn. Gen istwa ki rakonte traka timoun ki al chache dlo nan sous epi ki kontre ak Simbi, yo disparèt pandan lontan. Lè yo retounen, yo fin grandi epi yo gen pouvwa espesyal. Gen anpil istwa sou Simbi nan kont, istwa ak fòlklò peyi Ayiti."
+])

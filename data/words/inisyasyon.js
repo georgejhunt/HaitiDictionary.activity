@@ -1,0 +1,1 @@
+showWord(["n. ","entwodiksyon nan sekrè. 2. Edikasyon; fòmasyon.<br>"])

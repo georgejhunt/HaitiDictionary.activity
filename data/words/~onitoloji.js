@@ -1,0 +1,1 @@
+showWord(["n. ","Syans ki etidye zwazo. Edga etidye onitoloji.<br>"])

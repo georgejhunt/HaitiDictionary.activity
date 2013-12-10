@@ -1,0 +1,1 @@
+showWord(["n. ","1. Sèk nan yon kafou pou kontwole trafik otomobil. 2. Non yon restoran nan bisantnè Pòtoprens.<br>"])

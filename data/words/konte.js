@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Tabli sa ki nesesè. Edwa konte sou de moun ki ap vin ede l. 2. Fe resansman. Yo konte gen pase similyon Ayisyen kounye a.<br>"])

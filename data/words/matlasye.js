@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki fè matla. Se yon matlasye ki refè matla a pou Edwa.<br>"])

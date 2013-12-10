@@ -1,0 +1,1 @@
+showWord(["n. ","Avyon espesyal ki ka poze sou dlo epitou ki ka dekole sou dlo.<br>"])

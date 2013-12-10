@@ -1,0 +1,1 @@
+showWord(["n fr. ","Ti non. Dodo se non gate Dominik.<br>"])

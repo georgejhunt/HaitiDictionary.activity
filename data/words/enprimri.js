@@ -1,0 +1,1 @@
+showWord(["n. ","Atelye kote yo enprime osinon kote yo fè repwodiksyon. Lontan te gen yon enprimri ki te rele Enprimri Lafalanj.<br>"])

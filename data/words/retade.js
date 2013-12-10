@@ -1,0 +1,1 @@
+showWord([""v."," n., a.","anreta, fè yon bagay pita pase lè li te gen pou li fèt. 2. Reta nan devlopman mantal, nan aktivite panse."<br>"])

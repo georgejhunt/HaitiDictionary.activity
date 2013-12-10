@@ -1,0 +1,2 @@
+showWord(["a.","1. Karaktè moun ki kal. Jan se yon moun ki tanpere. 2. Zòn sou latè ant senti twopikal ak senti polè, kote kat sezon yo byen diferan youn ak lòt epi kote li fè frèt nan sezon ivè. Zòn tanpere."
+])

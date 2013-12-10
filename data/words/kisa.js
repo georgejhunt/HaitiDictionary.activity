@@ -1,0 +1,1 @@
+showWord(["ent. "," Ki bagay. Kisa ou di la a?<br>"])

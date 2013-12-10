@@ -1,0 +1,1 @@
+showWord(["n. ","Yon ògàn ki gen miskilati ak katilaj ki sou anwo trache-a epi ki gen kòd vokal yo. Moun ki malad nan larenks konn pa ka pale.<br>"])

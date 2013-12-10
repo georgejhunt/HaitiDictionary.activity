@@ -1,0 +1,1 @@
+showWord(["n. "," Senkyèm mwa nan ane a. Mwa me se mwa lapli.<br>"])

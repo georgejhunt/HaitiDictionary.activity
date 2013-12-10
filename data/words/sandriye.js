@@ -1,0 +1,1 @@
+showWord(["n. ","Veso pou moun met sann sigarèt. Prete vwazen an yon sandriye pou li pa jete sann nan atè.<br>"])

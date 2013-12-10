@@ -1,0 +1,2 @@
+showWord(["","Endyen ki soti nan gwoup Arawak ki te la lè Kristòf Kolon debake Ayiti. Te gen plis pase yon milyon lè Kolon rive men an 1548, pat rete 500 ladan yo, yo te fin touye yo ak move tretman Espayòl yo te pote."
+])

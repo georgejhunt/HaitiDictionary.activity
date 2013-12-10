@@ -1,0 +1,2 @@
+showWord(["np. ","ekriven, powèt, istoryen, tradiktè, diplomat. Li fèt an nan Dominikani 2 Avril 1866 alòske paran li te an ekzil. Li mouri Pòtoprens 2 Out 1925. Li te al lekòl Pòdepè epitou nan Kolèj Senmasyal nan Pòtoprens. Li etidye dwa an Fran. Li te pibliye plizyè liv, diskou, esè, istwa, biyografi. Li pibliye yon ""Antoloji Literati Ayisyèn"" an 1925 ak yon koleksyon Fab Lafontèn an Kreyòl. Li te lite kont lokipasyon amerikèn ak plim li ak literati. Li te aktif nan AMouvman Patriyotik Nasyonal@"
+])

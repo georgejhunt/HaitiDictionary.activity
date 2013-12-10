@@ -1,0 +1,2 @@
+showWord(["n. ","Zouti nan kizin ki fèt pou pile epis osnon kraze manje mou avèk li. Andreya lave pilon an lè li fin pile epis avèk li. Zouti peyizan pou prepare manje. Pilon kafe, pilon maye, pilon pitimi."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Yon kalite krab ki konn anpwazonnen. Pa kite krabmalzòrèy mòde w.<br>"])

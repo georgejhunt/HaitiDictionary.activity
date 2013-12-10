@@ -1,0 +1,1 @@
+showWord(["","domèn syans ki etidye son epi sistèm pou ekri son.<br>"])

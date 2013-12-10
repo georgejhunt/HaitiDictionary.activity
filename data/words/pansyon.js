@@ -1,0 +1,2 @@
+showWord(["n.","1. kote ou moun rete an korespondans. Mwen pral nan pansyon kay Mè Lali yo. 2. Lajan ou resevwa aprezavwa ou travay lontan yon kote. Mwen te travay nan leta men yo pa janm peye mwen pansyon m, mwen pa konn poukisa."
+])

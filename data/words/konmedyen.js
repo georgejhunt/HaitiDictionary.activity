@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Moun ki konn fè konmedi. Janjan se bon jan konmedyen. 2. Moun pou ou pa pran oserye. Pa gen anyen serye ki ap soti nan bouch Kalo, li se yon konmedyen, l ap jwe yon teyat pou tout moun."
+])

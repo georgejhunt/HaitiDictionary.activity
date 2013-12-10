@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan vyann yo jete anvan yon kuit li. Chyen an manje vlen yo.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Fèy tranpe nan dlo, mayezi osnon lòt pwodui natirèl osnon manifaktire, ki fè yon moun santi li byen lè li bwè l. Rafrechi bab mayi, rafrechi leti. 2. Ji natirèl ki sipoze ka fè ou santi ou byen lè ou bwè l. Rafrechi kokoye. 3. v. Ki fè yon bagay vin fre. Beny nan rivyè a fè ManYaya santi li rafrechi. 4. Raple, fè sonje. Rafrechi memwa."
+])

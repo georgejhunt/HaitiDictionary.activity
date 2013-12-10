@@ -1,0 +1,1 @@
+showWord(["","Fè moun konprann yon bagay menm si li pa sa. Msye vle fè kwè li se yon etidyan lamedsin men tout moun konnen se kwafè li ye.<br>"])

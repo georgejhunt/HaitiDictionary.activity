@@ -1,0 +1,1 @@
+showWord(["np. ","Al gade nan Moriso.<br>"])

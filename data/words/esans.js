@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Ekstrè, odè natirèl konsantre ki soti nan yon plant osinon nan yon bèt. Ou ka ekstrè esans sitwon nan po sitwon.  2. Nannan, pati santral, sa ki pi enpòtan. Nou ka di sa ki esans mesaj jodi a, se lanmou pou pwochen.   3. Gaz swa pou fè limyè osnon pou ou kondi oto. Esans yo vann pou mete nan machin dizèl yo pa menm ak esans lòt oto yo."
+])

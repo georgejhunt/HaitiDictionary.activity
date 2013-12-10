@@ -1,0 +1,2 @@
+showWord(["v fr.","1. Voye pye, pa dakò, konteste. Jera tire pye kont li men li pat rive fè mesye yo chanje lide. 2. Reyaksyon yon bèt fè lè li pa kontan. Chwal la tire pye joustan li jete madanm nan atè."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","lèt nan alfabè ki vin anvan Az@.<br>"])

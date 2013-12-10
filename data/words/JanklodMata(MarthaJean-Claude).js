@@ -1,0 +1,2 @@
+showWord(["np. ","Chantè, aktè, ekriven, aktivis politik, diplomat. Li fèt Pòtoprens an 1919. Li te kòmanse karyè chante li pandan fèt bisantnè endepandans Ayiti, sou gouvènman Lesko. Yo te arete li sou Maglwa apre li te pibliye yon liv (Anriyèt) Li vin ale anekzil Kiba an 1952. Li marye ak yon kiben"
+])

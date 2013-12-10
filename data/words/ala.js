@@ -1,0 +1,1 @@
+showWord(["ent.","Son pou make sipriz. Ala traka pou lave kay tè.Son pou make sipriz. Ala traka pou lave kay tè.Son pou make sipriz. Ala traka pou lave kay tè.Son pou make sipriz. Ala traka pou lave kay tè.<br>"])

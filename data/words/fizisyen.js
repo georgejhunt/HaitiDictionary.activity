@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki etidye syans fizik. Klod se yon fizisyen ki ap fè rechèch nan laboratwa.<br>"])

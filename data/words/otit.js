@@ -1,0 +1,1 @@
+showWord(["n.","enfeksyon nan zòrèy. Mis la te vin wè Janjan li di se otit li fè.<br>"])

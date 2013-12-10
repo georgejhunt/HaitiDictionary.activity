@@ -1,0 +1,1 @@
+showWord(["n. ","Jwen inivèsèl nan kamyon ki konekte transmisyon ak wou.<br>"])

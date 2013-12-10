@@ -1,0 +1,1 @@
+showWord(["v.","1. Touye moun.  Yo di mwen se Jera ki ansasinen Woje. 1. Touye moun.  Yo di mwen se Jera ki ansasinen Woje. 1. Touye moun.  Yo di mwen se Jera ki ansasinen Woje. 1. Touye moun.  Yo di mwen se Jera ki ansasinen Woje. 1. Touye moun.  Yo di mwen se Jera ki ansasinen Woje. 1. Touye moun.  Yo di mwen se Jera ki ansasinen Woje. <br>"])

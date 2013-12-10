@@ -1,0 +1,1 @@
+showWord(["n. ","Enflamasyon osinon kwasans tisi nan matris yon fi. Lorèn gen fibwòm.<br>"])

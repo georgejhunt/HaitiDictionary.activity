@@ -1,0 +1,1 @@
+showWord(["np. "," Youn nan lwa nan relijyon Vodoun. Zaka pran Gaston.<br>"])

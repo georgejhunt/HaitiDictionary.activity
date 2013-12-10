@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Ki pa vo anyen.  Rezilta nil.  2. Ki pa pote rezilta. Mouvman nil. 3. Ki egal zewo. Total nil.<br>"])

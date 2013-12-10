@@ -1,0 +1,1 @@
+showWord(["n. "," Veso an ajil ki sèvi nan seremoni vodou pou konsève lespri. Ou pa dwe sèvi ak govi a nenpòt kijan.<br>"])

@@ -1,0 +1,2 @@
+showWord(["np.","Peyi nan kontinan Ewòp, toupre Lafrans ak Bèljik, se la  Alman yo rete.  Lontan te gen de Almay, Almay lwès ak Almay lès, kounye a, yo fè yon sèl.Moun ki sot nan peyi Almay pale Alman."
+])

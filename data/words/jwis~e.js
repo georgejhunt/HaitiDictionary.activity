@@ -1,0 +1,1 @@
+showWord(["a. ","moun ki renmen chèche plezi materyèl ak plezi sansyèl (ki reveye sans).<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Klwazon ant bouch ak nen ki anwo lang yon moun. Jako fèt ak yon defòmasyon nan palèt li.  2. Plak mens atispent sèvi pou mete epi melanje diferant koulè lè l ap fè yon penti.<br>"])

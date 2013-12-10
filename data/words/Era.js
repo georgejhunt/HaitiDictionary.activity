@@ -1,0 +1,2 @@
+showWord(["np. "," 1787-1850. Yon senp sòlda ki te mete prezidan Bwaye atè 27 Janvye 1843. Li te vin prezidan 30 Desanm 1843 men msye te gen difikilte pou l te chanje estil militè an pou l te suiv règ sivil. Msye te kite peyi a 2 Jen 1844, li te al annegzil nan peyi Jamayik."
+])

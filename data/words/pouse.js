@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Bay pousad pou ede yon moun osnon yon bagay ale annavan. Nou pouse timoun yo etidye pou yo ka pase nan bakaloreya.  2. Bouskoule, frape yon moun osnon yon bagay paske ou fache. Si ou pouse m, m ap pouse ou tou. 3. Pòte yon moun fè sa li pa pare pou li fè. Se Jaklin ki pouse Silòt renmen ak Pòl.  4. Ankouraje, bay ankourajman. Manman timoun yo pouse yo pou yo ale lekòl alè chak jou."
+])

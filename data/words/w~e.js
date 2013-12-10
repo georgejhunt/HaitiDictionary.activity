@@ -1,0 +1,1 @@
+showWord(["v.","Sa ou anrejistre ak je w. Moun ki pa gen je paka wè. Moun ki pa wè byen pote linèt.<br>"])

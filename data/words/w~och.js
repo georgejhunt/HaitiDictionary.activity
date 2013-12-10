@@ -1,0 +1,2 @@
+showWord(["",". n. 1. materyèl natirèl ki sou latè, ki sèvi souvan kòm Materyo konstriksyon. Ou jwen wòch toupatou, kifè, li pa chè. Men kòm wòch lou, li koute chè pou transpòte l, se sa ki fè yo pa sèvi avè l tou patou. Kay sa a bati ak wòch, se sa ki fè li pat boule nan gwo dife lòtrejou a."
+])

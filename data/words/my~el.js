@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Ensèk jòn-e-nwa ki gen 4 zèl epi ki pwodui siwo myèl. 2. Siwo ensèk myèl la fè. Mete yon ti myèl nan te a pou mwen.<br>"])

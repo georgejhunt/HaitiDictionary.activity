@@ -1,0 +1,1 @@
+showWord(["","mizisyen ki jwe twonpèt.<br>"])

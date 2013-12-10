@@ -1,0 +1,1 @@
+showWord(["n fr. "," Dwa otorite konplèt. Mwen ba ou kat-blanch sou vil la.<br>"])

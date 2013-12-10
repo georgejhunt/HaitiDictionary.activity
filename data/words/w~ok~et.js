@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Difikilte yon moun genyen toudenkou pou li pale, respire paske kòflestomak li ap plede kontrakte. Tibebe gen wòkèt souvan. 2. Teknik pou voye zam pou atake delwen. 3. Syans ak metòd pou met enèji nan machin ki pral nan lespas."
+])

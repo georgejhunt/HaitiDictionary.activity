@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo espas dlo sale ki kouvri plizyè pati glòb latè. Lamè a fon anpil. Lanmè kouvri twaka espas sou latè.<br>"])

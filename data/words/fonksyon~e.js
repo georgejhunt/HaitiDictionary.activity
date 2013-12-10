@@ -1,0 +1,1 @@
+showWord(["n. ","Anplwaye leta. Jera se fonksyonè nan biwo finans.<br>"])

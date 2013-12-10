@@ -1,0 +1,1 @@
+showWord(["adv.","ki ale an pwofondè. Nou ap etidye keksyon an afon.<br>"])

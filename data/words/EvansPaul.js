@@ -1,0 +1,1 @@
+showWord(["np. ","Sekretè Jeneral KID Konferans Inite Demokratik. Ansyen Majistra Pòtoprens.<br>"])

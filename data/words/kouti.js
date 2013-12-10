@@ -1,0 +1,2 @@
+showWord(["n. ","1. Kote yon bagay koud. Pa defèt kouti a. 2. Kote moun al aprann koud. Joslin al nan kouti. 3. Kay koutiryè. Rad yo nan kouti depi semenn pase. 4. kote yo koud yon moun apre yon operasyon. Apre operasyon an, madan Chal te gen yon gwo kouti sou vant li."
+])

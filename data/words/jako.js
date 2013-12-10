@@ -1,0 +1,1 @@
+showWord(["","Zwazo ak bèl plim ki pouse son tankou li vle pale. Jako sa a bèl.<br>"])

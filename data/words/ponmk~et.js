@@ -1,0 +1,1 @@
+showWord(["n. ","Bonbon ki gen fòm won tankou mòfenn ameriken yo. Al achte de ponmkèt kay madan Jan pou mwen.<br>"])

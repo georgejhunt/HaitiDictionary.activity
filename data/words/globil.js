@@ -1,0 +1,1 @@
+showWord(["n. ","selil nan san. Gen globil wouj gen globil blan.<br>"])

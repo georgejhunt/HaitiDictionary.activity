@@ -1,0 +1,1 @@
+showWord(["n. ","Deplasman moun osinon bèt. Gen yon migrasyon moun ki soti lakanpay pou al rete Pòtoprens.<br>"])

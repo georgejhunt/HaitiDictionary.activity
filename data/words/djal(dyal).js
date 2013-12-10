@@ -1,0 +1,1 @@
+showWord([" n. "," Tifi. Wobè toujou ap vin bò isit la msye gen lè gen yon dyal nan katye a.<br>"])

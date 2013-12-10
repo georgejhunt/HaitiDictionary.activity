@@ -1,0 +1,1 @@
+showWord(["pre. ","1. Se te yon fwa. Vwala se te Malis ki te kontre ak Bouki.<br>"])

@@ -1,0 +1,2 @@
+showWord(["a.","1. Ki pa gen pigman melanin sou po l, (yon pigman ki bay po moun koulè). Ni moun nwa, ni moun blan gen melanin ki bay po yo koulè; men moun nwa gen plis melanin sou po yo pase moun blan.  Se melanin tou ki bay cheve ak zye koulè yo genyen. Ou pa konn tipitit bòs Antwàn nan, li albinòs wi, msye tou blan.  2. n.  Yon moun,  bèt osinon yon plant ki pa gen pigman ki pou ba li koulè natirèl li.  Souvan se yon mitasyon jenetik (chanjamn nan kòd jenetik) ki bay sitiyasyon albinòs la. Albinòs ki ret anfas la te vin achte nan boutik la jodi a."
+])

@@ -1,0 +1,1 @@
+showWord(["n.","penalite ki mande pou moun peye lajan.<br>"])

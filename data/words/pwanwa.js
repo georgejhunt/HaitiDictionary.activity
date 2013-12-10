@@ -1,0 +1,1 @@
+showWord(["","Varyete pwa sèk ki koulè nwa. Mwen pa renmen pwa nwa poutèt li toujou ban mwen vantfèmal.<br>"])

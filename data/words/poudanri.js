@@ -1,0 +1,1 @@
+showWord(["","Pre fr. San rezon valab. Kalin bay Bèta yon kalòt pou dan ri.<br>"])

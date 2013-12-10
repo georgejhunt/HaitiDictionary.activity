@@ -1,0 +1,1 @@
+showWord(["","kèmès ak jwèt.<br>"])

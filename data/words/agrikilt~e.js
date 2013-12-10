@@ -1,0 +1,1 @@
+showWord(["n.","metye moun ki fè agrikilti.<br>"])

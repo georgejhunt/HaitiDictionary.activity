@@ -1,0 +1,1 @@
+showWord(["n. ","Ti plat ki fèt pou ale anba tas. Soukoup sa laj anpil.<br>"])

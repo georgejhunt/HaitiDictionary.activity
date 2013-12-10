@@ -1,0 +1,1 @@
+showWord(["n fr. "," Pèsonalite fou ki te konn pwomennen nan Pòtoprens nan àne swasant yo. Masèl kòkòb men chalan dèyè ou.<br>"])

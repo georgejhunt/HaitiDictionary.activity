@@ -1,0 +1,2 @@
+showWord(["n.","Youn nan gran espas kontinan yo.  Youn nan kontinan, se pi gwo kontinan, li antoure ak oseyan aktik, oseyan endyen ak oseyan pasifik. Peyi chinwa yo, Lachin se nan kontinan azi li ye.  "
+])

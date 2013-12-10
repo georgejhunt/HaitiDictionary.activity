@@ -1,0 +1,1 @@
+showWord(["np. ","Li fèt nan àne 1938. Li te vin direktè BNP. Li te vin Minis Ekonomi ak Finans sou gouvènman Aristid nan àne 1991.<br>"])

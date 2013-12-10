@@ -1,0 +1,1 @@
+showWord(["a. ","Fòm won sou deyò. Lantiy konvèks.<br>"])

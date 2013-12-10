@@ -1,0 +1,1 @@
+showWord(["adv.","ki disponib; ki soulamen.ki disponib; ki soulamen.ki disponib; ki soulamen.<br>"])

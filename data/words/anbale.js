@@ -1,0 +1,2 @@
+showWord(["v.","1.  Vlope yon bagay pou li byen pwoteje.  Si ou ap voye bwat ajantri a pa lapòs, fòk ou anbale li byen pou li sa pa kraze. 2. Vlope nan papye kado.  Madanm, anbale kado sa a pou mwen tanpri."
+])

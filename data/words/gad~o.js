@@ -1,0 +1,1 @@
+showWord(["n. ","gadyen. Moun ki gen responsablite veye yon bagay osinon pou veye yon ti moun osinon pou veye yon machandiz.<br>"])

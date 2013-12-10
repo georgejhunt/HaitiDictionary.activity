@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki renmen plenyen. Jozèt se yon plenyadò.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Zòn plat (plenn) nan depatman Lwès ant Chèndemate ak Masif Lasèl. 2. Limit kote yon wout fini. Ou pa bezwen kontinwe avanse, pa gen wout oto ankò, se yon kildesak ou antre la a."
+])

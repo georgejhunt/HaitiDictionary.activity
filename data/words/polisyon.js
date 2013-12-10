@@ -1,0 +1,1 @@
+showWord(["n. ","Prezans yon seri pwodui ki pa bon pou sante nan lè moun ap respire a. Lafimen ki ap soti nan machin yo se yon sous polisyon li ye.<br>"])

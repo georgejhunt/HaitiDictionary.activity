@@ -1,0 +1,1 @@
+showWord(["n. ","wowoli. Plant ki bay ti grenn plat ki sèvi pou fè luil osinon ki sèvi pou fè desè Jijiri gen bon gou epi li gen anpil lwil ladan l. Gen moun ki rele l wowoli. Tablèt wowoli se tablèt jijiri<br>"])

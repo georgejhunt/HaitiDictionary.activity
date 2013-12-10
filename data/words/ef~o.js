@@ -1,0 +1,1 @@
+showWord(["n. "," Enèji siplemantè; mobilizasyon fòs pou reyisi kichòy. Si ou pa fè efò ou pap janm reyisi reyalize sa ou vle.<br>"])

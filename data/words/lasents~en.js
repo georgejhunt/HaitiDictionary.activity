@@ -1,0 +1,1 @@
+showWord(["n. ","Seremoni nan relijyon kretyen lè fidèl yo al manje pen epitou bwè diven; pen an raple kò Jezikri epi diven an raple san Jezikri ki te koule. Jak pran lasentsèn.<br>"])

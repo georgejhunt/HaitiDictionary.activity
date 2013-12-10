@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Tan, epòk. Tan yon òganis pase ant nesans ak repwodiksyon Mizik sa a, se mizik jenerasyon mwen.  2. Gwoup moun ki gen apeprè menm laj. Jenerasyon sa a fèt sou prezidan Lesko.  3. Seri, gwoup, ansanm. Kopi sa yo tout se premye jenerasyon an."
+])

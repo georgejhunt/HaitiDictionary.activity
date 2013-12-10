@@ -1,0 +1,1 @@
+showWord(["v. ","Mete konfyans sou yon lòt mou; bay yon ou gen konfyans sou li kenbe yon bagay enpòtan.<br>"])

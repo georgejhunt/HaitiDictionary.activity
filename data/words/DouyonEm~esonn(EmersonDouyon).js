@@ -1,0 +1,1 @@
+showWord(["np. ","psychiatre Ansyen Minis Edikasyon Nasyonal.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène pwodiksyon ak eliminasyon pipi.<br>"])

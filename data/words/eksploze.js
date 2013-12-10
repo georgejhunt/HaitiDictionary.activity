@@ -1,0 +1,1 @@
+showWord(["v. ","fè yon bagay pete fò epi ak rapidite osinon ak vyolans.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","Pile ak pye. Ou pa ka pilonnen moun san ou pa eskize ou. 2. Kraze yon opozan.<br>"])

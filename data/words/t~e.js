@@ -1,0 +1,2 @@
+showWord(["n.","teren, kote moun plante, osnon bati kay. Mwen gen de kawo tè nan Fondèblan. 2. Materyo konstriksyon. Pote de kamyon tè, pou konble twou a. 3. a. Eksplike kalite finisyon, wout tè, kay tè. "
+])

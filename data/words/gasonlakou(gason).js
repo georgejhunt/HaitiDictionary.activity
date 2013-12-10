@@ -1,0 +1,1 @@
+showWord(["n fr. ","Gason ki ap pran swen jaden nan lakou yon kay. Gason lakou sa a fè travay li byen.<br>"])

@@ -1,0 +1,2 @@
+showWord(["a. ","1. etwat, sere, ki pa gen ase espas. Se nan kwense nou ye lakay la, mwen pap kapab envite ou vin dòmi. 2. v. Razè, bare, pa gen lajan. Monchè mwen kwense anpil, èske ou kapab prete mwen yon degouden? 3. Demonte yon agiman. Mwen kwense Andre li bije admèt li antò."
+])

@@ -1,0 +1,2 @@
+showWord(["v. ","1. Deplase ak vitès, fè kous, prese. Mirèy kouri anvan lapli a. Kouri al pran sa ou bliye a, mwen ap tann ou la a. Bouch li kouri dlo. 2. a. Sentom maladi mantal kifè moun pèdi kontwol kote li prale. 3. n. Dyare."
+])

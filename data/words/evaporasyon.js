@@ -1,0 +1,2 @@
+showWord(["n. ","Fè yon likid tounen vapè osinon gaz. Etap lè yon likid tankou dlo vin tounen gaz epi monte anlè. Nan evaporasyon dlo soti nan yon melanj, ki fè melanj lan vin pi konsantre. Mwen te fè yon tès laboratwa sou evaporasyon, mwen chofe dlo, epi mwen mezire volim vapè. "
+])

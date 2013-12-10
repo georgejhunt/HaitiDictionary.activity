@@ -1,0 +1,1 @@
+showWord(["","piti-piti. 2. Ti pwason piti ki pa sèvi ni pou vann ni pou manje.<br>"])

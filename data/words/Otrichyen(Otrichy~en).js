@@ -1,0 +1,1 @@
+showWord(["np.","1.  Non moun ki gen nasyonalite peyi Otrich. Jak konnen de otrichyen nan inivèsite kote li ye a. 2. a. Ki pou Otrich. Teritwa otrichyen.<br>"])

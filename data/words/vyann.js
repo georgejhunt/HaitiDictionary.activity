@@ -1,0 +1,2 @@
+showWord(["n. ","1. Youn nan kat gwoup manje. Se gwoup vyann nan ki gen plis pwoteyin.  2.Chè, mis, pati elastik nan kò moun osinon bèt ki pèmèt mouvman.Pati nan kò bèt moun kapab manje. Fi sa a gwo men li pa gra, li gen anpil vyann men li pa gen grès pase sa. Nou kwit vyann bèf, vyann kochon ak vyann kabrit, kilès ou pi pito?"
+])

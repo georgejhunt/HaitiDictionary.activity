@@ -1,0 +1,1 @@
+showWord(["","1. n. Moun ki soti nan peyi Ekwatè. Gen nan Ekwatoryen yo ki gen orijin endyen.  2. a. Ki soti nan Ekwatè. Atizàna ekwatoryen bèl anpil.<br>"])

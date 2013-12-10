@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Asistans. Mwen ta apresye si ou ka ban mwen yon ti èd. <br>"])

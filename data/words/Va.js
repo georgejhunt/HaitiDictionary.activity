@@ -1,0 +1,1 @@
+showWord(["","bwi pou fè moun pè. Mwen fè yon sèl va sou Monik li oblije rantre ke l anba vant li. 2. Mo pou make fiti. Nou va wè demen.<br>"])

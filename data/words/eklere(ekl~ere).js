@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Mete limyè. Sal la byen eklere, siman yo mete plizyè anpoul.  2. Ki gen edikasyon, elevasyon. Moun tankou ou se moun ki eklere, ou pa ta ka fè m wont devan lasosyete. 3. Ki fè gwo etid. Se pa ak nenpòt ki fi Woje ap marye a, se yon fi eklere. 4. Enfòme, ranseye. Se makomè mwen an ki eklere m sou sitiyasyon an, mwen pat konnen anyen sou sa ditou."
+])

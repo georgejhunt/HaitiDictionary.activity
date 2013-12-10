@@ -1,0 +1,1 @@
+showWord(["v.","evite. Mwen eskive motosiklèt la sinon mwen ta pral frape msye epi mwen tap antò.<br>"])

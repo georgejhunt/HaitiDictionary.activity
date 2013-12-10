@@ -1,0 +1,1 @@
+showWord(["","estil rad. 2. Estil dans ak amizman nan dikotèk. 3. Dansè dezabiye osinon mal abiye ki ap gouye sou sèn nan yon ba.<br>"])

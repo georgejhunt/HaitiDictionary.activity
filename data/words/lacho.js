@@ -1,0 +1,1 @@
+showWord(["n. ","Materyo konstriksyon pou bati ki fèt ak wòch epi ak tif ki kuit nan fou. Pa gen lacho pou prepare mòtye a.<br>"])

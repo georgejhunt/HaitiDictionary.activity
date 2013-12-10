@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Varyete pwason. Gen moun ki konn kuit karang byen. 2. Ti bèt parazit ki kole sou po moun. <br>"])

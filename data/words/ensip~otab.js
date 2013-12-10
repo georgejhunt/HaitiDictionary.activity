@@ -1,0 +1,2 @@
+showWord(["a. ","1. Entolerab, ki pa posib pou moun sipòte. Gen yon chalè nan Pòtoprens nan mwa Jiyè, li rann lavi a ensipòtab anba lavil la.  2. Agasan, rayisab, dezòd. Pitit sa a ensipòtab twòp, mwen pap mennen l kay moun avèk mwen."
+])

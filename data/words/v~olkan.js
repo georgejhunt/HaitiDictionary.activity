@@ -1,0 +1,1 @@
+showWord(["n. "," Yon montay ki vomi (osinon ki te konn vomi) dife (wòch ak sann) ki soti anba tè. Gen yon vòlkan Gwatemala ki rele Atitlann.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v. ","1. Voye plizyè bagay anlè epi atrape yo youn dèyè lòt byen vit. Nèg sa fò papa, li jongle ak 3 boul epi youn pa tonbe. 2. Kapab rezoud plizyè pwoblèm alafwa.. Monchè, se jongle mwen ap jongle ak tan an, ak distans pou mwen kouri al travay, okipe timoun yo, al lekòl, mwen pa konn kijan mwen fè. 3. Fèkzibisyon ak baton jon nan fanfa."
+])

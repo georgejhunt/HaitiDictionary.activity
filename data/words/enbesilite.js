@@ -1,0 +1,1 @@
+showWord(["n. ","konpòtman ki manke entelijans.<br>"])

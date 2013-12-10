@@ -1,0 +1,1 @@
+showWord(["n. ","1. Douz douzèn (144). Mwen achte pa gwòs pou mwen revann an detay.  2. Ansent. Fi sa a gwòs.<br>"])

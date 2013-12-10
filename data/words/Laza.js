@@ -1,0 +1,2 @@
+showWord(["np. "," Yon sitwayen meriken ki te gen yon kontra ak gouvènman Ayisyen an pou l louvri yon bank nan peyi a. Laza t ap mete yon milyon, gouvènman Ayisyen an t ap mete 500 mil an kapital. Kòm gouvènman an pat kapab jwenn lajan an pou l te met atè, kontra a pat kenbe. Laza rele gouvènman an nan tribinal pou sa. Bagay sa a te koze kont pwoblèm."
+])

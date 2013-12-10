@@ -1,0 +1,1 @@
+showWord(["n. ","Teritwa kote gwoup moun ki gen menm drapo ak menm nasyonalite rete. Nasyon ayisyen.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Zwazo ki renmen naje nan dlo. Li gen pat laj. Toujou gen kanna ki ap jwe nan rigòl bò lakay mwen an.<br>"])

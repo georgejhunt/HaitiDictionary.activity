@@ -1,0 +1,2 @@
+showWord(["np.","Chèf fiyèt-Lalo pandan gouvènman Franswa ak Janklod Divalye. Non li anvan li te marye se te Wozali Boskè (Rosalie Bosquet). Li te fèt Mibalè, li te vin premye fi ki te depite Mibalè. Li te vin direktris Fò-Dimanch, kote ki te gen anpil krim ak abi sou moun ki anprzonnen pou lide politik yo. Lè Janklod pati pran kite pouvwa a, Madan Maks Adòf pati kite Ayiti al viv Ozetazini ak Kanada."
+])

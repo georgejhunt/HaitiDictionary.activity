@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsene byen tè; byen latè.<br>"])

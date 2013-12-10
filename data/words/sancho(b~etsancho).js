@@ -1,0 +1,2 @@
+showWord(["","ki gen tanperati kò li ki rete konstan, karakteristik tout bèt ki pa adapte tanperati kò yo ak tanperati kote yo ye a. An jeneral mamifè ak zwazo se bèt san cho. Moun pa se bèt san cho. Kanta bèt san frèt yo menm, yo kite tanperati kò yo chanje, pou li chofe lè tanperati a cho osinon pou li vin frèt lè tanperati a frèt. Lè li fè frèt li tranble pou kò li ka chofe. 2. Pèsonalite moun ki gen tanperaman vivan, kontan, pasyone, dife-limen."
+])

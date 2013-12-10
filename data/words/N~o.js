@@ -1,0 +1,2 @@
+showWord(["","direksyon ki agòch ou lè ou gade solèy la ap leve, ki adwat lè ou ap gade solèy la kouche. Moun nan nò yo renmen manje poul ak nwa. 2. np. Depatman ki gen Okap kòm chèflye. Li gen 7 awondisman, 19 komin, 10 katye, 82 seksyon kominal"
+])

@@ -1,0 +1,2 @@
+showWord(["np.","Prezidan Ayiti depi premye Mas 1847 jiska 28 Out 1849. Msye te sakre tèt li wa jou ki te 29 Out 1849 epi li te ret opouvwa jiska 15 Janvye 1859. Msye te enterese pou l te fè Dominikani vin ajoute a pati ki rele Ayiti a. Msye te jwenn opozisyon epi se konsa li te vin pati kite peyi an 1859. Msye pat konn li, li te kòmande peyi a palafòs."
+])

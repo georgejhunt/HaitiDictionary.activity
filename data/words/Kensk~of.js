@@ -1,0 +1,2 @@
+showWord(["np. ","komin nan awondisman PoP, nan depatman Lwès. Vil anwo nan mòn depase Petyonvil kote ki fè fre. Yo fè anpil legim nan zòn sa a. Si ou ale Kenskòf lè vakans, wa sezi wè jan li pa fè cho."
+])

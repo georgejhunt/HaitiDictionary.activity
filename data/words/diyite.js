@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Respè melanje ak fyète. Lawoz se yon nonm ki gen anpil diyite, se pa tout bagay li ap fè. 2. Respè figi, lonnè; ki merite estim ak onè; ki gen bon repitasyon. Si ou te gen diyite ou pa ta janm vin devan pòt mwen an. Moun enpòtan. Prezidan peyi a se yon diyite. "
+])

@@ -1,0 +1,2 @@
+showWord(["v. ","korije, redrese."
+])

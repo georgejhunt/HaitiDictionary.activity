@@ -1,0 +1,1 @@
+showWord(["n. ","Afeksyon. Yo trete pitit la ak anpil tandrès.<br>"])

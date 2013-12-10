@@ -1,0 +1,1 @@
+showWord(["n fr. "," Konjesyon ki fè moun ka kapab respire nan nen. Tibebe a gen nen bouche.<br>"])

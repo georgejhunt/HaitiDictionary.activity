@@ -1,0 +1,1 @@
+showWord(["","1 Manchèt pou travay latè. Prete m yon fèman la a. 2. Levi ki fèmante sik pou fè alkòl osinon ki fèmante farin pou fè pen. Mwen pral fè pen ak fèman sa a.<br>"])

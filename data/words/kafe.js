@@ -1,0 +1,2 @@
+showWord(["n. ","1. Bwason cho ki fèt ak grenn kafe griye anpoud. Terèz ofri m yon ti kafe cho.  2. Pyebwa ki bay grenn kafe a. Estefèn gen yon kawo tè plen kafe plante sou li. 3. Bòdèl, kote kliyan ak bouzen rankontre. Nonm sa a te konn al nan kafe toutan epi li pran nan maladi pongongon."
+])

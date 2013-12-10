@@ -1,0 +1,1 @@
+showWord(["n. "," Son ki anplifye. Opalè sa a bay bon rezonans.<br>"])

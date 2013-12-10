@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ou batize pitit li. Jan se konpè Jera. 2. Moun ou batize yon timoun avèk li. Jera se konpè Mirèy.<br>"])

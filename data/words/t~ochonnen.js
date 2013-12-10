@@ -1,0 +1,1 @@
+showWord(["v. ","Fè yon bagay vin sal. Timoun yo tòchonnen kay la.<br>"])

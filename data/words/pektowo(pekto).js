@@ -1,0 +1,1 @@
+showWord(["n. ","Mis nan zòn pwatrin. Men gwosè pektowo Wobè.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","Espas espesyalize kote yo fè esperyans, analiz, tès ak envestigasyon syantifik osinon teknik. Espas pou prepare pwodui chimik, medikaman, kosmetik, manje espesyal. 2. Tan espesyal pou timoun lekòl pase nan laboratwa pou pratike teknik syans. "
+])

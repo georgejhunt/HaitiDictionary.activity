@@ -1,0 +1,2 @@
+showWord(["n. "," zouti an metal ki sèvi pou sonnen. Li sèvi tou pou make kòmansman osinon pou make finisman yon aktivite. Lè nou tande klòch lekòl la sonnen, nou konnen nou an reta. 2. a. Ki gen fòm klòch. Jip klòch."
+])

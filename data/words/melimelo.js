@@ -1,0 +1,1 @@
+showWord(["n.","mezondafè. Kote ou kapab vann osnon achte plizyè kalite bagay. Gen melimelo ki prete moun lajan alenterè.<br>"])

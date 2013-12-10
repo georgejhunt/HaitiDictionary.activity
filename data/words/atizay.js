@@ -1,0 +1,1 @@
+showWord(["ale nan atizana.","<br>"])

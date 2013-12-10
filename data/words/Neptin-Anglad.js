@@ -1,0 +1,2 @@
+showWord(["np. ","ekriven, sosyològ, edikatè, fàm-dafè. Li ekri dokiman sou lavi fanm ak patisipasyon fanm nan sosyete Ayiti. Li te gen yon mezon-dedisyon ki pibliye liv li ekri. Li viv anpil ane nan vil Monreyal, Kanada. Mari li se Jòj Anglad."
+])

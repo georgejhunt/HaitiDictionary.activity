@@ -1,0 +1,1 @@
+showWord(["","Iran Peyi nan kontinan Azi li gen 47 milyon moun ki ap viv sou 1.6 milyon kilomèt kare. Kapital li se Teheran.<br>"])

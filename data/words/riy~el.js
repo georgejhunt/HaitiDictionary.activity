@@ -1,0 +1,1 @@
+showWord(["n. ","yon ti ri.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki diplome nan syans ki montre kòman pran swen malad. Pou moun enfimyè fòk ou gen kè pou wè moun ap soufri devan ou.<br>"])

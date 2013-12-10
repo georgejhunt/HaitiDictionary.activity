@@ -1,0 +1,2 @@
+showWord(["","Lèt alfabè. N se premye lèt nan mo Anaje@. 2. pr. kontraksyon pou Anou@, pwonon pèsonèl pou plizyè moun. N a gentan konnen grenn nan ak po a sa ki pi pike. N a fè ou konnen ki entansyon nou genyen."
+])

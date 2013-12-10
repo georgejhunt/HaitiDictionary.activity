@@ -1,0 +1,1 @@
+showWord(["n. ","twal an lenn osinon an koton ki trete pou yo ka gen yon tekti espesyal.<br>"])

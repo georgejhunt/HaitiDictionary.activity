@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki pratike relijyon jidayik. 2. Ras moun desandan Abraram yo te pèsekite nan peyi Almay epi ki te viktim yon olokos. 3. mànken (estati tanporè) yo konstwi jou Vandredisen.<br>"])

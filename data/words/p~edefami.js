@@ -1,0 +1,2 @@
+showWord(["","1. Papa, moun ki gen tout responsablite moral ak finansye nan yon fanmi. M se yon pèdefami, se pa tout bagay mwen kapab fè. 2. Gason ki gen sans responsablite moral. Andre se yon bon pèdefami, mwen fè l konfyans ak de ti medam yo."
+])

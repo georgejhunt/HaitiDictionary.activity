@@ -1,0 +1,1 @@
+showWord(["","eksepte<br>"])

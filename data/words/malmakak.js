@@ -1,0 +1,1 @@
+showWord(["n fr. "," Malad san kouche. Ki pa anfòm paske li te bwè twòp alkòl lavèy. Jak toujou an mal makak chak dimanch maten.<br>"])

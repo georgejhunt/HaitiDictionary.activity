@@ -1,0 +1,1 @@
+showWord(["","1. n. Moun ki gen nasyonalite peyi Lafrans. 2. a. Ki konsène Lafrans; ki konsène lang franse.<br>"])

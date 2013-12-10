@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fòs. Richa konnen Woje gen pisans pase l men, fòk yo goumen kanmenm. 2. Kapasite. Motè sa a gen yon pisans kat silenn. 3. Otorite. Kaporal la panse li ka vin abize moun la a paske li gen pisans. 4. Nan matematik, ekspozan. Pa egzanp, twa pisans de."
+])

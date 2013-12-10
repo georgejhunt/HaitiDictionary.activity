@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Gwo. Fi sa a gra. 2. Ki gen anpil grès. Manje a gra. 3. Epè. Liy sa a gra. 4. n. Grès. Moun pat dwe manje anpil gra.<br>"])

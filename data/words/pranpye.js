@@ -1,0 +1,2 @@
+showWord(["","1. Rive mete pye ou sou tè fèm. Tibebe a grenpe sou chèz la, lè pou l desann, li eseye pran pye li pa kapab. 2. Jan te fè fayit epi chans pou li, li vin gen nan gwolo bòlèt, se sa ki vin pèmèt li pran pye."
+])

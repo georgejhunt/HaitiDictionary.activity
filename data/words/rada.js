@@ -1,0 +1,2 @@
+showWord(["","1. Youn nan lwa enpòtan yo nan relijyon vodou. 2. Kadans osnon rit tanbou pou lwa sa a. Lwa rada pran Jozefa lotrejou, tout moun sezi. 3. Zouti, sistèm radyo ki ka detekte prezans, pozisyon ak vitès avyon, bato ak machin"
+])

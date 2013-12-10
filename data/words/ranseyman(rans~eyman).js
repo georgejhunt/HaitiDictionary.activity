@@ -1,0 +1,1 @@
+showWord(["n. ","Enfòmasyon. Nou bezwen ransèyman sou lekòl segondè.<br>"])

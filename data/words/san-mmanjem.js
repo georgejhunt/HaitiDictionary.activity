@@ -1,0 +1,2 @@
+showWord(["n fr. ","Movesan enteryè, sitiyasyon lè yon moun fache, li an kòlè men li pa nan pozisyon pou li reyaji. San-m manje m kou yo di m se pou mwen pataje tout sa mwen genyen ren pou ren ak Jozefa."
+])

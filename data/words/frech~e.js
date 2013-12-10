@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Ti van ki ap vante pou kalme chalè. Vin pran yon ti frechè deyò a. 2. Anbyans kote tanperati a konfòtab epi agreyab.<br>"])

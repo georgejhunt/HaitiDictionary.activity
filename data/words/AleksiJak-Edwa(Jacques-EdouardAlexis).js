@@ -1,0 +1,2 @@
+showWord(["np.","agwonòm, edikatè, espesyalis nan teknoloji manje. Manm fondatè Inivèsite kiskeya, Li te dwayen Fakilte Agwonomi, nan inivèsite Kiskeya, li te minis edikasyon nasyonal, epi li se Premye Minis."
+])

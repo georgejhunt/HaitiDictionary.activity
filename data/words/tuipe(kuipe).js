@@ -1,0 +1,1 @@
+showWord(["v. ","Bri moun fè ak bouch pou make mepri. Fi a tuipe madanm nan kareman.<br>"])

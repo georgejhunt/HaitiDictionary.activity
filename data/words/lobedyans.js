@@ -1,0 +1,1 @@
+showWord(["n. ","1. Depandans. Pè sa a sou lobedyans dyosèz la. 2. Dominasyon. Fi sa a pa ta ka aksepte rete sou lobedyans nèg sa a.<br>"])

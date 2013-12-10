@@ -1,0 +1,2 @@
+showWord(["Np. ","Non plim Michel-Ange Hyppolyte, pwofesè biyoloji, ekriven, kreyolis, kritik literè. Li fèt Pòtoprens 24 Fevriye 1952. Li viv Kanada, li marye ak Malèn Choulout, li gen twa pitit. Li ekri: Anba Lakay, pwezi, 1984. Atlas Leksik Zo moun (kat lang) 1989. Zile Nou, Pwezi, 1995 (twa lang). Li Konprann Ekri, (kolaborasyon) 1996."
+])

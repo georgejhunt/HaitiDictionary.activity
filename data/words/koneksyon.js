@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Ki sèvi pou ini de pati; Kontak ant de fil elektrik. Mwen pa konn kijan pou mwen fè koneksyon an, pito ou vin fè l. 2. Piston, relasyon. Si ou vle mwen fè ou antre nan lekòl la, mwen kapab ba ou yon koneksyon ak Mèt Kalo."
+])

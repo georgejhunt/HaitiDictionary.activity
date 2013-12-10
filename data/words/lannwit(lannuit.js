@@ -1,0 +1,1 @@
+showWord(["n. ","Peryòd apre solèy  kouche ale jiska solèy leve. Vòlè a vini lannwit.<br>"])

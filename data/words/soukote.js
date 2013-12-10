@@ -1,0 +1,1 @@
+showWord(["adv.","Akote. Pa lwen yon moun ou byen yon bagay. Edwa te kanpe sou kote Mona nan liy la. Richa te soukote Evlin nan foto a.<br>"])

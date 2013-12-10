@@ -1,0 +1,1 @@
+showWord(["n. ","aksyon ki pa legal.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","gadyen prizon.<br>"])

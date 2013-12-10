@@ -1,0 +1,2 @@
+showWord(["v.","1. Aksyon kote yon bagay pase nan bouch ou pou l desann nan gòj. Mwen renmen pran remèd sa a paske grenn nan tou piti, ou kapab vale l vit san l pa ret koke nan gòj ou. 2. Manje san ou pa byen moulen manje a. Jan ou prese a la a, se vale ou vale manje sa a, se bagay ki pou ba ou endijesyon, ou konn sa? 3. Ranmase, reprann. Gade tande, vale sa ou sot di a, piga janm repete sa ankò devan mwen."
+])

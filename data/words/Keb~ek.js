@@ -1,0 +1,1 @@
+showWord(["np. ","youn nan pwovens Kanada kote ki gen anpil Ayisyen epi ki pale Franse alòske lòt provens yo gen plis moun ki pale Angle.<br>"])

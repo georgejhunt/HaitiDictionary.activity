@@ -1,0 +1,1 @@
+showWord(["np. ","Peyi nan kontinan Afrik. Kapital Senegal se Daka.<br>"])

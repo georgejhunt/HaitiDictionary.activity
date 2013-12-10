@@ -1,0 +1,1 @@
+showWord(["n. "," Inite monnen nan peyi Ayiti. Ven santim vo kat senkòb.<br>"])

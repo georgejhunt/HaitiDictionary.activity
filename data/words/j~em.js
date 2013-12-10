@@ -1,0 +1,2 @@
+showWord(["n. ","1. Mikwòb. Mikwòb ki ka bay maladi. Jèm yo tèlman piti moun ka wè yo sèlman ak mikwoskòp. Gen mikwòb toupatou, kò moun gen jan pou li pwoteje tèt li kont anpil nan mikwòb yo. 2. Pati nan yon grenn plant ki pou jème. 3. Pati ki destine pou repwodiksyon. Fòm primitif (kòmansman) oswa fòm anbriyonè ki premye pa anvan yon ògànis vivan devlope. 4. Grenn plant ki fèk kòmanse jème. 5. Fòm pou yon bagay kòmanse."
+])

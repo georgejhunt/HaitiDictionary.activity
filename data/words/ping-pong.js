@@ -1,0 +1,2 @@
+showWord(["n. ","n. 1. Yon jwèt ki sanble ak tennis. Annou al jwe ping-pong. 2. Ale vini, sitiyasyon kote yon moun ap reponn yon lòt nan yon diskisyon. Pa fè ping-pong avèk Estefèn, se pa nèg ki gen pasyans pou sa."
+])

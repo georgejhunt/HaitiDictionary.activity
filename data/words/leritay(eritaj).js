@@ -1,0 +1,2 @@
+showWord(["n. ","1. Tout sa yon moun kite lè li mouri. Lè Woje te mouri, se pou Asefi li te kite tout eritay li.  2. Tout sa yon moun resevwa lè li gen yon fanmi ki mouri. Asefi resevwa tout eritay Woje."
+])

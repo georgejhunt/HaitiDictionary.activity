@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Nivo nan lekòl. Nan ki klas ou ye? 2. Kou, nan lekòl. Inès pa nan klas matematik la jodi a. 3. Gwoup. Mirèy nan klas matmwazèl Joslin nan. 4. Gwoupman sosyal. Klas mwayèn. 5. Degre solanite nan legliz katolik. Antèman premye klas. 6. Dapre sèvis. Tikè premye klas."
+])

@@ -1,0 +1,1 @@
+showWord(["n fr. "," Chemiz ki lage sou pantalon. Ou pat dwe janm al travay ak zèl chemiz ou konsa a.<br>"])

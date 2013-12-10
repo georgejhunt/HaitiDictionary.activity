@@ -1,0 +1,1 @@
+showWord(["ent. "," Sanzatann. Fi a leve voup li bondi sou lòt la.<br>"])

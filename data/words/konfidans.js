@@ -1,0 +1,1 @@
+showWord(["n. ","di yon sekrè ki konsène tèt ou bay yon moun ou fè konfyans; konfesyon.<br>"])

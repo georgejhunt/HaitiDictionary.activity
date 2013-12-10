@@ -1,0 +1,1 @@
+showWord(["v fr.","Rete nan sa ki gade ou. Fè wòl ou si ou pa vle mwen fache.<br>"])

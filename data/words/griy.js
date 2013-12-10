@@ -1,0 +1,1 @@
+showWord(["","pati nan recho chabon ki kenbe chabon ak chodyè. 2. Recho pòtatif. 3. Ba an metal ki devan radiyatè otomobil. 3. Tuil an metal ki nan fenèt pou anpeche moustik pase.<br>"])

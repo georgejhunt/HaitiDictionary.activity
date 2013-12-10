@@ -1,0 +1,1 @@
+showWord(["a. ","pwoblèm. Mwen nan tyouboum.<br>"])

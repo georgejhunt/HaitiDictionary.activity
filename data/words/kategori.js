@@ -1,0 +1,2 @@
+showWord(["n. ","Espès, famiy, gwoup, seri yo baze pou fè klasifikasyon; kalite ki pèmèt distenge yon bagay ak yon lòt osinon ki pèmèt klase yon bagay ak yon lòt. Klas osinon divizyon nan yon sistèm klasifikason."
+])

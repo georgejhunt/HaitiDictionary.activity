@@ -1,0 +1,1 @@
+showWord(["a. "," Pozisyon ki vini apre swasanndiznevyèm epi anvan katreveninyèm. Se pa mwen ki kaytreventyèm gayan an.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","Bonbade ak wòch. Yo kalonnen vòlè a.<br>"])

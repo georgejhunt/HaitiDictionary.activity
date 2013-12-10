@@ -1,0 +1,1 @@
+showWord(["n. ","melanj ki soti nan divès sous.<br>"])

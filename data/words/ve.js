@@ -1,0 +1,1 @@
+showWord(["n.","kondisyon moun pran pou yo met yon rad san lave pandan yon sèten nonm jou.<br>"])

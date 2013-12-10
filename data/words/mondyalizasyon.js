@@ -1,0 +1,1 @@
+showWord(["n. ","demach pou gaye yon lide toupatou sou latè.<br>"])

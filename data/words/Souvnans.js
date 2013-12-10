@@ -1,0 +1,1 @@
+showWord(["","1. Sant vodou nan Gonayiv. 2. Youn nan denominasyon ak estil nan pratik Vodou.<br>"])

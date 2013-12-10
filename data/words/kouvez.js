@@ -1,0 +1,1 @@
+showWord(["n. ","kote ki tyèd pou mete tibebe ki fèt anvan lè. 2. Aparèy pou mete ze pou fè yo ze yo kale.<br>"])

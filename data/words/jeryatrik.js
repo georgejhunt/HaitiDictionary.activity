@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène jeryatri. Ki konsène domèn tretman granmoun ki avanse nan laj.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","ki selebre ak anpil ponponm ak anpil fòmalite ofisyèl ak piblik.<br>"])

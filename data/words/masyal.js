@@ -1,0 +1,1 @@
+showWord(["a. ","Ki konsène militè. Lakou masyal.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki ap fè kòmès. Wolan se youn nan negosyan lavil yo.<br>"])

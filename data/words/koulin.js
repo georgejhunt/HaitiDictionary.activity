@@ -1,0 +1,1 @@
+showWord(["n. ","Manchèt long epi mens. Abitan toujou gen koulin nan kay yo.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Aksyon kote yon moun pouse yon lòt. Se timoun lekòl yo ki ba li yon sèl pousad yo lage l atè.  2. Koutpous, pouse, ankourajman pou avanse. Batri machin Woje a mouri, annou ba li yon pousad pou motè a ka pran."
+])

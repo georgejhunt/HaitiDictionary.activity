@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Aktivite komès kote moun ap vann lòt ap achte. Kijan lavant la ye jodi a. <br>"])

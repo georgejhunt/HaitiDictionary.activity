@@ -1,0 +1,1 @@
+showWord(["v.","Mete epis nan manje.<br>"])

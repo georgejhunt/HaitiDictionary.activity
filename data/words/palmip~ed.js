@@ -1,0 +1,1 @@
+showWord(["","zwazo akwatik ki gen pat an fòm fèy palma-kristi. Kanna se yo palmipèd.<br>"])

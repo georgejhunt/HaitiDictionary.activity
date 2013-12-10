@@ -1,0 +1,1 @@
+showWord(["n.","system politik ki favorize moun ki deja genyen pouvwa lajan plis pase lot moun. Sytem ki favorize pou pouvwa rete nan menm fanmi an.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," Bay yon moun yon kado paske li merite l. Pwofesè a rekonpanse tout elèv yo.<br>"])

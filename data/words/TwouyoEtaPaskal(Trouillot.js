@@ -1,0 +1,2 @@
+showWord(["np. ","Avoka, jij, politisyen, feminis, ekriven, prezidan pwovizwa. Li fèt 13 Out 1943 nan vil Gonayiv. Li marye ak Ès Twouyo ki te batonye Lòd Avoka Pòtoprens Li etidye nan lekòl Dedwa Pòtoprens. Avoka nan Bawo Potoprens, jij nan Lakou Kasasyon, li te vin prezidan pwovizwa 13 Mas 1990. Sou prezidans li te vin gen eleksyon prezidansyèl, lè Jan Bètran Aristid pote viktwa pou vin prezidan.."
+])

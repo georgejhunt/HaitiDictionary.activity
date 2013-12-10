@@ -1,0 +1,2 @@
+showWord(["np.","Prezidan Ayiti ant 5 Mas 1915 jiska 27 Jiyè 1915. Se li ki te lonmen tèt li prezidan men gwoup rival li yo te mete l atè. Msye chwazi pran egzil Anfrans men gen moun ki te fè dappiyanp sou l nan peyi a, yo te touye, masakre l epi mache nan lari ak moso kò l yo. Se konsa meriken tou pwofite sitiyasyon sa an pou yo debake vin domine Ayiti."
+])

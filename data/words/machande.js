@@ -1,0 +1,1 @@
+showWord(["","v. Diskite pri. Nan mache fòk ou machande.<br>"])

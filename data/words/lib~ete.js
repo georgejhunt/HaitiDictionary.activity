@@ -1,0 +1,1 @@
+showWord(["n. ","1. Dwa pou moun fonksyone san li pa bezwen pè. Moun gen libète lapawòl nan peyi isit.  2. Chwa. Ou gen libète chwazi rete osnon ale. 3. Liberasyon. Yo mete prizonye yo an libète.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Enstriman mizik an fèy metal. Senbal la gen yon son ki bay mizik la yon kadans dous.<br>"])

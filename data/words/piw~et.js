@@ -1,0 +1,2 @@
+showWord(["n. "," 1. So kote yon moun pike tètanba epi li tounen kanpe sou pye l la menm. Timoun yo renmen fè piwèt sou kabann manman yo a.  2. Ti sòti ki pa dire. Jak al fè yon piwèt,li gen pou li antre talè."
+])

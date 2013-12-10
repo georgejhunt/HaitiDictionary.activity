@@ -1,0 +1,1 @@
+showWord(["n. "," Machin espesyal ki vwayaje lwen nan lespas. Gen yon fize ki ap pati nan lespas demen pou al nan obit toutotou latè.<br>"])

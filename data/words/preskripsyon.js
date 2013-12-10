@@ -1,0 +1,1 @@
+showWord(["n. ","Enfòmasyon yon doktè ekri pou yon malad swa pou medikaman li rekòmande li osnon tretman pou li suiv. Preskripsyon an di pou malad pran aspirin twa fwa pa jou.<br>"])

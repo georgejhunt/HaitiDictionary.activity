@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pri final nan yon konpetisyon; konpetisyon yo tout ansanm. Koup mondyal. 2. Tyas, estil jan cheve yon moun pare. Kilès ki bay Jera koup sa a.  3. Estil kouti.  Rad sa a gen yon bèl koup. 4. Vè ki kanpe sou pye. Nou pran yon koup chanpay."
+])

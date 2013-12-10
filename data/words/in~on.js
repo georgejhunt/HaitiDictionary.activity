@@ -1,0 +1,1 @@
+showWord(["","yon lòn. Inòn twal.<br>"])

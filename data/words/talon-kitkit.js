@@ -1,0 +1,1 @@
+showWord(["n fr. ","Estil soulye ki gen talon wo epi pwenti. Jaklin mete talon kikit.<br>"])

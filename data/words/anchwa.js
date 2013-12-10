@@ -1,0 +1,1 @@
+showWord(["n.","Ti pwason piti piti yo konsève ak somi dlo sèl.<br>"])

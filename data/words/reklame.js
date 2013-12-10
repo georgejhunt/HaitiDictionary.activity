@@ -1,0 +1,1 @@
+showWord(["v.","Mande sa ki pou ou. Mwen al reklame chèk mwen an kareman nen biwo a.<br>"])

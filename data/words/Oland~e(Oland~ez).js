@@ -1,0 +1,1 @@
+showWord(["np. "," 1. Non yo bay moun ki soti nan peyi Oland. Pòl se yon olandè.  2. a. Ki pou peyi Oland. Teritwa olandè.<br>"])

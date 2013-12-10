@@ -1,0 +1,2 @@
+showWord(["n. ","1. Kondisyon travay enjis, ki pa peye. Nan tan kolonyal, te gen esklavay nan peyi Ayiti.  2. Esplwatasyon san konsyans. Nan peyi Ayiti, gen moun jouskounye a ki ap travay nan kondisyon di anpil ki raple esklavay."
+])

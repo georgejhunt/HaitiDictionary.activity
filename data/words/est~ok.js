@@ -1,0 +1,1 @@
+showWord(["n. ","machandiz an rezèv. Machandiz.<br>"])

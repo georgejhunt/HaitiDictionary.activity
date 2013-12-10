@@ -1,0 +1,2 @@
+showWord(["v fr.","1. Twonpe yon moun. Jozèt pran Jera nan fil, li di l teren an se yon bon afè, men se pat vre.  2. Lè yon moun twonpe ou.  Jera pran nan fil, li al koute Jozèt ki di l teren an se yon bon afè."
+])

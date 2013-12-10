@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Transparan, ki gen klate, klere, ki gen limyè. Nou kapab soti a setè, li gentan fè klè lè sa a. 2. Ki pa fonse. Nèg sa a, li klè, li wo epi li gen moustach. 3. Ki pa difisil pou konprann. 4. Ki reveye. Je klè."
+])

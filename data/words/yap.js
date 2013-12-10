@@ -1,0 +1,1 @@
+showWord(["","kontraksyon pou A(yo ap@.<br>"])

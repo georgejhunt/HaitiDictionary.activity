@@ -1,0 +1,1 @@
+showWord(["n. "," Metye moun ki konn koud rad. Koutiryè sa a konn koud byen.  <br>"])

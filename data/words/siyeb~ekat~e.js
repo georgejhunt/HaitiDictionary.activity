@@ -1,0 +1,1 @@
+showWord(["v fr.","Fè kwa pou pa janm fè yon bagay ankò. Se pou ou siye bèk ou atè pou ou pa janm manyen sa ki pa pou ou.<br>"])

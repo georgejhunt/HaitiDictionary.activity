@@ -1,0 +1,2 @@
+showWord(["","1. Pati likid klè (enpe jòn) ki nan san an, lè san an kaye li separe selil solid yo epi sewòn nan rete likid. Sewòm nan gen pwodui chimik ki pwoteje moun kont enfeksyon (iminite). 2.  Medikaman ki fèt ak dlo, sik epi fòtifyan ladan l yo bay moun nan venn; gen sewòm yo bay nan bouch tou.  Likid klè ki gen sèl ak lòt fòtifyan yo enjekte nan venn pou remonte moun ki malad. Sewòm oral. 3. Pati klè ki rete lè lèt kaye."
+])

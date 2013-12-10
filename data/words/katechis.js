@@ -1,0 +1,1 @@
+showWord(["n. ","prensip lafwa yo anseye dapre metòd keksyon-repons.<br>"])

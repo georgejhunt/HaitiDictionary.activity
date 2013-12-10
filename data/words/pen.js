@@ -1,0 +1,2 @@
+showWord(["n.","Biskwit. Manje ki fèt ak farin, dlo epi leven, ki kuit nan fou. Pi bon pen mwen manje se pen kay madan Gaston yo, li fè bon pen rale. pen gwo mit, pen rale, pen aticho, pen manchèt, pen obè."
+])

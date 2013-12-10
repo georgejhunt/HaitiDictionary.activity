@@ -1,0 +1,1 @@
+showWord(["","Ansyen prizon bò Pòtoprens kote Divalye te konn mete moun ki kont li yo. Listwa fè konnen gen anpil abi ak anpil krim ki fèt nan Fò Dimanch.<br>"])

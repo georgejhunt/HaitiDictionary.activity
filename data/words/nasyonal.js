@@ -1,0 +1,1 @@
+showWord(["a. "," Ki gen relasyon ak nasyon an. Konje nasyonal.<br>"])

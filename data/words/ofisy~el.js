@@ -1,0 +1,1 @@
+showWord(["n. ","1. Otorite. Se yon ofisyèl ki ap pale avèk ou la a. 2. a. Ki pou yon otorite nan gouvènman an. Machin ofisyèl. 3. Chwazi pou reprezante. Kandida ofisyèl pati a.  4. Ki gen sipò otorite yo. Vèsyon ofisyèl yon evenman.<br>"])

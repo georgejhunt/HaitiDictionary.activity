@@ -1,0 +1,1 @@
+showWord(["n. ","Fizi.<br>"])

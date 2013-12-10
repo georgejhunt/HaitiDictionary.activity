@@ -1,0 +1,1 @@
+showWord(["n. ","Jip kout ki rive pi wo pase jenou. Minijip bèl ak ba gogo.<br>"])

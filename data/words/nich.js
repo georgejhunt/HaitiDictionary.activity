@@ -1,0 +1,2 @@
+showWord(["n. ","1. Kay zwazo bati ak pay pou ponn ze. Gen yon nich sou pyebwa a.  2. Kay yon bèt. Chyen an gen nich li nan lakou a.  3. Anviwonman, teritwa ki kòrèk pou yon bèt osinon yon gwoup bèt. Nich foumi. 4. Pakèt, plizyè. Gen yon nich timedam ki rete nan kafou a."
+])

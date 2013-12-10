@@ -1,0 +1,1 @@
+showWord(["n. ","Machin. Oto sa a se yon bogota.<br>"])

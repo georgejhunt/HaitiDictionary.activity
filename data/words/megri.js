@@ -1,0 +1,1 @@
+showWord(["a. "," Ki pèdi pwa. Jera megri.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Aksyon kote yon moun vomi. Malad sa a gen vomisman.<br>"])

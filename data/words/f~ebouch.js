@@ -1,0 +1,1 @@
+showWord(["v fr",". Prepare yon moun pou fè li di yon bagay ki pa fin sa. Se mwen ki fè bouch li.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki gen aktivite nannuit kou lajounen. Ou se yon jamèdodo.<br>"])

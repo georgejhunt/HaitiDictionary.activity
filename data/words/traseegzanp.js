@@ -1,0 +1,2 @@
+showWord(["v fr.","Pran yon desizyon pou premye fwa ak entansyon pou ou ka bay yon leson, pou lòt moun ka konnen kisa ou kijan ou ka reyaji. Masèl kale Janjan byen kale pou li ka trase yon egzanp bay lòt timoun yo."
+])

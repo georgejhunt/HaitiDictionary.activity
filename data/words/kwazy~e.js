@@ -1,0 +1,1 @@
+showWord(["n. ","vwayaj nan bato pou fè touris.<br>"])

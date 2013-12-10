@@ -1,0 +1,1 @@
+showWord(["a.","Ki bay kè kontan ak plezi.  Lòtrejou mwen te pase yon sware agreyab lakay Terèz.Ki bay kè kontan ak plezi.  Lòtrejou mwen te pase yon sware agreyab lakay Terèz.Ki bay kè kontan ak plezi.  Lòtrejou mwen te pase yon sware agreyab lakay Terèz.<br>"])

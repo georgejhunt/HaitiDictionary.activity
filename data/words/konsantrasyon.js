@@ -1,0 +1,1 @@
+showWord(["","1. Akimilasyon. Gen yon konsantrasyon foumi nan ti twou sa a.  2. Mete anpil atansyon. Manno mete tout konsantrasyon li sou egzamen li pral pase a.<br>"])

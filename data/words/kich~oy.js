@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Yon bagay, pa gwo, tou piti. Mwen pa sa ba ou gwo, men mwen ap ba ou kichòy kan menm. 2. Kraze, monnen. Banm yon ti kichòy la a non, mwen grangou, mwen bezwen al achte yon ti akasan."
+])

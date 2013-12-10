@@ -1,0 +1,1 @@
+showWord(["n.","Espas kote yon moun rete nan yon bilding. Mwen rete nan apatman nimewo 1.<br>"])

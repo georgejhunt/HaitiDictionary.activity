@@ -1,0 +1,1 @@
+showWord(["","Mou ki fèt nan peyi Kot-Divwa.<br>"])

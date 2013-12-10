@@ -1,0 +1,1 @@
+showWord(["v fr.","Revoke. Yo mete direktè a atè.<br>"])

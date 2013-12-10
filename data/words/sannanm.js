@@ -1,0 +1,2 @@
+showWord(["n. ","1. Gaga, kannannan, ki pa gen anpil aktivite sou li. Wozmon se yon sannanm, tout sa li ap fè pran yon pakèt tan.  2. 2. a. Ki pa gen aktivite sou li, loudo. Nèg sa a se yon eleman sannanm."
+])

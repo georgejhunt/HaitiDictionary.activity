@@ -1,0 +1,1 @@
+showWord(["n. "," Fèy papye ak tout kouvèti. Mwen te toujou sere kaye devwa mwen yo paske mwen te toujou fè bèl nòt.<br>"])

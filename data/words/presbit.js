@@ -1,0 +1,1 @@
+showWord(["a. ","moun ki pa ka wè byen lè yon bagay twò pre.<br>"])

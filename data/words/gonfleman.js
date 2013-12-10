@@ -1,0 +1,1 @@
+showWord(["n.","Endijesyon. Lotrejou mwen te gen yon sèl gonfleman.<br>"])

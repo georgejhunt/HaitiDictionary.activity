@@ -1,0 +1,1 @@
+showWord(["n. ","1. Bwason alkòl ki fèt an de etap; dabò yo fèmante ji kann (sik) apresa yo distile l pou separe alkòl (ki fèt pandan fèmantasyon an) epi kite dlo ak lòt pwodui dèyè. Nèg sa a ap bwè yon wòm Babankou.  2. Non kapital peyi Itali. Wòm se yon vil ansyen.<br>"])

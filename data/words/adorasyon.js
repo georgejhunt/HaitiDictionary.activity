@@ -1,0 +1,2 @@
+showWord(["n.","1. Egare pou, fou pou yon moun. Tout lajounen, Jan gen yon sèl adorasyon, se Mari, pitit madan Milo a li renmen. 2. Chante osnon seremoni legliz. 3. Aksyon yon moun ki ap adore. 4. chante espesyal yo chante nan seremoni pou lèmò."
+])

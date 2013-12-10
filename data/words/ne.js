@@ -1,0 +1,1 @@
+showWord(["n.","1. Kokad. Jan riban mare. Mwen pral koud yon rad ak ne mare padèyè pou pitit fi mwen an. 2. Makonnaj. Bay kòd la de ne pou li pa kase. 3. pati nan branch plant kote fèy yo tache.<br>"])

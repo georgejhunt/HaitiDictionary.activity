@@ -1,0 +1,1 @@
+showWord(["n. ","Apeprè 20. Kristòf se yon jennòm nan ventèn li.<br>"])

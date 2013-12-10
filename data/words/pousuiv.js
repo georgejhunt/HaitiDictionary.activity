@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Ensiste. Jera ap pousuiv pwojè a.  2. Suiv yon moun ak entansyon pou ou konnen kisa li ap fè, arete l osnon espyonen l. Lapolis pousuiv Jak joustan yo kenbe l. 3.  Chèche kont. Si ou kontinwe ap pousuiv Kalin, li ka ba ou yon souflèt. "
+])

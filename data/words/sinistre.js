@@ -1,0 +1,1 @@
+showWord(["n.","1. Moun ki pèdi tout sa yo te genyen apre yon dega tankou siklòn. Te gen anpil sinistre nan vil Jeremi.  2. Manje ak lòt bagay yo voye bay moun ki sot travèse yon dezas. Moun Jeremi yo resevwa bonkou sinistre apre siklòn nan.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Eta yon moun ki pa gen konesans. Madan Lwi nan koma depi yè.<br>"])

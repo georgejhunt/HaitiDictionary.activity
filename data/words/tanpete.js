@@ -1,0 +1,1 @@
+showWord(["","1. Bat kò. Sa ou genyen ou tanpete konsa a. 2. Leve kont. Kalo renmen tanpete.<br>"])

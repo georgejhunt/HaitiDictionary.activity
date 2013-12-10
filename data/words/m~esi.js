@@ -1,0 +1,1 @@
+showWord(["n. "," Mo yon moun di lè li apresye yon bagay. Gen moun ki toujou di mèsi paske yo byennelve.<br>"])

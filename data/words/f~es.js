@@ -1,0 +1,1 @@
+showWord(["n. ","Dèyè. Pa montre moun fès ou.<br>"])

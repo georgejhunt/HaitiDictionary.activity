@@ -1,0 +1,2 @@
+showWord(["np. ","Premye Minis Ayiti sou gouvènman Rene Preval. Woni Esmat fèt nan vil Kavayon nan dat 19 Oktòb 1940. Li se yon ekonomis agrikòl ki te etidye nan Inivèsite Santyago, nan peyi Chili ak nan inivèsite Eta Ayiti. Li te pwofesè nan peyi Meksik ak Ayiti."
+])

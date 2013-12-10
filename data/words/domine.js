@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Trakase, boulvèse. Pa kite pwoblèm ou yo domine ou. 2. Kontanple depi anwo. Mwen t al kay Babankou, etan mwen sou mòn nan mwen domine tout Pòtoprens. 3. Kontwole. Ti Resin domine Egnwa nan match yè a."
+])

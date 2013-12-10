@@ -1,0 +1,2 @@
+showWord(["n.","1. Femèl kòk. Bèt ki bay ze. Mwen ta manje yon ti poul an sòs ak nwa ladan l. Mwen pito poul di pase poul mou etranje a. 2. Apèsi, jòf. Mwen pa konn leson mwen jodi a, èske ou ta ban mwen yon ti poul?"
+])

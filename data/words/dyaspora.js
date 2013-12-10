@@ -1,0 +1,1 @@
+showWord(["n. ","tout moun ki sot nan yon peyi ki gaye nan lòt peyi.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","atitid ki montre dout ak ezitasyon.<br>"])

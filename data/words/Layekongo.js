@@ -1,0 +1,1 @@
+showWord(["","dans kongo ki gen yon mouvman ralanti.<br>"])

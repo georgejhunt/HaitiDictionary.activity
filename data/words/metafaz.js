@@ -1,0 +1,1 @@
+showWord(["n. ","(nan biyoloji) Etap nan repwodiksyon selil mitoz lè kwomozom yo separe epi deplase ale nan de ekstrèm (nan de pol).<br>"])

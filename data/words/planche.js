@@ -1,0 +1,1 @@
+showWord(["n. ","Atè yon kay ki fèt ak planch. Lik pral sire planche a.<br>"])

@@ -1,0 +1,2 @@
+showWord(["np. ","Enjenyè sivil, pastè batis, teyolojyen, evanjelis. Li fèt an 1930. Li fè karyè kòm pastè Ayiti, nan plizyè peyi Afrik ak Ozetazini. Li ekri plizyè liv evanjelizasyon. ALe Chrétien et la Politique@ 1982; AMartin Luther le Réformateur@ 1083; AContribution à l=Edification d=une Civilisation de l=Amour@ 1987; Marxistes, que nous Apportez-vous? 1989@; APlus Haut, Plus Loin Avec le Christ@, 1997; AEncore Plus Haut, Plus Loin Avec le Christ@, 1999."
+])

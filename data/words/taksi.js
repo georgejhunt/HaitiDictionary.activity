@@ -1,0 +1,2 @@
+showWord(["n.","Sèvis oto kote yon chofè kondui ou mennen ou ale kote ou bezwen an epi ou peye l pou kous la. Si ou prese pito ou pran yon taksi paske mwen gen plizyè wout mwen ap fè jodi a, mwen pap kapab ba ou woulib."
+])

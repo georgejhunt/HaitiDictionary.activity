@@ -1,0 +1,1 @@
+showWord(["v. "," Evite. Si yon moun ka egzante malè lavi li ap gen mwens pwoblèm.<br>"])

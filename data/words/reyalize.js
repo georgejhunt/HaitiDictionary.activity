@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Fè sa ki pat egziste vin reyèl. Moun ki reyalize konstriksyon sa a fò nan jenni. 2. Rann kont. Nou vin reyalize pito nou achte an detay.  3. Fè travay. Li gen tan reyalize anpil travay anvan li ale. 4. Fè lajan. Konbyen kòb ou reyalize nan komès ou a?<br>"])

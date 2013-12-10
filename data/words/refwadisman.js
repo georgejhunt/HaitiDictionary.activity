@@ -1,0 +1,1 @@
+showWord(["n. ","Pran fredi paske ou soti nan cho ou al nan frèt san ou pa poze. Madan Gaston pran refwadisman.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Plant santi bon ki fè flè blan. Mwen gen yon pye jasmendenwi nan lakou lakay mwen.<br>"])

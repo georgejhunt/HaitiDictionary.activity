@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Santiman yon moun santi pou yon lòt moun. Gende moun ki gen anvi viv ansanm tout vi yo paske yo gen anpil lanmou youn pou lòt. 2. Aksyon yon moun poze lè li ap fè sèks. Gen moun ki fè sèks sèlman ak moun yo gen anpil lanmou pou li.<br>"])

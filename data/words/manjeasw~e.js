@@ -1,0 +1,1 @@
+showWord(["n fr. "," Soupe. Nan peyi m se labouyi yo pran pou manje aswè.<br>"])

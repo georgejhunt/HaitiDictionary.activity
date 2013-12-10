@@ -1,0 +1,1 @@
+showWord(["np.","1. Pòt antre ki nan bò sid Pòtoprens. Li ant Matisan ak Pòtoprens. 2. Katye kote pòtdantre sa a ye a. Mwen se moun Pòtay Leogann.<br>"])

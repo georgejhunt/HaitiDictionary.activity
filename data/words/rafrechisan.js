@@ -1,0 +1,1 @@
+showWord(["a. "," ki fè moun santi frechè. Fresko rafrechisan.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Karyonnen. Klòch legliz la ap sonnen.  2. Bay son. Radyo sa a sonnen byen. 3. Peze sonèt la. Nou sonnen kay Kalo.<br>"])

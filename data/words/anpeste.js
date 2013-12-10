@@ -1,0 +1,1 @@
+showWord(["v.","kote ki santi move pake ken yon bagay osinon yon bet ki ap pouri.<br>"])

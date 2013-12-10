@@ -1,0 +1,2 @@
+showWord(["n. ","1. Nenpòt bagay yon moun monte nan yon operasyon majik pou li ka fè dimal kont yon lòt moun osinon pou ka fè dibyen pou mèt afè-a. Gaston konn al fè wanga. Si li pèdi tout sa-l te posede, se ta ka yon wanga yo fè dèyè l. Cham yon oungan ositou yon bòkò prepare pou pwoteje yon moun."
+])

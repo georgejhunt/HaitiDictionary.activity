@@ -1,0 +1,1 @@
+showWord([""n"," a.",moun ki (an jeneral) pa kontan ak sa ki ap pase kounye a epitou ki gen enkyetid pou lavni.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","mouvman yon machin ki ap chanje direksyon. 2. koub ki sou yon wout.<br>"])

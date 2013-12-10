@@ -1,0 +1,1 @@
+showWord(["n. "," twal fi mete sou yo lè yo gen règ yo. Kounye a gen anpil moun ki pito sèvi ak kotèks pase yo sèvi ak lenj.<br>"])

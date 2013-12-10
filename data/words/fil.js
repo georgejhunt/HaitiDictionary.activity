@@ -1,0 +1,2 @@
+showWord(["n. ","1. Materyo ou file nan zegui pou moun koud. Pou mwen kapab koud rad ble sa a, se pou mwen al achte fil ble ak yon zip ble. 2. Materyo ki kondui kouran elektrik. Atansyon fil kouran an atè a."
+])

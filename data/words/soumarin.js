@@ -1,0 +1,1 @@
+showWord(["n. ","bato ki kapab deplase anba dlo. 2. a. ki anba dlo lanmè.<br>"])

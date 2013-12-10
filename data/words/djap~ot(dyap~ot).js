@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Gwolo. Kounye a mwen gen djapòt la, tout sa mwen vle mwen ka achte l.  2. Machin pou jwe aza. Mwen mete yon dola, mwen fè san dola nan djapòt. 3. Viktwa.  Ekip foutbòl nou an bay djapòt la. 4. Vomi. Li bay djapòt."
+])

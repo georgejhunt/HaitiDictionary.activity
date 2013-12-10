@@ -1,0 +1,1 @@
+showWord(["n. ","Epis ki gen fòm klou. Gen moun ki mete klou jiwòf nan janbon.<br>"])

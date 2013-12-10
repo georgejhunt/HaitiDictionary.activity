@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Marenn. Moun ki batize pitit yon moun. Madan Franswa se kòmè m, li batize ti gason m nan, Ti Andre. 2. Moun ou batize pitit li. Madan Bòs se kòmè m, mwen batize pi gran pitit li a."
+])

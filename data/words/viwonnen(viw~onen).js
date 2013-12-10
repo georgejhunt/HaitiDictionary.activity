@@ -1,0 +1,1 @@
+showWord(["v. "," Antoure. Li viwonnen kay la an plizyè fwa.<br>"])

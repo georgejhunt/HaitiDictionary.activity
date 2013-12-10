@@ -1,0 +1,1 @@
+showWord(["n. "," fon batiman. Tout machandiz yo nan lakal la.<br>"])

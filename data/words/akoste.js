@@ -1,0 +1,2 @@
+showWord(["v.","1. apiye.  Pa vin akoste ou sou mwen la a, mwen tou fatige.  2. ki al sou lakot, ki mare.  Mwen wè twa batiman meriken yo byen akoste nan rad la, mwen pa konn sa ya p fè ni pouki yo la. 3. Akonpaye. Gen de gad ki akoste madan Jera."
+])

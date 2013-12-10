@@ -1,0 +1,1 @@
+showWord(["v fr.","Pran devan pou defann yon kòz. Jaklin toujou ap pote labànyè nan koze liberasyon fanm.<br>"])

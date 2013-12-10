@@ -1,0 +1,1 @@
+showWord(["n. ","Pati anbabra. Anba zesèl.<br>"])

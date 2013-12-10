@@ -1,0 +1,1 @@
+showWord(["n.","Pyebwa ki bay fig won. <br>"])

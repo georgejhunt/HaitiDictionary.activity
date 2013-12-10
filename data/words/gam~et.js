@@ -1,0 +1,2 @@
+showWord(["n. ","selil repwodiksyon seksyèl aployid (aployid vle di ki gen yon grenn nan chak kromozom) Lè gamèt mal (espèmatozoyid) rankontre ak ze (ovil) nan reprodiksyon seksyèl yo fome yon zigot deployid (diployid vle di ki gen yon pè (2) nan chak kromozom, youn soti nan papa lòt la soti nan manman an.."
+])

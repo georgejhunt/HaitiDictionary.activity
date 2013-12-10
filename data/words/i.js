@@ -1,0 +1,1 @@
+showWord(["","lèt nan alfabè kreyòl.<br>"])

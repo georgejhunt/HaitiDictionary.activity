@@ -1,0 +1,1 @@
+showWord(["adv. "," Ak difikilte. Malad la pale malman. <br>"])

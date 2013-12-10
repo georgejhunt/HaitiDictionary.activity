@@ -1,0 +1,1 @@
+showWord(["n. ","konpetisyon pou elimine ekip ki mwen bon yo epi pou mete sa ki pi bon yo fas-a-fas.<br>"])

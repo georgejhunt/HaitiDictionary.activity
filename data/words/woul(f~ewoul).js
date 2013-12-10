@@ -1,0 +1,1 @@
+showWord(["","Ale flannen nan tan ki rezève pou fè yon pagay serye. Timoun sa yo pito al nan woul pase yo ale lekòl.<br>"])

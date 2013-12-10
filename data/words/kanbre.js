@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Kwochi. Pye timoun nan kanbre lèd. Tifi a kanbre kò l tankou li pare pou li goumen.<br>"])

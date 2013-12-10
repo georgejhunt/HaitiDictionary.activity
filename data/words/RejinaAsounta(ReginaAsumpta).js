@@ -1,0 +1,1 @@
+showWord(["np. ","Non yon lekòl mè katolik Okap. Se kongragasyon Mè Sentkwa ki ap dirije li.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Moso ou koupe ak kouto. Ban m yon tranch gato.<br>"])

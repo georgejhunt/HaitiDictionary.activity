@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Ale nan direkyon pi ba. Se chak jou dlo a ap desann.  2. Denigre. Mwen pa ta janm desann figi mwen pou mwen ta fè yon bagay konsa.<br>"])

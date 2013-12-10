@@ -1,0 +1,2 @@
+showWord(["n. "," Bèt ki gen anpil fòs nan janm dèyè li yo. Li kouri tankou l ap sote. Kangouwou gen yon pòch nan vant yo, se la yo pote ti bebe yo. Se nan Ostrali ki gen anpil kangouwou. Kangouwou se èbivò."
+])

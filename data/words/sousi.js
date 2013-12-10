@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pati nan figi yon moun, ki gen cheve anwo chak po je l. Madanm sa a dekore sousi l byen.  2. Refleksyon, pwoblèm. Yo di moun ki gen anpil sousi blanchi bonè. 3. Remèd fèy. Fè rafrechi fèy sousi pou chalè a."
+])

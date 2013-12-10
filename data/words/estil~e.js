@@ -1,0 +1,1 @@
+showWord(["","1. pwaya ki gen lam mens epi pwenti. 2. Zouti doktè pou fè operasyon. 3. pwent plim pou desinatè. 4. Pati nan bouch marengwen ki pwenti ki sèvi pou pèse po epi pou souse san.<br>"])

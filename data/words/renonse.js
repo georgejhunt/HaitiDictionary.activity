@@ -1,0 +1,1 @@
+showWord(["v. ","abandonne yon desisyon ou te pran anvan. Abandonne yon sitiyasyon.<br>"])

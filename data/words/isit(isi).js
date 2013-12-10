@@ -1,0 +1,1 @@
+showWord(["adv. ","Kote ou ye la. Mwen isit la pou de jou. 2. Kote tou pre la. Vin chita isit la-a.<br>"])

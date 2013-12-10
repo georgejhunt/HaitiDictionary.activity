@@ -1,0 +1,1 @@
+showWord(["n. ","non ki distenge chak moun nan menm fanmi ki gen menm siyati.<br>"])

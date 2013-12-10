@@ -1,0 +1,1 @@
+showWord(["n.","Ti batri. Sistèm ki konsève epi ki itilize kouran pou fè bagay elektrik mache. Gen moun ki sèvi ak pil (pou mete nan flach) lè pa gen kouran konsa yo pa nan blakawout. 2. Plizyè bagay ki plase youn sou lòt. Yon pil chabon. pil sou pil. 3. anpil. Yon pil moun. Sa fè m yon pil plezi. 4. Ekzat. Dezè pil.<br>"])

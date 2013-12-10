@@ -1,0 +1,1 @@
+showWord(["np. ","1. Non yo bay moun ki gen nasyonalite peyi Nijerya. Jak gen de zanmi nijeryen.  2. a. Ki pou peyi Nijerya. Teritwa nijeryen.<br>"])

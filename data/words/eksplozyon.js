@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo bri ki fèt lè yon bagay pete. 2. Kwasans ki fèt trè rapid.<br>"])

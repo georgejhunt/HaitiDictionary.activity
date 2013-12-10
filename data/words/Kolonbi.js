@@ -1,0 +1,1 @@
+showWord(["np. ","Peyi nan Amerik Disid. Kapital Kolonbi se Bogota.<br>"])

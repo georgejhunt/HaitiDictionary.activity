@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki ap rakonte istwa osnon ki ap tire kont. Bèti se yon bon tirèdkont.<br>"])

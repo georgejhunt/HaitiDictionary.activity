@@ -1,0 +1,1 @@
+showWord(["n. ","Yon bagay ki fè yon moun pèdi respè ak diyite li. 2. Ofans.<br>"])

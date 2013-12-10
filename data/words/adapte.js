@@ -1,0 +1,2 @@
+showWord(["v.","1. fè yon bagay vin akòde ak yon lòt.  Se mwen ki adapte kòd sa a nan aparèy la, li pat bon pou li anvan.  2.  chanje estil yon bagay.  Panyòl yo adapte mizik Tabou Konbo a, yo fè li tounen yon mereng ki pi cho toujou. 3. Reziyen, koube.  Mwen adapte m a sitiyasyon an, ki sa ou vle mwen fè.  4. ajiste, vin abitye avèk, chanjman ki fèt nan yon bèt osinon yon plant pou li ka viv epi siviv ak chanjman ki fèt nan anviwonnman li."
+])

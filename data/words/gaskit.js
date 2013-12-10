@@ -1,0 +1,1 @@
+showWord(["n. ","kawoutchou ki nan kouvèti pou li ka fèmen san fuit.<br>"])

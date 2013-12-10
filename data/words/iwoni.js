@@ -1,0 +1,1 @@
+showWord(["n. ","atitid ak pawòl pou pase moun nan betiz.<br>"])

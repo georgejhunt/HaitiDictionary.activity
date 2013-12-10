@@ -1,0 +1,1 @@
+showWord(["np. ","Vil nan kot Japon ki te detwi an Out 1946 paske Ameriken te atake ak bonm atomik. Se premye fwa yo te sèvi ak bonm atomik nan lagè.<br>"])

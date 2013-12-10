@@ -1,0 +1,1 @@
+showWord(["n. ","Bèt imajinè nan tradisyon kont. Pèsonn moun pa janm wè yon ze kalanderik.<br>"])

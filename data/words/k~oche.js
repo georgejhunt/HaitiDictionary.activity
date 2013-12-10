@@ -1,0 +1,1 @@
+showWord(["v. "," Blese. Ti gason an kòche janm li nan filfè a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v.","Pran responsabilite fè kichòy.  Se ou ki antreprann kokenn chenn pwojè sa a?Pran responsabilite fè kichòy.  Se ou ki antreprann kokenn chenn pwojè sa a?Pran responsabilite fè kichòy.  Se ou ki antreprann kokenn chenn pwojè sa a?<br>"])

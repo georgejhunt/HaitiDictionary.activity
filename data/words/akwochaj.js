@@ -1,0 +1,1 @@
+showWord(["n.","Kont. Pa mete mwen nan akwochaj ak pèson moun tande tifi.Kont. Pa mete mwen nan akwochaj ak pèson moun tande tifi.Kont. Pa mete mwen nan akwochaj ak pèson moun tande tifi.Kont. Pa mete mwen nan akwochaj ak pèson moun tande tifi.Kont. Pa mete mwen nan akwochaj ak pèson moun tande tifi.<br>"])

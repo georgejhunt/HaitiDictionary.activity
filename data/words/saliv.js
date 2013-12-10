@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Krache, likid ki fèt nan bouch sitou lè yon moun grangou. Kou ou palede griyo ak bannann bouch mwen plen saliv, mwen gentan grangou lamenm. 2. Likid nan bouch ki gen anzim ki patisipe nan dijesyon lanmidon ak sik."
+])

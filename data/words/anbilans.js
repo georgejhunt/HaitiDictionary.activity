@@ -1,0 +1,2 @@
+showWord(["n.","Machin espesyal pou transpòte moun ki malad ou byen ki blese ale lopital. Moun ki ap kondui anbilans yo konn prese lè yon gen yon ka grav yo ap mennen lopital, lèkonsa yo mete sirèn yo.  Mwen santi mwen ap endispoze, rele anbilans la pou mwen tanpri."
+])

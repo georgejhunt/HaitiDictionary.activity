@@ -1,0 +1,1 @@
+showWord(["n. "," Wayòm endyen lontan lontan Ayiti. Òganizasyon administratif nan sosyete endyen.<br>"])

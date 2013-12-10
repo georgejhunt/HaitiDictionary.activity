@@ -1,0 +1,1 @@
+showWord(["np. ","Non kretyen yo bay Bondye.<br>"])

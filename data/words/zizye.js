@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan poul (osnon lòt zwazo) ki manje grenn. Zizye se tankou yon pòch lestomak siplemantè.<br>"])

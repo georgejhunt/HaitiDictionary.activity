@@ -1,0 +1,1 @@
+showWord(["a. "," Ki pa gen gou. Manje a fad.<br>"])

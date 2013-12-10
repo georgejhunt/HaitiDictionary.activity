@@ -1,0 +1,1 @@
+showWord(["n. ","Grip. Pitit sa a gen yon tous ki pa vle lage l.<br>"])

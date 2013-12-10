@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki gen metye fè lesiv. Madan Chal se lesivyè pou monpè.<br>"])

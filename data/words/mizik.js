@@ -1,0 +1,1 @@
+showWord(["n. "," Se son ki soti nan gòj ou byen nan enstriman mizik sou yon ton ki agreyab. Pyano se yonn nan enstriman mizik mwen renmen anpil.<br>"])

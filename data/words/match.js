@@ -1,0 +1,1 @@
+showWord(["n. ","Konpetisyon ant de moun osinon ant de gwoup. Annou al jwe yon match foutbòl.<br>"])

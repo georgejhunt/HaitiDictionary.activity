@@ -1,0 +1,1 @@
+showWord(["n. ","Yon kwadrilatè (ki gen kat kote) ki gen kote fas-a-fas yo egal. Kay sa a sanble ak yon paralelogram.<br>"])

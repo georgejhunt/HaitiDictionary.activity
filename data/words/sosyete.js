@@ -1,0 +1,2 @@
+showWord(["n.","Relasyon ant plizyè moun ki gen kichòy an komen. Sosyete koukouy etabli nan plizyè peyi, manm yo ap ankouraje tout ekri liv an Kreyòl 2. Kontra kote plizyè moun antann yo pou yo met resous ansanm pou yo akonpli kichòy. 3. Òganizasyon 4. Konpayi. 5. Gwoup relijyon."
+])

@@ -1,0 +1,1 @@
+showWord(["","Lèt nan alfabèt kreyòl. Premye lèt nan mo kalòj se lèt k. 2. Fòm kout pou ki. <br>"])

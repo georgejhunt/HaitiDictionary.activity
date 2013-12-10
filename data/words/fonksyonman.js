@@ -1,0 +1,1 @@
+showWord(["n. ","jan yon machin osinon jan yon sistèm mache.<br>"])

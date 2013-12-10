@@ -1,0 +1,1 @@
+showWord(["n. ","1. Moun ki ap enseye. Pwofesè sa a ap anseye matematik.  2. Moun ki ap bay yon lòt yon seri enstriksyon. Pwofesè piyano a malad jodi a.<br>"])

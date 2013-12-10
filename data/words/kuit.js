@@ -1,0 +1,1 @@
+showWord(["v.","Mete yon manje kri nan dife joustan li pare pou moun manje l. Ou kapab kuit manje nan recho osnon nan fou. Gato ak pen patat se nan fou yo fè sa pran koulè.<br>"])

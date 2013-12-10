@@ -1,0 +1,1 @@
+showWord(["v.","pedi aktivite nan yon manm. 2. wouye. Lespri ki pa sevi vin ankiloze.<br>"])

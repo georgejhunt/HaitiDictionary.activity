@@ -1,0 +1,1 @@
+showWord(["n fr. "," Anvi vonmi. Fi ansent konn gen kè plen.<br>"])

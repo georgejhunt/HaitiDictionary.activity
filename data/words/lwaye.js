@@ -1,0 +1,2 @@
+showWord(["n. "," 1. lajan ou peye regilyèman pou yon kay ou lwe. Lwaye kay manman mwen an se sandola pa mwa. 2. Sitiyasyon yon moun ki ap peye pou l rete nan yon kay ki pa pou li. Mwen pa nan lwaye mwenmenm, si jodi mwen achte kay pa m!"
+])

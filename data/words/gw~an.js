@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pye palmis ki gen makòn mayi mare sou li. 2. Metòd pou seche ak estoke mayi sou pye palmis.<br>"])

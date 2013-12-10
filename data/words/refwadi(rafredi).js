@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Vin frèt. Manje a refwadi. 2. Manke enterè. Enterè tout moun refwadi pou yo soti paske lapli ap tonbe kounye a.<br>"])

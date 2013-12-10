@@ -1,0 +1,1 @@
+showWord(["n. ","Lè li ye si ti zegi a sou sis epi gwo zegi a sou douz. A sizè nou pral legliz.<br>"])

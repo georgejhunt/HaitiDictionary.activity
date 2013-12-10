@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan sistèm repwodiktif gason; grenn gason. Nèg sa a genlè malad nan testikil.<br>"])

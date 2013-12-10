@@ -1,0 +1,2 @@
+showWord(["n.","1. Gason ki fin grandi. Gason ki pa timoun ankò. Nèg mwen ap pale ou la se yon nonm bèl wotè, ki byen kanpe. 2. Mouche. Non yo bay yon gason yo pa respekte.  Nonm sa a pa sanble li konn sa li ap fè. Gade tande nonm, mwen pa nan rans avè ou tande. 3. Mari yon fi. Gaston se nonm mwen, mwen marye avè l depi twazan. 4. Gason ki plase ak yon fi san marye. Jozèf pa marye avè mwen men li se nonm mwen. 4. Valè nimerik. nonm antye."
+])

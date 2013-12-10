@@ -1,0 +1,2 @@
+showWord(["n. ","Gadyen. Moun ki responsab yon chantye, yon teren osnon yon biznis epi ki andwa rete souplas pou li veye l. Yon jeran ki gen anpil tè sou kont li konn plante jaden epi lè li rekòlte li pataje danre yo ak mèt tè a."
+])

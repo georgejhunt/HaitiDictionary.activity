@@ -1,0 +1,1 @@
+showWord(["n. ","1. envestisman. 2. Espas kote moun pral bati.<br>"])

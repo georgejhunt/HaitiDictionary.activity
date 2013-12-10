@@ -1,0 +1,1 @@
+showWord(["n. ","1. Nan moun ak bèt se gamèt femèl ki devlope nan ovè. Fekondasyon lè ovil ini ak espèmatozoyid. Semans fi. Nòmalman yon fi fèt ak apeprè 500000 (senksan mil) ovil nan ovè 2. Nan plant (botanik) se gamèt femèl plant ki vin tounen yon grenn apre fekondasyon. 3. Medikamn glisan ki fèt pou mete nan vajen.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Sal nan legliz katolik kote tout enstriman lamès estoke. Nenpòt ki moun pa dwe ale nan sakristi a.<br>"])

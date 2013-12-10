@@ -1,0 +1,2 @@
+showWord(["a. ","1. Pawòl ki pa asosye ak yon aksyon, koze met la. Kounye a, nou nan faz vèbal la, pita nou va pran kèk aksyon. 2. Pawòl nan bouch, ki pa asosye ak yon papye ekri. Kalo pat ban mwen yon kontra ekri, nou te gen mo vèbal konsa. 3. Ki pa gen valè, san konsekans. Sa se koze vèbal ou ap di la a. 4. Ki asosye ak yon vèb. Sistèm vèbal nan lang Kreyòl la."
+])

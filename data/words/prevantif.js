@@ -1,0 +1,1 @@
+showWord(["a. ","ki la pou anpeche yon move sitiyason rive.<br>"])

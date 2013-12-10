@@ -1,0 +1,1 @@
+showWord(["n. ","1. Souflèt. Jak bay Jera yon pataswèl. 2. Tit yon liv nan literati ayisyen.<br>"])

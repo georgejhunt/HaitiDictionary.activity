@@ -1,0 +1,2 @@
+showWord(["n. ","Manbràn (ti vwal) won ki gen koulè ki antoure pipiy je an, li genyen mis ki pèmèt li ajiste (louvri fèmen) gwosè pou louvri iris la pou kontwole kantite limyè ki ap antre nan je a. 2. Yon kalite plant."
+])

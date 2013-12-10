@@ -1,0 +1,1 @@
+showWord(["n fr. "," Ki pa kapab aprann fasil. Ala timoun gen tèt di papa.<br>"])

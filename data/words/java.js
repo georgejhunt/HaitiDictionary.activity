@@ -1,0 +1,1 @@
+showWord(["n. ","1. Maleng. Pitit la gen yon java ki refize geri.<br>"])

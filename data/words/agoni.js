@@ -1,0 +1,1 @@
+showWord(["n.","1. Etap lè yon moun pral mouri.  Mwen pa janm wè moun nan agoni. 2. Sitiyasyon difisil.1. Etap lè yon moun pral mouri.  Mwen pa janm wè moun nan agoni. 2. Sitiyasyon difisil.1. Etap lè yon moun pral mouri.  Mwen pa janm wè moun nan agoni. 2. Sitiyasyon difisil.1. Etap lè yon moun pral mouri.  Mwen pa janm wè moun nan agoni. 2. Sitiyasyon difisil.<br>"])

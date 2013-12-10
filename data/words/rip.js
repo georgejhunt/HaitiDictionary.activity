@@ -1,0 +1,1 @@
+showWord(["n. ","Pay bwa ou jwenn lè ou pase galè sou yon planch. Bòs la sere pay rip la pou limen dife.<br>"])

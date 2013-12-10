@@ -1,0 +1,1 @@
+showWord(["a. ","ki enplike lafanmi.<br>"])

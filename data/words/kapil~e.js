@@ -1,0 +1,1 @@
+showWord(["n. ","ti kannal sikilasyon san (ti venn ak ti atè piti); ti tib san ki konekte atè yo ak venn ki pi gwo yo.Kapilè pote manje vitamin ak lò bagay enpòtan nan selil yo.<br>"])

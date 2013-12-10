@@ -1,0 +1,1 @@
+showWord(["n. ","1. Poligòn ki gen senk ang epi senk kote. Bwat sa a gen fòm yon pentagòn. 2. Bilding santral depatman defans peyi Etazini. Pentagòn-nan nan vil Alinntonn nan eta Vijinya.<br>"])

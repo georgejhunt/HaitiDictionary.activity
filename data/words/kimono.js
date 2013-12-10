@@ -1,0 +1,1 @@
+showWord(["n. "," Yon kalite rad long moun mete nan kay. Gade bèl kimono ou genyen.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Ti poul. Manman poul sa a plen poulèt dèyè l.  2. Jenn tifi. Ti poulèt tankou ou pa dwe ap mache nan lari twòta.<br>"])

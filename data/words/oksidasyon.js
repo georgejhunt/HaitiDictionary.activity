@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Konbinezon ak oksijèn pou bay yon oksid. 2. Wouy. Fèfòje a sibi yon oksidasyon.<br>"])

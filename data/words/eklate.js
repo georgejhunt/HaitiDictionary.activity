@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Pete, esploze. Kawotchou a eklate nan mitan lari a.  2. Ri sibit ki fèt ak apeti. Timoun yo eklate ri paske mwen mande yo si yo se de sè.  3. Kòmanse, deklare. Lagè a eklate, tout moun se kouri al mete fanmi yo ansekirite."
+])

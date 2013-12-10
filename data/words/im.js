@@ -1,0 +1,1 @@
+showWord(["n. ","1. chante legliz. Im sa a toujou fè mwen sonje manman mwen. 2. Mizik ki gen yon valè patriyotik. Tout Ayisyen konnen im nasyonal yo rele Desalinyèn.<br>"])

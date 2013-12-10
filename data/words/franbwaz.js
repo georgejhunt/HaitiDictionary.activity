@@ -1,0 +1,1 @@
+showWord(["n. ","Fwi wouj ki sèvi pou fè konfiti ak jele. Mwen pa renmen franbwaz.<br>"])

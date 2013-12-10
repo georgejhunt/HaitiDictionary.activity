@@ -1,0 +1,2 @@
+showWord(["a. ","1. Merite pou moun renmen l. Lizèt se yon bon timoun , li emab anpil.  2. Sèvyab. ki renmen fè moun plezi. Anpil moun renmen Lizèt paske li emab, li toujou renmen rann moun sèvis. 3. Sosyab, janti. Moun nan magazen sa yo emab, se pou sa Silòt renmen ale achte la."
+])

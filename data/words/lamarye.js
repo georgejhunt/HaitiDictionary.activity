@@ -1,0 +1,1 @@
+showWord(["n. "," Fi ki pral osnon sot marye. Lamarye a bèl.<br>"])

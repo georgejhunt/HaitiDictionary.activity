@@ -1,0 +1,1 @@
+showWord(["n fr. ","Pasyans. Pa gen san sipòtan.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Alèz; tout bagay materyèl ki fè yon moun santi li byen.. Jan se nonm ki renmen konfò.<br>"])

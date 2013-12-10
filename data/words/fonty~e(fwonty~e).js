@@ -1,0 +1,1 @@
+showWord(["n. "," Limit ant de teritwa. Mwen ale sou fontyè Ayiti ak Dominikani an toutan.<br>"])

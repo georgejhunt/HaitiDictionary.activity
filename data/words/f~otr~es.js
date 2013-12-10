@@ -1,0 +1,1 @@
+showWord(["n. ","yon espas fèmen ak bilding byen pwoteje pou mete zam ak militè epi pou òganize defans ak atak.<br>"])

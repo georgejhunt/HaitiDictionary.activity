@@ -1,0 +1,1 @@
+showWord(["n. ","machin ki sèvi ak fòs dlo (osinon vapè) pou li vire epi transmèt mouvman an bay yon lòt machin (jeneratè) pou fè elektrisite.<br>"])

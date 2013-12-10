@@ -1,0 +1,2 @@
+showWord(["n. "," Alkòl ki fèt nan gildiv ak ji kann fèmante. Pou fè kleren, yo moulen kann, yo pran ji a epi yo mete levi pou li ka fèmante. Nan fèmantasyon an, bon mikwòb yo pran sik nan ji-a pou fè alkòl; kòm alkòl sa-a mele ak dlo, yo distile li. Nan distilasyon an, yo chofe melanj lan pou fè alkòl la evapore kite dlo a dèyè. Vapè alkòl la vin kondanse epi tonbe nan yon lòt veso. Gen moun ki di kleren se wonm pèp la."
+])

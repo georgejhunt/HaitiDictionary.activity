@@ -1,0 +1,1 @@
+showWord(["n. ","Metye moun ki repare vit. Edga se yon vitriye.<br>"])

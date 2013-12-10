@@ -1,0 +1,2 @@
+showWord(["n. ","Yon gwoup moun ki prete sèman pou yo tande temwayaj, poze kesyon nan yon pwosè epi ki bay desizyon yo baze sou agiman ki prezante devan yo. 2. Yon gwoup ekspè ki pou deside kilès ki pote laviktwa nan yon konpetisyon."
+])

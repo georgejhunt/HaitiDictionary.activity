@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ki ap travay. Tout travayè dwe touche nòmalman.  2. Moun ki ap fè travay manyèl. Konje sa a se plis pou travayè yo paske lòt anplwaye biwo yo te vin travay.<br>"])

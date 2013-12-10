@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti pou mete vis nan bwa osinon nan metal. Pote tounavis la prete m.<br>"])

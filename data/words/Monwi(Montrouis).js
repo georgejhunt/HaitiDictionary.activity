@@ -1,0 +1,1 @@
+showWord(["np. ","Seksyon kominal nan awondisman Akayè nan depatman Lwès.<br>"])

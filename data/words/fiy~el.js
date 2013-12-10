@@ -1,0 +1,1 @@
+showWord(["n. ","non yo bay relasyon yon timoun gen ak marenn li. 2. Relasyon ant yon moun ak yon lòt ki pwoteje l osinon ki ba l rekòmandasyon favorab.<br>"])

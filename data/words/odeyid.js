@@ -1,0 +1,2 @@
+showWord(["n. ","Rad dezyèm men ki soti nan peyi etranje Apre okipayon e sitou apre dezyèm gè mondyal, Ameriken te voye rès inifòm sòlda vin Ayiti. Gen moun ki te konn vann yo nan lari, pou bon mache. Kòm inifòm yo te gen menm koulè ak inifòm elèv lekòl Odeyid nan Pòtoprens non an vin parèt epi rete. Lè sou prezidans Kenedi rad dezyèm men vini Ayiti kòm don, yo vin rele rad sa yo kenedi. Odeyid ak kennedi ak pèpè tout se menm."
+])

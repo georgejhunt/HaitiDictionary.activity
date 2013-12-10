@@ -1,0 +1,1 @@
+showWord(["v fr.","Ekri sa ki ap pase a osnon sa yo ap di a. Grefye a pran nòt.<br>"])

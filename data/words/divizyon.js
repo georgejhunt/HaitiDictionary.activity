@@ -1,0 +1,1 @@
+showWord(["n. ","operasyon aritmetik pou divize yon valè an plizyè pòsyon.<br>"])

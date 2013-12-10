@@ -1,0 +1,1 @@
+showWord(["","Non syantifik pou moun. Omo se non jan-an epi sapyens se non espès-la. Jan ak espès se de non ki defini bèt ki nan menm kategori osinon ki kapab repwodui. Gen yon sèl espès ki rele Omo sapyens.<br>"])

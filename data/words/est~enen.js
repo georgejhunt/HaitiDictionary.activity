@@ -1,0 +1,2 @@
+showWord(["v.","Reflèks kontraksyon epi yon ak ekpilsyon ki soti nan gòj ak nan nen yon moun pou debloke nen l, lè gen yon eksitasyon / estimilasyon nan nen l. Depi mwen estènen anpil, mwen pral gripe."
+])

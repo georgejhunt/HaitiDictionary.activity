@@ -1,0 +1,1 @@
+showWord(["n fr. "," 1. Kantite ki ase gwo pou li chita nan pla men yon moun. Ban m yon ponyen men diri. 2. Lanmen. Jak gen yon jan li souke tout bra ou lè li ap ba ou yon ponyen men.<br>"])

@@ -1,0 +1,2 @@
+showWord(["np. ","Entelektyèl, senatè, ekriven, oratè, jounalis, medsen, teyorisyen, diplomat. Li fet 15 oktòb 1876 nan komin Grann-Rivyèdinò, nan depatman nò, sou gouvènman Bwawon Kanal. Papa l (Jan E. Mas) te yon komèsan epitou li te depite. Non Pras la soti pou leve non yon bon zanmi papa l ki te rele Anibal Pras (Hannibal Price). Manman li te rele Fòtina Dèlkou Michèl (Fortuna Delcourt Michel). "
+])

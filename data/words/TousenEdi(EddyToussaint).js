@@ -1,0 +1,2 @@
+showWord(["np. ","Atis, dansè pwofesyonèl, koregraf. Li te fèt Okap an 1946, li te kòmanse etidye dans depi laj sizan nan Akademi dans Lavinya Wilyams, Pòtoprens. A dizan li te deja Monreyal, Kanada. Pandan sèzan, li te direktè Ales Ballets de Montreal@. Li vin viv Sarasota Florida. Li vin direktè atistik Ales Grands Ballets D=Haiti@ epi kolabore ak Lekòl Balè Rejin Monwozye Touyo (Régine Montrosier Trouillot)."
+])

@@ -1,0 +1,1 @@
+showWord(["v. ","1. Konsantre zye pou tire sou yon bagay. Vize byen pou ou ka pran jibye a. 2. Konsantre efò pou jwenn yon plas osinon yon bagay. Li vize plas minis la.<br>"])

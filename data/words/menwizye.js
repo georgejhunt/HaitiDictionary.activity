@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki espesyalize nan fè mèb an bwa. Jak se menwizye.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","ki mache ak fòs dlo osinon fòs likid. Yon machi ki mache lè yo fòs dlo nan yon kote pou deplase yon pati ki yon lòt kote. Fren idwolik.<br>"])

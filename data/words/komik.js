@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Ki fè moun ri. Mwen renmen rete bò kote ou paske ou toujou ap fè mwen ri, mwen pa janm rankontre yon moun pi komik pase ou. 2. ti liv ki gen blag ladan l. Mwen pap sòti jodi a, mwen ap ret li detwa komik pito."
+])

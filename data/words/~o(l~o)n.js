@@ -1,0 +1,1 @@
+showWord(["n. ","Metal ki gen anpil valè. Bag an ò<br>"])

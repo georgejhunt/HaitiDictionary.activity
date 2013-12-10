@@ -1,0 +1,2 @@
+showWord(["n. ","Likid pi ki soti nan yon klou maleng. Lè klou a te resi pete, se yon gwo kalmason ki te soti ladan l. 2. Bèt dlo osinon bèt tè ki gen kò mou (molis) ki kache nan yon koki ki gen fòm espiral epi ki deplase."
+])

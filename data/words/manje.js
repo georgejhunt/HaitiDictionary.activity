@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Tout sa moun osinon bèt ka vale pou nouri kò li. Diri ak pwa se manje Edwa renmen.  2. v. moulen kichòy ak dan epi vale li pou apeze grangou. Mete nouriti nan kò. Li manje de fwa chak jou. 3. Depanse san lòd. Jan manje kòb magazen an.<br>"])

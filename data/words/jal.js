@@ -1,0 +1,1 @@
+showWord(["n. ","kontraksyon pou jeneral.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","1. pwonon pèsonèl ki reprezante yon moun osinon yon bèt. Li di konsa se pa atè isit li sòti. Li pat konn ki wout pou l te pran pou li te dekoupe chemen an. Li konnen kounye a. Se pa li ki di sa, se lòt moun ki t ap pase la a ki di sa, li ale, men mwen pa rekonèt li. 2. dechifre yon mesaj ki ekri. Mwen pa konn li, ki sa papye sa-a di la-a."
+])

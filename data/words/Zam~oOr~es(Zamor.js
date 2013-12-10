@@ -1,0 +1,1 @@
+showWord(["np.","Prezidan Ayiti pandan 9 mwa ant Fevriye rive nan mwa Oktòb 1914.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Ekspè sou koze lalwa.<br>"])

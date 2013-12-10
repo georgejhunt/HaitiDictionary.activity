@@ -1,0 +1,1 @@
+showWord(["n. ","nan mamifè se yon sak ki vlope testikil ak tib ki asosye ak testikil yo<br>"])

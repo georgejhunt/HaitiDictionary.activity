@@ -1,0 +1,1 @@
+showWord(["n fr. "," Kay ak etaj. Nou gen yon kay chanmòt nan vil Jakmèl.<br>"])

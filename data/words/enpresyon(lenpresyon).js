@@ -1,0 +1,2 @@
+showWord(["n. ","1. Efè yon bagay fè sou santiman yon moun. Jozèt kite yon bon enpresyon nan kè timoun yo. 2. Anprent, tras, mak yon bagay fè sou yon lòt. Mak pye li kite enpresyon sou dal la. 3. Rezilta lè ou enprime kichòy sou papye. Kalite enpresyon an pa bon, manke kontras."
+])

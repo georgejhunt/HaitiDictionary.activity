@@ -1,0 +1,1 @@
+showWord(["np. "," Kòmandan anchèf lame Dayiti. Li te vin prezidan peyi Ayiti ant 11 jen 1874 a 15 avril 1876. Se sou prezidans li relasyon ant Ayiti ak Dominikani te vin amelyore.<br>"])

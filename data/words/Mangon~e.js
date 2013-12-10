@@ -1,0 +1,1 @@
+showWord(["np. ","Youn nan achitèk ayisyen ki dirije reparasyon nan sitadèl Laferyè.<br>"])

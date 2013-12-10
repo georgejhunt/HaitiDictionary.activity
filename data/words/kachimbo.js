@@ -1,0 +1,1 @@
+showWord(["n. ","Pip ki fèt ak tè kuit ak moso banbou. Manzè Woza rale kachimbo li.<br>"])

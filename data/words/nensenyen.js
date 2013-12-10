@@ -1,0 +1,1 @@
+showWord(["n fr. "," Emoraji nan nen. Pitit sa a soufri nen senyen.<br>"])

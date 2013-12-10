@@ -1,0 +1,1 @@
+showWord(["(filozofi) n.","1. Dènye àne lekòl segondè. Ane sa a Jan ap desann filo. 2. Pati nan konesans ki konsène rezonman. Filo pèmèt moun devlope yon atitid rasyonèl. <br>"])

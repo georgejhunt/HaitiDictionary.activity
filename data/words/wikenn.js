@@ -1,0 +1,1 @@
+showWord(["n. ","konje samdi ak dimanch.<br>"])

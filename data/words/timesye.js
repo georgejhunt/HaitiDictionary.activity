@@ -1,0 +1,1 @@
+showWord(["n fr. ","Gwoup jèn gason. Ti mesye yo al silema aswè a.<br>"])

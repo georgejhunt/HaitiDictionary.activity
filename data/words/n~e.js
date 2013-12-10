@@ -1,0 +1,2 @@
+showWord(["n. ","seri selil espesyalize ki tache ansanm epi ki konekte ògàn yo ak sistèm nè a ak sèvo a. Li pote siyal soti nan sèvo a ale nan tisi ak ògàn yo, li pran enfòmasyon soti nan ògàn yo ale nan sèvo a."
+])

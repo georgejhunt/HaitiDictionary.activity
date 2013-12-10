@@ -1,0 +1,1 @@
+showWord(["n. ","Veso pou met tabak. Tabatyè a plen tabak.<br>"])

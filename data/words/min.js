@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ekspresyon figi. Fi sa a gen move min.  2. Pati santral nan kreyon. Kreyon ak min. 3. Teren kote yo kapab jwenn metal. Min aliminyòm. 4. Bonm ki kache anba tè. Nan tan lagè, lennmi an konn mete min pou touye advèsè li yo."
+])

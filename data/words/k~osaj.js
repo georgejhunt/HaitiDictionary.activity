@@ -1,0 +1,1 @@
+showWord(["n. "," rad fi mete pou kouvri bout anwo yo. Mwen renmen met jip ak kòsaj lè mwen pral travay.<br>"])

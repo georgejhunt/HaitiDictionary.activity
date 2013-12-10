@@ -1,0 +1,2 @@
+showWord(["n.","1. Kote ki gen ekipman pou moun fè travay.  Mwen pral nan atelye a pou mwen al chache kèk zouti.  2. Reyinyon, sesyon travay kote espesyalis mete tèt ansanm pou yo debat yon sijè.  Mwen pap gentan ale nan atelye sa a, ale ou menm wa di mwen ki sa yo di."
+])

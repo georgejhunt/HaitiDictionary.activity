@@ -1,0 +1,1 @@
+showWord(["n. ","1.  Melanj siman ki yon jan graj pou fè finisyon sou yon mi. Mete krepi a sou mi an.  2. v. Mete melanj siman graj sou yon mi. Jan ap krepi mi an.<br>"])

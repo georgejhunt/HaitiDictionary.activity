@@ -1,0 +1,1 @@
+showWord(["n. ","Plas kote yo fè batay kòk kalite. Annou al nan gagè.<br>"])

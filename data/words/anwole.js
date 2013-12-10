@@ -1,0 +1,1 @@
+showWord(["v.","Anrejistre.  Twaka moun ki anwole yo pap pase egzamen an.Anrejistre.  Twaka moun ki anwole yo pap pase egzamen an.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v fr.","Fè chèlbè. Msye fè enteresan tèlman fi a oblije ri li. <br>"])

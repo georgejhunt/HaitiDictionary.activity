@@ -1,0 +1,2 @@
+showWord(["n. "," Manje dous, amizman sikre, mezi yon bouche, ki fèt ak sik, dlo epi koloran; yo fèsik la kristalize epi yo koupe an ti mòso; souvan yo vlope sirèt nan yon ti papye selofàn. Sirèt sa a gen gou sitwon."
+])

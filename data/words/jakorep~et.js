@@ -1,0 +1,1 @@
+showWord(["n.","1. Jako ki toujou ap repete son li tande.  2. Moun ki ap repete sa yon lòt moun di. Ou se yon jakorepèt.<br>"])

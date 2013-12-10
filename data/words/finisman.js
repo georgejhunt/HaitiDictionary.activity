@@ -1,0 +1,1 @@
+showWord(["n. "," Fen. Se nan finisman an ou va resi konprann liv la. <br>"])

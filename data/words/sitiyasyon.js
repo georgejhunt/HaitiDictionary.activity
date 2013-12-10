@@ -1,0 +1,2 @@
+showWord(["n.","Kondisyon reyalite a jan li ye a. Nan sitiyasyon sa a, ou oblije pran yon desizyon vit. 2. Malè, antrav. Mwen pat konnen se nan yon sitiyasyon konsa ou te ye pitit, ou ta di mwen sa."
+])

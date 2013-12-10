@@ -1,0 +1,1 @@
+showWord(["n. ","sistèm gouvènman ki mete tout pouvwa nan men yon sèl moun. Rejim politik ki tabli pouvwa nan men yon wa ki ka pase pouvwa a bay pitit li.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n fr. ","Moun ki pa gen cheve nan tèt li. Jan tèt kale.<br>"])

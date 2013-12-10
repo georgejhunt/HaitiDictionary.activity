@@ -1,0 +1,2 @@
+showWord(["v.","1. Pale fò. Pa rele sou mwen tande, mwen pa timoun ki rete avè w. 2. Kominike ak yon moun. Mwen te rele Kawòl lotrejou, men li pat la. 3. Kriye. Pitit la tèlman rele, se kay doktè mwen mennen l."
+])

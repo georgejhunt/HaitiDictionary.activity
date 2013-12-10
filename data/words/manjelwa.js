@@ -1,0 +1,1 @@
+showWord(["n fr. ","Seremoni pou bay lwa manje.<br>"])

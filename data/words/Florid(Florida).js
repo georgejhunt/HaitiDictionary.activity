@@ -1,0 +1,1 @@
+showWord(["np. ","Youn nan eta peyi Etazini kote gen anpil Ayisyen ak Kiben.<br>"])

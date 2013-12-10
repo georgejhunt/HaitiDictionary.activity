@@ -1,0 +1,1 @@
+showWord(["pr.","1. Yon sèl. Nou gen yon konpyoutè nan klas nou an. Lapòs la vini lakay la yon fwa chak jou.<br>"])

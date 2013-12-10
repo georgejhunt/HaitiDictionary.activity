@@ -1,0 +1,2 @@
+showWord(["n. ","Pati andedan tèt yon moun ki jere fonksyonman kò a. Yon mas tisi nè nan tèt vètebre, se pati prensipal sistèm nè a, se sant panse, se ògàn ki resevwa estimilasyon sans yo (vizyon, tande, touche, odè, gou) epi ki kontwole repons miskilati yo. Sèvo a gen matyè gri (ki plis sou deyò) ak matyè blanch (ki plis sou anndan). Doktè pral opere Tifrè nan sèvo."
+])

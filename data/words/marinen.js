@@ -1,0 +1,1 @@
+showWord(["v. ","Tranpe vyann nan ji zoranj si ak epis. Vin marinen vyann nan.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","1. Poutèt. Se paske ou ap vini ki fè mwen pa soti. 2. Akoz. Se paske mwen konnen ou se yon moun ki serye ki fè mwen ret tann ou. 3. Kòm. Paske mwen te achte ak tout kòb mwen an, mwen te oblije mande kredi."
+])

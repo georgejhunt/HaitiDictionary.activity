@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Zouti tankou yon eskalye, an bwa osnon an metal, ki fèt ak de ba vètikal ki lye ak yon pakèt ba orizontal pou moun ka monte desann. Prete m yon echèl pou mwen ka monte sou do kay mwen an. 2. Grad. Msye monte jous nan echèl ki pi wo nan konpayi kote li ap travay la."
+])

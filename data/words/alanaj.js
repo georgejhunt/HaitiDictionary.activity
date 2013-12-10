@@ -1,0 +1,1 @@
+showWord(["adv.","naje nan dlo pou deplase.naje nan dlo pou deplase.naje nan dlo pou deplase.<br>"])

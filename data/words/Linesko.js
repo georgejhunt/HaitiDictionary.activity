@@ -1,0 +1,1 @@
+showWord(["","al gade INESKO.<br>"])

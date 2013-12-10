@@ -1,0 +1,1 @@
+showWord(["n. ","rapò opoze ant de moun osinon ant de gwoup osinon ant de lide.<br>"])

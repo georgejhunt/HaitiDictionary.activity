@@ -1,0 +1,1 @@
+showWord(["a. ","ki pa pran responsabilite li. Ki pa merite konfyans.<br>"])

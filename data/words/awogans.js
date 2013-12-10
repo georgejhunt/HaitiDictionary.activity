@@ -1,0 +1,1 @@
+showWord(["n.","Ensolans. Mwen pa ka tolere timoun pale ak granmoun ak awogans.Ensolans. Mwen pa ka tolere timoun pale ak granmoun ak awogans.Ensolans. Mwen pa ka tolere timoun pale ak granmoun ak awogans.<br>"])

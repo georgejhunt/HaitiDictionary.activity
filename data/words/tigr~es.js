@@ -1,0 +1,1 @@
+showWord(["n. ","1. ekip foutbòl fi. 2. Femèl tig.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","antre nan afè lòt moun san envitasyon.<br>"])

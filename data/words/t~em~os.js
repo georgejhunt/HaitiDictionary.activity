@@ -1,0 +1,1 @@
+showWord(["n. ","Veso ki izole pou kenbe tanperati yon bagay. Jan al nan travay ak yon tèmos ji chak jou.<br>"])

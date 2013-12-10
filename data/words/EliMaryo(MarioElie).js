@@ -1,0 +1,2 @@
+showWord(["np. ","Ayisyen-Ameriken ki fèt Nouyòk epi ki jwe baskètbòl pwofesyonèl pwofesyonèl Ozetazini. Li te nan ekip chanpyon an de fwa 93-94 ak 94-95, nan Youstonn Wokèts (Houston Rockets). Apresa li vin jwe nan Sann Antonyo Espè (San Antonio Spur)[Zepon Sann Anntonyo]."
+])

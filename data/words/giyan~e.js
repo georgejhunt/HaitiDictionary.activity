@@ -1,0 +1,1 @@
+showWord(["a. ","1. Moun Giyàn. 2. Ki konsène Lagiyàn.<br>"])

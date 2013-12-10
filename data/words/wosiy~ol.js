@@ -1,0 +1,1 @@
+showWord(["n. ","ti zwazo ki konn chante. Tande wosiyòl la. <br>"])

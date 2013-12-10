@@ -1,0 +1,1 @@
+showWord(["n. ","fonksyonnman apre yon peryòd an pàn. 3. Gerizon.<br>"])

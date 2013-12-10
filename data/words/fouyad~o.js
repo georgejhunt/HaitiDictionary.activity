@@ -1,0 +1,1 @@
+showWord(["n. ","Kirye. Moun nan katye yo se fouyadò.<br>"])

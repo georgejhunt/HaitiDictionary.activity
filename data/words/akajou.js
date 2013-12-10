@@ -1,0 +1,1 @@
+showWord(["n.","Bwa di ki sèvi pou fè mèb. Mwen pral achte yon salon ki fèt bwa akajou.<br>"])

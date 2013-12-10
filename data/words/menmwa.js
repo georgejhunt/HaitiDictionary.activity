@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Sonje. Edga pa gen memwa.  2. Dokiman ekri alafen yon kou inivèsite. Klod pral prezante memwa li.  3. Kapasite sonje. Leyon pa gen memwa ditou.<br>"])

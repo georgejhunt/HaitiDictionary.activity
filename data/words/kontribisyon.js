@@ -1,0 +1,1 @@
+showWord(["n. ","1. Kotizasyon. Yo mande tout moun pou yo bay yon kontribisyon.  2. Taks. Tout moun te dwe peye kontribisyon yo nòmalman.<br>"])

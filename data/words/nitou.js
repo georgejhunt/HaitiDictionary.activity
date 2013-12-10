@@ -1,0 +1,1 @@
+showWord(["konj. "," Nonplis. Ou pa enterese lekòl nitou fanmi ou yo pa enterese ou.<br>"])

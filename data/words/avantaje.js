@@ -1,0 +1,1 @@
+showWord(["v.","Ki fè avantaj.  Li pa avantaje m ditou pou mwen ap travay san touche.Ki fè avantaj.  Li pa avantaje m ditou pou mwen ap travay san touche.Ki fè avantaj.  Li pa avantaje m ditou pou mwen ap travay san touche.Ki fè avantaj.  Li pa avantaje m ditou pou mwen ap travay san touche.Ki fè avantaj.  Li pa avantaje m ditou pou mwen ap travay san touche.<br>"])

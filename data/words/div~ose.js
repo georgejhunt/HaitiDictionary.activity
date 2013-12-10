@@ -1,0 +1,1 @@
+showWord(["v. "," Eta moun ki te ansanm epi ki legalman separe. Lyonèl divòse ak Beti depi ane pase.<br>"])

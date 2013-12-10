@@ -1,0 +1,1 @@
+showWord(["v.","gade yon moun delatètopye. Mwen pase mwen twaze Nòveli byen twaze.<br>"])

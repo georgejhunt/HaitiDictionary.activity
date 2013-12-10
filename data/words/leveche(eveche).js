@@ -1,0 +1,1 @@
+showWord(["n. ","Bilding kote kay ak biwo evèk la ye. Nou gen randevou nan leveche a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," jou ki vini apre lendi. Twazyèm jou nan semenn nan. Gen yon bon fim ki ap pase nan televizyon lòt madi.<br>"])

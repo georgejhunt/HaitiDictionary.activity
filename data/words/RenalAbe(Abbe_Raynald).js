@@ -1,0 +1,2 @@
+showWord(["np.","Pè Franse ki te ankouraje esklav yo revòlte. Dapre listwa, Tousen Louvèti te li liv li a ki rele ""Istwa Politik epi Filozofik nan Estil Kòmès nan Zile yo"". Liv sa a sanble te ankouraje nenpòt ki moun ki gen lespri òganizasyon pou òganize esklav yo pou goumen pou libète."
+])

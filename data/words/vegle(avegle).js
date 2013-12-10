@@ -1,0 +1,1 @@
+showWord(["v. ","Ki fè yon moun pa wè klè. Limyè flach la vegle je m.<br>"])

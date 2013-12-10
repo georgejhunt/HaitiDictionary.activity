@@ -1,0 +1,1 @@
+showWord(["","tyeke estènen.<br>"])

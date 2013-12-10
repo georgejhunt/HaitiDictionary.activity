@@ -1,0 +1,1 @@
+showWord(["adv. ","San vire. Ale toudwat.<br>"])

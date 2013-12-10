@@ -1,0 +1,2 @@
+showWord(["","non yon vil nan depatman Nòdwès. Se nan Mòl Sen Nikola Kristòf te ateri an 1492, li te rete pou pase nuit nan mòl la. Te gen akadyen ki te vin kache nan zòn nan an 1765. Se nan Mòl Sen Nikola jeneral Lama mouri 10 Jiyè 1810. "
+])

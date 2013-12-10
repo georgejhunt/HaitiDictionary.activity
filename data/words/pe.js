@@ -1,0 +1,2 @@
+showWord(["v.","Pa pale. Pe bouch ou, ou pa konn sa ou ap di la a. M pe, ou mèt pale. pe bouch, pe dan, pe dyòl. 2. Lèt nan alfabè; Ap@ se premye ak dènye lèt nan mo Apap@. patikil pwogresif rejyonal ki ranplase [ap] Am pe di ou yon sekrè@."
+])

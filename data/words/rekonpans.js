@@ -1,0 +1,1 @@
+showWord(["n. ","Kado ou resevwa pou yon bagay ou fè osnon ou merite. Pi gwo rekonpans yon elèv se pase nan egzamen.<br>"])

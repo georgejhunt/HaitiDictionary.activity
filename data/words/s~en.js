@@ -1,0 +1,2 @@
+showWord(["n. ","1. Lobo. Fi a fè yon sèn la a, moun kanpe sou de ran.  2. Zouti pou peche.  Mesye yo pran sèn yo pou yo al peche. 3. Seremoni nan legliz pwotestan lè moun yo manje pen epitou bwè diven kò senbòl kominyon. La sent sèn."
+])

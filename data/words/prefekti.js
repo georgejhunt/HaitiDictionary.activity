@@ -1,0 +1,1 @@
+showWord(["n. ","biwo ak fonksyon yon prefè.<br>"])

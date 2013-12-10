@@ -1,0 +1,2 @@
+showWord(["n. ","Bilding kote yo aprann moun li, ekri, metye, ladrès, teknik, analiz ak konsyans sosyal. Kote yo bay enstriksyon ak fòmasyon. Lekòl matènèl, lekòl diswa, lekòl primè, lekòl segondè, lekòl kouti, lekòl kuizin, lekò agikilti, lekòl riral, lekòl jeni, lekòl militè. 2. Gwoup ekriven atis osinon filozòf ki suiv menm teyori, men mouvman."
+])

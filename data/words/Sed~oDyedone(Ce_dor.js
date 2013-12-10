@@ -1,0 +1,2 @@
+showWord(["np.","Li fèt nan àne 1925 Ansavo. Se yon atispent rekoni ki te genyen pri meday lò nan Ekspozisyon Bisantnè a. Nan àne 1950, li te youn nan manm fondatè Asosyasyon Atis Ayisyen ak Fwaye Atizay Plastik la. Li patisipe nan ekspozisyon Ozetazini ak nan kontinan Ewòp tou. Se li ki fè penti nan bilding ayewopò Pòtoprens la. Li se yon konsiltan epi yon pwofesè tou pou Galri Nadè. Estil li sanble ak estil Sezàn epi ak Brak."
+])

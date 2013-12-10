@@ -1,0 +1,2 @@
+showWord(["n. "," Ki pa andwa deside pou tèt li menm si li granmoun. Moun ki pa lib, moun yo fòse travay san yo pa touche. Esklav yo te reprezante 90 pousan popilasyon Ayiti anvan revolisyon Sendomeng la, apeprè demi milyon moun. Yo te anrebelyon kont blan eksplwatè yo epi yo te pran endepandans yo finalman. Esklav yo pat janm byen trete. Blan yo te trete yo ak mechanste epi yo te abize yo, fè yo fè travay fòse. Yo te konn koupe zòrèy yo, koupe lang yo osnon kloure yo nan mi pou nenpòt ki ti bagay yo fè. Lè esklav yo vin revòlte, yo te touye epi ravaje kolon blan yo tou."
+])

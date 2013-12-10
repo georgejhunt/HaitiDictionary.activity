@@ -1,0 +1,1 @@
+showWord(["1. n "," moun ki pran egzil. Papa Tika te yon egzile ki te ap viv Anfrans. 2 v. Refijye. Mwen egzile mwen jous nan ziltik.<br>"])

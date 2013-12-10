@@ -1,0 +1,1 @@
+showWord(["","teknik pou vann kote achtè yo ap fè konpetisyon pou wè kiyès ki ka ofri plis pou yon machandiz.<br>"])

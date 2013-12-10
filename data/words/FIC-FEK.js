@@ -1,0 +1,1 @@
+showWord(["akw.","ale nan antre pou Frè Entriksyon Kretyèn<br>"])

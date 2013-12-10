@@ -1,0 +1,1 @@
+showWord(["n. "," 1. nan matematik chif osinon senbòl yo plase adwat yon lòt chif ki endike konbyen fwa chif agoch la ap miltipliye tèt li. 42 = 4x4 = 16. De (2) se ekspozan. 2. Ki ap patisipe nan yon ekspozisyon. Edika Vizyon te youn nan ekspozan nan dènye konkou liv Kreyòl ki te genyen Pòtoprens la.<br>"])

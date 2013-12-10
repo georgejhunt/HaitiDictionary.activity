@@ -1,0 +1,1 @@
+showWord(["n. ","Timoun ki pa byen devlope ni nan lespri ni nan kò. Pitit sa a petevi.<br>"])

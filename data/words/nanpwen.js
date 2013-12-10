@@ -1,0 +1,1 @@
+showWord(["adv. "," Pa genyen. Nanpwen luil pou fè manje.<br>"])

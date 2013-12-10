@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen womans. Fim womantik nan Rèks Teyat.<br>"])

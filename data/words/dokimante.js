@@ -1,0 +1,1 @@
+showWord(["v. ","Apiye yon piblikasyon (osinon yon agiman) ak dokiman valab.<br>"])

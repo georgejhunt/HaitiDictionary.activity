@@ -1,0 +1,1 @@
+showWord(["n fr. "," Kè sote. Li toujou gen kè sou biskèt.<br>"])

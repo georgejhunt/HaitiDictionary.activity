@@ -1,0 +1,1 @@
+showWord(["n. ","Sak an pay ki ka pote pakèt pwovizyon; yo konn sele bourik ak sakpay tou. Vin mete sakpay la sou bourik la.<br>"])

@@ -1,0 +1,1 @@
+showWord(["np.","Prezidan Ayiti ant 6 Me 1867 a 15 janvye 1870. Li te deklare tèt li prezidan avi epi li te diktatè tou. Yo te tire l jou ki te 15 Janvye 1870.<br>"])

@@ -1,0 +1,1 @@
+showWord(["adv.","andedan.andedan.<br>"])

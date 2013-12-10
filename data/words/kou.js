@@ -1,0 +1,2 @@
+showWord(["n. "," pati nan kò ki kole tèt ak kòf lestomak. Lè mwen bese tèt mwen anpil, kou mwen fè mwen mal. 2. Pèlen, sa yon moun mètdam fè. Mwen pa ta panse ou ta fè mwen yon kou konsa. 3. Frape. Pa ba l kou nan tèt, sa kapab fè l malad. Bay kou bliye, pote mak sonje. 4. Opòtinite. Jwèt kat la mongonmen, kounye a se kou pa m."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","pasaj pou yon sèl moun chante nan mizik.<br>"])

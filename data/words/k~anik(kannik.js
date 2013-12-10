@@ -1,0 +1,1 @@
+showWord(["n. "," Mab. Kànik sa a kòmanse grizon.<br>"])

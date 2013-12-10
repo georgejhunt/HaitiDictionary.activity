@@ -1,0 +1,1 @@
+showWord(["n.","1. Kontanman. Timoun yo fè pwonmnad la ak jwa nan kè yo. <br>"])

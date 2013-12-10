@@ -1,0 +1,1 @@
+showWord(["a.","Ki genyen kare.  Mwen ta mete rad akawo mwen an men li poko pase. 2. Non yo bay chèf gwoup peyizan ame nan zòn sid ki te alatèt lagè Pikè.<br>"])

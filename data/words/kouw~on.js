@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Sèk ki fèt ak flè ak fèy ki gen fòm won tankou yon bag yo mete sou tèt yon moun, yon sen osnon yon wa. Kouwòn wa a sot tonbe.  2. Aranjanman flè pou mete sou tonb moun mouri. Lè madan Vensan te mouri, li te resevwa anpil kouwòn."
+])

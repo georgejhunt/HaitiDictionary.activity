@@ -1,0 +1,1 @@
+showWord(["","1. n p. Moun ki soti nan peyi Jamayik. Mwen kontre yon Jamayiken debyen lotrejou.  2. a. Ki pou Jamayik. Rege se yon dans jamayiken.<br>"])

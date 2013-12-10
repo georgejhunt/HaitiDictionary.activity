@@ -1,0 +1,1 @@
+showWord(["v. ","bay vaksen pou pwoteje kont maladi. Pwoteje kont maladi.<br>"])

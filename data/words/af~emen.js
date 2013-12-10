@@ -1,0 +1,1 @@
+showWord(["v.","lwe yon kay osinon yon espas ki kalkile pa ane.lwe yon kay osinon yon espas ki kalkile pa ane.lwe yon kay osinon yon espas ki kalkile pa ane.lwe yon kay osinon yon espas ki kalkile pa ane.lwe yon kay osinon yon espas ki kalkile pa ane.lwe yon kay osinon yon espas ki kalkile pa ane.<br>"])

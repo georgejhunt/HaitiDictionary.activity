@@ -1,0 +1,2 @@
+showWord(["v.","1. Soutni, prezève, sipòte. Kenbe mwen fò, pa kite mwen tonbe. Kenbe kòb la pou mwen.Kenbe pipi a nou pre rive. 2. Pote. Mwen renmen kenbe tifrè m nan, li pa lou ditou. 3. Bare. Mwen kenbe ou jodi a. Kenbe chen an. 4. Kontinye, pa dekouraje. Kenbe fèm."
+])

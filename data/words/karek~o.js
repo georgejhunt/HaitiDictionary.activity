@@ -1,0 +1,2 @@
+showWord(["v fr.","1. Pran dèz kò, pran pozisyon aktif. Jan ak tout fanmi l kare kò yo pou yo vini rete lakay mwen an san depanse.  2. Pare pou goumen, met bab alatranp. Timoun yo kare kò yo pou yo te batay ak vòlè a."
+])

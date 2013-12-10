@@ -1,0 +1,2 @@
+showWord(["n. ","Koki won fòm oval yon bèt femèl ovipa ponn. Zwazo, ensèk, pwason, reptil ponn ze ki gen jèm pou fè yon pitit epitou li genyen manje pou pitit la siviv pandan detwa jou. Poul sa a ponn anpil ze. 2. Yon gwo selil pou repwodiksyon. 3. Selil repwodiksyon femèl."
+])

@@ -1,0 +1,1 @@
+showWord(["v. ","Fè konfyans.Mwen fye mwen sou sa ou di.<br>"])

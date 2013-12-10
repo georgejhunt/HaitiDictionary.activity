@@ -1,0 +1,2 @@
+showWord(["n.","Premye lèt nan alfabèt Kreyòl. A majiskil. 2. Atik defini ki vin apre yon mo ki fini ak yon vwayèl ki pa nazal. Mayo a. Palè a. 3. a. Gwoup san. Jan yo klasifye san moun pou transfizyon. Gwoup san mwen se A, ou menm ou se B negatif, Andre se O pozitif, Solanj se AB. 4. Patikil pou make posesif (sitou nan zòn nò Ayiti). Liv a Gaspa, liv a yo. 5. Senbòl elektrik pou anpè. A= 10.  6. Senbòl chimik ak fizik ki reprezante mas atomik. 7. Senbòl pou reprezante inite sifas. Ha, a, ca. (ekta, a, santya). 8. Patikil pou make fiti. Bondye a beni ou."
+])

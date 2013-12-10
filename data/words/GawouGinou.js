@@ -1,0 +1,2 @@
+showWord(["np. ","Gran papa Tousen Louvèti, wa nan peyi Arada (Arada se yon gwoup etnik ki nan pami Fon nan Dawome) nan Lwès Afrik actyèl Benen. Nan tan lontan wayom nan te gen Gana, Togo, Benen, yon pati nan Nigerya."
+])

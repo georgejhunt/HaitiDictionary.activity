@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen son ak imaj. 2. Metòd ki sèvi ak son epi imaj ansanm.<br>"])

@@ -1,0 +1,2 @@
+showWord(["np. ","Li fèt an 1898 nan vil Jakmèl, Ayiti. Ekriven, avoka, pwofesè Fransè nan Lise Petyon, Lise Nò Aleksi. Li te vin enspektè depatman di-travay nan Jeremi. Li ekri plizyè atik sou edikasyon nan plizyè jounal ak revi. An 1969 li pibliye yon woman kout an kolaborasyon ak Alfrèd Ika (Alfred Icart) ACarrefour Sans Visage@ Nouyòk, Société Haitienne de Publication."
+])

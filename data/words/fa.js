@@ -1,0 +1,1 @@
+showWord(["n. ","1. Baton parafin kolore fi mete sou bouch li pou li kapab parèt pi bèl. Adlin mete fa lè li ap soti.  2. Nòt mizik ki vini apre mi epi ki anvan sòl. Do re mi fa ... Fa minè<br>"])

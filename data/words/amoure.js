@@ -1,0 +1,1 @@
+showWord(["n.","gason ki renmen yon fi. <br>"])

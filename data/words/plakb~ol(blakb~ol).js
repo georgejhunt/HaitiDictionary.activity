@@ -1,0 +1,1 @@
+showWord(["n. ","Siraj pou fè soulye klere. Chany lan mete plakbòl sou soulye a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","gwoup kay ki fòme yon kominote riral.<br>"])

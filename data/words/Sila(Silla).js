@@ -1,0 +1,1 @@
+showWord(["np.","Kòmandan nwa ki te anrebelyon kont Lafrans. Li te nan lit la nan menm peryòd ak Desalin epi ak Tousen.<br>"])

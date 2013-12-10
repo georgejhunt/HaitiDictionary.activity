@@ -1,0 +1,2 @@
+showWord(["n.","1. Zouti fen, long ki gen yon pwent pwenti epi yon ti twou nan lòt bout la pou file fil pou koud. Si mwen te gen zegui mwen ta koud kote ki chire nan rad ou a pou ou. 2. Tray, traka, mizè. Pitit la fè fanmi l yo wè nan yon je zegwi."
+])

@@ -1,0 +1,1 @@
+showWord(["v. "," Pran atè. Vin ranmase mango ki tonbe yo.  2. Kontrakte. Papa Mirèy ranmase figi l kou li tande sa ki pase a.<br>"])

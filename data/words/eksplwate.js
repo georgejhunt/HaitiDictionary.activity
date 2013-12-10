@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Itilize, ekstrè. Yo ka eksplwate min aliminyòm nan Miragwàn.  2. Abize, pwofite, pran avantaj sou fòs travay yon moun san ba li pati li ta merite. Gen bòs ki konn eksplwate anplwaye li yo paske li konnen pa gen lwa ki pou pwoteje anplwaye yo. 3. Pwofite yon opòtinite."
+])

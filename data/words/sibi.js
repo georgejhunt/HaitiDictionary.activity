@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Sipòte. Jozèt pa ka sibi Jerad. 2. Soufri. Chal fè madan Chal sibi anpil difikilte. <br>"])

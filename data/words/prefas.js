@@ -1,0 +1,1 @@
+showWord(["n. ","pati nan yon kòmansman yon liv ki esplike sa otè a ta renmen lektè yo konnen anvan yo kòmanse li liv la. 2. Etap nan litiji legliz katolik.<br>"])

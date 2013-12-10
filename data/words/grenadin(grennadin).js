@@ -1,0 +1,2 @@
+showWord(["n.","Fwi tropikal, gwo tankou yon kowosòl, koulè deyò li jòn, andedan an gen anpil grenn; lè ou plati yo, gen yon ji ki soti ladan yo, ki bay ji grenadin nan. Grenadin se pami fwi Jeral pi renmen."
+])

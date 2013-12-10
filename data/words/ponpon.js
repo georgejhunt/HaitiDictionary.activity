@@ -1,0 +1,1 @@
+showWord(["n. ","flè atifisyèl ki sèvi pou dekore.<br>"])

@@ -1,0 +1,1 @@
+showWord(["adv. "," Ki kote. Kibò ou rete kounye a? <br>"])

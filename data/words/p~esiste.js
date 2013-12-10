@@ -1,0 +1,1 @@
+showWord(["v. ","ki pa branle nan opinyon li osinon nan aktivite li.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," tan ki pase apre chak swasant segond. Sa pran swasant minit pou fè inèdtan.<br>"])

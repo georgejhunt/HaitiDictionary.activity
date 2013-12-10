@@ -1,0 +1,1 @@
+showWord(["n. ","ekriven ki ekri woman.<br>"])

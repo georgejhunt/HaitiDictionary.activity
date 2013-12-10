@@ -1,0 +1,1 @@
+showWord(["n. ","Twou dèyè. Yo konn pran tanperati tibebe nan rektòm yo.<br>"])

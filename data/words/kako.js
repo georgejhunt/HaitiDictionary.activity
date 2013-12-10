@@ -1,0 +1,1 @@
+showWord(["n. "," Peyizan ki te òganize pou yo te fè lagè kont blan meriken ki te okipe peyi Ayiti. Kako yo te òganize pou yo te fè dega pandan okipasyon 1915 men gouvènman meriken ki t ap domine peyi a lè sa a te rive kontwole kako yo.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Koulwa. Pou ou antre nan salon an se pou ou pase pa koridò a anvan. 2. Lakou. Koridò Foumi se yon lakou kote ki gen anpil kay, wout pou ale nan kay sa yo tou piti, tankou yon koulwa. 3. Wout ki etwat. Pa gen plas nan koridò a pou mwen mete anyen, se yon ti pasaj tou piti li ye."
+])

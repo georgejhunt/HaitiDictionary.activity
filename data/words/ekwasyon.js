@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Fòmil ki montre idantite ant de valè. 2. Relasyon kondisyonèl ant de kantite ki depannde varyab koni osnon enkoni. /Pou rezoud yon ekwasyon, se pou ou kalkile valè varyab enkoni yo ki konfime ekwasyon an. Lè mwen tap fè matematik, mwen te renmen fè ekwasyon anpil.\"
+])

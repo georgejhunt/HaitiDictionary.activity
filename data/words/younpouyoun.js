@@ -1,0 +1,1 @@
+showWord(["","Pou chak youn gen yon lòt.<br>"])

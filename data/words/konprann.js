@@ -1,0 +1,1 @@
+showWord(["v.","Reyalize sans yon bagay. Mwen reyisi konprann matematik apre twazan depi mwen ap aprann li.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","Ki konène yon kongregasyon. Lekòl kongreganis.<br>"])

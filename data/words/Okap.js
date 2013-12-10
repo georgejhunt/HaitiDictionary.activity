@@ -1,0 +1,2 @@
+showWord(["np. ","Vil prensipal nan depatman nò. Okap se dezyèm vil peyi Ayiti. Li te kapital peyi a sou gouvènman Lwi Pyewo (16 Avril 1845-1 Mas 1846). Okap te rele Cap Français pandan Ayiti te yon koloni franse, li te vin rele Cap Henri sou wayom Anri Kristòf. Cap-Haitien se non franse pou lavi Okap."
+])

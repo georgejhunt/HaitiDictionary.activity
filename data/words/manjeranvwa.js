@@ -1,0 +1,1 @@
+showWord(["","manje sakrifis pou repouse move espri.<br>"])

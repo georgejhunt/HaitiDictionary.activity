@@ -1,0 +1,1 @@
+showWord(["n. ","senj ki gen pwal long.<br>"])

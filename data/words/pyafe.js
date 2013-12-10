@@ -1,0 +1,1 @@
+showWord(["v. ","Ponpe. Timoun yo ap pyafe sou kabann nan.<br>"])

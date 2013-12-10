@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Sa yon moun aprann kòm travay. Metye kòdonye pa rapòte anpil paske moun pa achte soulye chak jou. 2. Okipasyon. Metye li se mekanisyen.<br>"])

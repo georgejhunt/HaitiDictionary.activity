@@ -1,0 +1,1 @@
+showWord(["","gwo tiyo anba tè ki sèvi pou retire dlo ki sou deyò.<br>"])

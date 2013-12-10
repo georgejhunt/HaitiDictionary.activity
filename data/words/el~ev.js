@@ -1,0 +1,2 @@
+showWord(["n.","1. Etidyan lekòl anjeneral. Mwen te konnen yon elèv nan lekòl Lise Petyon, msye te toujou premye nan klas li. 2. Disip, moun, timoun kou granmoun, ki ap aprann nan men yon lidè. Paske lavi a toujou ap bannou leson, nou konnen nou se elèv ki pap janm fin aprann."
+])

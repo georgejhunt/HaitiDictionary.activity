@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Nimewo ki vini apre dizuit epi anvan ven. Mwen sot fè disnèf jou Ayiti. 2 Nonm antye ki vo dis plis nèf.<br>"])

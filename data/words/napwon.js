@@ -1,0 +1,1 @@
+showWord(["n. ","Twal ki sou tab osnon pou siye bouch. Napwon sa yo ale ak nap la.<br>"])

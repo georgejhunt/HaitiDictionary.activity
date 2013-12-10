@@ -1,0 +1,1 @@
+showWord(["v. "," Fèmen. Ou mèt kachte lèt la.<br>"])

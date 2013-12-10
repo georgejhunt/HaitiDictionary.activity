@@ -1,0 +1,1 @@
+showWord(["","Youn nan twa bato Kristòf Kolon te fè premye vwayaj li nan Nouvomond. Bato sa a te fè nofray epi moso l yo te sèvi pou konstrui yon fò bò vil Okap.<br>"])

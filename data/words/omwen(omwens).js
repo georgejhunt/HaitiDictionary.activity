@@ -1,0 +1,1 @@
+showWord(["adv. "," Sèlman. Omwen tout moun yo pa mouri.<br>"])

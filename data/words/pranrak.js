@@ -1,0 +1,1 @@
+showWord(["n.","Al nan kache. Depi se peryòd lachas tout zwazo pran rak.<br>"])

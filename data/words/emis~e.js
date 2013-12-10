@@ -1,0 +1,1 @@
+showWord(["n. ","yon moun yo voye an misyon espesyal.<br>"])

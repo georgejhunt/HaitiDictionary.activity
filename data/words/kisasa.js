@@ -1,0 +1,1 @@
+showWord(["pwo.","Sa sa ye? Ki sa sa ye la a?<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Non yo bay jenn tifi. Kote bèl ti dyal ki te konn vin wè ou a?<br>"])

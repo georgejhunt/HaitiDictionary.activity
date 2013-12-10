@@ -1,0 +1,1 @@
+showWord(["n. "," Aswè lè fènwa fèk parèt<br>"])

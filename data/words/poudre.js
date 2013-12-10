@@ -1,0 +1,1 @@
+showWord(["v. "," Mete poud sou kò ou. Manman pitit la poudre tout kò l.<br>"])

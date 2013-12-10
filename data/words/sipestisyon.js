@@ -1,0 +1,1 @@
+showWord(["n. ","konpòtman ak jès yon moun fè ak lespwa li ta ka enfliyanse Bondye ak Lespri yo.<br>"])

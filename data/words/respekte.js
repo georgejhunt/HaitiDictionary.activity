@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Aksyon pou ou trete yon moun, yon kote osnon yon bagay ak konsiderasyon epi politès. Respekte manman ou.  2. Kenbe sa ou te di, kenbe pawòl ou, gen diyite. Jak se moun ki respekte pawòl li. 3. Ki rekonèt sa ki valab, ki gen dwa, ki gen valè, menm si li pa dakò avèk li. Nou respekte opinyon ou. 4. Obeyi. Respekte règleman lekòl la.  5. Bay glwa, rekonèt kòm enpòtan. Pèp la respekte tradisyon karèm."
+])

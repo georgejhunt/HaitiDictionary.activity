@@ -1,0 +1,1 @@
+showWord(["n.","Sèk ki alantou pwent tete moun.<br>"])

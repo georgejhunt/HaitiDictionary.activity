@@ -1,0 +1,1 @@
+showWord(["n. ","Ti riban yo mete toutotou bòdi yon rad pou dekore li.<br>"])

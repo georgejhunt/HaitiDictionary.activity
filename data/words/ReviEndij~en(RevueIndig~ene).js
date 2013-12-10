@@ -1,0 +1,1 @@
+showWord(["","Jounal ki soti pou premye fwa an 1927. Li te la pou pwomouvwa fòlklò a epi ak tradisyon natif natal yo.<br>"])

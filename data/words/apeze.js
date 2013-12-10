@@ -1,0 +1,1 @@
+showWord(["v.","Kalme. Se pa de efò non mwen fè anvan mwen rive apeze Edwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Konpliman. Pwofesè yo fè lwanj elèv sa a.<br>"])

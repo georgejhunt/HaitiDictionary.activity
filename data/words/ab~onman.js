@@ -1,0 +1,1 @@
+showWord(["n.","Kontra pou resevwa yon sèvis osinon yon machandiz.  Madan Chal koupe abònman lèt bèf li a.<br>"])

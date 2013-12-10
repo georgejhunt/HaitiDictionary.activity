@@ -1,0 +1,1 @@
+showWord(["n. ","pati jòn anndan ze poul.<br>"])

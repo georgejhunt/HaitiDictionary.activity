@@ -1,0 +1,1 @@
+showWord(["n.","ezitasyon. Msye mache alataton joustan li resi rive devan pòt la.<br>"])

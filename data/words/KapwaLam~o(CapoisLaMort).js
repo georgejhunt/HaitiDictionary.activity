@@ -1,0 +1,2 @@
+showWord(["np. "," Moun ki te alatèt kont lame franse nan peryòd 1800 konsa. Istwa rapòte msye pat pè lagè, ni li pat pè mouri. Li mache anba bal ak kanno pou l dechouke lenmi l. Ni Ayisyen, ni Franse ki tap batay avè l te respekte jan msye te vanyan."
+])

@@ -1,0 +1,1 @@
+showWord(["adv. "," San detay. Li rakonte m istwa a gwosomodo.<br>"])

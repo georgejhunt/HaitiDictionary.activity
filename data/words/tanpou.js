@@ -1,0 +1,1 @@
+showWord(["Kon.","Olye pou. Tan pou mwen ta pati mwen ta pito rete kay marenn mwen.<br>"])

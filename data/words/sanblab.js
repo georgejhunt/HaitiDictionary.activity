@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ki sanble, dapre kretyente, nou tout se frè, nou se sanblab youn ak lòt. Kretyen yo panse nou te dwe viv byen ak sanblab nou yo.  2. a. Ki sanble ak yon lòt, idantik. De rad sa yo sanblab."
+])

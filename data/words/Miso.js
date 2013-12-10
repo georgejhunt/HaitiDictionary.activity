@@ -1,0 +1,1 @@
+showWord(["np. ","zòn rezidans nan Petyonvil.<br>"])

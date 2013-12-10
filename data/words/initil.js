@@ -1,0 +1,1 @@
+showWord(["a. ","1. Ki pa sèvi; san nesesite. Pa kanpe tankou yon moun initil. Tout vire tounen sa a te initil. 2. n. San itilizasyon. Ou se yon initil.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v.","Fwote pou netwaye. Vin foubi do m pou mwen.<br>"])

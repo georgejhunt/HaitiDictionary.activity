@@ -1,0 +1,1 @@
+showWord(["a. ","Ki sanble avèk; ki gen menm fòm avèk; ki fèt dapre yon plan ki te deside davans.<br>"])

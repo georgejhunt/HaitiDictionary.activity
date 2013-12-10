@@ -1,0 +1,1 @@
+showWord(["ent. ","entèjeksyon pou make sezisman.<br>"])

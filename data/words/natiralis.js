@@ -1,0 +1,1 @@
+showWord(["n. ","Byolojis ki espesyalize nan etid lanati ak obsèvasyon bèt ak plant.<br>"])

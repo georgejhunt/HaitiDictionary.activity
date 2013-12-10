@@ -1,0 +1,1 @@
+showWord(["n. ","twal tafta.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Kote dlo soti. Gen yon sous dlo padèyè teren sa a.  2. Referans, kote yon enfòmasyon soti. Moun ki di m sa a, se yon sous si.  3. Nich, kote ou jwenn anpil. Kalo te jwenn yon sous liv, se pa de liv li te konn pote lakay gratis."
+])

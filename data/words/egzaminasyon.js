@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Egzamen. Si se pat egzaminasyon sa a, nou pa tap janm konnen ki sa elèv yo vo. 2. Refleksyon. Lè Jera te gen pou li te chwazi ant Elizabèt ak Linda, msye te plonje nan yon egzaminasyon ki te di pou li paske li renmen tou de medam yo. 3.  Lapenn, enkyetid. Pa kite egzaminasyon anpòte ou, lapriyè pito."
+])

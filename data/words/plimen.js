@@ -1,0 +1,1 @@
+showWord(["v. ","Retire plim. Plimen poul la.<br>"])

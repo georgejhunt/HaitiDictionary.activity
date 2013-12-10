@@ -1,0 +1,1 @@
+showWord(["n. ","Gwoup atòm ki tache youn ak lòt. Atòm yo asosye youn ak lòt pou bay molekil.<br>"])

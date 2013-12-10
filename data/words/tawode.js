@@ -1,0 +1,1 @@
+showWord(["v. ","netwaye filte yon metal. Tawode vav nan silenn motè.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Jere lajan ak sajès, administre finans san gaspiye. Eske ou te ekonomize pandan ou tap travay la?  2. Sere lajan. Elizabèt te gen tan ekonomize jous li achte yon ti kay chanmòt. 3. Evite, epaye. Ekonomize m tout detay sou lavi nèg la, di m tou senpman poukisa ou panse li se yon mètdam."
+])

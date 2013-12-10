@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti pou mezire entansite kouran kontini ki pa fò; anpèmèt. <br>"])

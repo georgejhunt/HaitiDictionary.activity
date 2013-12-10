@@ -1,0 +1,1 @@
+showWord(["np. "," Kòmandan fòs naval ameriken ki te anvayi Ayiti nan ane1915 pou okipe peyi a. Li te vin nonmen tèt li chèf gouvènman peyi Ayiti.<br>"])

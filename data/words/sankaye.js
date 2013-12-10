@@ -1,0 +1,2 @@
+showWord(["n fr. ","1. Mak nwa ki fèt anba po yon moun apre li fin frape. Mak sa a se yon san kaye, se pou ta mete konprès sou li.  2. Lè pati likid nan san an separe soti nan pati solid la, li fè san kaye. Gade yon san kaye atè a, ki moun ki blese?"
+])

@@ -1,0 +1,1 @@
+showWord(["a.","Malpwòp. Se yon bagay ki pa fasil menm pou yon moun manje nan men moun ki salòp.<br>"])

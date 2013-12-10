@@ -1,0 +1,1 @@
+showWord(["n. ","Demach pou transfere dwa ak bye leta bay sektè prive.<br>"])

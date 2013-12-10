@@ -1,0 +1,1 @@
+showWord(["a. ","desen jewometrik ki gen tout kote li yo egal. Triyang ekwilateral.<br>"])

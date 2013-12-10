@@ -1,0 +1,1 @@
+showWord(["n.","Bann twal pou fè bèbèl nan cheve osnon nan rad tifi. Timoun lontan te joujou gen riban nan cheve yo.<br>"])

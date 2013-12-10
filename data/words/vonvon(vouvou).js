@@ -1,0 +1,1 @@
+showWord(["n. ","1. Gwo ensèk ki boudonnen. Mwen pa renmen lè vonvon yo ap fè bwi bò zòrèy mwen.  2. Estasyon radyo opozan ki te entèdi sou gouvènman F. Divalye.<br>"])

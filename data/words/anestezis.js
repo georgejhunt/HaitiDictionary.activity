@@ -1,0 +1,1 @@
+showWord(["n.","dokte ki espesyalize nan koze bay moun anestezi.<br>"])

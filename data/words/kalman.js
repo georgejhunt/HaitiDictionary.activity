@@ -1,0 +1,1 @@
+showWord(["n. ","Medikaman ki kalme moun. Alis se sou kalman li ye.<br>"])

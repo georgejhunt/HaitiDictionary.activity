@@ -1,0 +1,1 @@
+showWord(["n. "," Travay latè an ekip. Nou pral fè yon konbit.<br>"])

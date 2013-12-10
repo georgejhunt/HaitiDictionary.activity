@@ -1,0 +1,1 @@
+showWord(["n.","Vyann bèt yon chasè tiye. Chasè a pral pote jibye sa a lakay li.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","1. Malefis. Jan se moun ki kwè nan fetich. 2. Yon bagay yo bay yon pouvwa espesyal.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Tanperati kote fè frèt. Mwen pa renmen fredi.<br>"])

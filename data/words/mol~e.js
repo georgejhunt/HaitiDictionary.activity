@@ -1,0 +1,2 @@
+showWord(["n. ","1. Gwo dan dèyè nan macha mamifè yo ki adapte pou moulen manje. Moun gen douz dan molè, sis nan chak machwa (twa chak bò). 2. Molèt, pati posteryè nan janm yon moun, ant jenou ak cheviy. Lè li kouri, molè li fè l mal. 3. a. Nan domèn chimi li vle di ki gen relasyon ak mol (yon solisyon ki gen yon mol solite dilye pou bay yon lit solisyon)"
+])

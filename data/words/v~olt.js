@@ -1,0 +1,1 @@
+showWord(["n. ","inite pou mezire fòs yon kouran elektrik.<br>"])

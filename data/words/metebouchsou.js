@@ -1,0 +1,1 @@
+showWord(["v fr.","Predi malè. Granmoun nan mete bouch sou timoun nan.<br>"])

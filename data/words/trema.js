@@ -1,0 +1,1 @@
+showWord(["n. ","siy (an Fransè) ki ale sou vwayèl pou endike vwayèl la dwe pwononse separeman.<br>"])

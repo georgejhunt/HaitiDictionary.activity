@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Solid ki rete lè ou pase yon melanj nan paswa. Mwen fin fè sòspwa a, mwen pral jete ma a kounye a. 2. Pil dlo sal ak labou. Apre lapli toujou gen yon ma labou nan ri sa a. 3. pr. Mwen (mwen ap). Si ou pa sot devan mwen la a ma gade ou ma ba ou yon sèl kalòt."
+])

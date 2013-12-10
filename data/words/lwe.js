@@ -1,0 +1,1 @@
+showWord(["","1. Peye pa mwa osinon pa jou pou sèvi ak yon bagay. Lwe kay. 2. Fè lwanj. Lwe bonte Bondye.<br>"])

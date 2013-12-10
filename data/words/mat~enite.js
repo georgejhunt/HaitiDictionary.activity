@@ -1,0 +1,1 @@
+showWord(["n. ","peryòd anvan ak apre akouchman. 2. ki gen relasyon ak manman ti bebe. 3. Seksyon nan lopital ki rezève pou akouchman.<br>"])

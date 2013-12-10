@@ -1,0 +1,1 @@
+showWord(["n. ","Nan mizik se senbòl ki make 1/8 tan.<br>"])

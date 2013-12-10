@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Seri desen ki vle di yon bagay tankou yon kòd epi ki fè alfabèt a. A, B, C, jiska Z. Anvan yon moun konn ekri se pou l konnen tout lèt li yo. 2. Komisyon pa ekri yon moun voye bay yon lòt. Mwen resevwa yon lèt ki sot Nouyòk jodi a. 3. Dlo blanch ki soti nan femèl bèf la, osnon nan kò moun ki fin akouche. Tibebe se lèt sèlman yo bwè lè yo fèk fèt."
+])

@@ -1,0 +1,1 @@
+showWord(["","Elèv lekòl nòmal. 2. Moun ki diplome nan lekòl nòmal.<br>"])

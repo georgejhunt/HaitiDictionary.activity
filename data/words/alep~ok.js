@@ -1,0 +1,1 @@
+showWord(["adv.","1. alamòd 2. Nan tan pase1. alamòd 2. Nan tan pase<br>"])

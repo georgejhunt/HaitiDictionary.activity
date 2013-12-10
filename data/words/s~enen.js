@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Sèkle, kore, antoure yon moun osnon yon bagay pou ou pa kite l pase. Yo sènen sourit la joustan yo kenbe l. 2. Kenbe yon moun joustan ou fè l pale. Yo sènen Jera joustan li bay non tout lòt moun ki te nan koze a."
+])

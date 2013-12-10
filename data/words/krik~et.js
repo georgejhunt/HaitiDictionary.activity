@@ -1,0 +1,1 @@
+showWord(["n. "," Gwo ensèk ki fè bwi leswa. Mwen tande bwi krikèt yo deyò a.<br>"])

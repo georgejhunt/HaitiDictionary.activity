@@ -1,0 +1,1 @@
+showWord(["nfr.","Gwosès ki pa chita nan matris.<br>"])

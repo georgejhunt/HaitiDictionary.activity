@@ -1,0 +1,1 @@
+showWord(["n. ","Bèt domestik yo elve pou vyann. Mamifè ongile ak kòn. Moun ki konn kuit kabrit toujou di se pou ou chode vyann nan pou li pa santi di.<br>"])

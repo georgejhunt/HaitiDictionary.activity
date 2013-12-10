@@ -1,0 +1,1 @@
+showWord(["a. "," Ki pa tande. Janjan soud.<br>"])

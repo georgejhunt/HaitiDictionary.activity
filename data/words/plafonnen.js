@@ -1,0 +1,1 @@
+showWord(["v. "," Mete plafon. Kilè ou ap plafonnen kay la?<br>"])

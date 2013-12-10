@@ -1,0 +1,1 @@
+showWord(["","1. Fèy plant ki sèvi kòm remèd. Gen yon pye gi bò lakay la. 2. Non moun (gason). Mwen pral kot Gi.<br>"])

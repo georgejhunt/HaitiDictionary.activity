@@ -1,0 +1,2 @@
+showWord(["n. ","1. Bèt sovaj, pantè ki sot nan fanmi felide yo. Gen anpil leyopa nan kontinan Afrik. Gwoup paramilitè Janklod te mete soupye pandan gouvènman li an. Aliks se te yon manm nan kò leyopa a."
+])

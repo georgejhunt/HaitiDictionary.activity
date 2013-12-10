@@ -1,0 +1,2 @@
+showWord(["n. ","Kondisyon lè sante yon moun pa anfòm; lè pa gen sante. Gen maladi moun pran an mikwòb, gen maladi moun pran nan pwazon gen maladi kò a devlope tankou kansè, gen maladi moun devlope akoz estil lavi li; moun ki fimen devlope maladi nan sistèm respiratwa. Moun ki manje anpil epi ki vin obèz ta ka vin devlope maladi kè."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Fi ki marye. Madan Jozèf. 2. Yon fi. Madanm sa a ki fèk pase la a.<br>"])

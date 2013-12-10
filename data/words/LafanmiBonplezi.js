@@ -1,0 +1,1 @@
+showWord(["np. ","Tit yon woman nan lang kreyòl. Otè la fanmi Bonplezi se Mod Etelou.<br>"])

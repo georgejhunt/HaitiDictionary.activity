@@ -1,0 +1,1 @@
+showWord(["n.","Enflamasyon apendis.  Moun ki gen apenndisit dwe opere tousuit.<br>"])

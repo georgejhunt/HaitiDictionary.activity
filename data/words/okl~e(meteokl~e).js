@@ -1,0 +1,1 @@
+showWord(["","pote eksplikasyon. Klarifye yon sijè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","sitiyasyon ki konplike. Sitiyasyon ki anpire yon sitiyasyon.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","pati nan bouch ki kouvri zo machwa epitou ki kenbe dan yo.<br>"])

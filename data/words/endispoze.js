@@ -1,0 +1,1 @@
+showWord(["v.","Pèdi konesans. Depi li pran move nouvèl li toujou endispoze.<br>"])

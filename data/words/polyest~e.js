@@ -1,0 +1,1 @@
+showWord(["n. ","Twal sentetik ki fèt apatid plizyè molekil estè. Twal polyestè yo pa ka pran gwo chalè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki soti nan peyi Salvadò. Ennrike se moun Salvadò.  2. a. Ki pou peyi Salvaldò. Teritwa salvadoryen.<br>"])

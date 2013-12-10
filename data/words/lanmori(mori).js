@@ -1,0 +1,1 @@
+showWord(["n. ","Pwason sale seche. Lanmori ak bannann se bon manje.<br>"])

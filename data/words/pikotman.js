@@ -1,0 +1,1 @@
+showWord(["n. "," Sansayon yon pakèt ti zegi ap pike ou nan po ou. Pikotman kapab yon reyaksyon alèji.<br>"])

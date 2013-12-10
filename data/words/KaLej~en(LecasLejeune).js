@@ -1,0 +1,2 @@
+showWord(["","Lejèn se te yon blan ki te gen esklav nan tan lakoloni. Non l te nonmen paske pandan yo t ap envestige sou abi ki te fèt sous detwa esklav fi, msye te met lopozisyon nan envestigasyon an."
+])

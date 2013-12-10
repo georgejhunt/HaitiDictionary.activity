@@ -1,0 +1,1 @@
+showWord(["np. ","Tanbourinè ki pote pri Ozetazini pou teknik li nan bat tanbou. Li fèt Pòtoprens an 1948. Li te ansye tanbou nan Nouyòk epi li fè CD (sede) ki montre estil ak talan nan tanbou.<br>"])

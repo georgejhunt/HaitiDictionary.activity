@@ -1,0 +1,1 @@
+showWord(["n. ","1. Jou vandredi anvan dimanch Pak. Vandredisen vini anvan samdi dlo benit.  2. Jou legliz kretyen selebre lanmò Jezikri. Vandredisen raple lanmò Jezikri sou lakwa.<br>"])

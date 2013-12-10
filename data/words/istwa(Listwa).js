@@ -1,0 +1,2 @@
+showWord(["n. ","1. Vèsyon evenman jan yo te pase tout bon. 2. Fiksyon, vèsyon envante pou amize moun. 3. Eksperyans, ensidan. 4. Manti. 5. Vèsyon krondojik istwa reyèl ki pase tout bon nan lavi yon nasyon, yon zòn, yon pèp, yon moun, yon enstitisyon, eltr. 6. Evolisyon yon maladi sou yon pasyan. 7. Domèn konesans ki note, etidye, analize tout evenman ki pase nan yon sosyete."
+])

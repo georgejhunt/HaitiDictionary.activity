@@ -1,0 +1,2 @@
+showWord(["n. ","1. Rebitans, ki fè ou pa vle manje plis ankò. Wozlin pa renmen gou kalalou, li ba li repiyans. 2. Degoutans. Moun sa yo fè ou gen repiyans travay pou yo paske yo pa janm ka peye atan."
+])

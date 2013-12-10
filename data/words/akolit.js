@@ -1,0 +1,1 @@
+showWord(["n.","konpayon nan yon zak.<br>"])

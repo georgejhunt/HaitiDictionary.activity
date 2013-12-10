@@ -1,0 +1,1 @@
+showWord(["n. ","gaz petwòl pou mete nan lanp. Yo fè kewozin lè yo distile luil lejè ki soti nan petwòl brit. Se kewozin tou yo mete nan avyon areyasyon.<br>"])

@@ -1,0 +1,1 @@
+showWord(["np.","1879-1955; Espesyalis nan fizik. Li fèt nan peyi Almay epi li natiralize Ameriken. Li devlope teyori Relativite.<br>"])

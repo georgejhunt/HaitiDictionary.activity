@@ -1,0 +1,2 @@
+showWord(["v.","1. Fè wout; mache. Se toutan mwen pase la a. Pase tan, pase vakans; pase yon fim. 2. Olyede, alaplas. Mwen pito mayi pase diri. Konparatitif, plis...pase; depase. 3. Ki fini. Kont la fin pase, sispann pale sou sa. 4. Reyisi. L ap pase egzamen an kanmenm. 5. Atravè. Msye se yon nèg ki pase anpil peripesi nan lavi a. Koule, pase nan paswa. 6. Glise yon fè cho sou yon twal pou retire pli. Dechifonnen. Mwen paka met rad san pase 7. Fòm kontrakte pou di paske. 8. Limen. Pase limyè a pou mwen."
+])

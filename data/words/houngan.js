@@ -1,0 +1,1 @@
+showWord(["n. ","pè nan relijyon vodou.<br>"])

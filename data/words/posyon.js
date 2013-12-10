@@ -1,0 +1,2 @@
+showWord(["n. ","1. Preparasyon ki ka gen fèy ak kleren ladan l, moun pran swa kòm medikaman, swa kòm bwason osnon kòm remèd fèy ki sipoze gen pouvwa majik. Jera te ale kay yon ougan, yon ba li yon posyon pou li bwè. 2. Kantite, enpe. Gen yon posyon timoun ki pa renmen jwe ak poupe."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","plim ki kouvri kò yon bèt. Yo sèvi ak fouri pou fè manto pou moun ki rete nan peyi frèt paske fouri a kenbe cho anpil.<br>"])

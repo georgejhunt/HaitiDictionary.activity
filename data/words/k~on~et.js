@@ -1,0 +1,1 @@
+showWord(["n. ","Veso ki gen fòm kòn. Kònèt krèm.<br>"])

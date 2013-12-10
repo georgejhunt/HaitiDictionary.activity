@@ -1,0 +1,2 @@
+showWord(["n.","Nat mens moun mete atè pou yo dòmi. kabann san pwoteksyon ki fèt ak fèy kokoye trese yo mete atè pou moun dòmi. Prete mwen yon atèmiyò pou mwen lage kò mwen atè a pou mwen dòmi, mwen bouke kou sa m pa konnen."
+])

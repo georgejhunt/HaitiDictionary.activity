@@ -1,0 +1,1 @@
+showWord(["n. ","pasyon ak atachman moun gen pou akimile lajan ak byen materyèl.<br>"])

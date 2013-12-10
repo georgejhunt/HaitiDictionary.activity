@@ -1,0 +1,2 @@
+showWord(["v.","Poze kesyon, enfòme sou yon bagay, chèche yon favè. Mwen ap mande Erik si li wè ti chapo m lan. Mwen ap mande ki wout pou mwen fè. Mande mwen si ou vle yon lòt sandwich. Marya mande pou ede l louvri fenèt la. Pòv la mande yon ti manje."
+])

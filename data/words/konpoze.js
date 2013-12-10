@@ -1,0 +1,1 @@
+showWord(["","1. Melanj ki gen plizyè konpozan. Mwen konpoze yon bwason ki gen kannèl ak jenjanm ladan l. 2. Ale nan egzamen. Eske ou byen konpoze. 3. Prepare yon posyon. Jera konn konpoze bon remèd fèy.<br>"])

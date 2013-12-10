@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ekla limyè. Sal sa byen klere, gen yo bon radyasyon limyè toupatou ladan l.  2. Elimine. Direktè a mande pou yo fè radyasyon senkant pousan nan anplwaye yo.  3. Enèji reyon kap pwopaje, tankou reyon X osnon iltravyolèt.  Moun pa dwe ekspoze nan radyasyon san nesesite."
+])

@@ -1,0 +1,2 @@
+showWord(["","1. v. Pèdi tan, avanse san prese, pase anpil tan deyò ap fè aktivite san enpòtans. Ale vit, pa mize non mwen ap tann ou. 2. n. Kote yo koleksyone, rasanble epi etale bagay pou moun vin admire, apresye tou. Gen mize syans, mize istwa eltr. Klas mwen an te al vizite yon mize ki gen zo ansyen bèt ak ansyen wòch, li te enteresan anpil."
+])

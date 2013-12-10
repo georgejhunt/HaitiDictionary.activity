@@ -1,0 +1,1 @@
+showWord(["v.","1. Resevwa yon bagay ak antant pou ou remèt li. Ektò kite mwen prete paten l yo. Ann prete yon liv nan men mwen. 2. Mande pou ou itilize yon bagay men ou pwomèt remèt li. Prete mwen dis kòb pou mwen achte fresko.<br>"])

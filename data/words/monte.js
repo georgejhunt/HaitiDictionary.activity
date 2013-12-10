@@ -1,0 +1,2 @@
+showWord(["v.","1. Mete ansanm, ranje. Monte pye tab yo pou mwen tanpri. 2. Ki prale anwo. Mwen rayi monte eskalye sa a, li fè janm mwen fè mwen mal. 3. Ki gen pouvwa malefik. Sa se yon manje monte tande, pa manje l. 4. Avanse, pran pye. Se gras a mwen Tijan monte rive kote l ye jodi a. 5. (Moute) Soti anba ale anwo. Mwen bouke monte mòn, zo do mwen pa kapab ankò."
+])

@@ -1,0 +1,1 @@
+showWord(["a.","ki gade koze manje.<br>"])

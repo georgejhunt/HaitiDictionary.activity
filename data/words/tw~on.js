@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Lotèl, yon kote espesyal, pafwa li andwa sou yon pewon byen wo kote yo mete yon moun enpòtan tankou yon wa osnon yon lwa yo ap onore. Mete Simbi sou twòn nan depi anvan seremoni an kòmanse.  2. Watè, latrin. Kawòl sou twòn li, l ap poupou."
+])

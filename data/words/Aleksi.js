@@ -1,0 +1,2 @@
+showWord(["np.","Doktè, ekriven, politisyen ki fèt Gonayiv 22 Avril 1922. Li te fonde yon pati politik (Pati Antant Popilè). Li ekri ACompère Général Soleil@ (1955); Les Arbres Musiciens (1957); L=Espace d=un Cillement (1959); Romancero aux Etoiles (1960).Yo asasinen li Pòtoprens avril 1961 pou aktivite politik militarize kont gouvènman Divalye."
+])

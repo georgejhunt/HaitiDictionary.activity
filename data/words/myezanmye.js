@@ -1,0 +1,1 @@
+showWord(["adv. ","amelyorasyon ki kontinye.<br>"])

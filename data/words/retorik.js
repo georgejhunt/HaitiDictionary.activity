@@ -1,0 +1,2 @@
+showWord(["n. ","avan dènye klas nan lekòl segondè. Apre klas retorik, se klas filo, avan klas retorik se klas segonn. 2. Ladrès ak talan pou pale byen an piblik, ladrès pou prezante bèl diskou. Elokans nan resite."
+])

@@ -1,0 +1,2 @@
+showWord(["v. ","  1. Kab, gen tan. M ap kapab vini demen.  2. Teknik, konpetans, konesans. Mwen pa kapab fè tout travay sa a. 3. Ka, kab, sa, gen kè. Mwen pa kapab bay manti. 4. Kab, chwa, opsyon, posibilite, altènativ. Mwen kapab rete osnon ale. 5. a. Konpetan. Bondye kapab."
+])

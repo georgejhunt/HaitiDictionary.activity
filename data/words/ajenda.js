@@ -1,0 +1,1 @@
+showWord(["n.","1. Kanè ki gen yon paj pou chak jou kote moun make sa li gen pou li fè nan jou yo. 2. Pwogram ki genyen nan yon aktivite.1. Kanè ki gen yon paj pou chak jou kote moun make sa li gen pou li fè nan jou yo. 2. Pwogram ki genyen nan yon aktivite.<br>"])

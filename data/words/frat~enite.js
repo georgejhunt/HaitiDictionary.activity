@@ -1,0 +1,1 @@
+showWord(["n. ","mo a endike relasyon ki ekziste ant frè reyèl osinon frè annespri. 2. Gwoup moun ki òganize ansanm pou defann menm koz osinon menm enterè.<br>"])

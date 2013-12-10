@@ -1,0 +1,2 @@
+showWord(["v.","1. fè lwanj pou yon bagay, di li bon, sètifye li bon. Fè yon moun kwè yon bagay pibon. Yo te rekòmande mwen anplwaye sa a, men manmzèl pat serye ditou. Doktè te toujou rekòmande mwen pou mwen benyen nan dlo cho."
+])

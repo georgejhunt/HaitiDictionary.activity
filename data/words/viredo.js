@@ -1,0 +1,1 @@
+showWord(["v fr.","Ale. Edwa vire do l li ale.<br>"])

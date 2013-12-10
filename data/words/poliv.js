@@ -1,0 +1,1 @@
+showWord(["n fr. ","Kouvèti yon liv. Po liv sa a fèt ak yon papye espesyal ki sire.<br>"])

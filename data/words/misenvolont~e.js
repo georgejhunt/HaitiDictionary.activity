@@ -1,0 +1,2 @@
+showWord(["n fr. "," Vyann (miskilati) ki gen kontwòl endepandan, volonte moun pa ka kontwole yo, gen kontwol otonòm, sèvo a pa kontwole aksyon yo dirèteman. Se mis envolontè ki gide mouvman trip yo."
+])

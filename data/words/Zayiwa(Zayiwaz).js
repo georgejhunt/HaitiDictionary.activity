@@ -1,0 +1,1 @@
+showWord(["n.","1. Nasyonalite moun ki soti nan peyi Zayi. Nou te byen ak yon zayiwa ki te rele Oje N Dyala. 2. Ki pou peyi Zayi. Teritwa zayiwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","Lwa ki kòmande trafik osnon wout lwa yo.<br>"])

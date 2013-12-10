@@ -1,0 +1,1 @@
+showWord(["n. ","tib an vit osinon an plastik ki sèvi pou konte gout.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," Pati nan kò moun ki nan fen chak bra l. Mwen gen de men de pye, mwen kapab al fè afè mwen pou kont mwen. 2. Konjonksyon, Sepandan. Mwen ta ede ou men mwen pa gen tan. 3. Ògànizasyon yon gwoup moun fè pou yo mete lajan yo ansanm pou yo prete youn ak lòt. Prete mwen san dola, mwen nan yon men, kou tou pa m rive, m ap touche, mwen va remèt ou li. Bay kout men = ede. De men nan tèt = pèdi espwa., mande sekou. Fè men = pratike."
+])

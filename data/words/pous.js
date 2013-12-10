@@ -1,0 +1,1 @@
+showWord(["n. ","1. Inite pou mezire longè. Tab sa a mezire ven pous.  2. Dwèt moun. Jojo frape pous li.<br>"])

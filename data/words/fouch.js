@@ -1,0 +1,1 @@
+showWord(["n. ","zouti agrikòl ki gen fòm fouchèt. 2. Moso bwa ki gen fòm fistibal ki sèvi pou soutni yon bagay. Mete yo fouch pou soutni pye bannann nan.<br>"])

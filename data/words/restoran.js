@@ -1,0 +1,1 @@
+showWord(["n. ","Kote ki sèvi moun manje pou lajan. Gen yon restoran sou Lali a ki fè bon lanbi.<br>"])

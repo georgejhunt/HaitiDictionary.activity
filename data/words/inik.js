@@ -1,0 +1,1 @@
+showWord(["a. ","Yon sèl. Se pitit inik mwen. 2. Enkonparab. Se yon eksperyans inik. 3. Iranplasab. Se yon foto ki inik. 4. Ki pa komen. Vil sa a inik nan topografi li.<br>"])

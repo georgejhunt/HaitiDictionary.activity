@@ -1,0 +1,1 @@
+showWord(["v. ","Pase dlo pwòp apre ou fin lave pou wete rès savon ki ka rete. Rense rad yo.<br>"])

@@ -1,0 +1,2 @@
+showWord(["np. "," Jounalis epi ansyen direktè ofis touris Ayiti. Se yon moun ki koni anpil pou estil li (abiye toudeblan ak baton beki l nan men l), li renmen parèt an piblik tou. Greyam Grin (Graham Green) palede msye nan liv ""Les Comediens"" an."
+])

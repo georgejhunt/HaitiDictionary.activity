@@ -1,0 +1,1 @@
+showWord(["n.","1. Katye. Pa gen boutik sa a nan zòn bò lakay mwen. 2. Lokalite. Moun nan zòn Jeremi renmen manje konparèt.<br>"])

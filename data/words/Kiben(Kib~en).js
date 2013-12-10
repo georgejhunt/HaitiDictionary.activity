@@ -1,0 +1,1 @@
+showWord(["n p.","1. Moun ki fèt osnon ki pote nasyonalite moun ki sot Kiba. Panncho se Kiben li ye.  2. a. Ki pou peyi Kiba. Gwanntanamo sou teritwa kiben.<br>"])

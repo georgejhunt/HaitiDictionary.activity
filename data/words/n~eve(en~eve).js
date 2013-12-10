@@ -1,0 +1,1 @@
+showWord(["v. ","1. Ki pèdi pasyans. Madan kalo nève.  2. Ki fè moun pèdi pasyans. Madan kalo fè m nève.<br>"])

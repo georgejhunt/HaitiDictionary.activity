@@ -1,0 +1,1 @@
+showWord(["n. ","Moso nan matyè solid ki nan atmosfè a ki ateri sou latè. Bonbadman meteyorit.<br>"])

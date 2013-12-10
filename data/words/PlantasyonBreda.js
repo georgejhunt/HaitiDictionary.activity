@@ -1,0 +1,2 @@
+showWord(["","Kote Tousen te esklav anvan li te vin yon lidè. Tousen te entelijan epi lè li vin lib li pran zam pou chanje lavi nan teritwa zile a, epitou pou l ede lòt esklav yo vin pran libète yo. Fransè yo te pè msye. Yo pran l nan manti ak nan fent, yo arete l, yo voye l nan prizon jis Anfrans. Li mouri an egzil."
+])

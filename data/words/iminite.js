@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pwoteksyon kont maladi lè moun pran vaksen. Si ou pran vaksen kont tetanòs, ou ap gen iminite pou tetanòs. 2. Rezistans osinon pwoteksyon kont yon maladi espesifik paske gen antikò kont mikwòb ki bay maladi a. 3. Pwoteksyon kont sèten lwa nan yon peyi. Iminite diplomatik."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Santiman yon moun santi lè li santi moun ki renmen li an renmen lòt moun tou. Li ap fè jalouzi. <br>"])

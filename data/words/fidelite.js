@@ -1,0 +1,1 @@
+showWord(["n. ","devosyon moun mete nan responsablite osinon nan relasyon osinon nan pwomès. 2. Yon repwodiksyon ki pa gen erè.<br>"])

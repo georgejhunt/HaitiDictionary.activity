@@ -1,0 +1,2 @@
+showWord(["n. ","1. Estil literè ki prezante yon istwa imajine, long, ki prezante diferan pèsonaj fè yo parèt reyèl, prezante soufrans yo, lajwa yo, sikoloji yo chans yo ak malchans, rèv yo ak reyalite yo. Souvan woman devlope sitiyasyon damou ant de moun men se pa tout. Liv ki dekri yon istwa, yon avanti osinon yon peripesi imajinè. Mod Etelou ekri kat woman, Lafami Bonplezi, Sezisman, Tika Nan Twa Wa ak Otan."
+])

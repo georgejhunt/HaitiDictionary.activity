@@ -1,0 +1,1 @@
+showWord(["","Yon fò nan zòn Okap kote esklav yo te revòlte epi yo te touye 800 kolon blan franse an 1794. Jan Franswa te alatèt revòlt la. <br>"])

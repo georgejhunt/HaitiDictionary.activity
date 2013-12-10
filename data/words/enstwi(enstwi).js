@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Edike, ki gen anpil konesans, ki fè anpil klas.  Edwa se yon nonm enstwi, li gen doktora nan fizik. 2. Anseye, montre. Nan lekòl sa a, yo enstwi timoun yo byen. 3. Ki gen fòmasyon nan yon metye osnon pwofesyon. Kalin gen eksperyans nan fè kòmès, li pa nenpòtki, se yon fi enstwi li ye."
+])

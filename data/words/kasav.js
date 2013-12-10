@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Yon pen sèk yo fè ak manyòk. Si ou pa janm pran yon ti kasav ak manba ak kreson ladan l, ou poko manje yon bon wayal. 2. Non yon òkès ki soti Matinik. Mizik Kasav yo popilè anpil, menm Ayiti yo renmen l."
+])

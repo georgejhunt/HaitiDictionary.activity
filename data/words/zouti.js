@@ -1,0 +1,1 @@
+showWord(["n.","Enstriman moun sèvi pou fè yon travay tankou mato ak pèl. Nenpòt ki enstriman ki sèvi yon moun pou fè yon travay se yon zouti.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","/ n. ki reveye santiman ak sansasyon. Ki reveye pasyon; ki bay tout kalite apeti; ki bay anvi.<br>"])

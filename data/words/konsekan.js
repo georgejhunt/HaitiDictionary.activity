@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Ajisman responsab. Sa se yon desizyon konsekan. 2. Konfòm. Jan se yon nonm ki konsekan ak tèt li.<br>"])

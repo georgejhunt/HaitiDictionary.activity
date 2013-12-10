@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Ki gen avwa ak maji. Lamèsi se ak pouvwa majik li marye ak Antwàn, ou tou wè msye pa renmen dam nan se palafòs li rete avè l. 2. Ki pa parèt posib. Kay la tèlman bèl ou ta di se nan yon rèv majik ou ye lè ou ap vizite l."
+])

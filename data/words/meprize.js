@@ -1,0 +1,1 @@
+showWord(["","Gade ak degou. Bòs Kristòf meprize Jera kou chen.<br>"])

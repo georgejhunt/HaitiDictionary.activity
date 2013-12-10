@@ -1,0 +1,1 @@
+showWord(["n fr. "," Kote ki ògànize pou vann gazolin. Mwen renmen ale nan estasyon gazolin kote yo tou mete gaz la pou ou. <br>"])

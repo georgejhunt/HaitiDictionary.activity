@@ -1,0 +1,2 @@
+showWord(["","1. Youn nan son nan lang kreyòl; ""en"" e ak n kole ansanm pou fòme yon vwayèl. Gen dis manman son, dis vwayèl: a, an, e, è, en, i, o, ò, on, ou. 2. Premye chif nou konte. 3. Entèjeksyon: en!"
+])

@@ -1,0 +1,1 @@
+showWord(["v. "," Simaye. Yo simen tout farin nan atè a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["adv.","Apeprè.  Te gen anviwon san moun nan fèt la.Apeprè.  Te gen anviwon san moun nan fèt la.<br>"])

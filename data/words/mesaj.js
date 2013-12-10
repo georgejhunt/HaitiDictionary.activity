@@ -1,0 +1,1 @@
+showWord(["n. "," Komisyon. Mwen pa janm renmen pran mesaj pou moun paske mwen pa vle bliye bay li.<br>"])

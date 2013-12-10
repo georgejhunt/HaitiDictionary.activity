@@ -1,0 +1,1 @@
+showWord(["np.","Legliz episkopal ki nan vil Pòtoprens epi ki gen anpil bèl tablo vitray ki dekore l. Legliz sa a aksepte entèpretasyon ak sans atis Ayisyen yo bay labib la.<br>"])

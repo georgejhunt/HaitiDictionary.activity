@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Koulè briyan.  Rad sa a dyanmdyanm papa. 2. Karaktè cho. Kijan fi sa a fè dyanmdyanm konsa a?<br>"])

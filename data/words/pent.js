@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Moun, atis ki gen talan pou fè penti. Jak se yon gran pent.  2. Bòs pent, moun ki konn pentire. Gen yon pent ki ap vin pentire kay la demen. 3. inite mezi kouran nan sistèm anglè ki vo 2 tas."
+])

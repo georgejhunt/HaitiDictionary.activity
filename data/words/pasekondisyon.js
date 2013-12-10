@@ -1,0 +1,1 @@
+showWord(["v fr.","Fè antant davans. Nou te pase kondisyon nou tap jwe foutbòl jodi a.<br>"])

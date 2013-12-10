@@ -1,0 +1,1 @@
+showWord(["","kapichon an plastik pou pwoteje kont maladi moun pran nan sèks. Kondon. Kapòt.<br>"])

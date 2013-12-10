@@ -1,0 +1,1 @@
+showWord(["v fr.","Manje ki bon anpil. Lanbi sa a se koupe dwèt.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v.","1. Espedye. Deplase yon bagay sot yon kote ale yon lòt. Mwen voye rad la nan lesiv. 2. Lanse yon bagay, voltije l. Mwen voye yon bwa bale dèyè l men li pa pran l. 3 Lè dechay soti nan pijon yon gason."
+])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Vil tou pre Jerizalèm kote Jezikri te mouri sou lakwa. Yon jou, fòk mwen al lapriyè mòn kalvè. Anplasman senbolik ki reprezante kote Jezikri te mouri. Gen yon kalvè tou pre estati Madan Kolo. 3. Tribilasyon, soufrans, pwoblèm. Kalo pase kalvè li san plenyen."
+])

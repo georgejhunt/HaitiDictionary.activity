@@ -1,0 +1,1 @@
+showWord(["n. ","maladi po moun ki pa gen vitamin.<br>"])

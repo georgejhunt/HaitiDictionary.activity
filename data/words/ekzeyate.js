@@ -1,0 +1,1 @@
+showWord(["","kite yon malad soti lopital pou li tounen lakay li.<br>"])

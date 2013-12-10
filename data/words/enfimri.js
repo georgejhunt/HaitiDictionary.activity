@@ -1,0 +1,1 @@
+showWord(["n. ","kay kote pou yo trete moun ki malad.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","1. a. Ki karesan. Magali se yon fi ki dous anpil. 2. Ki gen gou sikre. Mango sa a dous kou siwo, ou wè se mango miska vre. Ou met twòp sik nan labouyi a, li twò dous, mwen pa kapab manje l. 3. n. Manje ki fèt ak lèt epi sik. Mwen ta manje yon ti dous lèt."
+])

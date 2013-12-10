@@ -1,0 +1,1 @@
+showWord(["","1. Tout lavi. Li gen pou li repete koze a vitametènam. 2. Ki dire lontan. Istwa sa a dire vitametènam.<br>"])

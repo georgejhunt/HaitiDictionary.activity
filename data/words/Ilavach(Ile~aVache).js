@@ -1,0 +1,2 @@
+showWord(["np. ","komin nan awondisman Okay, nan depatman Sid. Dapre listwa, prezidan meriken Abraam Lennkòl te siyen yon kontra ak yon nèg ki rele Bèna Kòk, pou l te enstale 5000 ansyen esklav ameriken sou zile sa a. Yo te voye 430 men vè 1863, yo te oblije pati paske yo pa t ka abitye ak zòn nan."
+])

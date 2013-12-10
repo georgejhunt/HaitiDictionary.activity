@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Abitid. Li gen mani etidye chak apre midi anba pye zaboka a. 2. Move abitid. Li gen mani pran sa ki pa pou li. <br>"])

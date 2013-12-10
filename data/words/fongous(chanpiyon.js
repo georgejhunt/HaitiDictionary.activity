@@ -1,0 +1,1 @@
+showWord(["","Plant parazit ki pa ka pwodui manje pou tèt yo (ki pa fè fotosentèz); yo viv sou lot plant osinon sou matyè ògànik.<br>"])

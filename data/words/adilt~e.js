@@ -1,0 +1,1 @@
+showWord(["n.","Lè yon moun ki marye gen yon menaj sou kote. Zoklo. Madan Chal divòse ak Chal pou adiltè.<br>"])

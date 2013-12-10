@@ -1,0 +1,2 @@
+showWord(["pwo","1. Dezyèm pwonon pèsonèl. Pwonon pèsonèl ki endike moun sa ou ap pale avè l la. Ki sa ou di la a? Ou pa konnen mwen kapab fè kale w? 2. Osnon, oubyen. Se mwen ou Chantal ki pou ale nan maryaj la, nou toulede pa kapab ale."
+])

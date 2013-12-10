@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Penti fi mete sou zong pye ak zong men yo. Jànin toujou mete kitès. 2. Mak penti ki fèt pou moun mete sou zong yo. Li pito achte mak kitès pase revlon.<br>"])

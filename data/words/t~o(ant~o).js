@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pa kòrèk. Se Jera ki gen tò.  2. Antò; ki pa gen rezon. Jera antò.<br>"])

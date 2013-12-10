@@ -1,0 +1,1 @@
+showWord(["n. ","pwopozisyon. 2. Sa ki disponib pou moun achte.<br>"])

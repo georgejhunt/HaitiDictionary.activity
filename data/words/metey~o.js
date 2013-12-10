@@ -1,0 +1,2 @@
+showWord(["n. ","sèk klere ki ap deplase nan syèl la leswa. Sèk sa yo fèt lè yon wòch osinon lòt bagay solid soti nan lespas epi antre nan atmosfè tè a, a-tout-boulin. Gen anpil friksyon ki fè wòch yo vin chofe epi yo pran dife."
+])

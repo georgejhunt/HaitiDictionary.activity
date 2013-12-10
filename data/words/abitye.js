@@ -1,0 +1,1 @@
+showWord(["v.","1. Fè regilyèman.  Mwen abitye kuit manje ak pwav. 2. a. ki <br>"])

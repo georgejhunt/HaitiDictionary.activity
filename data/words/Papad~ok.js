@@ -1,0 +1,2 @@
+showWord(["","Tinonjwèt yo te bay Franswa Divalye. Msye te prezidan diktatè Ayiti soti 1957 ale rive nan ane 1971. Papa l te rele Dival Divalye, li te yon pwofesè lekòl primè. Manman l te rele Irisya Abraam, li te travay nan boulanjri. Lè msye mouri, pitit li Jan Klod te ranplase l."
+])

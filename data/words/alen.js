@@ -1,0 +1,1 @@
+showWord(["n.","sèl alimisyòm osinon sèl potasyòm ki sèvi nan pirifikasyon dlo ak nan manifati tanri po bèf pou fè kui.<br>"])

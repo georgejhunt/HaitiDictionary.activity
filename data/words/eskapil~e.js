@@ -1,0 +1,1 @@
+showWord(["n. ","Imaj ki enprime sou twal ki pandye sou pwatrin timoun katolik yo lè yo pral fè premyè kominyon. Mwen pèdi eskapilè mwen an menm jou kominyon mwen an.<br>"])

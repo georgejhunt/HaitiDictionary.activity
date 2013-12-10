@@ -1,0 +1,2 @@
+showWord(["v. ","1. Rete sou pye, debou, pa deplase, pa chita. Tout moun kanpe ap gade. Tout moun oblije ret kanpe la, mouch pa vole. 2. Lè yon moun sispann mache. Kalo kanpe ap gade kànaval. 3. Rete, sispann. Nou pap travay ankò, annou kanpe la."
+])

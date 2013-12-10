@@ -1,0 +1,2 @@
+showWord(["a. ","Ki byen balanse, nan nivo pou li ye a. Mi sa a onivo.   2. Pozisyon yon bagay kifè, lè ou mete zouti yo rele nivo a sou li, gen yon boul lè nan zouti nivo a ki deplase vin nan mitan. 3. n. Ki nan yon pozisyon elve nan yon gwoup osnon yon sosyete. Jera nan yon onivo kounye a, li gen chofè ak oto ofisyèl."
+])

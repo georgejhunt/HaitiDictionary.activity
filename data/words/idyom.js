@@ -1,0 +1,1 @@
+showWord(["n. ","lang ki idantifye yon rejyon. Varyasyon nan yon lang baze sou rejyon kote moun yo ye.<br>"])

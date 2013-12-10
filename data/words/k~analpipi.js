@@ -1,0 +1,1 @@
+showWord(["n. ","Kànal ki kondi pipi soti nan blad pipi pou soti deyò. Jan gen doulè nan kànal pipi li.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Peryòd nan lavi fi lè manstriyasyon (règ) li rete epi li pa fètil anko; Li pa ka fè timoun. Menopoz kòmanse an general apre laj karant ane. Madan Pòl fè menopoz.<br>"])

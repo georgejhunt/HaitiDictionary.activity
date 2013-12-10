@@ -1,0 +1,1 @@
+showWord(["n fr.","Lise nan vil Jakmèl. Li te konstwi nan ane 1860.<br>"])

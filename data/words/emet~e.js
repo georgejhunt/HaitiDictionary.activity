@@ -1,0 +1,1 @@
+showWord(["n. ","yon bagay ki voye patikil. 2. Yon estasyon radyo.<br>"])

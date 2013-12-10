@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki preche. Pè ak pastè se predikatè.<br>"])

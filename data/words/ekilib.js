@@ -1,0 +1,1 @@
+showWord(["","egalite ant de fòs ki opoze youn ak lòt.<br>"])

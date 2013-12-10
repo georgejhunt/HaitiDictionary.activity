@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Antrave. Jaklin mele nan yon zen ki twòp pou li.  2. Melanje, foure kò, gen avwa. Li pa mele nan tout koze. 3. Patisipe. Franswa te mele nan pwojè sa a tou. 4. Melanje, mete ansanm. Poukisa ou mele pwa a ak diri a? 5. Bat, brase. Si ou mele ze a nan lèt la a byen, li pap fè boul."
+])

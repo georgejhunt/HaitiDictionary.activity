@@ -1,0 +1,1 @@
+showWord(["v.","Mete giyon sou moun. Anmède. Pa vin giyonnen mwen ak tout kriye ou a.<br>"])

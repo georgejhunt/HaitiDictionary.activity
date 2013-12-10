@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki predi lavni. Moun ki di sa ki pral rive onon yon bondye ki enspire li.<br>"])

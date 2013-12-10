@@ -1,0 +1,1 @@
+showWord(["n. ","1. Relijyon kretyen ki parèt apre refòm nan epi ki pa sou otorite pap la. Gen plizyè relijyon potestan nan peyi Ayiti. 2. Moun ki nan relijyon potestan. Jànin se potestan.<br>"])

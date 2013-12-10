@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fwi twopikal ki sèvi pou fè ji. Andedan li blan, deyò, li vèt, li gen ti pikan sou tout kò l. Yo sèvi ak fèy kowosòl pou fè te pou moun ki pa sa dòmi. 2. Plant ki bay fwi kowosòl."
+])

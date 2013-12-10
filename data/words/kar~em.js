@@ -1,0 +1,1 @@
+showWord(["n. "," Tan ki kòmanse apre kanaval epi ki fini jous dimanch Pak. Lontan moun pat dwe manje vyann nan tan karèm. Vandredi karèm matant mwen ale nan chemen kwa.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Kote de mi rankontre pou fòme yon ang. Kwen sa a pa dwat. 2. Espas kote yo mete yon elèv an pinisyon. Pwofesè a voye elèv la al kanpe nan kwen an.<br>"])

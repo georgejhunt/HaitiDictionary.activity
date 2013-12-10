@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Règleman ki valid yon kote; lwa. Kay isit la gen disiplin.  2. Pinisyon. Si mwen pa mete disiplin sou timoun yo, yo san lè vin kwochi nan menm.  3. Domèn, kou, klas. Molyè ap anseye nan disiplin syans."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","ban nan estadyòm. Espas popilè.<br>"])

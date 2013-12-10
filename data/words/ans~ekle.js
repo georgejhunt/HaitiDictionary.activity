@@ -1,0 +1,2 @@
+showWord(["v.","Mete anndan yon sèk, Bare nan tout sans.  Lè yo te vin pran Sètilòm, se senk nonm ki te ansèkle l.Mete anndan yon sèk, Bare nan tout sans.  Lè yo te vin pran Sètilòm, se senk nonm ki te ansèkle l.Mete anndan yon sèk, Bare nan tout sans.  Lè yo te vin pran Sètilòm, se senk nonm ki te ansèkle l.Mete anndan yon sèk, Bare nan tout sans.  Lè yo te vin pran Sètilòm, se senk nonm ki te ansèkle l.Mete anndan yon sèk, Bare nan tout sans.  Lè yo te vin pran Sètilòm, se senk nonm ki te ansèkle l."
+])

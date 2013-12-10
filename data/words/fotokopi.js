@@ -1,0 +1,1 @@
+showWord(["n. ","kopi yon papye osinon nenpòt lòt bagay ki sanble tèk-pou-tap ak orijinal la. Anjeneral gen machin espesyal pou fè fotokopy epi prèske tout machin yo sèvi ak menm metòd la.<br>"])

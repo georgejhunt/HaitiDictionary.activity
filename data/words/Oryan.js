@@ -1,0 +1,1 @@
+showWord(["n. ","bò kote solèy leve. Kote ès.<br>"])

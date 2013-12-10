@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Pratik, abitd, woutin. Mwen gen eksperyans ak kalite moun sa yo.  2. Aprantisaj. Eksperyans mwen nan lavi fè mwen pa kapab fè ou konfyans.  3. Esè esperimantal. Mwen pa dakò pou moun ki chèchè nan lasyans yo fè eksperyans medikaman sou moun san yo pa di yo."
+])

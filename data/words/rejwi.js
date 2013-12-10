@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Fete. Moun yo rejwi paske se kanaval.  2. Pran plezi sou malè lòt. Tout lenmi li yo rejwi dèske li pèdi.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","Degouden. Senkantkòb vo degouden. <br>"])

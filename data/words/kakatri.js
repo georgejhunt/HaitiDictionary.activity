@@ -1,0 +1,1 @@
+showWord(["n. "," rans. Mwen pa nan kakatri sa a mwen menm.<br>"])

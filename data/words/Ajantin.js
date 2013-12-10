@@ -1,0 +1,1 @@
+showWord(["n.","Peyi nan Amerik Disid ki toupre ak Brezil.  Ajantin se yon peyi kote yo pale Panyòl.Peyi nan Amerik Disid ki toupre ak Brezil.  Ajantin se yon peyi kote yo pale Panyòl.<br>"])

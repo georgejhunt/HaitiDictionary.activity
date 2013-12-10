@@ -1,0 +1,1 @@
+showWord(["n fr. "," Papye tribinal ki mande yon moun konparèt nan lajistis. Leyon resevwa yon papye tenbre.<br>"])

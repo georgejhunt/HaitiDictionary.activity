@@ -1,0 +1,1 @@
+showWord(["v. ","prevwa kijan yon bagay pral devlope. Fòme lide kijan yon bagay pral fèt ak kisa ki nesesè pou li fèt. 2. Mete imaj sou ekran. 3. Represante yon pwen ak yon liy.<br>"])

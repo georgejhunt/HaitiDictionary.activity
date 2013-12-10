@@ -1,0 +1,1 @@
+showWord(["v fr.","flatri. 2. Bo ant moun ki amoure.<br>"])

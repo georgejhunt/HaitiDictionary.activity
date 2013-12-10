@@ -1,0 +1,2 @@
+showWord(["np. "," Mizisyen, konpozitè, li fèt Pòtoprens an 1882. Li etidye mizik pyano Pòtoprens ak an Frans. Li fè anpil rechèch nan mizik fòlklorik, li konpoze mizik fòlklorik epi pibliye plizyè kont tou.Gen moun ki rele Lamòt AChopen nwa@."
+])

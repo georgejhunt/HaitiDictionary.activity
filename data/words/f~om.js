@@ -1,0 +1,2 @@
+showWord(["n. ","1. Prezantasyon. Pwofesè a pap pran travay la si ou pa prezante l sou fòm li di a. 2. Koub kò moun. Mwen pa renmen fòm fi sa a, li gen gwo dèyè. 3. Estil. Fòm soulye sa a twò pwenti pou mwen, li fè pye mwen fè mwen mal."
+])

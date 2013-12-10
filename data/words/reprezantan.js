@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki delege pou pale ononde yon konpayi. Jak se youn nan reprezantan konpayi nou an.<br>"])

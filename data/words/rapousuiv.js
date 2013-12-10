@@ -1,0 +1,1 @@
+showWord(["v. "," Suiv yon moun joustan ou rejwenn li. Jak rapousuiv vòlè a joustan li kenbe l.<br>"])

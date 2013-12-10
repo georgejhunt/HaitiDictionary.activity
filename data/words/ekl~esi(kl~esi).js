@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Anbeli, souf. Lapli ap tonbe depi maten, se kounye a li bay yon eklèsi.  2. v. Vin pi klè. Timoun yo vin eklèsi depi ivè a kòmanse a.  3.  Degaje. Tan an vi eklèsi kounye a, sanble lapli a pase. 4. Klarifye, jwe kat sou tab. Mwen byen kontan ou vini pou nou eklèsi sitiyasyon an. "
+])

@@ -1,0 +1,1 @@
+showWord(["","1. Mete dife pou klere. Limen lanp.  2. Mete yon machin nan pozisyon pou l opere. Limen motè a. 3. Peze osnon vire bouton ki pou limen limyè yo. Limen limyè a pou mwen.<br>"])

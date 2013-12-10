@@ -1,0 +1,1 @@
+showWord(["n. ","etap nan lajistis kote yo poze yon moun kesyon epi dokimante sa li di pou prepare yon dosye.<br>"])

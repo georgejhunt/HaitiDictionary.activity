@@ -1,0 +1,1 @@
+showWord(["n. ","Bwason alkòl ki fèt an de etap; dabò yo fèmante ji kann (sik) apresa yo distile l pou separe alkòl ki fèt pandan fèmantasyon an epi kite dlo ak lòt pwodui dèyè. Wonm Babankou.<br>"])

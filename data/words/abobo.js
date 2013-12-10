@@ -1,0 +1,2 @@
+showWord(["ent. :","Amèn!. Si nou tout dakò rele abobo. Ayibobo!. 2. bravo, se sa nèt, konpliman, bel travay; ou gen rezon, respè pou ou, mwen dakò ak ou, mwen retire chapo devan ou, mwen salye‑ou. 3.  Nan relijyon Vodou son pou akeyi lwa, pou apwouve."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","lakòl espesyal pou kole bwa.<br>"])

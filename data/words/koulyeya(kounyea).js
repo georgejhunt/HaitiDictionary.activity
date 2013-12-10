@@ -1,0 +1,1 @@
+showWord(["adv. ","Moman sa a. Koulyeya se toutbon.<br>"])

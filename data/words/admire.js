@@ -1,0 +1,2 @@
+showWord(["v.","1. kontanple, gade ak plezi epi kontantman.  Mwen tap gade yon fim lòtrejou, se pa de admire mwen te admire jan aktè a jwe byen. 2.  renmen, gade ak afeksyon.  Bèl tifi, si ou te konnen jan mwen admire w, ou pa ta ban mwen refi."
+])

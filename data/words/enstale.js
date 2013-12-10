@@ -1,0 +1,1 @@
+showWord(["v. ","1. Mete yon moun ofisyèlman nan yon pozisyon.  Silòt pat la lè yo tap enstale direktè sa a.  2. Ranje ekipman pou yo ka fonksyone nòmalman. Kilè ou ap enstale opalè yo? 3. Etabli apre ou fin demenaje. Mwen poko prèt ap fin enstale m paske mwen pa gen tan..<br>"])

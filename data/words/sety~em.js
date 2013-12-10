@@ -1,0 +1,1 @@
+showWord(["n. "," Pozisyon ki vini apre sizyèm. Se Aliks ki setyèm. 2.a. Pozisyon sa ki vini apre sizyèm nan. Setyèm pati.<br>"])

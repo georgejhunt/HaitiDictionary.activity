@@ -1,0 +1,2 @@
+showWord(["v fr.","Monte nan yon nivo pi wo pase kote ou te ye a. Ou pran fil, kounye a ou pa monte motosiklèt ankò, se oto ou kouri. 2. Pran grad, chanje estati. Sityasyon yon moun afè pat bon epi ki vin amelyore. Michèl pran fil papa, li gen kòb."
+])

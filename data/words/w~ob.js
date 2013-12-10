@@ -1,0 +1,1 @@
+showWord(["n. ","Rad pou kouvri kò fi. Wòb sa a bèl.<br>"])

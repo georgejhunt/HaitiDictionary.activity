@@ -1,0 +1,1 @@
+showWord(["","mo janti pou rele yon moun; cheri.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki ap mache apye. fè atansyon pyeton sou twotwa a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Premye fi ki vin doyen Tribinal Sivil nan bawo Pòtoprens.<br>"])

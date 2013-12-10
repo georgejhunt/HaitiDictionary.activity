@@ -1,0 +1,1 @@
+showWord(["np. ","Peyi nan kontinan Ewòp. Kapital peyi Suis se Bèn.<br>"])

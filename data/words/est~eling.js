@@ -1,0 +1,1 @@
+showWord(["n. "," Lajan peyi Angletè. Rad sa a mwen achte l pou 69 estèling.<br>"])

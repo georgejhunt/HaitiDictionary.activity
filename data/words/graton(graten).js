@@ -1,0 +1,1 @@
+showWord(["n. ","Kwout nan fon chodyè lè moun kuit yon manje. Graton diri a bon.<br>"])

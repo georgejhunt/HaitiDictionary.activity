@@ -1,0 +1,1 @@
+showWord(["n. ","Opoze. Wo se lekontrè ak ba.<br>"])

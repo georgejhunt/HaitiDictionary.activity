@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Bwi ki fèt lè ou pran yon bagay ak fòs, ou rape l. Ti fi a fè rap li rale degoud la nan men tigason an. 2. Estil mizik ki soti nan tradisyon nwa ameriken. Moun yo al danse rap."
+])

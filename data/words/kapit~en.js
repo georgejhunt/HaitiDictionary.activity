@@ -1,0 +1,1 @@
+showWord(["n. "," Grad nan lame. Papa mwen te kaptenn nan Lame Ayiti.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Monte aprezavwa ou sot desann. Yo remonte pri gazolin nan.  2. Pran fòtifyan. Se pou ou manje manje ki pou remonte ou.<br>"])

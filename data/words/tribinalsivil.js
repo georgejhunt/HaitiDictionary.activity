@@ -1,0 +1,1 @@
+showWord(["","Tribinal kote yo jije moun. Koudapèl la nan menm tribinal sa a tou.<br>"])

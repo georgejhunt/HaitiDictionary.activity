@@ -1,0 +1,2 @@
+showWord(["n. ","1.Kwen, kote de wout rankontre. Kafou danjere. 2. Kote de sitiyasyon kontre ki mande pou moun chwazi. Elifèt nan kafou lavi li. 3. Vil nan sid Pòtoprens. Richa rete Kafou, apre Mawotyè. Nan zòn Kafou gen plizyè seksyon, gen Mawotyè, Fontamara, Mariyani elatriye 4. Kote de liy koupe, entèseksyon"
+])

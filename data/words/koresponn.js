@@ -1,0 +1,1 @@
+showWord(["v.","1. Kenbe korespondans. Nou gen lontan depi nou ap koresponn ak yon zanmi ki rete nan peyi Almay.  2. Fè eksplikasyon. Adlin vin koresponn ak Richa.<br>"])

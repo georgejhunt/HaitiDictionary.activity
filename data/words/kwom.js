@@ -1,0 +1,1 @@
+showWord(["n. ","metal ki byen klere ki dekore oto.<br>"])

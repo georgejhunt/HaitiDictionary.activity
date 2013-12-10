@@ -1,0 +1,1 @@
+showWord(["n.","zouti ki fèt ak de boul ki konekte  ak yon ba pou fè espò.<br>"])

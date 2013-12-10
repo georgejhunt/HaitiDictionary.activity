@@ -1,0 +1,1 @@
+showWord([""sou kote"," ki pa nan mitan. Labouyi a cho, manje l arebo asyet la.",<br>"])

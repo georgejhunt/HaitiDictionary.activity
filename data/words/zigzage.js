@@ -1,0 +1,1 @@
+showWord(["v. ","ale nan diferan direksyon. Mache tankou yon moun ki sou. Avanse san desizyon.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","Ekriven, administratè, misye fèt Pòtoprens. Li travay kòm administratè nan leta (Kanada). Misye ekri youn liv pwezi an fransè ki rele Plaie Rouillée (1987). Li pibliye tou Yon Bann Ti Kal Boujon, pwezi, (1993), ak Adieu Bordel Bye Bye Vodou (1994)."
+])

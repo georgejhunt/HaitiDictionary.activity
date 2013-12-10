@@ -1,0 +1,1 @@
+showWord(["n. ","Koulèv. Jeraldin pè koulèv.<br>"])

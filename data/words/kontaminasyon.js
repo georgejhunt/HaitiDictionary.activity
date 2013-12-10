@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Move kontak. Pitit sa a pat konsa, kontaminasyon timoun madan Chal yo pa bon pou li.  2. Kontak ak yon bagay ki sal. Ka gen kontaminasyon grav si yon manje enfekte ak sèten mikwòb. 3. Polisyon.  Gen plizyè pwodui ki ap kontamine lè a."
+])

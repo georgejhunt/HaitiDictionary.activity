@@ -1,0 +1,1 @@
+showWord(["v. ","Ki koule anba dlo san kontwòl. Bato a neye. 2. Ki mouri nan dlo. Tifrè te neye nan dlo ane pase.<br>"])

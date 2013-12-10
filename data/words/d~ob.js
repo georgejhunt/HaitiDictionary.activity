@@ -1,0 +1,1 @@
+showWord(["n. "," Vyann ki gen anpil chè. Mete bonkou dòb nan bouyon an pou mwen.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v. ","1.  Mete lajan nan yon biznis ak espwa li ap rapòte. Mwen te envesti dimil dola nan pwojè devlopman sou wout Bèlè a.  2. Konte sou yon moun, mete konfyans ou sou li. Nou tout te envesti nan Nikòl, men li fè nou wont."
+])

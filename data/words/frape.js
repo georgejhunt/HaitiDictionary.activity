@@ -1,0 +1,2 @@
+showWord(["v. ","1. Bay kou. Pa frape mwen fò konsa monchè, se jwe n ap jwe. 2. Byen glase. Vann mwen yon kola byen frape tanpri epi ban mwen l ak tout chalimo tou. 3. Touche, fè mal, fè ou sansib. Lanmò Tidyo a frape tout moun, pa gen moun ki te ap atann a sa. 4. Depoze ak fòs. Li frape lajan an sou tab la."
+])

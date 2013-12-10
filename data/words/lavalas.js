@@ -1,0 +1,2 @@
+showWord(["n. ","1. Dlo ki desann lè lapli tonbe anpil epi ki pote sab ak tè. Pral gen yon gwo lapli ki pral vini, li pral fè yon lavalas la a.  2. Pati politik ki prezante Jean-Bertrand Aristide kòm kandida nan eleksyon pou prezidan nan kolaborasyon ak FNCD ( Fwon Nasyonal pou Chanjman ak Demokrasi). Pati politik Lafanmi Lavalas vin ranplase Pati Lavalas."
+])

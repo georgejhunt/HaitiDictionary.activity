@@ -1,0 +1,2 @@
+showWord(["","1. Ki pa sa. Ki pa apwopriye. Medikaman mwen pran an pabon pou doulè a, li pa fè anyen pou mwen. 2. Pa gen bon gou. Manje sa a pabon ankò, li sanble li gentan gate. 3. Pa reyisi. Msye pa bon nan bakaloreya. 4. Pa ansante. Mwen pa bon menm, tout kò mwen ap fè mwen mal. 5. Razè. Mwen pa bon menm non, ou gen yon ti kraze ban mwen la a?"
+])

@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Fè kopi. Jak repwodui rapò a an kat kopi.  2. Fè yon orijinal ki sanble tèt koupe ak yon premye orijinal ou te fè deja. Atis la repwodui menm tablo a ankò.<br>"])

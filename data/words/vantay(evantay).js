@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti pou fè van. Prete m vantay ou a.<br>"])

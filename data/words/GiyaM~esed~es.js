@@ -1,0 +1,2 @@
+showWord(["","Li fèt Pòdpè. Dapre Pòl Larak, Deyita se premye fanm ki ekri youn woman nan lang kreyòl ayisyen an Esperans Dezire (1989). Deyita se youn dramatij, jounalis, etnograf, epi li se youn edikatè tou. Li se manm divès asosyasyon kiltirèl. Pami liv Deyita pibliye nou kab nonmen: Majò dyòl, pwezi; Nanchon, teyat; kont Nan Peyi Ti Toma ak Esperans Dezire."
+])

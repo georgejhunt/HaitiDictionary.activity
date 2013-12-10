@@ -1,0 +1,1 @@
+showWord(["n. ","Metye moun ki konte antre ak sòti lajan nan yon biznis osinon yon bank. Masèl se yon kontab.<br>"])

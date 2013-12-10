@@ -1,0 +1,1 @@
+showWord(["n. "," Zouti pou klouwe. Lè ou fin sèvi ak mato an mete l nan bwat <br>"])

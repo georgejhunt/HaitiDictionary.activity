@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Bay detay sou yon sijè. Ban mwen esplikasyon sa mo sa a vle di.  2. Entèpretasyon. Sa mwen di ou la a, se eksplikasyon pa mwen.  3. Rezon, lakòz. Lè fi a bay Jera eksplikasyon poukisa li pap marye avèk li, Jera sezi men li oblije reziyen l.  4. Elkèsisman, rannman kont, fè repwòch. Madan Chal vin fè m ekplikasyon devan pòt mwen an."
+])

@@ -1,0 +1,2 @@
+showWord(["n.","1. Sè papa ou ou byen sè manman w. Madanm monnonk ou se matant ou pa alyans. 2. Non yon restavèk bay fi li rete avè l la. Mwen pa kapab kite ou antre nan kay la, matant mwen pala. Non yon enkoni bay yon fi ki pi gran pase l, pou make respè."
+])

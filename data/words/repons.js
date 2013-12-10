@@ -1,0 +1,2 @@
+showWord(["n. ","1. Fraz osnon mo yon kesyon jenere. Si kesyon an se ""kijan ou rele"", repons la se ""mwen rele Wozmèn."" 2. Replik. Timoun pa dwe bay granmoun repons. 3. Lèt ou voye bay yon moun ki ekri ou. Mwen poko fè ou repons men mwen ap ekri ou nan semenn nan."
+])

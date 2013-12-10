@@ -1,0 +1,1 @@
+showWord(["n. ","1. n. Ki nan mizè. Jak se yon mizerab.  2. a. Ki nan yon move eta. Kondisyon mizerab.<br>"])

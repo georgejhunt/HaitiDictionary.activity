@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen rapò ak ekaristi.<br>"])

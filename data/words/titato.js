@@ -1,0 +1,1 @@
+showWord(["n. ","1. Jwèt. Annou al jwe titato. 2. Bann kànaval ou al danse nan titato.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a.","Bouke. Mwen about ak bri sa a jistan mwen pa konnen ankò.<br>"])

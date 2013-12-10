@@ -1,0 +1,1 @@
+showWord(["","chèz pou moun dòmi.<br>"])

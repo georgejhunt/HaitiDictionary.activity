@@ -1,0 +1,1 @@
+showWord(["adv.","ki gen koulè ajan.ki gen koulè ajan.<br>"])

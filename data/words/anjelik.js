@@ -1,0 +1,1 @@
+showWord(["a.","ki sanble ak zanj; ki anrapo ak zanj.<br>"])

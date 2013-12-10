@@ -1,0 +1,1 @@
+showWord(["","1. Pa-pi-mal. 2. San konviksyon.<br>"])

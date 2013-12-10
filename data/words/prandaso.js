@@ -1,0 +1,1 @@
+showWord(["v fr.","Antre palafòs osinon ankachèt osinon ilegalman. Moun yo pran magazen an daso.<br>"])

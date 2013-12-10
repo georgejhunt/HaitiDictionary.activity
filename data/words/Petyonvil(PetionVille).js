@@ -1,0 +1,2 @@
+showWord(["np. ","Vil ki gen apeprè 17 kilomèt sou direksyon lès Pòtoprens, li anwo yon mòn apeprè 500 mèt wotè. Fè fre la sitou leswa. Gen plis pase 10.000 moun ki rete Petyonvil. Genyen anpil moun nan klas ekonomik mwayen ki rete nan vil sa a. Gen plizyè otèl ak bèl restoran nan Petyonvil ak zanviwon. Petyonvil te kòmanse devlope sou abitasyon Chabonyè, Serizye, Chalimo ak abitasyon Nerèt. Se yon apantè Lui Rigo ki te desine plan vil la epitou li te genyen plas piblik (Plas Petyon, plas Bwaye) ak simityè ak mache piblik."
+])

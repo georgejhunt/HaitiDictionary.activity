@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ratman, ezitasyon. Irèn fè yon bon diskou men li te fè detwa mank. 2. Erè, aksyon osnon atitid ki pa akseptab. Si Jànin leve nan kay la li pa di manman l bonjou, se yon mank grav."
+])

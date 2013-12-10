@@ -1,0 +1,1 @@
+showWord(["n. ","1. Etalaj ki pwoteje ak vit. Mete tout bijou yo nan vitrin.  2. Mèb ki gen vit. Nou pral achte yon vitrin pou magazen an.<br>"])

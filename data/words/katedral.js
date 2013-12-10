@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Legliz katolik prensipal nan teritwa yon dyosèz. Katedral Pòtoprens la nan kwen Ri Bònfwa ak Ri Doktè Obri. 2. Legliz ki gen yon achitekti espesyal. Si ou ale nan peyi Lafrans, pa bliye vizite Katedral Nòtredam nan."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","lis mo esansyèl nan yon lang osinon nan yon sijè. Tout mo ki nan pale yon moun.<br>"])

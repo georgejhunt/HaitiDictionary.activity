@@ -1,0 +1,1 @@
+showWord(["n. ","yon tablo ki make kòd fanmi yon moun ale jiska plizyè jenerasyon. 2. Domèn syans ki etidye relasyon fanmitaj nan zansèt yon moun.<br>"])

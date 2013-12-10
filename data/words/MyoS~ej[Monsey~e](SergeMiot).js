@@ -1,0 +1,1 @@
+showWord(["np. ","Achevèk ko-adjitè plena sede nan pòtoprens apatide 12 Oktòb 1998.<br>"])

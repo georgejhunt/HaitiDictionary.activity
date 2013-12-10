@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki ap lwanje. Jak se lwanjè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","nan relijyon vodou agawou reprezante lespri loraj.<br>"])

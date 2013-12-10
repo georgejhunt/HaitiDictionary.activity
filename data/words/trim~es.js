@@ -1,0 +1,1 @@
+showWord(["n. ","Peryòd twa mwa. Premye trimès la pa difisil.<br>"])

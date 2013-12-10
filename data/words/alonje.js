@@ -1,0 +1,2 @@
+showWord(["v.","1.  fè yon bagay dire.  Chantal se moun ki renmen alonje yon kont, li pa janm fini ak yon koze, li toujou gen pou li plenyen. 2. fè yon bagay vin pi long.  Pomad sa a lonje cheve anpil, ou mèt sèvi avè l. Sòs pwa a twò epè, lonje li ak yon tidlo."
+])

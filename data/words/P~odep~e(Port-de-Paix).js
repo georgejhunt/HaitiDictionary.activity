@@ -1,0 +1,1 @@
+showWord(["np.","Vil ki pi enpòtan nan depatman nòdwès. Se yon zòn ki gen anpil tè sèk.<br>"])

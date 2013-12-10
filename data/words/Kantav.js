@@ -1,0 +1,1 @@
+showWord(["np. "," Jeneral ki te kòmande Fòs Ame Dayiti nan peryòd pre 1950. Msye te jwe yon wòl enpòtan pou ede estabilize sitiyasyon peyi a nan peryòd kote Ayiti te pase anpil prezidan. Divalye te revoke msye epi li te al an Dominikani kòm refijye. An 1963 Kantav te ògànize envazyon nan Fòlibète ak Wanament nan kolaborasyon ak kolonè Rene Leyon.<br>"])

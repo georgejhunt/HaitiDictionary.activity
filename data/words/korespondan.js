@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ou gen korespondans avèk li. Linda gen yon korespondan ki rete jous nan peyi Lafrans. 2. Moun ki ap travay pou yon estasyon radyo osnon televizyon epi ki baze yon kote byen lwen. Se korespondan Radyo Ayiti nan vil Okap la ki ap pale la a.<br>"])

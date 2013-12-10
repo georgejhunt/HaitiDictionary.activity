@@ -1,0 +1,2 @@
+showWord(["n.","Anfantin. Jadendanfan. Ti lekòl anvan klas primè yo se anfanten yo rele yo.  2.  Klas timoun piti. Tisè mwen an gen senk an, se nan anfanten de li ye kounye a.  3. a. konpòtman timoun. Ou gen yon atitid anfanten, men ou pa yon timoun piti, ou te dwe pran lavi a pi oserye."
+])

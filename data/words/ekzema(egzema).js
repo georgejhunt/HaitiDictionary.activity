@@ -1,0 +1,2 @@
+showWord(["n. "," Maladi iritasyon po, sitou nan pye ak nan men ki pa atrapan ki fè po a anfle, vin wouj epi ki grate, gendelè se yon alèji gendelè se yon enfeksyon.Moun ki ten ekzema nan pye konn pa ka sipòte soulye nan pye yo."
+])

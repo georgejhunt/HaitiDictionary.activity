@@ -1,0 +1,1 @@
+showWord(["v.","mete konplikasyon ak konfizyon.<br>"])

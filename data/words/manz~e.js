@@ -1,0 +1,1 @@
+showWord(["n. ","1. Tit pou jennfi. Manzè Jozèt. 2. Tit pejoratif pou tifi ki yon jan twòp pou mesye yo. Ti dam sa a se pa tout manzè non. 3. Tit pou fi ki fè pitit men ki pa marye. Manzè Rita voye di ou mèsi.<br>"])

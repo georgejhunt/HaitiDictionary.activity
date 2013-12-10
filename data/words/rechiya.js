@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Timoun ki renmen kriye pou dan ri. Ou rechiya twòp.  2. Karakteristik yon moun ki renmen plenyen osnon kriye. Gaston rechiya, anvan anyen l ap kriye pou yo ba li ogmantasyon nan travay li a."
+])

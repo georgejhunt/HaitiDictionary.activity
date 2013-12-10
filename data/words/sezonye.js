@@ -1,0 +1,1 @@
+showWord(["a. "," Ki baze sou sezon yo. Anplwaye sezonye yo travay sèlman simwa nan ane a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Gwo zam ki sanble ak fizi ki monte sou yon sipò. Yo sèvi anpil ak kanno pandan lagè. Bwi ki fèt lè yo ape tire zam sa a. Chak premye janvye yo toujou tire 21 kout kanno Ayiti.<br>"])

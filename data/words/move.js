@@ -1,0 +1,2 @@
+showWord(["v.","1. Tyak, pa kontan. Lè moun move, oubyen yo pa kontan ak yon moun ou byen yo gen yon bagay pèsonèl ki fè yo fache. Sa ou genyen ou move konsa a, ou poko touche? 2. Ki mechan, ki kapab fè moun pè. Chyen sa a move papa, piga lage l pou li pa al mòde moun. 3. Grav, dezas. Pral gen yon move tan la a, pito nou kouri al achte manje pou nou sere."
+])

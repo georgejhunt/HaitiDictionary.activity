@@ -1,0 +1,1 @@
+showWord(["n.","Evèk anchèf. Monseyè Myo se Achevèk Pòtoprens.Evèk anchèf. Monseyè Myo se Achevèk Pòtoprens.<br>"])

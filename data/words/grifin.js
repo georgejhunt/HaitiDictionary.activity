@@ -1,0 +1,1 @@
+showWord(["n. ","koloran pou netwaye soulye blan. 2. likid pou bay koulè blan.<br>"])

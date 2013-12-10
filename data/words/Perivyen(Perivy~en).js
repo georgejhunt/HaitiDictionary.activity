@@ -1,0 +1,1 @@
+showWord(["","1. np. Non yo bay moun ki gen nasyonalite peyi Pewou.   Alfredo se yon perivyen. 2. a. Ki pou peyi Pewou. Teritwa perivyen.<br>"])

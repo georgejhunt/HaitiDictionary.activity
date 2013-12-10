@@ -1,0 +1,2 @@
+showWord(["np.","Agwonòm, edikatè, espesyalis nan teknoloji pou transfòme pwodui agrikòl. Li etidye Ayiti, Gwatemala, Kolonbi, Ozenn, Ozetazini. Li dirije Biwo Nasyonal Ssekirite Alimantè. Li patisipe nan devlopman inivèsite Kiskeya."
+])

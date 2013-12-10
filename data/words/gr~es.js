@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Luil di. Mantèg se grès.  2. Tout kalite matyè ki gra, likid osnon solid, animal osinon vejetal. Luil, bè, magarin, tout se grès. 3. Librifyan. Grès machin nan sal, li lè pou chanje l. 4. Yon pwodui ki glise ki genyen kabon, idwojèn ak oksijèn nou jwenn nan plant ak zannimo. "
+])

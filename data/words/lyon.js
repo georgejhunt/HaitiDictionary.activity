@@ -1,0 +1,2 @@
+showWord(["","1. n. Gwo bèt sovaj.Mamifè kanivò (manjèd vyann) ki viv nan kontinan Afrik ak kontinan Azi. Lyon yo jòn ou byen mawon epi yo gen anpil fòs tou. Nan fòlklò kèk peyi, yo konsidere lyon tankou wa tout lòt bèt yo. 2. Moun ki gen anpil kouraj ak fòs pou goumen osinon pou debat.. 3. np. Vil nan peyi Lafrans. Mwen gen yon bòfrè mwen ki rete Lyon. 4.Gwoup etwal ki nan syèl la (konstelasyon lyon). 5. Siy owoskòp. "
+])

@@ -1,0 +1,1 @@
+showWord(["","kloti ki fèt ak bwa osinon ak plant.<br>"])

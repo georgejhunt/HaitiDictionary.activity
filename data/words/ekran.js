@@ -1,0 +1,1 @@
+showWord([""," n. 1. Pati nan televizyon ak òdinatè kote imaj parèt. 2. Sifas an plan kote yo projte imaj.<br>"])

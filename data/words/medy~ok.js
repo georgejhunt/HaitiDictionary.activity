@@ -1,0 +1,1 @@
+showWord(["a. ","ki mal fèt. Ki fèt san prensip.<br>"])

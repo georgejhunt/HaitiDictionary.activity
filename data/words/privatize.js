@@ -1,0 +1,1 @@
+showWord(["v. ","transfere dwa leta bay enterè prive.<br>"])

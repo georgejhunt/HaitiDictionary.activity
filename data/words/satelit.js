@@ -1,0 +1,1 @@
+showWord(["n. ","yon bagay (yon kò) ki ap vire toutotou yon planèt.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Bat yon moun, bay kou pou pini. Mwen pral ba ou yon kal. 2. Tiplak ki sou po pwason pou pwoteje l. Retire kal pwason anvan ou kuit li. 3. Repo nan aktivite yon biznis. Lè vakans tou aktivite kal. 4. Ki pa gen mouvman. Lanmè a kal."
+])

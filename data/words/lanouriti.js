@@ -1,0 +1,1 @@
+showWord(["n. ","Manje. Moun yo manke lanouriti.<br>"])

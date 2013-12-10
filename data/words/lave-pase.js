@@ -1,0 +1,1 @@
+showWord(["v fr.","Fè tout travay ki pèmèt ou netwaye epi pase rad. Madanm sa a lave-pase isi a. <br>"])

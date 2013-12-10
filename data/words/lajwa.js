@@ -1,0 +1,1 @@
+showWord(["n. ","Kontantman. Tout moun gen lajwa.<br>"])

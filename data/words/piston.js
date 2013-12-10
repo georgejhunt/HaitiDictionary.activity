@@ -1,0 +1,2 @@
+showWord(["n. ","1. Enstriman mizik ki mache ak van. Janmari konn jwe piston.  2. Gwo kontak, rekòmandasyon, moun pa. Li pa pase nan medsin paske li pa gen piston. 3. Nan machin, silenn ki resevwa epi ki transmèt presyon. Mekanisyen an ap netwaye piston yo."
+])

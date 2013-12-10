@@ -1,0 +1,2 @@
+showWord(["np. ","Komedyen, atis teyat, dramatij. Li fèt Pòtoprens an Avril 1918. Li te al lekòl nan kolèj Sen masyal, Lise Petyon ak kolèj Tipennawa. Kòm komedyen se moun ki konni toupatou nan peyi a kòm aletranje, kote gen ayisyen. Karyè li dire pase 50 ane. Li mouri an Jen 1998, li te 80 ane."
+])

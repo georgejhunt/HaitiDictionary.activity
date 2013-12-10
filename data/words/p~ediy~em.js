@@ -1,0 +1,1 @@
+showWord(["n. ","kantite lajan yo pèmèt yon anplwaye depanse lè li pati pou travay li.<br>"])

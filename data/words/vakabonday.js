@@ -1,0 +1,2 @@
+showWord(["","1. Dezòd, fason yon moun ki gen vi lib, ki gen plizyè fi nan vi li anmenmtan, ki ap fè sa ki pa kòrèk.  Pòl pa nan vakabonday, se moun debyen li ye. 2. Ki ap fè aksyon moun ki vakabon, pa serye, bonjou l pa laverite. Kalo nan vakabonday, pa konte sou li."
+])

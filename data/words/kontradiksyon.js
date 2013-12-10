@@ -1,0 +1,2 @@
+showWord(["n. ","Demanti, konteste, opozisyon. Jera denonse kontradiksyon ant sa ki pase ak sa radyo a di.  2. Relasyon ant de lide ki opoze. Gen yon kontradiksyon ant opinyon Polèt ak opinyon Jizèl."
+])

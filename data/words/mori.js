@@ -1,0 +1,2 @@
+showWord(["n. ","1. Gwo pwason ki renmen rete kote lanmè a frèt. Se avèk li yo fè luil fwadmori. Gen anpil mori nan peyi Kanada 2. Pwason sale, lanmori. Gen yon manje ayisyen ki fèt ak mori desale yo rele l chiktay."
+])

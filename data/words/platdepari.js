@@ -1,0 +1,1 @@
+showWord(["n. ","Poudre ki fèt ak melanj idrat silfat kalsyòm; yo sèvi avèk li pou kouvri osnon bouche espas. Yo pral mete yon kouch platdepari sou mi sa a.<br>"])

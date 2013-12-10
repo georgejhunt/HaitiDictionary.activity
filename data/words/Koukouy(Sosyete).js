@@ -1,0 +1,1 @@
+showWord(["","(ale gade nan Sosyete Koukouy)<br>"])

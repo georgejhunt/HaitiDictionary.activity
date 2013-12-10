@@ -1,0 +1,1 @@
+showWord(["n. ","Inite mezi longè ki sèvi nan domèn tekstil; mezi pou twal. Konbyen lòn twal ou vle?<br>"])

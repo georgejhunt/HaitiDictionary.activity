@@ -1,0 +1,1 @@
+showWord(["n.","Zouti pou travay latè. Pikwa gen yon manch anbwa epi yon pati anfè ki fè l vin gen yon fòm T. Pikwa bon pou dige tè.<br>"])

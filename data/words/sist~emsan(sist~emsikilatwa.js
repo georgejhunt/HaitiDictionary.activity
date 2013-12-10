@@ -1,0 +1,2 @@
+showWord(["","San an ponpe ale toupatou nan kò-a. Ponp ki fè travay ponpe a se yon Miskilati espesyal yo rele kè. Lè kè a kontrakte san an soti ale nan tib san yo, atè yo, kapilè yo epi gaye toupatou nan kò-a. San an bay oksijèn ak fòtifyan li pote epi li pran gaz kabonik ak dechè. Apresa sa an antre nan venn san fonse yo pou li retounen nan kè-a ankò.: sistèm sikilatwa, sistèm sikilasyon san."
+])

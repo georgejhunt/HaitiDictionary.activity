@@ -1,0 +1,1 @@
+showWord(["n. ","aktivite pou mezire yon teren epi make bòn li.<br>"])

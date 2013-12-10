@@ -1,0 +1,1 @@
+showWord(["n. ","twou nan yon pòt osinon nan yon pasaj pou pase biyè. Pozisyon pou achte biyè sinema osinon teyat.<br>"])

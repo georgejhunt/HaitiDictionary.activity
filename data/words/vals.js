@@ -1,0 +1,1 @@
+showWord(["n. ","dans ak twa tan. Mizik ki akonpaye dans ki gen twa tan.<br>"])

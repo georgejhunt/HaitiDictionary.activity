@@ -1,0 +1,1 @@
+showWord(["np. ","Doktè ayisyen ki pratike nan peyi Espay. Li se yon politisyen nan peyi Espay. Li ekri woman an espayòl.<br>"])

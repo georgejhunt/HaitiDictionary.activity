@@ -1,0 +1,1 @@
+showWord(["v "," .1.  Repann toupatou. Yo jeneralize edikasyon nan lang Kreyòl la. 2. a. Ki rive toupatou. Grèv jeneralize.<br>"])

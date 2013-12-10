@@ -1,0 +1,1 @@
+showWord(["a. ","1. Ki pa fre. Leti yo fennen.  2. Ki pa jenn. Fi a fin fennen. 3. Premye siy dezitratasyon nan plant. Pye mayi yo fennen.<br>"])

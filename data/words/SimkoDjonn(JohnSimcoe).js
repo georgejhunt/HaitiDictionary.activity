@@ -1,0 +1,2 @@
+showWord(["np.","Jeneral Angle ki rive Sendomeng jou ki te 28 Fevriye 1797, alatèt 30 mil moun. Li pat rive mate Tousen Louvèti, li te oblije tann Jeneral Toma Metlan an 1798 pou vin ba l ranfò kont Tousen ak ekip li a."
+])

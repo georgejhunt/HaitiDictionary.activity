@@ -1,0 +1,2 @@
+showWord(["n. ","aksyon yon ògàn. 2. Responsablite, travay. 3. Seremoni fòmèl nan legliz pou make yon okazyon. 4. Yon bagay ki depann sou yon lòt ki fè youn chanje lè lòt la chanje; nan matematik, se asosiyasyon ant de sèt kote eleman nan yon sèt gen yon ekivalan nan lòt sèt la."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Ti jiman. Konbyen kòb ou mande pou poulich sa a?<br>"])

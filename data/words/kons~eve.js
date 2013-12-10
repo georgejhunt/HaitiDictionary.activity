@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Mentni nan bon eta. Jera konsève kay la byen. 2. Prezève. Se pou nou konsève moniman istorik nou yo. 3. Trete, transfòme. Konsève pwason ak sèl. 4. Rete jèn. Madan Lawoz byen konsève."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","1. Aksyon kote yon moun al rakonte yon pè peche ou fè. Vandredi se jou konfesyon. 2. Aksyon kote yon moun fè yon lòt avwe. Sa pat fasil pou kriminèl la fè konfesyon sa a.<br>"])

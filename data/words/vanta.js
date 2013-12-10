@@ -1,0 +1,1 @@
+showWord(["n. ","ki renmen vante tèt li.<br>"])

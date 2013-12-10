@@ -1,0 +1,2 @@
+showWord(["n. ","1. Opinyon egzajere yon moun genyen pou tèt li ki ka fè li pa konn koube devan sitiyasyon. Kalo se yon nonm ki gen ògèy, li pap janm aksepte tounen pale ak Jera.  2. Ki pa ka aksepte yo fè l obsèvasyon. Pitit la gen ògèy, paske yo kale li a, li pase tout apremidi a ap kriye. 3. Anfle, awogan. Moun sa yo gen yon ògèy sou yo, yo pa mele ak nenpòt ki moun."
+])

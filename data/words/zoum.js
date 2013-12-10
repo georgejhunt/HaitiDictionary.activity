@@ -1,0 +1,1 @@
+showWord(["","1. lantiy ki bay yon efè rapwochman osinon efè distans (elwayman).<br>"])

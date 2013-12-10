@@ -1,0 +1,1 @@
+showWord(["v.","koule nan dlo fon. Mwen te manke nwaye nan yon pisin lè mwen te piti.<br>"])

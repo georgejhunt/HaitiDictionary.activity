@@ -1,0 +1,1 @@
+showWord(["v. ","mezire ak kwonomèt.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," Travay di san rezilta. Jak ak madanm li ap trimen pou granmesi.<br>"])

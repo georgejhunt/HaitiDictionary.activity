@@ -1,0 +1,1 @@
+showWord(["n. ","nivo nan lekòl primè. 2. Aktivite pou prepare anvan yon evenman.<br>"])

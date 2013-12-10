@@ -1,0 +1,2 @@
+showWord(["v.","1. Manje mete sou tab. Manje a sèvi wi, li lè pou nou vin manje. 2. Nan jwèt volebòl, jan ou voye balon an pou kòmanse konpetisyon an. Si ou pa sèvi byen, mwen pap kapab fè pas la byen non plis. 3. Dezyèm men. Bagay sa yo sèvi deja, mwen pa vle yo, se bagay nèf mwen vle. 4. Pratike, nan vodou. Mwen pa sèvi ak ankenn lwa mwen menm, mwen pa foure kòm nan bagay sa yo."
+])

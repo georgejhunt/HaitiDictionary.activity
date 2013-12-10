@@ -1,0 +1,1 @@
+showWord(["adv. "," An plizyè fwa. Sa rive souvan ou di ou ap vini epi ou pa janm met pye.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Chif. Ki nimewo ki nan men ou la a.<br>"])

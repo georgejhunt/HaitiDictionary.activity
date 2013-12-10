@@ -1,0 +1,1 @@
+showWord(["n. ","Manman manman ou osinon manman papa w. Mwen konn al pase vakans kay granmè mwen chak ane.<br>"])

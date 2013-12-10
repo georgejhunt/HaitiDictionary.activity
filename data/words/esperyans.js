@@ -1,0 +1,2 @@
+showWord(["n. ","Tès sou yon bagay osinon sou yon bèt pou obsève, note, demontre epi analize rezilta yo nan kondisyon ki byen kontwole. 2. Evennman ki rive nan lavi yon moun ki enfliyanse santiman li."
+])

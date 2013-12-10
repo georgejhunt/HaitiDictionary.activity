@@ -1,0 +1,2 @@
+showWord(["n.","Fòtifyan pou plant. Gen yon peryòd nan ane a ki pibon pou moun mete angrè, lè sa a plant yo pwofite pi byen. Tout plant bezwen fòtifyan, lè tè a mèg nou mete angrè. Se pa tout angrè ki bon pou tout plant. Gen angrè natirèl tankou poupou poul, gen angrè chimik moun achte nan magazen."
+])

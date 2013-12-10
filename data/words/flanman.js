@@ -1,0 +1,1 @@
+showWord(["n. "," Ensèk ki sanble ak yon gwo foumi nwa. Fètatansyon ak flanman yo. 2. Zwazo ki gen pye ak kou long. Flanman woz sa yo bèl bò lak la.<br>"])

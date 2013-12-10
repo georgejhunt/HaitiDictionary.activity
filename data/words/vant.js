@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan kò ki kouvri sistèm dijesyon an. Jak gen gwo vant.<br>"])

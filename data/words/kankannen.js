@@ -1,0 +1,1 @@
+showWord(["v. ","Boule. Tout bèt yo kankannen nan dife a.<br>"])

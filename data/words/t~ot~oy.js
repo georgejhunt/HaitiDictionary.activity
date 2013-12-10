@@ -1,0 +1,1 @@
+showWord(["a. "," Kwochi. Pye tòtòy.<br>"])

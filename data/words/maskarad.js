@@ -1,0 +1,1 @@
+showWord(["n. ","1. Degizman. Maskarad sa a dyanmdyanm.  2. Ipokrizi. Pa vin fè maskarad devan moun la a.<br>"])

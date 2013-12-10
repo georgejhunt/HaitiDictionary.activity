@@ -1,0 +1,2 @@
+showWord(["n. "," Founiti ki nan yon kay tankou tab, chèz, kabann. Mwen konn yon moun ki di li pap marye toutotan li pa fin achte tout mèb li bezwen yo. Kabann, chèz salon, salamanje elatriye tout se mèb."
+])

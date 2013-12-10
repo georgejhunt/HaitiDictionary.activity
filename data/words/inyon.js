@@ -1,0 +1,2 @@
+showWord(["n. ","1. Asosye, ansanm, gwoup pou defann yon koz osinon yon gwoup. Inyon travayè nou an solid.  2.  Alyans, amoni. Sa se yon inyon pèsonn moun pap ka kraze.  3. Maryaj. Pè a beni inyon an."
+])

@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Diminye sou kantite orijinal la. Kantite moun ki tap pral nan bal la redui kounye a. 2. Konsantre. Sòs pwa a redui twòp paske dife a twò wo. 3. Febli, megri. Malad la redui anpil, li tankou zo ak po kounye a."
+])

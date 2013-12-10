@@ -1,0 +1,2 @@
+showWord(["np.","awondisman ak komin nan depatman Lwès. Vil tou pre Kabarè. Nan tan Kristòf te wa nan pati Nò Ayiti, Akayè se te yon vil fwontyè ant Nò ak Sid. Non Akayè a soti nan yon mo endyen Tayino Kayaha ki te nan kasika Zaragwa. Se nan Akayè, 18 Me 1803 pandan yon kongrè, Desalin ak lòt lidè yo te kreye drapo ble e wouj ayisyen a. Se Akayè enperatris Adelina, madanm anperè Fosten Premye, te fèt, nan abitasyon Manèg."
+])

@@ -1,0 +1,1 @@
+showWord(["","1. Fè lè pase pou netwaye yon bagay. Yo vannen diri pou yo retire pay ladan l. 2. Bat yon moun osnon ekip ak eksè. Tiresin vannen Lèglenwa nan foutbòl yèreswa.<br>"])

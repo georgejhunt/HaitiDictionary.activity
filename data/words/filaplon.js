@@ -1,0 +1,1 @@
+showWord(["n.","Zouti pou mezire si yon bagay ànivo. Mwen pral achte yon filaplon.<br>"])

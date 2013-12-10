@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki nan pozisyon ki ba pa rapò ak yon lòt moun ki bòs li.<br>"])

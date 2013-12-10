@@ -1,0 +1,1 @@
+showWord(["v. ","Mete mastik.<br>"])

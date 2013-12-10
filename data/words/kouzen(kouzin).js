@@ -1,0 +1,1 @@
+showWord(["n. "," Relasyon ant pitit de frè osnon pitit yon sè ak pitit frè l; pitit de kouzen konsidere kòm kouzen tou. Janjan se kouzen ak Kalo.<br>"])

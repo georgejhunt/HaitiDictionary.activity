@@ -1,0 +1,1 @@
+showWord(["v. ","transfere yon entrepriz prive pou li vin yon antrepriz leta.<br>"])

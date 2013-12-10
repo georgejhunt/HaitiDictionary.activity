@@ -1,0 +1,1 @@
+showWord(["n.","Tan pandan yon moun pa la.  Se pandan absans mwen Kawòl marye.Tan pandan yon moun pa la.  Se pandan absans mwen Kawòl marye.Tan pandan yon moun pa la.  Se pandan absans mwen Kawòl marye.<br>"])

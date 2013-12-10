@@ -1,0 +1,2 @@
+showWord(["np. ","Edikatè, jounalis, kritik literè, editè, powèt. Li fèt Kavayon an Out 1963. Li etidye Ayiti ak Kanada. Li pibliye AGrafitti pour l=Aurore@ pwezi, Pòtoprens, 1989; AVoyelles Adultes@, Editions Mémoire, 1994; ACantiques d=Emma@, 1997."
+])

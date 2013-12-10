@@ -1,0 +1,1 @@
+showWord(["a. ","ak jantiyès.<br>"])

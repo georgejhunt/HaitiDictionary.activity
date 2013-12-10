@@ -1,0 +1,1 @@
+showWord(["v. "," Pran prekosyon. Fètatansyon ak moun ou pa konnen.<br>"])

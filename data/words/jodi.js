@@ -1,0 +1,1 @@
+showWord(["adv. "," Jounen nou ye a. Jodi a se samdi.<br>"])

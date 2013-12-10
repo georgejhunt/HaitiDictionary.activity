@@ -1,0 +1,1 @@
+showWord(["n. ","Espas frèt kote yo konsève mò anvan antèman. Yo mete mò yo nan mòg deja.<br>"])

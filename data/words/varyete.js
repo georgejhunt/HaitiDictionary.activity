@@ -1,0 +1,1 @@
+showWord(["n. "," Plizyè kalite. Varyete mango.<br>"])

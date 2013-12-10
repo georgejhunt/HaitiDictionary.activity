@@ -1,0 +1,2 @@
+showWord(["","Kontra lapè (1697) ki te ekri aprezavwa Lafrans te fini lagè li tap mennen ak Otrich, Espay, Swis ak Angletè. Se kontra sa a ki bay Lafrans pati lwès zile Ispayola a pou li. Pati sa a rele Ayiti kounye a."
+])

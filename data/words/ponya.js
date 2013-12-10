@@ -1,0 +1,1 @@
+showWord(["n. ","Lanjan prete ak enterè (kout ponya). Jezila sot pran yon ponya nan men Sentilis. 2. Kouto laj epi file.<br>"])

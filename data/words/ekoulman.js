@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Gonore, chodpis, maladi sèks ki fè yon moun gen yon likid ki ap koule soti andedan sèks li. Alèkile moun gen ase enfòmasyon pou yo konnen kijan pou yo evite pran maladi ekoulman.  2. Lavant pou likide yon estòk machandiz. Depi mwen desann pri machandiz yo ekloulman an fèt byen vit."
+])

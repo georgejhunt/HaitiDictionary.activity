@@ -1,0 +1,2 @@
+showWord(["n.","1. Moun nan ras nwa ki klè anpil. Gade tande tiblan, pa manyen papye mwen yo tande, si ou pa vle mwen pase ou de tap la a. 2. Pandan peryòd koloni an, yo te rele tiblan blan ki pat nan lelit la (atizan, komèsan osnon moun ki ap travay latè). Nan tan sa a, te gen anpil hinghang ant tiblan ak granblan."
+])

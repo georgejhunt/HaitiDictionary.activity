@@ -1,0 +1,2 @@
+showWord(["n. ","1. Edikasyon. Moun sa yo gen levasyon, se pa tout bagay yo ap fè. 2. Mannyè, prensip, savwaviv. Pitit sa a maledve tankou li pa gen levasyon.  3. Fòmasyon. Jisten plen diplòm, se yon nonm ki gen anpil levasyon. 4. Respè pou tradisyon, abitid epi kwayans nan yon fanmi. Kou ou wè tifi sa a, ou wè se moun ki gen levasyon, li pa ta ka al fè fanmi li wont."
+])

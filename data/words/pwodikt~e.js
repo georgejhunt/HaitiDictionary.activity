@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Ki pwodui. Ou se pwodiktè pat tomat. 2. a. Ki pwodui. Ayiti se yon peyi pwodiktè kann.<br>"])

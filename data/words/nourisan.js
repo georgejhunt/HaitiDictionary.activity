@@ -1,0 +1,1 @@
+showWord(["a. "," Ki gen fòtifyan ladan l. Manje nourisan.<br>"])

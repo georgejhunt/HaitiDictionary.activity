@@ -1,0 +1,1 @@
+showWord(["n. ","Mèb pou sere manje. Mete asyèt la nan gadmanje a pou mwen.<br>"])

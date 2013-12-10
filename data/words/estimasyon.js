@@ -1,0 +1,1 @@
+showWord(["n. ","Kalkil pou jwenn valè apeprè pou yon bagay. Ki estimasyon ou ka ban mwen pou travay sa a?<br>"])

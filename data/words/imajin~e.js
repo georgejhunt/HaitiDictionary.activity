@@ -1,0 +1,1 @@
+showWord(["a. ","Ki soti nan imajinasyon. Se yon istwa imajinè. 2. Fiksyon. Liv sa a baze sou yon istwa imajinè.<br>"])

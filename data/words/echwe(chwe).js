@@ -1,0 +1,1 @@
+showWord(["v. ","1. Ki pa reyisi. Li ale nan egzamen de fwa epi li echwe tou de fwa yo.  2. Touche tè. Kannòt la al chwe jous Lagonav.<br>"])

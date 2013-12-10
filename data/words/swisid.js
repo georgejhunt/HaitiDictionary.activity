@@ -1,0 +1,1 @@
+showWord(["n. ","Aksyon kote yon moun tiye tèt li. Kalo komèt swisid.<br>"])

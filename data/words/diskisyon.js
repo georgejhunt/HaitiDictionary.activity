@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Konvèsasyon, deba. Diskisyon sa a enteresan anpil, mwen renmen tande opinyon plizyè moun.  2.  Joure. Li lè pou diskisyon sa yo fini. 3. Pati nan yon disètasyon. Se nan diskisyon an mwen mete diferan opinyon otè yo."
+])

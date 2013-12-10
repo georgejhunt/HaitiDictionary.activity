@@ -1,0 +1,1 @@
+showWord(["a. ","Ki kontan ak tèt li osnon ak yon lòt. Mwen fyè anpil pou peyi mwen.<br>"])

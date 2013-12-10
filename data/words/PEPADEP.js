@@ -1,0 +1,1 @@
+showWord(["","(Pwojè pou eradike pès pòsin afrikèn ak devlopman elvaj pòsin Ayiti).<br>"])

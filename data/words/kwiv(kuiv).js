@@ -1,0 +1,1 @@
+showWord(["n. ","Metal wouj ki sèvi pou fè fil elektrik. Yo di gen min kwiv nan peyi Ayiti.<br>"])

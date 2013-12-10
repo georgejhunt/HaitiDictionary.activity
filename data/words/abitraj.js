@@ -1,0 +1,1 @@
+showWord(["n.","Balans pou mentni ekilib ant de ekip.  Abitraj sa a pa an favè m ditou.<br>"])

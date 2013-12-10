@@ -1,0 +1,1 @@
+showWord(["n. ","1. Kontak dirèk ant fil negatif ak pozitif. Chòk elektrik ki fè kouran pa pase nan yon sikui.  Kousikui a lakòz nou nan blakawout. 2. Detou. Enfòmasyon an fè yon konsikui rive vin jwenn nou dirèk.<br>"])

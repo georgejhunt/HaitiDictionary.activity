@@ -1,0 +1,2 @@
+showWord(["n. ","1. Anprent, mak ki gen enfòmasyon osnon senbòl sou li, ki fèt pou ou poze sou papye. Mete so sou papye ofisyèl yo.  2. Bokit. Nou al bwote dlo nan rivyè a ak kivèt epi ak so tou.  3. Tonbe. Li pran yon sèl so li kase tèt li. 4. Dlo ki ap soti yon kote anlè mòn pou tonbe atè. Sodo."
+])

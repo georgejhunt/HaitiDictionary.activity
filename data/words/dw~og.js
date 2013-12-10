@@ -1,0 +1,1 @@
+showWord(["n. ","Pwodui chimik osnon fèy ki gen pouvwa vire lòlòj moun. Lè mwen te timoun mwen pat janm tande moun nan peyi m te konn nan pran dwòg.<br>"])

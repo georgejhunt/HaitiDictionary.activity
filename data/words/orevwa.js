@@ -1,0 +1,1 @@
+showWord(["n.","Na wè yon jou konsa ankò. Pawòl ou di lè ou prale kite yon kote. Lè mwen ap tounen soti Kanada mwen di tout pwofesè mwen yo orevwa.<br>"])

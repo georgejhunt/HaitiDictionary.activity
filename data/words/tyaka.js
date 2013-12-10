@@ -1,0 +1,1 @@
+showWord(["n. ","manje ki fèt ak mayi kase melanje ak pwa.<br>"])

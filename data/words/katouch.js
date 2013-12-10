@@ -1,0 +1,1 @@
+showWord(["n. ","Anvlòp an metal ki vlope poud ak douy ki nan yon bal.<br>"])

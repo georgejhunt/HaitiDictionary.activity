@@ -1,0 +1,2 @@
+showWord(["","1. v. Enpresyon ki baze sou sans tankou doulè, plezi. Mwen santi mwen ta va ale dòmi tèlman mwen fatige. 2. Pran odè, pran sant. La a gen yon bon ti odè gadenya, èske gen yon pye bò isi a? 3. Ki gen move odè. La a yon jan santi tankou ta gen yon rat mouri pa lwen."
+])

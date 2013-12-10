@@ -1,0 +1,1 @@
+showWord(["n. ","sa ki alamòd (kounye a) annatandan li vin chanje.<br>"])

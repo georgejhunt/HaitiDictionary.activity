@@ -1,0 +1,1 @@
+showWord(["n. ","Boutèy an vè ki sèvi pou mezire volim luil osinon gaz. Vann mwen demi glòs luil.<br>"])

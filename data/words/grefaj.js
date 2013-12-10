@@ -1,0 +1,1 @@
+showWord(["n. ","rezilta yon grèf.<br>"])

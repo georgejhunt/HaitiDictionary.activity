@@ -1,0 +1,2 @@
+showWord(["n. ","1. Desen jewometrik ak twa dimansyon ki gen de baz paralèl epi egal, baz yo gen fòm poligòn. 2. Nan optik, zouti pou separe diferan koulè ki gen nan limyè natirèl. Pris separe limyè blan pou li bay sèt koulè konplemantè, wouj, oranj, jòn, vèt, ble, digo, vyolèt."
+])

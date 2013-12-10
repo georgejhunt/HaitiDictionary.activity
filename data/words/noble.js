@@ -1,0 +1,1 @@
+showWord(["","1. Joure yon moun san rete.<br>"])

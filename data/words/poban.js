@@ -1,0 +1,1 @@
+showWord(["n. "," Bokal. Mete konfiti a nan poban sa a.<br>"])

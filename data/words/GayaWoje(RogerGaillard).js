@@ -1,0 +1,2 @@
+showWord(["np. ","Edikatè, ekriven, eseyis, jounalis, kritik literè, istoryen. Li te etidyan nan lekòl Frè Senlui. Li te jounalis nan jounal ALe Soir@. Ant 1946 ak 1949, li te etidye nan Inivèsite Sòbòn an Frans, li diplome nan Filozofi. Li te pwofesè Fransè ak Filozofi nan peyi Bilgari. An 1958, li retounen Ayiti. Li te anseye nan divès lekòl epitou li ekri nan plizyè jounal. Li ekri plizyè liv epitou li te vin Rektè nan Inivèsite Dayiti. Li ekri plizyè liv istwa sou Chalmay Peralt ak sou istwa Kako."
+])

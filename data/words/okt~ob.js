@@ -1,0 +1,1 @@
+showWord(["np.","Dizyèm mwa nan àne. Mwa oktòb la gen tan rive.<br>"])

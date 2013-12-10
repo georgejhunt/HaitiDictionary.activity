@@ -1,0 +1,2 @@
+showWord(["","1. n. Moun ki pèdi tèt li. Nèg sa a pa fou vre, men li te fè yon bon ti tan nan azil la. Ou pa fou, ou byen nan tèt ou. 2. a. Sa ou ap di la a se bagay moun fou. 3. machin nan kuizin tankou yon recho. Li andwa sèvi ak gaz osnon ak elektriksite. Mete manje a nan fou tande, li pral lè pou nou manje. Fou pen."
+])

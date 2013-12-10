@@ -1,0 +1,1 @@
+showWord(["n fr. ","1. Koki lanbi. Gen moun ki fè bèl bijou ak kòn lanbi. 2. Lapawòl. Jan pase Kalo kòn lanbi a.<br>"])

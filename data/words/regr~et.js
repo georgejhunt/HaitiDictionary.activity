@@ -1,0 +1,1 @@
+showWord(["v.","Ta pito yon bagay pat fèt konsa. Mwen regrèt anpil mwen pat la paske si mwen te la malè sa a pa ta janm rive.<br>"])

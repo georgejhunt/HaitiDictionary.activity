@@ -1,0 +1,1 @@
+showWord(["a.","Ki gen avwa ak agrikilti. Peyi Dayiti se yon peyi agrikòl.<br>"])

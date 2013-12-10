@@ -1,0 +1,1 @@
+showWord(["","dwa moun.<br>"])

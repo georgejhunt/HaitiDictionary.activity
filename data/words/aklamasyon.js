@@ -1,0 +1,1 @@
+showWord(["n.","Rèl kolektif anfoul pou apwouve osinon akeyi yon moun.<br>"])

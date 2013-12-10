@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Pozisyon nimewo onz. Mwen onzyèm nan klas la.  2. a. Onzyèm elèv la pa vini jodi a.<br>"])

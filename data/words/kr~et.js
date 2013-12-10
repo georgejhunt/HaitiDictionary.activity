@@ -1,0 +1,1 @@
+showWord(["n. "," Vyann wouj sou tèt kòk kalite. Krèt kòk la blese nan batay la.<br>"])

@@ -1,0 +1,2 @@
+showWord(["","Se la kote jeneral Brinè te kenbe Tousen Louvèti an 1803. Brinè ki te yon jeneral franse te fè Tousen konprann yo pral chita pale an tout sekirite men lè Tousen rive se dapiyanp ki te fèt sou li epi yo te anbake l nan yon bato franse. Se Anfrans Tousen mouri nan yon fò ki rele Fòdejou, nan mòn Jira."
+])

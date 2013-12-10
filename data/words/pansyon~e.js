@@ -1,0 +1,1 @@
+showWord(["n.","moun ki al rete nan pansyon. Mwen te pansyonè kay madan Dibwa.<br>"])

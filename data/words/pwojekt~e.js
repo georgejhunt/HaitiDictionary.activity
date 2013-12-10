@@ -1,0 +1,1 @@
+showWord(["n. ","machin pou pwojte imaj sou ekran.<br>"])

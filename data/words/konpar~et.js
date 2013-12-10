@@ -1,0 +1,1 @@
+showWord(["n. "," Bonbon kokoye ki se yon espesyalite nan zòn vil Jeremi. Konparèt se yonn nan pi bon bonbon mwen goute.<br>"])

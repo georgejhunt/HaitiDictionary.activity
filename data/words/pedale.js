@@ -1,0 +1,2 @@
+showWord(["v. ","1. Peze pedal. Li pedale òg la byen.  2. Aktivite ou fè pou deplase bisiklèt. Lè ou sou mòn, ou pa ka pedale vit ak bisiklèt sa a. 3. Kouri. Li annik tande men polis, misye pedale."
+])

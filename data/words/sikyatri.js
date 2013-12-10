@@ -1,0 +1,1 @@
+showWord(["n. ","Branch nan medsin ki okipe maladi mantal. Yo voye Woza al trete nan sikyatri.<br>"])

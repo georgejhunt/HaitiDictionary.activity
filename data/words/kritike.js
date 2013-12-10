@@ -1,0 +1,1 @@
+showWord(["v. ","1. Fè kòmantè ekilibre sou yon liv osinon sou yon evennman. Edwa toujou kritike liv ki soti chak ane yo. 2. Bay opinyon ki dekourajan. Ivon toujou ap kritike.<br>"])

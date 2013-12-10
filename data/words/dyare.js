@@ -1,0 +1,1 @@
+showWord(["n. "," Poupou likid epi ki vini souvan.  Yon moun ki gen dyare dwe bwè anpil dlo pou li pa dezidrate.<br>"])

@@ -1,0 +1,1 @@
+showWord(["onom.","Son pou ankouraje yon bourik osinon lòt bèt chay pou yo mache. Houy milèt la. 2. Son pou make sezisman. Houy men pikan antre nan pye m.<br>"])

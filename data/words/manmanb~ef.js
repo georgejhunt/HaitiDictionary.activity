@@ -1,0 +1,1 @@
+showWord(["n fr. "," Gwo fi. Madan Richa vin tounen yon manman bèf.<br>"])

@@ -1,0 +1,1 @@
+showWord(["a. ","ki renmen vante tèt li; ki pale anpil men ki pa aji. (Plis nan nò)<br>"])

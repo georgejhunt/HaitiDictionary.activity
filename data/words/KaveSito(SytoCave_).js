@@ -1,0 +1,2 @@
+showWord(["np. ","Aktè, rakontè, powèt, ekriven dramtij. Li fèt Jeremi an 1944. Li jwe plizyè pyès teyat, li ekri plizyè pyès teyat ant 1970 ak 2000, li jwe yon wòl enpozan nan literati Ayiti. Pandan li Nouyòk, li kreye twoup teyat Kuidor. An 1979 li retounen Ayiti. Li prezante AKavalye Polka@ 1980, ALa fillette couverte de paille 1981"". Ant 1970 ak 2000, li jwe yon wòl enpozan nan literati Ayiti"
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Kote ki gen dlo ki ap soti nan tè. 2. Orijin kote yo bagay kòmanse.<br>"])

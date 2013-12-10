@@ -1,0 +1,1 @@
+showWord(["n. ","Kouran dlo dous. Moun yo ale lave nan rivyè a.<br>"])

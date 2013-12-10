@@ -1,0 +1,1 @@
+showWord(["n. ","Respirasyon pwofon kote anpil lè soti nan poumon yon moun kòm yon siy soulajman. Madan Benwa fè yon gwo soupi.<br>"])

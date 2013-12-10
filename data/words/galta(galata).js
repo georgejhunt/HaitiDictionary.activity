@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pati nan fetay kay kote yo fè depo manje. Galta a plen yon bann bwat. 2. Depo manje ki bati sou poto epi chak poto yo gen yon pati gonfle osinon moso tòl pou anpeche rat, chat, koulèv ak lòt vèvin al nan galta-a."
+])

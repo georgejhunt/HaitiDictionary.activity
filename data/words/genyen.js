@@ -1,0 +1,1 @@
+showWord(["v. ","1. Posede. Si li di ou li pa genyen senkòb ou mèt kwè l paske msye pa moun ki chich. 2. Benefisye. Ou te konnen Marijoze genyen gwolo a?<br>"])

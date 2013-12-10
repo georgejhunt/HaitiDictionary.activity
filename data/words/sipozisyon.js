@@ -1,0 +1,1 @@
+showWord(["n. ","Imajine si yon bagay ta posib.  Terèz fè sipozisyon sa a men nou pa si.<br>"])

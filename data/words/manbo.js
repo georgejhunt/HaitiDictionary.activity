@@ -1,0 +1,1 @@
+showWord(["n. "," fi ki jwe wòl prèt nan relijyon vodou. Madan Sovè se gwo manbo nan vil Titwou.<br>"])

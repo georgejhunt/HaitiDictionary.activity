@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Yon tip mizik ki sèvi pou moun danse. Kontredans fè patide fòlklò ayisyen an. 2. Yon tip dans lè de kavalye fè mouvman amonize. Annou al danse kontredans sa a.<br>"])

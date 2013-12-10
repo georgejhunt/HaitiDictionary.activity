@@ -1,0 +1,1 @@
+showWord(["n. ","Lis anplwaye ak kantite lajan yo touche. Se direktè a ki gen pewòl la.<br>"])

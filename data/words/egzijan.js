@@ -1,0 +1,2 @@
+showWord(["a. "," 1. Ki mande anpil rannman. Mwen ap travay ak yon bòs ki egzijan anpil.  2. Difisil. Travay sa a egzijan anpil, si ou pa genyen kouraj, ou pap ka fè l. 3. Disiplin. Papa Kalo te yon nonm egzijan, si Kalo pat konn leson li depi nan vandredi apremidi, li pat kite li al jwe samdi."
+])

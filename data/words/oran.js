@@ -1,0 +1,2 @@
+showWord(["","nivo, plas, ran."
+])

@@ -1,0 +1,1 @@
+showWord(["v. ","fè pwomès bay Bondye. Konsakre.<br>"])

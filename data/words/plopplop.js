@@ -1,0 +1,1 @@
+showWord(["adv. ","Vit. Li fin fè travay li plop plop.<br>"])

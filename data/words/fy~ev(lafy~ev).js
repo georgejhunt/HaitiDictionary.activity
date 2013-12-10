@@ -1,0 +1,2 @@
+showWord(["n. ","sitiyasyon lè kò moun vin cho swa paske li ap ovile, swa paske li fè anpil ekzèsis, swa paske li gen yon enfeksyon. 2. Kondisyon lè gen monte-desann, nèvozite ak eksitasyon. Kanaval la cho, gen yon lafyèv deyò a."
+])

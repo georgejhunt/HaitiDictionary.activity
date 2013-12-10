@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Bèt lanmè moun manje. Molis. Lanbi viv nan lanmè andedan yon koki ki gen fòm espiral. Mwen ta renmen manje yon bon lanbi ak berejèn. 2. Koki. Gen moun ki renmen koki lanbi a, yo fè lanp osnon lòt bagay dekoratif avè l. 3. Enstriman pou fè son. Nan tan esklavay, esklav yo te konn sèvi ak lanbi pou sonnen rasanbleman; se konsa revolisyon an te prepare."
+])

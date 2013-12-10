@@ -1,0 +1,1 @@
+showWord(["adv. "," 1. Anfas. Drèt. Ale dwat devan ou w ap wè lanp la. 2. Ki pa kwochi. Liy sa a trase byen dwat. 3. Kote dwat. Vin bò kote dwat.<br>"])

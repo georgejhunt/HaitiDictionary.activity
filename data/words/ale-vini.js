@@ -1,0 +1,2 @@
+showWord(["adv.","Deplasman nan de sans ki pa gen fen.  Kalo nan yon sèl ale-vini ak madanm li, yo pa ka separe men yo pa ka viv ansanm nonplis. Mwen okipe tout jounen jodi a mwen ap fè anpil ale-vini."
+])

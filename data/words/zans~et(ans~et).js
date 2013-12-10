@@ -1,0 +1,1 @@
+showWord(["n. ","1. Moun ki te la lontan lontan anvan nou epi ki fonde peyi nou an. Zansèt nou yo te konbat lesklavaj. 2.  Grangranparan nou yo. Zansèt nou yo te soti nan kontinan Afrik.<br>"])

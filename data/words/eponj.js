@@ -1,0 +1,2 @@
+showWord(["n. ","1. Materyo mou, leje, ki soti nan yon bèt lanmè, li gen anpil twou ladan l. Lè ou manyen eponj, ou wè li mou toutbon.  2. Materyo mou an plastik epitou lejè ki fèt nan manifakti. Eponj ki fèt nan manifakti a mou menm jan ak eponj natirèl la."
+])

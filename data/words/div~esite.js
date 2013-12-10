@@ -1,0 +1,1 @@
+showWord(["n. "," Varyete. Gen yon divèsite chwa ji zorany nan makèt yo.<br>"])

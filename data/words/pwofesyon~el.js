@@ -1,0 +1,1 @@
+showWord(["n. ","/ a. espesyalis nan yon metye. Konpòtman kòrèk epi ki prediktib.<br>"])

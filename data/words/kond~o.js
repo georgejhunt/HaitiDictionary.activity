@@ -1,0 +1,1 @@
+showWord(["n.","Gwo zwazo rapas ki gen plim nwa. Gen anpil kondò nan peyi Pewou.<br>"])

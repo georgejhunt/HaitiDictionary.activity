@@ -1,0 +1,2 @@
+showWord(["n.","1. Dapre kwayans vodou, se pouvwa yon moun genyen pou pwoteje l osnon pou pèmèt li fè mal osnon byen. Adriyèn pran pwen, se sa kifè kòmès li a mache byen konsa a. 2. Kouti, bwodri. Ou konn fè pwen tij? 3. Nòt. Kalin fè plis pwen pase Janwobè nan egzamen an."
+])

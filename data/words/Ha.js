@@ -1,0 +1,1 @@
+showWord(["ent. "," Son pou fè moun sote.<br>"])

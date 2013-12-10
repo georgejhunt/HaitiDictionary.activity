@@ -1,0 +1,1 @@
+showWord(["n.","Mizik espesyal yo bay pou gran nèg osnon pou lwa. Yo bay ochan nan kanaval lè de bann madigra rankontre. Lè konsa moun yo wete chapo yo epi yo balanse l ak men yo pandan yo ap chante.<br>"])

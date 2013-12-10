@@ -1,0 +1,1 @@
+showWord(["n. ","pati nan literati ki transmèt oralman.<br>"])

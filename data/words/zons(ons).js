@@ -1,0 +1,1 @@
+showWord(["","inite pou mezire pwa nan peyi anglo-sakson. Abreviyasyon li se Aoz@ li vo yon sèzyèm pati yon liv osinon 28.35 gram.<br>"])

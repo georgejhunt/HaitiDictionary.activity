@@ -1,0 +1,1 @@
+showWord(["n. ","Ògàn repwodiksyon mal nan flè ki pote polèn. Li gen yon ti filaman (filè) ak yon sak polèn (antè) ki sou tèt filè a.<br>"])

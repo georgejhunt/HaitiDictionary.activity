@@ -1,0 +1,2 @@
+showWord(["n. ","1. Pawòl Bondye, liv ki rakonte istwa lavi Jezi epi ki montre prensip pou kretyen suiv; liv ki prezante doktrin kretyen; Nouvo Testaman. Leve kanpe pou tande levanjil la. 2. Relijyon pwotestan. Oska se levanjil."
+])

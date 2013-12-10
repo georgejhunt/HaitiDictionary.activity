@@ -1,0 +1,2 @@
+showWord(["n. ","1. Chaj, fonksyon. Misyon nèg sa a se diskite ak ekip nou an.  2. Komisyon. Elifèt vin al fè yon misyon pou mwen la a.  3. Delegasyon, gwoup moun ki pati pou al fè yon bagay nan yon kote. Gen yon misyon ki soti nan peyi Lachin.  4. Anbasad, kò diplomat. 5. Vokasyon. Misyon pè sa yo se pou yo ede moun pòv. 6. Destinasyon. Misyon nan planèt Mas. 7. Operasyon militè."
+])

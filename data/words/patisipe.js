@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Jwe yon wòl anmenmtan ak lòt moun. Filip te patisipe nan konpetisyon an.  2. Kontribye ak lòt moun. Mwen te patisipe nan travay la tou. 3. Pataje. Si gen lajan, se pou tout moun patisipe."
+])

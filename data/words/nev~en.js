@@ -1,0 +1,1 @@
+showWord(["","Sèvis lapriyè ki dire nèf jou. Se katolik ki pratike l. Moun kapab fè nevèn pou sen epi pou mò tou.<br>"])

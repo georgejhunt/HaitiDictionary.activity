@@ -1,0 +1,1 @@
+showWord(["n.","Pati Danyèl Fiyole te fè nan ane 1946. Franswa Divalye te sekretè jeneral pati sa a. Lè Divalye vin prezidan li kraze pati a.<br>"])

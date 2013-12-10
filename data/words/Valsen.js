@@ -1,0 +1,1 @@
+showWord(["np. ","11924-1924-1988. Atispent li koni pou ekilib ki nan penti li yo. Gen moun ki panse li gen bon presizyon lè li ap fè penti paske se mozayik li te konn poze lontan. Li se frè Pyè Jozèf Vasen. Se Jera ki te ankouraje Pyè Jozèf vin dvlope talan atis li.<br>"])

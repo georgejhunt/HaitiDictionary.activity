@@ -1,0 +1,1 @@
+showWord(["n.","kanalize dlo sou teren pou fe agrikilti. <br>"])

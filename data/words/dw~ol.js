@@ -1,0 +1,1 @@
+showWord(["n. ","1. Ki pa nòmal. Mwen twouve ou dwòl depi semenn pase a.  2. Komik. Istwa sa a gentan dwòl.<br>"])

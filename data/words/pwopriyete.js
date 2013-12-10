@@ -1,0 +1,1 @@
+showWord(["n. ","1. Tè. Kawòl gen yon pwopriyete sou wout Dèlma a. 2. Karakteristik. Ki pwopriyete pwodui sa a genyen?<br>"])

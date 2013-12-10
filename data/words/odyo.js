@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène anrejistreman son.<br>"])

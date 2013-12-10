@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Do chèz kote ou apiye do ou. Dosye chèz sa a pa konfòm ditou.  2. Pakèt dokiman konsènan yon evenman. Se pa nan menm dosye Chalmay la ye.<br>"])

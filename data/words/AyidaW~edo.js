@@ -1,0 +1,1 @@
+showWord(["np.","Espri nan relijyon Vodou ki se deyès lakansyèl li asosye ak Danbala Wèdo.<br>"])

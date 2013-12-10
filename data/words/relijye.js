@@ -1,0 +1,1 @@
+showWord(["n. ","1. Moun ki antre nan mè osnon nan pè. Gen de relijye nan fanmi Kawòl.  2. a. Ki gen avwa ak relijyon. Sèvis relijye.<br>"])

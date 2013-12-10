@@ -1,0 +1,2 @@
+showWord(["n.","Lang moun ki rete nan peyi Angletè osnon Etazini pale. Mwen pa konn pale angle men si yon moun ap di de mo, mwen ap konprann. 2. a. Ki gen avwa ak peyi kote yo pale angle.  Te gen yon gwo kokenn chenn restoran angle nan pwent kafou a."
+])

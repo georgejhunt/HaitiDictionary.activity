@@ -1,0 +1,1 @@
+showWord(["n. ","1. Bèt san zo anndan ki gen segman ak karapas. Yo gen de pens ak yon ke long. An jeneral eskòpyon gen yon pwazon li enjekte lè li pike yon bèt osinon yon moun. Mwen pè pou yon eskòpyon pa pike m. 2. Siy owoskòp. Mwen te gen yon zanmi ki te fèt sou siy eskòpyon. <br>"])

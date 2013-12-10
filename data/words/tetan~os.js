@@ -1,0 +1,2 @@
+showWord(["n. ","Maladi enfektye ki ka vin fatal lakoz li se pwazon ki nan yon bakteri (Clostridium tetani). Pou bakteri sa a antre nan moun, li pase nan blesi, nan maleng, pike nan po, maladi a pwovoke kontraksyon nan miskilati, ki fè machwa, kou, figi malad la vin sere. Nou jwenn mikwòb ki lakoz maladi sa a nan poupou moun ak poupou bèt."
+])

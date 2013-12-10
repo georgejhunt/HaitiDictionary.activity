@@ -1,0 +1,1 @@
+showWord(["a. "," Ki gen fòm yon sèk. Zorany sa a tou won. <br>"])

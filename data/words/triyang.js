@@ -1,0 +1,1 @@
+showWord(["n.","Fòm jeyometrik ki gen twa kote epi twa ang. Poligòn ki gen twa kote ak twa ang. Triyang rektang gen yon ang ki gen 90 degre. Triyang ekilateral gen touletwa kote yo egal. Triyang eskalèn pa gen okenn kote ki egal.<br>"])

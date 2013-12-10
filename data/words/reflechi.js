@@ -1,0 +1,1 @@
+showWord(["v. ","Panse. Nou reflechi sou sa epi nou deside pa ale ankò.<br>"])

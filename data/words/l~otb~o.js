@@ -1,0 +1,1 @@
+showWord(["adv. "," 1. laba. Mwen pral lòtbò mwa pwochen. 2. Peyi etranje.<br>"])

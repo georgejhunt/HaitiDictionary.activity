@@ -1,0 +1,1 @@
+showWord(["n fr. "," Fil an metal ki fèt pou fè kouran pase. Atansyon fil elektrik ki dekale yo.<br>"])

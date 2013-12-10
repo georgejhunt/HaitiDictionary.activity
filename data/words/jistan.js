@@ -1,0 +1,1 @@
+showWord(["kon.","konjonksyon ki make limit. Chofe jistan li bouyi.<br>"])

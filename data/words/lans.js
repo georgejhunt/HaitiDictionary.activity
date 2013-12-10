@@ -1,0 +1,1 @@
+showWord(["n. ","Manch. Kenbe chodyè a nan lans.<br>"])

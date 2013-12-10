@@ -1,0 +1,1 @@
+showWord(["v. "," remèt an bon eta. 2. Remete opouvwa.<br>"])

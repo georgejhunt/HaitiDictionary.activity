@@ -1,0 +1,1 @@
+showWord(["n fr. "," Dwèt mitan an. Se dwèt majè a ki pi long pase yo tout.<br>"])

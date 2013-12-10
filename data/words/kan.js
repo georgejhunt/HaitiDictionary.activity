@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Bò, kote, teritwa. Gade ekip yo wa wè, se kan pa ekip adwat la ki pi fò. Nan ki kan ou ye, ou pou li osnon ou pou mwen? 2. Kote yon gwoup reyini pou aktivite espesyal. Mwen renmen al nan kan eskout."
+])

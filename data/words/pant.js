@@ -1,0 +1,2 @@
+showWord(["n. ","1. Direksyon, teren ki pa apla, ki monte tankou yon ti mòn. Sifas ki enkline Gen yon pant rèd nan Premye Avni Bòlòs. 2. Oryantasyon. Timoun ki sou move pant. 3. Deviyasyon ki ant vètikal ak orizontal."
+])

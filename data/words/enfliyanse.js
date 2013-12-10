@@ -1,0 +1,1 @@
+showWord(["v. "," Ki ka fè presyon pou li jwenn sa li vle a; pouva pou fè chanjamn nan opinyon lòt moun. Nou ka enfliyanse eleksyon yo. <br>"])

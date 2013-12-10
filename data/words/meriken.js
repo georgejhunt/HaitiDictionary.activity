@@ -1,0 +1,1 @@
+showWord(["","Ameriken. Moun ki fèt Ozetazini rele meriken.<br>"])

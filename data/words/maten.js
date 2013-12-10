@@ -1,0 +1,1 @@
+showWord(["n. "," Pati nan jounen an ki anvan midi. Mwen leve bonè lematen pou mwen al lekòl.<br>"])

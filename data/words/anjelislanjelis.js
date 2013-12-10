@@ -1,0 +1,2 @@
+showWord(["n.","peryod nan lajounen Kòmansman aswè, vè sizè diswa.  Kou li lanjelis, timoun antre lakay yo. Sonnen lanjelis. 2. Priye devosyon pou lavyej. 3. Son kloch ki anonse le pou lapriye lanjelis."
+])

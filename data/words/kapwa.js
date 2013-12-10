@@ -1,0 +1,1 @@
+showWord(["n. ","Moun okap. Moun na nò.<br>"])

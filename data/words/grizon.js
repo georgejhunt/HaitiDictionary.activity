@@ -1,0 +1,1 @@
+showWord(["n. ","mab ki pa an bon eta.<br>"])

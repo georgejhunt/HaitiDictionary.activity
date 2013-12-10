@@ -1,0 +1,1 @@
+showWord(["a. ","1. Sa lalwa pèmèt ou fè. Dwa vote.2. Sa lalwa garanti pou ou genyen. Dwa moun.<br>"])

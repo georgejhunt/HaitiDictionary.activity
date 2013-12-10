@@ -1,0 +1,1 @@
+showWord(["","1. Fwontyè. 2. Fwontyè ant Ayiti ak Sendomeng. 3. Katye nan kafou kote ki gen anpil Dominikèn ki ap bay sèvis lachè.<br>"])

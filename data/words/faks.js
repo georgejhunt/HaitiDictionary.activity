@@ -1,0 +1,1 @@
+showWord(["n. ","1. teknik repwodiksyon ak transmisyon elektwonik pou dokiman. 2. Dokiman ki repwodui dapre definisyon 1 (en) an. 3. v. tranmisyon faks<br>"])

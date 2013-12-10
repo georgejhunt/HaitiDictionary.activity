@@ -1,0 +1,1 @@
+showWord(["n. ","Ekran. Kadran mont sa a gran.<br>"])

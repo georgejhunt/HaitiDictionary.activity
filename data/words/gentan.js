@@ -1,0 +1,1 @@
+showWord(["adv. ","Deja. Li gentan rive.<br>"])

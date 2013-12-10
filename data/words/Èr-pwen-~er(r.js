@@ -1,0 +1,1 @@
+showWord(["","revoke ranplase.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","pye bwa, zèb, raje, vejetasyon eltr. Vejetal ki gen anpil selil (milti-selilè). 2. Pati nan plant tankou tij, fèy, branch, rasin, grenn, flè, fwi, legin, epis eltr. 3. Pati anba pye."
+])

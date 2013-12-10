@@ -1,0 +1,1 @@
+showWord(["n. ","bwat pou konsève glas; bwat pou konsève manje.<br>"])

@@ -1,0 +1,2 @@
+showWord(["v.","1. Kanpe. Msye te chita, kou yo di men machin nan, li gentan leve. 2. Reveye nan dòmi. Depi yè swa mwen ap plede dòmi, se kounye a mwen resi leve. 3. Parèt tèt li. Solèy la leve byen bonè maten an. 4. Ranmase yon bagay, pa kite l atè. Mwen te renmen lè papa mwen te konn leve mwen anlè lè mwen te piti. 5. Kontinye, pousuiv. Se limenm nan tout fanmi a ki leve non papa l. 6. Retounen, revni, resisite. Jezi leve sou twazyèm jou."
+])

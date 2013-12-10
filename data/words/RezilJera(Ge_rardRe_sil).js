@@ -1,0 +1,1 @@
+showWord(["np. ","Ekriven ki fet an 1930. Li ekri pase 100 pyes teyat. Li etidye nan SNAD (Societe Nationale d=Art Dramatique) li fonde AInstitut National de Formation Artistique@ (INFA)<br>"])

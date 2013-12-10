@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Aktè, aktris, moun ki konn jwe komedi. Janjan se bon jan komedyen. 2. Moun pou ou pa pran oserye. Pa gen anyen serye ki ap soti nan bouch Kalo, li se yon komedyen, l ap jwe yon teyat pou tout moun."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Gwo bèt kat pat ou jwenn nan peyi frèt. Gen anpil karibou nan pati nò peyi Kanada.<br>"])

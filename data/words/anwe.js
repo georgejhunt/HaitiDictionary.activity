@@ -1,0 +1,1 @@
+showWord(["a.","le vwa yon moun chanje tanporeman paske li malad nan goj osinon le larenks li anfle. Li gripe se sa ki fe li anwe konsa a.le vwa yon moun chanje tanporeman paske li malad nan goj osinon le larenks li anfle. Li gripe se sa ki fe li anwe konsa a.<br>"])

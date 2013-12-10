@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Soulye an kawoutchou ki popilè Ayiti ak nan peyi Azi. Al mete fabnak la nan pye ou. 2. Non yon izin kote yo fè soulye fabnak. Kilès ki mèt izin fabnak la?<br>"])

@@ -1,0 +1,2 @@
+showWord(["v. ","1. Bay enfòmasyon fo, ki pa vre, bay manti, sèvi ak riz. Jezila twonpe tout moun. 2. Mistifye, mal oryante moun volontèman. Se ou ki ap twonpe tèt ou si ou konprann ou ap vin blofe nou la a."
+])

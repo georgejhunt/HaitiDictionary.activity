@@ -1,0 +1,1 @@
+showWord(["v. "," resevwa otorite pou fè yon travay. 2. Bay otorite pou yon moun fè yon travay.<br>"])

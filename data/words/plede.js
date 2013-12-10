@@ -1,0 +1,2 @@
+showWord(["v.","1. Repete. Li plede rele anmwe men pèson moun pa okipe l. 2. Diskite san rete pou ou defann yon pozisyon. Ou kontinye ap plede toujou, ou gen kouraj, ala moun gen odas papa.  3. Al defann yon kòz nan tribinal. Mèt Lesko pa la, li al plede nan tribinal, l ap tounen apremidi vè sizè."
+])

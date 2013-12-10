@@ -1,0 +1,1 @@
+showWord(["","Peryòd endyen (anvan kolonizasyon). Peryòd kolonizasyon espayòl (1492-1625). Peryòd kolonizasyon fransè (1625-1789). Peryòd revolisyonè (1789-1803) Peryòd nasyonal (1804-1915). Peryòd okipasyon ameriken (1915-1934). Peryòd kontanporen (1934-).<br>"])

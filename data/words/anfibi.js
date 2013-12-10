@@ -1,0 +1,1 @@
+showWord(["n.","bet osinon bato ki fonksyone nan dlo epi sou tè.  Krapo se yon ekzanp anfibi.<br>"])

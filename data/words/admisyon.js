@@ -1,0 +1,1 @@
+showWord(["n.","1. Seri etap pou yo konsidere yon kandida.  Se nan etap admisyon an lekòl la reyalize Jozefin twò gran pou klas la. 2. Pri ou peye  pou antre nan yon fonksyon. Admisyon senk goud.<br>"])

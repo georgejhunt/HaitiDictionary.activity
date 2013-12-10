@@ -1,0 +1,2 @@
+showWord(["a. ","ki pi ansyen, ki te la anvan. Ki pa rafine. ki bay orijin, kote yon bagay kòmanse. 2. Sosyete ki pa li ak ekri. 3. Estil penti ki konsève liy ak fòm ki senp. Teknik penti ki devlope anvan peryòd renesans."
+])

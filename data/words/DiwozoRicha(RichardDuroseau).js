@@ -1,0 +1,1 @@
+showWord(["np. ","Mizisyen akòdeyonis ki te jwe nan dyaz Nemou Janbatis.<br>"])

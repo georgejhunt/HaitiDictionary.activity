@@ -1,0 +1,1 @@
+showWord(["n. ","etid langaj ak lang pou idantifye sans mo yo.<br>"])

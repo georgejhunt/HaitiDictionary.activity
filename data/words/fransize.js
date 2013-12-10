@@ -1,0 +1,1 @@
+showWord(["v. ","bay yon mo yon pwononsiyasyon osinon yon òtograf ki rapwoche ak lang franse.<br>"])

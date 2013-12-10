@@ -1,0 +1,1 @@
+showWord(["v. ","Mete yon moun nan yon sitiyasyon ki bon pou li.<br>"])

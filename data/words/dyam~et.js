@@ -1,0 +1,1 @@
+showWord(["n. ","liy dwat ki pase nan sant yon sèk epi ki touche sèk la nan de pwen ekstrèm. Dyamèt yon sèk se liy ki pi long ki pase andedan l.<br>"])

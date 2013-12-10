@@ -1,0 +1,1 @@
+showWord(["n. ","kouch selil po ki an kontak ak anviwonman kote bèt osinon moun nan ap viv. 2. Nan plant se kouch selil ki solid ki kouvri toutotou grenn osinon semans osinon fèy plant lan.<br>"])

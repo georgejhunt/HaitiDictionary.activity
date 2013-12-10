@@ -1,0 +1,1 @@
+showWord(["v.","Vèb ki montre yon sitiyasyon oubyen yon moun. Se pitit mwen an ki di mwen sa. Se ou ki te ale nan nòs la? Se sa yo di men mwen pa konnen si se vre Se gwo koze ou di la a. Se pa tout sa ou tande pou ou repete. Se nou tout ki antrave la a.<br>"])

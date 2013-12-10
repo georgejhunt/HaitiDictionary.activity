@@ -1,0 +1,1 @@
+showWord(["v. ","1. Demanti tèt ou. Apa ou ap kontredi sa ou sot di a? 2. Di lekontrè. radyo kontredi nouvèl televizyon an bay lan.<br>"])

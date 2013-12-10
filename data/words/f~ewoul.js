@@ -1,0 +1,1 @@
+showWord(["v fr.","Al flannen olye ou al lekòl osinon al legliz. Li pa bon pou ou ap fè woul.<br>"])

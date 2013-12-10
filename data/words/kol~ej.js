@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Lekòl layik prive. Sè m ak frè mwen an te al nan Kolèj Senpyè. 2. Nivo lekòl apre segondè nan sistèm meriken an. Toulede pitit mwen yo nan kolèj kounye a, talè konsa yo pral diplome."
+])

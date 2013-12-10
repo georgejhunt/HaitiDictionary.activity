@@ -1,0 +1,1 @@
+showWord(["n fr. "," Pye santi akòz enfeksyon ak fongis. Janjan gen pye mayas.<br>"])

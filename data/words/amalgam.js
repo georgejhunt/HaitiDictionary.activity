@@ -1,0 +1,1 @@
+showWord(["n.","melanj mèki ak yon lòt metal. 2. Melanj pou fè dantye.<br>"])

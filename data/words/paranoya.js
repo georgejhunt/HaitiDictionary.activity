@@ -1,0 +1,1 @@
+showWord(["n. ","Sitiyasyon espesyal lè yon moun santi li yon jan sispèk san rezon osnon li panse gen moun ki dèyè ou pou fè ou mal alòske se pa vre. Maladi mantal ki bay lapè ak kè sote.<br>"])

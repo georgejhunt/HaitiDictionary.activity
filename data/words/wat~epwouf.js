@@ -1,0 +1,1 @@
+showWord(["a. ","enpèmeyab yon twal osinon lòt materyèl ki pa kite dlo pase. Tapi tab la watèpwouf.<br>"])

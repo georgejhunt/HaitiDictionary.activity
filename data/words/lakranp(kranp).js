@@ -1,0 +1,1 @@
+showWord(["n. ","Pwoblèm tanporè ki fè miskilati (vyann) nan kò yon moun redi epitou fè l mal. Wozita gen lakranp.<br>"])

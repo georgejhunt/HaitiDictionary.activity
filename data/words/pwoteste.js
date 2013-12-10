@@ -1,0 +1,1 @@
+showWord(["v. ","deklare dezakò piblikman. Dezapwouve.<br>"])

@@ -1,0 +1,1 @@
+showWord(["adv.","ki tonbe byen kare.<br>"])

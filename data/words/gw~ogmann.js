@@ -1,0 +1,1 @@
+showWord(["n.","Moun ki renmen bwè bwason ki gen anpil alkòl osnon tafya. Woje se gwo gwògmann.<br>"])

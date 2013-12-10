@@ -1,0 +1,2 @@
+showWord(["np. ","Youn nan chèf endyen ki te opoze espayòl yo nan kòmansman lakoloni. Se te yon gèrye vanyan. Li te chèf Kasika Magwana. Blan espayòl yo wè msye te di, li te fawouch pou anpeche kolonizasyon an. Yo voye kado pou li, mande li yon antrevi pou siyen lapè. Kòm li te vle lapè, li fè blan yo konfyans. Lè yo rive, yo envite li ale rankontre chèf blan yo. Se konsa yo fè dappiyanp sou li arete li, mete l sou lanmè epi li mouri. Gen moun ki di yo tiye li nan lanmè an 1496."
+])

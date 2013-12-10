@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Separe an kawo. Depi ane pase yo te kawote teren an. 2. a. Ki gen kawo. Papye kawote.<br>"])

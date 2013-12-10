@@ -1,0 +1,1 @@
+showWord(["n. ","Ki konte youn sou lòt. Gen yon gwo entèdepandans ant madanm ak mouche.<br>"])

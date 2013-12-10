@@ -1,0 +1,1 @@
+showWord(["","1. n. Syans ak teknik pou jere yon peyi. Gen moun ki konprann se politik yo ap fè men se politikayri yo ap fè. 2. a. Sitiyasyon politik Pòl te lakoz li pran egzil.<br>"])

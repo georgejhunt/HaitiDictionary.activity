@@ -1,0 +1,1 @@
+showWord(["n. ","Dezi ak ensten seksyèl. Nan sikoloji se enèji sichik ki pòte moun renmen epi fè bèl bagay.<br>"])

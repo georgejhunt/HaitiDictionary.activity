@@ -1,0 +1,1 @@
+showWord(["n. ","Imaj osnon Reprezantasyon an tè kuit moun konn adore. Moun ki adore zidòl fè idolatri.<br>"])

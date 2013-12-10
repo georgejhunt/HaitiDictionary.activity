@@ -1,0 +1,1 @@
+showWord(["n. ","pye. Mwen ale sou de vityello m. 2. Vityelo (Vitielo) Non yon komèsan ki te konn vann soulye Pòtoprens.<br>"])

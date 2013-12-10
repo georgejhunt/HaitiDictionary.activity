@@ -1,0 +1,2 @@
+showWord(["a.","1. Manje ki difisil pou dijere. Silòt pa renmen manje zonyon kri, li yon jan endijès. 2. Ensipòtab. Moun osnon sitiyasyon difisil pou aksepte. Edga se yon nonm ki gen yon karaktè dezagreyab, dapre Silòt, msye se yon nonm endijès."
+])

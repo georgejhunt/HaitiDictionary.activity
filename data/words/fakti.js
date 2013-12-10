@@ -1,0 +1,1 @@
+showWord(["","list machandiz ki delivre ak pri yo pou yon kliyan peye.<br>"])

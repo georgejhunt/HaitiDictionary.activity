@@ -1,0 +1,1 @@
+showWord(["a. ","Ki vini youn apre lòt. Pandan de jou konsekitif.<br>"])

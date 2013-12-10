@@ -1,0 +1,1 @@
+showWord(["n. ","1. Tablo. Sa se yon bèl penti.  2. Likid koulè ki sèvi pou pentire. Ki koulè penti ou vle. 3. Aksyon pentire. Mwen gen pou mwen fè yon travay penti semenn pwochen.<br>"])

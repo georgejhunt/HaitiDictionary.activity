@@ -1,0 +1,2 @@
+showWord(["n. ","1. Moun ki veye kay, lakou, tè. Mwen pral mete yon gadyen pou veye danre yo pou mwen paske gen twòp volè bò isi a. 2. Moun ki voye je sou timoun pou fanmi l. Mwen bezwen yon gadyen pou aswè a, pou gade tipitit la pou mwen; sinon, mwen pap kapab sòti."
+])

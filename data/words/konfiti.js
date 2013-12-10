@@ -1,0 +1,2 @@
+showWord(["n. "," Manje dous ki fèt ak fwi epi ak sik. Diferans ki genyen ant jele ak konfiti sèke konfiti a gen ma fwi a ladan l, jele a menm li fèt ak ji fwi a sèlman, li pa gen ma. 2. Manje ki bouyi epi konsève nan sik."
+])

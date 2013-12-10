@@ -1,0 +1,2 @@
+showWord(["n. ","1. Akonpaye yon moun sou wout li. Mwen pral ba ou yon ti woulib. 2. Kite you moun monte machin pou ale yon lòt kote, san peye. 3. Deplase yon machin nan ladesant yon pant, alòske motè a etenn."
+])

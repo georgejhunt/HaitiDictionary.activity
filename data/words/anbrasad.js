@@ -1,0 +1,1 @@
+showWord(["n.","akeyi yon moun ak de bra.<br>"])

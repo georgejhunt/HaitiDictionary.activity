@@ -1,0 +1,1 @@
+showWord(["","1. zanmitay pou kalbende. 2. ti otèl bon mache san ijyèn. 3. Kote ki gen granmoun ki sitire timoun fè sa ki pa moral. 4. Yon espès pwason.<br>"])

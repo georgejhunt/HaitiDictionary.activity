@@ -1,0 +1,1 @@
+showWord(["v. "," Mete yon kouch beton. Yo simante lakou a.<br>"])

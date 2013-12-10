@@ -1,0 +1,2 @@
+showWord(["n. ","Kanari, veso ki fèt ak ajil pou konsève dlo osinon manje. 2. Veso pou konsève lajan ak lò anba tè; dapre kont, lejann ak istwa nan tradisyon Ayiti, ja yo se kanari ki anba tè depi lontan lontan epi ki plen lajan kolon yo ak lòt moun te sere. Ou pa wè Jan vin rich toudenkou, se yon ja li jwenn nan lakou lakay li a!"
+])

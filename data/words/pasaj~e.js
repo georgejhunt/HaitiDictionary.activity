@@ -1,0 +1,1 @@
+showWord(["a. ","Ki pa dire. Yon sitiyasyon pasajè.<br>"])

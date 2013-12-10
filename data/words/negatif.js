@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ki pa pozitif. Rezilta tès yo negatif.  2. Ki pi piti pase zewo. Chif negatif. 3. Senbòl soustraksyon, mwens. Kat mwens youn egal twa. 4. Fim yo devlope pou yo ka enprime foto yo. Negatif yo pa byen soti. "
+])

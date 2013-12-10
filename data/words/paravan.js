@@ -1,0 +1,1 @@
+showWord(["n.","baraj ki fèt ak yon ankadreman anbwa ki gen twal lanmitan l. Louvri paravan an pou mwen pou mwen kapab wete rad sou mwen san vwazinay pa gade mwen.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan je yon moun ki resevwa limyè epi ki transmèt li bay nè optik la. Se retin nan ki pèmèt yon moun wè. Kouch selil ki sansib ak limyè ki genyen nan fon boul je tout vètebre yo. Li fèt ak selil ki gen fòm bagèt ak fòm kòne. Retin nan gen nè optik ki pèmèt li konekte dirèkteman ak sèvo a. <br>"])

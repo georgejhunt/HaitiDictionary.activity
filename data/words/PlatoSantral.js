@@ -1,0 +1,2 @@
+showWord(["","Zòn depi Montay Nwa rive jous nan fontyè ak Dominikani. Se pati plato Ayiti ki pi laj. Li apeprè 1000 pye wotè (altitid). Tè a bay anpil manje. Nan zòn plato santral, gen yon mouvman yo rele mouvman peyizan papay; se yon asosiyasyon koperatif pou ede peyizan yo jwenn ladrès, zouti ak lajan prete pou yo kapab pwodui manje, transfòme sa yo pwodui epitou komèsyalize sa yo transfòme."
+])

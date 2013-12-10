@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Plant, Fèy legim, fèy te ki fè moun dòmi byen. Jera renmen legim koupye. 2. Pozisyon anba ke cheval, milèt ak bourik kote yo pase kòd pou soutni sèl. Koupye chwal la fè maleng."
+])

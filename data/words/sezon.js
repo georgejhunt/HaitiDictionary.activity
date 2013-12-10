@@ -1,0 +1,2 @@
+showWord(["n.","1. Peryòd nan ane a, ki make deiferans nan klima. Gen kat sezon nan yon ane, se prentan, ete, otòn ak ivè. Chak sezon dire twa mwa. 2. Tan, peryòd. sezon lapli, sezon chalè, sezon mango."
+])

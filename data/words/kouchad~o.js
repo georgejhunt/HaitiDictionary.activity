@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki renmen dòmi. Ou se yon kouchadò.<br>"])

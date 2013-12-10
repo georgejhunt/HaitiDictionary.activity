@@ -1,0 +1,2 @@
+showWord(["n. ","1. Tan limite yon aktivite pran. Nou pral silema seyans twazè osnon senkè. 2. Nan sistèm lejislatif osnon jistis, deliberasyon ant moun ki espesyalize nan domèn nan. Seyans lachanm nan poko fini."
+])

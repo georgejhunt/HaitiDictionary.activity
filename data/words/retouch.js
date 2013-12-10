@@ -1,0 +1,1 @@
+showWord(["n. ","reparasyon leje.<br>"])

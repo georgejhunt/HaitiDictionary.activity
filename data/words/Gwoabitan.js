@@ -1,0 +1,2 @@
+showWord(["","Moun andeyò ki gen mwayen, ki enpòtan nan vil kote li rete. Gwo abitan yo konn gen komès, anpil tè epi pi gwo kay nan katye kote yo rete a. Anpil nan gwo abitan yo konn chèf seksyon epi yo reprezante gouvènman lokal la."
+])

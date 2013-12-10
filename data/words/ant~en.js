@@ -1,0 +1,2 @@
+showWord(["n.","Yon fil osinon yon tib an metal ki sèvi pou pèmèt yon radyo kapte estasyon yo pi klè. Televizyon bezwen antèn tou pou kapte pwogram yo. Lè televizyon gen sèvis kab, li pa bezwen yon antèn ankò, kab la sèvi antèn. Antèn modèn yo fèt tout kalite fòm. Gen antèn parabolik ki gen fòm yon asyèt."
+])

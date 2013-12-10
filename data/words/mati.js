@@ -1,0 +1,2 @@
+showWord(["n. ","1. Gwo soufrans, mizè. Pase mati. 2. Etap nan kànonizasyon nan legliz katolik. Sen sa a te yon mati. 3. Tray, pwoblèm, difikilte. Li pase yon mati. 4. a. Ki soufri anpil. Pèp mati."
+])

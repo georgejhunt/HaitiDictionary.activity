@@ -1,0 +1,2 @@
+showWord(["n.p. ","1. Youn nan Planèt ki nan menm sistèm ak latè. Venis se yon planèt ki briye. Planèt Venis.  2. Fi ki bèl. Vijini se yon venis.  3. Non pou fi. Kalin gen yon zanmi ki rele Venis. 4. Nan mitoloji women, se non lwa (divinite, espri) ki reprezante lamou ak labote."
+])

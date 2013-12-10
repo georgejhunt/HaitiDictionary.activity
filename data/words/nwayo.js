@@ -1,0 +1,2 @@
+showWord(["n. ","Pati nan selil plant ak bèt, nan sitoplas yo. Li genyen tout enfòmasyon jenetik yo pou repwodiksyon, kwasans eltr. Se pati kòmann santral pou anpil fonksyon. 2. Nan fizik, se pati santral yon atom. 3. Nan botanik se pati di (grenn) ki anndan yon seri fwi. Grenn, pati andedan yon fwi ki di, anjeneral moun pa manje l.  "
+])

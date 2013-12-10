@@ -1,0 +1,2 @@
+showWord(["n. "," Zouti mou mezire dlo elektrisite, vitès, eltr. Nan tout kay gen kontè pou mezire ki kantite kouran, osnon dlo ki sèvi chak mwa. Kontè dlo an pa t mache lakay la ki fè nou pa konnen konbyen nou pral gen pou nou peye mwa sa a."
+])

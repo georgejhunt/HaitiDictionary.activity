@@ -1,0 +1,1 @@
+showWord(["v. ","Repouse ak mepri. Ou kwape timoun nan lèd.<br>"])

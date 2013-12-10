@@ -1,0 +1,2 @@
+showWord(["n. "," Antant, kontra, agreman sou relasyon ant yon peyi ak Vatikan. Ayiti te gen yon Konkòda ak Vatikan, li te siyen nan peyi Itali, nan vil Wòm jou ki te 28 mas 1860, sou prezidan Jefra."
+])

@@ -1,0 +1,1 @@
+showWord(["ent. "," plètil. Son pou reponn. Son pou endike atansyon.<br>"])

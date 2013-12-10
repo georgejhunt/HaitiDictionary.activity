@@ -1,0 +1,1 @@
+showWord(["n. "," Alevini. Jozèf ap fè vatevyen devan pòt la ap tann bòs la vini.<br>"])

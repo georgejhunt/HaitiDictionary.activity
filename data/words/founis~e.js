@@ -1,0 +1,1 @@
+showWord(["n. ","machann ki founi machandiz bay kliyan. Sous kote yon antrepriz achete sa li bezwen.<br>"])

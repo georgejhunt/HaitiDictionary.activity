@@ -1,0 +1,1 @@
+showWord(["n. ","semans ki fèk kòmanse boujonnen. 2. Eleman ki atache ak lòt mo pou endike mwatye.<br>"])

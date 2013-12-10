@@ -1,0 +1,1 @@
+showWord(["n. ","Kivèt fiks pou lave men. Pa gen dlo nan tiyo lavabo a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," Bay repons tenkantenk. Tifi sa a replike ak granmoun kareman.<br>"])

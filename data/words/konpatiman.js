@@ -1,0 +1,1 @@
+showWord(["n. ","separasyon nan yon espas pou kreye lòt espas endepandan. Klwazon.<br>"])

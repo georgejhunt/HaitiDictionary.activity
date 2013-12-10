@@ -1,0 +1,1 @@
+showWord(["n. ","Wòch vizib nan lanmè a. Si yon bato jwenn ak yon resif li ka fè nofray.<br>"])

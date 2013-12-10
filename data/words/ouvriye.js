@@ -1,0 +1,2 @@
+showWord(["n.","Travayè, anplwaye, moun ki travay, ki ap touche alè, pa jou, pa semèn osinon pa mwa. 2. Gwoup sosyal. Ouvriye ak peyizan peyi Ayiti travay pi di, touche mwens kòb, yo pa gen bon lekòl, yo pa gen sèvis doktè kòm sa dwa."
+])

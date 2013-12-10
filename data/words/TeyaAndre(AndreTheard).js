@@ -1,0 +1,1 @@
+showWord(["np. ","Espòtif olenpik ki fè kous rapid. Li fèt an 1905. Li patisipe nan plizyè kous entènasyonal ak kous inivèsitè mondyal. Li chanpyon plizyè fwa.<br>"])

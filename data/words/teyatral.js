@@ -1,0 +1,1 @@
+showWord(["a. ","1. Ki gen avwa ak teyat. Fèt teyatral. 2. Tifi sa a teyatral papa.<br>"])

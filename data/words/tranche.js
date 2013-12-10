@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Doulè fi santi anvan li akouche. Madan Alsendò gen tranche. 2. v. Koupe moso. Tranche gato a.<br>"])

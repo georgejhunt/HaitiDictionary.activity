@@ -1,0 +1,1 @@
+showWord(["","Pwofesè ki byen prepare epi ki maton nan teknik pou anseye elèv lekòl.<br>"])

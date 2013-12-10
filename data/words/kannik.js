@@ -1,0 +1,1 @@
+showWord(["n. ","Mab. Se kannik sa a mwen pi pito.<br>"])

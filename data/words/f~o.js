@@ -1,0 +1,2 @@
+showWord(["","1. n. Konstriksyon pou pwoteje moun pandan lagè. Gen yon gwo fò ki bati nan zòn Okap la, ou kwè se gran li gran, si ou antre la ou kapab pèdi. 2. a. Entelijan. Tifrè mwen an tèlman fò, chak mwa li premye nan klas li. 3. a. Ki gen yon odè moun pran fasil, ki andwa pa agreyab. Jan savon bon mache, kijan yon moun fè santi fò? 4. a. Wo, gwo volim. Kijan moun sa yo tande mizik fò konsa a? 5. Ki gen anpil fòs. 6. oblije, kontraksyon pou fòk. Fò ou ale."
+])

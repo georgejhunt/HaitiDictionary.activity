@@ -1,0 +1,1 @@
+showWord(["v. ","Bay kalòt. Yo kalote Ivèt pou frekansite.<br>"])

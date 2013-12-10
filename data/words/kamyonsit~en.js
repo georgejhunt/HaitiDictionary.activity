@@ -1,0 +1,1 @@
+showWord(["n fr. ","Rezèvwa dlo ki mobil. Mwen kamyon sitèn nan vin pote dlo a.<br>"])

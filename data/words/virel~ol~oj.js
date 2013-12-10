@@ -1,0 +1,1 @@
+showWord(["v fr.","Fè yon moun pèdi kontwòl li ak bèl pwomès. Gaston vire lòlòj Magarèt depi premye jou yo kontre a.<br>"])

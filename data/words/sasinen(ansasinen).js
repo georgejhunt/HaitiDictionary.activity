@@ -1,0 +1,1 @@
+showWord(["v. ","  Touye ak zam file tankou kouto. Yo sasinen Pòl ak Jak pandan kànaval la.  <br>"])

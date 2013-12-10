@@ -1,0 +1,1 @@
+showWord(["n. ","Oganizasyon kote yo gade bèt sovaj. Jaden zowolojik. Timoun yo pral nan zou jodi a. <br>"])

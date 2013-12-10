@@ -1,0 +1,2 @@
+showWord(["n fr. "," Nan pwogram lekòl primè, kou ki vini tousuit apre preparatwa de. Kou primè nan peyi Ayiti gen klas anfanten en ak de, preparatwa en ak de, elemantè en ak de epi mwayen en ak de."
+])

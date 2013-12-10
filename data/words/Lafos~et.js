@@ -1,0 +1,1 @@
+showWord(["","katye popilè nan vil Okap.<br>"])

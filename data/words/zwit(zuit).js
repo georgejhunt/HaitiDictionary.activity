@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Bèt ki viv nan dlo ki gen kokiy an de bò (bivalv). Li viv nan dlo kote ki gen wòch. Gen anpil moun ki manje pati mou ki andan zuit la. Eske ou renmen zwit?  2. Piti, tikal. Li ban m yon ti zwit nan gato a."
+])

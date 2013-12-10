@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Sikatris ki sou po yon moun aprezavwa moun nan te gen yon blesi ki geri. Monchè mwen pap janm bliye mak sa a, se nan travèse yon lantouraj mwen pran l. 2. Pwen osnon yon kòd kèlkonk ou mete pou rekonèt osnon sonje yon bagay. Mwen fè yon mak sou mi an pou ou ka wè kote pou ou kloure foto a."
+])

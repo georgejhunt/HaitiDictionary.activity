@@ -1,0 +1,1 @@
+showWord(["n. ","Zouti mou mezire radiyasyon. Laboratwa sa a gen de radyomèt.<br>"])

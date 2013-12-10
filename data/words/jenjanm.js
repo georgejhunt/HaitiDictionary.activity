@@ -1,0 +1,1 @@
+showWord(["n. ","epis pike ki sèvi pou bay manje dous bon gou. Yon timoso jenjanm nan labouyi bali bon gou. Te jenjanm bon pou frison.<br>"])

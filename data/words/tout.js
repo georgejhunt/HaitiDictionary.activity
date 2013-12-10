@@ -1,0 +1,2 @@
+showWord(["","1. Alawonnbadèt, san eksepsyon. Tout moun san eksepsyon dwe peye taks. 2. San kite rès. Mwen manje tout gato a, mwen pat konnen si ou te vle moso. 3. Pwen final. Mwen fin pale, se tout. 4. San rete. Lapli tonbe tout nannuit la."
+])

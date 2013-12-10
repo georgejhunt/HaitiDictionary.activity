@@ -1,0 +1,2 @@
+showWord(["n.","1. kote ou met poul. Mwen te rete pre kay yon moun ki te gen yon poulaye, sant kaka poul la te fò anpil. 2.  Zòn nan estad kote ki pa koute chè. Kote yo lage tout pil timoun ki pap remèt anyen lekòl. Sa ki fè mwen pa gen metye jodi a se paske mwen te toujou nan poulaye a, mwen te pito al jwe mòpyon nan dènye ban nan klas la. "
+])

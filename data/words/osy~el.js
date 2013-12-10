@@ -1,0 +1,1 @@
+showWord(["","anlè kote espri yo rete. Mwen santim osyèl.<br>"])

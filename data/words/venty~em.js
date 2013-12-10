@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pozisyon nimewo ven. Se ou ki ventyèm nan. 2. Ki nan ventyèm pozisyon. Ventyèm konpetitè a se Kalin.<br>"])

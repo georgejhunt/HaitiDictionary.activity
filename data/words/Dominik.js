@@ -1,0 +1,2 @@
+showWord(["np. "," Kolonèl nan lame Dayiti ki te marye ak Marideniz Divalye, pitit Fwanswa Divalye. Dapre listwa, nan lane 1967, Divalye te panse Maks t ap konplote sou do l, li te egzile l, voye l ale kòm anbasadè nan peyi Espay. Li te fè yon kout anbasadè peyi Lafrans tou."
+])

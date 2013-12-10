@@ -1,0 +1,1 @@
+showWord(["n.","Dans moun vire moute epi vire desann sou plas. Dans twis la pa alamòd ankò.<br>"])

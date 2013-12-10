@@ -1,0 +1,1 @@
+showWord(["a. ","yon ti kantite. <br>"])

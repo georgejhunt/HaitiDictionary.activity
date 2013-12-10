@@ -1,0 +1,1 @@
+showWord(["n. ","moun ki la pou bay yon lòt sekirite; ki la pou pwoteje yon lòt kont danje.<br>"])

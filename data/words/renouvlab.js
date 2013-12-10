@@ -1,0 +1,1 @@
+showWord(["a. ","ki ka renouvle.<br>"])

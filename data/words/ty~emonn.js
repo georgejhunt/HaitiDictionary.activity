@@ -1,0 +1,1 @@
+showWord(["n. ","Mo pou mete ansanm tout peyi ki pa ko devlope ekonomikman.<br>"])

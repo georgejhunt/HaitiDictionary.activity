@@ -1,0 +1,1 @@
+showWord(["n. ","1. Padon. Fè mwen gras tanpri. 2. Sipò ki sòti nan yon fòs sinatirèl.<br>"])

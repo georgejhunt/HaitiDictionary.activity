@@ -1,0 +1,1 @@
+showWord(["n. ","Asosyasyon ki pwofitab pou de òganis vivan. Gen fongis ak alg ki viv an senbyoz.<br>"])

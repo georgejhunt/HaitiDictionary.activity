@@ -1,0 +1,1 @@
+showWord(["n. ","1. Moun ki vini apre. Se ou ki swivan an. 2. a. Ki vin apre. Se nan jou swivan yo nou vin konnen kisa ki te pase.<br>"])

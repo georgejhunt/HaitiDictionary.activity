@@ -1,0 +1,1 @@
+showWord(["a. ","moun ki dire nan yon aktivite menmsi gen difikilte.<br>"])

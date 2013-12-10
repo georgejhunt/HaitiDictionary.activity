@@ -1,0 +1,1 @@
+showWord(["v. ","Mete sou fòm vapè (gaz).<br>"])

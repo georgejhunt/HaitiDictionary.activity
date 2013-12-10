@@ -1,0 +1,1 @@
+showWord(["v.","Anmède. Kalito renmen tiraye Kalin tout lajounen.<br>"])

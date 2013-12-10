@@ -1,0 +1,1 @@
+showWord(["n.","Sipò ki kenbe yon konstriksyon. Kay ki gen anpil poto yo konn pi solid.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","penti pou desine ki ka delye ak dlo. 2. estil penti.penti pou desine ki ka delye ak dlo. 2. estil penti.penti pou desine ki ka delye ak dlo. 2. estil penti.penti pou desine ki ka delye ak dlo. 2. estil penti.penti pou desine ki ka delye ak dlo. 2. estil penti.<br>"])

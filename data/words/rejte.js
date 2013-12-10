@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Rejete rechte. Vonmi. 2. Refize aksepte. Direksyon an rejte òf anplwaye yo.<br>"])

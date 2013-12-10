@@ -1,0 +1,2 @@
+showWord(["a.","1. Ki pa bon kalite. Kalite twal sa a enferyè. 2. Pozisyon ki pi ba. Nou nan menm lekòl men li nan yon nivo enferyè. 3. n. Ransè, ki pap di anyen serye. Sispann fè enferyè la a, Gaston, mwen bouke tande ou ap ranse."
+])

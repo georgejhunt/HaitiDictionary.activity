@@ -1,0 +1,1 @@
+showWord(["adv.","1. A sipoze nou ta di! 2. Malerezman<br>"])

@@ -1,0 +1,1 @@
+showWord(["n fr. "," Ekspresyon osnon fòm je ki sanble ak je chinwa. Tifi sa a gen je chire.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," Bòy. Melanj farin dlo ak sèl bouyi nan bouyon, nan soup osinon sòs pwa. Pou prepare bòy, ou melanje farin nan nan enpe dlo epi ou brase l joustan li fè yon pat di. Pat di sa a ou lage l pa timoso nan pwa cho pandan pwa ap bouyi. Gen moun ki fè donmbwèy nan bouyon. Ozetazini, gen yon manje ki sanble ak donmbwèy ki rele donmplin. 2. Moun ki wè nan yon sèl je."
+])

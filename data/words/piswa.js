@@ -1,0 +1,1 @@
+showWord(["n. ","kote ki fèt pou moun al pipi. Lise Petyon gen piswa pou elèv primè gen lòt pou elèv segondè. <br>"])

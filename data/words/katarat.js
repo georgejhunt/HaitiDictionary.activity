@@ -1,0 +1,1 @@
+showWord(["n. ","Yon maladi ki atake lantiy nan je a (ki fè lantiy la vin opak) ki lakoz moun nan pa wè byen jouk li vin avèg. Doktè a opere Alis pou katarat. 2. Yon gwo chit dlo.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki ap takinen. Janjan se yon takinè.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","Mete nan yon fòma ki konni davans.<br>"])

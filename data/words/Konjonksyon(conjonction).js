@@ -1,0 +1,1 @@
+showWord(["","non yon revi an Franse ki pibliye Ayiti. (La Revue Franco-Haitienne de l@Institut Francais d=Haiti). An 1999 redaktè an chèf li se Gi Maksimilyen (Guy Maximilien).<br>"])

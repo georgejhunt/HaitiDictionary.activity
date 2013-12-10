@@ -1,0 +1,2 @@
+showWord(["","1. a. Ki rete nan bwa, ki pa domestike, mawon. Gen chat ki ret ak moun men gen chat sovaj ki pa janm apwoche moun ditou. Ki pa sivilize. Ki jan tipitit la sovaj konsa a, mwen annik di l bonjou epi li pran kriye. 2. Karaktè yon moun ki gen difikilte lè l ap kominike ak lòt moun. Tidam sa a se yon moun ki sovaj papa, fòk ou konn ki jan ou pral pale avè l, sinon, ou nan ka. 4. n. Ki rete lwen sivilizasyon. Papa mwen te yon sovaj, li te rete nan bwa pandan tout vi l."
+])

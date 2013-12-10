@@ -1,0 +1,2 @@
+showWord(["","1. n. Anbyans kote moun amize yo. Mwen pral mete yon bèl rad long pou mwen al nan fèt aswè a. 2. v. Vin sou latè a. Lè ou te fèt, mwen potko menm fè premyè kominyon mwen. 3. n. Jou ferye. Jodi a se fèt, magazen pa louvri. Anivèsè yon evenman. Jodi a se fèt mwen."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Kote bato akoste tè pou debake. 2. Ti twou piti ki sou po kote swe soti. Ti twou piti-piti.<br>"])

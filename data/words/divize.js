@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Fè divizyon. Depi nan klas elemantè mwen te konn miltipliye ak divize. 2. Fè separasyon. Mwen divize kay la an twa pati.<br>"])

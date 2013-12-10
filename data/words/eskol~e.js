@@ -1,0 +1,1 @@
+showWord(["a. ","ki gen avwa ak lekòl. Ane eskolè a kòmanse nan mwa septanm.<br>"])

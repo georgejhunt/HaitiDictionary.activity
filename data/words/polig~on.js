@@ -1,0 +1,1 @@
+showWord(["n. ","Espas jeyometrik ki fèt ak liy dwat sèlman. Yon poligòn ki gen kat kote egal se yon kare.<br>"])

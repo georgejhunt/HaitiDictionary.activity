@@ -1,0 +1,2 @@
+showWord(["np. ","Atis oral, rakontè, animatè. Li fèt Gonayiv. Li te avèg epi li te konn rakonte tout kalite istwa poi amize epi kritike abitid diskriminasyon ak prejije epitou prezante deferan pati nan kilti Ayisyen. Li mouri Ozetazini nan yon aksidan dife an 1984."
+])

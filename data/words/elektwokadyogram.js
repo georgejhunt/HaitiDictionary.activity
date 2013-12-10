@@ -1,0 +1,1 @@
+showWord(["n. ","teknik pou wè kijan kè moun ap mache.<br>"])

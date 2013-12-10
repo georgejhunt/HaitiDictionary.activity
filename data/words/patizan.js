@@ -1,0 +1,1 @@
+showWord(["n. ","Moun ki pran pati. Mari se patizan pwotestan yo.<br>"])

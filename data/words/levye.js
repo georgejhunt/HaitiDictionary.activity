@@ -1,0 +1,1 @@
+showWord(["n. ","Pyès ki pèmèt ou leve yon chay lou san difikilte. Pouli se yon levye.<br>"])

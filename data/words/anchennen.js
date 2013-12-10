@@ -1,0 +1,1 @@
+showWord(["v.","mare yon bèt osinon yon bagay ak chenn. Gen moun ki pral vin vizite la a anchennen chen an. <br>"])

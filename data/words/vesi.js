@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan kò ki kenbe pipi. Depi vesi ou plen ou ap anvi pipi.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Jwèt balon ògànize an dekan. Chak kan gen 10 jwè plis gadyen.<br>"])

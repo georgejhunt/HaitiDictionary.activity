@@ -1,0 +1,1 @@
+showWord(["a. ","Ki sanble ak yon katastwòf.<br>"])

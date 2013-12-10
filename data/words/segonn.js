@@ -1,0 +1,1 @@
+showWord(["n. "," Fraksyon nan tan ki vo swasant minit. Nan twa segonn li ap dezè apremidi.<br>"])

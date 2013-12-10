@@ -1,0 +1,1 @@
+showWord(["n","Mannyè. Mwen pa renmen fason ou aji a ditou ditou.<br>"])

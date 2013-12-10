@@ -1,0 +1,2 @@
+showWord(["np.","Vil prensipal depatman Latibonit. Non an soti depi nan lang endyen ki te nan zòn nan anvan Kristòf Kolon te debake. Se la Desalin te pwoklame endepandans Ayiti premye Janvye 1804 apre yo te fin genyen batay kont Lafrans. Gonayiv gen yon gwo izin koton, yon izin luil epitou se yon kote yo fè anpil sèl. Vil ki bay sou gòf Lagonav la, li gen 10, 000 moun konsa ki ret ladan l. Ivwoz se moun Gonayiv."
+])

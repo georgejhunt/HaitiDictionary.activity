@@ -1,0 +1,1 @@
+showWord(["n. ","Imidite melanje ak frechè ki gen nan lè a leswa lè fè nwa. Gen moun ki panse lè seren an pa bon pou timoun piti.<br>"])

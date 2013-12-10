@@ -1,0 +1,1 @@
+showWord(["ent. "," Son ki endike yon bwi ki entewonp sa ki tap fèt. Pitit la tonbe pim!<br>"])

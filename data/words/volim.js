@@ -1,0 +1,1 @@
+showWord(["n. ","1. 2. Kantite ki okipe yon espas an twa dimansyon. Longè pa lajè pa pwofondè bay volim.  2. Youn pami yon koleksyon liv. Volim nimewo de. 3. Entansite yon son. Bay radyo a plis volim.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Aksyon. Se pou ou responsab zak ou.<br>"])

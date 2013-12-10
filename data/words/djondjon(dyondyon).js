@@ -1,0 +1,2 @@
+showWord(["n. "," Yon kalite plant san klowofil, san fèy ki pouse nan kote ki imid, souvan yo gen fòm parapli.  Se yon chanpiyon nwa moun manje nan peyi Dayiti ak diri osnon ak mayi. Gen plizyè kalite djondjon, genyen ki gen bon gou anpil, genyen tou ki konn gen pwazon ladan yo, fòk moun fè atansyon sou sa."
+])

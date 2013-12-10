@@ -1,0 +1,2 @@
+showWord(["np.","Youn nan senk kontinan yo. Kotdivwa se nan yonn nan peyi Afrik yo. Se nan kontinan Afrik tout zansèt moun nwa yo sòti. Gen enfòmasyon syantifik ki koumanse montre se nan kontinan Afrik zansèt tout moun sou latè a sòti, kèlkeswa koulè li. Kontinan lafrik osid Ewòp, toupre Azi, li bòde sou kote lwès ak oseyan atlantik epi sou kote lès ak oseyan endyen."
+])

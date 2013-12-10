@@ -1,0 +1,2 @@
+showWord(["n.","chanjman ki fèt nan yon moun osinon yon bèt osinon yon plant pou li kapab viv nan yon sitiyasyon nouvo,  ki pèmèt li pwofite osinon chape anba enfliyans kote li ap viv la. Chanjman an ka tanporè, pèmanan, sipèfisyèl osinon an pwofondè."
+])

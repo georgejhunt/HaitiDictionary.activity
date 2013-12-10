@@ -1,0 +1,1 @@
+showWord(["np.","Espòtif Ayisyen ki jwe tenis nan nivo entènasyonal.<br>"])

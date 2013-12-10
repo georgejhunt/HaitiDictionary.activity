@@ -1,0 +1,1 @@
+showWord(["n. ","Lougawou. Pa kite ou kontre ak sanpwèl nannuit.<br>"])

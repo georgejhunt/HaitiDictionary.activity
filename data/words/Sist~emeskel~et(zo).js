@@ -1,0 +1,2 @@
+showWord(["","Eskelèt la se yo echafo ki fèt ak zo. Sistèm eskelèt la gen 206 zo. Gen twa kalite zo, gen zo long tankou zo ki nan bra ak kuis, gen zo kout tankou zo ki nan talon ak nan ponyèt men, epitou gen zo plat tankou zo kòt. Men gen zo ki la pou pwoteje ògàn, tankou zo tèt ki pwoteje sèvo osinon zo kòf lestomak ki pwoteje poumon ak kè pou yo pa pran sekous ki ka domaje yo. Kèlkeswa zo a, li gen yon pati deyò ki di ak yon pati anndan ki mou (mwèl zo). Zo yo rete tache ansanm se gras ak ligaman yo ki kenbe yo nan jwenti yo."
+])

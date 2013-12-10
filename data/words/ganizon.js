@@ -1,0 +1,1 @@
+showWord(["n. ","militè ki la pou deann yon pozisyon osinon yon peyi.<br>"])

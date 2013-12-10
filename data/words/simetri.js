@@ -1,0 +1,2 @@
+showWord(["n. "," Amoni, ekilib, pwopòsyon, distribisyon egal parapò ak yon aks. Yon desen gen simetri se lè ou ka pliye li yon jan pou chak pati yo vin egal Gen simetri ant de je ou parapò ak nen ou. Kare gen simetri orizontal, vètikal ak dyagonal."
+])

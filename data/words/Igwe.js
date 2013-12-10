@@ -1,0 +1,1 @@
+showWord(["","Wayòm endyen nan zòn lès Ispayola ki te sou kòmand Kotibanama. 2. Non yon vil nan Repiblik Dominikèn.<br>"])

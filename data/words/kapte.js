@@ -1,0 +1,1 @@
+showWord(["v. ","1. Pran yon estasyon radyo. 2. Pwoteje yon sous pou moun ka pran dlo. 3. Atire yon moun.<br>"])

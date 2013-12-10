@@ -1,0 +1,1 @@
+showWord(["Kifè. Atò ou kwè tout sa vakabon di w?Kifè. Atò ou kwè tout sa vakabon di w?Kifè. Atò ou kwè tout sa vakabon di w?Kifè. Atò ou kwè tout sa vakabon di w?Kifè. Atò ou kwè tout sa vakabon di w?Kifè. Atò ou kwè tout sa vakabon di w?Kifè. Atò ou kwè tout sa vakabon di w?","<br>"])

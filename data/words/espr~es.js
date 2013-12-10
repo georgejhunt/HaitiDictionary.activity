@@ -1,0 +1,1 @@
+showWord(["n. "," Monte osinon desann yon machin pandan li ap kouri. Gen moun machin konn frape nan afè fè esprès sa a.<br>"])

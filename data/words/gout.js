@@ -1,0 +1,1 @@
+showWord(["n. ","Titak dlo osnon lòt likid. Pa lage gout dlo sou mwen. Pi piti kantite dlo ki ka fòme ak fòs gravite.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","kote yo mete ti moun piti pase jounen pandan paran yo al travay.<br>"])

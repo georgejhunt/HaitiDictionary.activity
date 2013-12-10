@@ -1,0 +1,1 @@
+showWord(["n. ","maladi epidemik ki antre Ayiti an 1861. Li kòmanse Okap apre yon bato etranje te fin pase epi li pwopaje nan plizyè kote nan peyi a. <br>"])

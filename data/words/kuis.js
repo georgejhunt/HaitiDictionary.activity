@@ -1,0 +1,1 @@
+showWord(["n. "," Pati anwo nan janm yon moun. Gen moun ki renmen fè egzèsis pou yo megri nan kuis yo.<br>"])

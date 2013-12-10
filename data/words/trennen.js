@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Ki pran tan. Dosye sa a gen lontan depi li ap trennen sou tab la. 2. Drive. Ou pa ka ap trennen nan lari a konsa a.<br>"])

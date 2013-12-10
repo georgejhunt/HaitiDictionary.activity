@@ -1,0 +1,2 @@
+showWord(["","Asosiyasyon ki fòme an 1934 pou defann dwa ekonomik, politik ak sosyal fi nan sosyete a. Te gen ladan l Madlèn Silven Bouchwo. Lig la te louvri biwo nan plizyè vil nan peyi a epitou li te vin gen yon jounal ki rele AVwa Fanm Yo@. Lig la te kreye kou diswa pou fi te ka al aprann li ak aprann metye, li fè konferans toupatou, li fè petisyon nan biwo leta, nan lachanm ak tout lòt kote ki nesesè pou yo bay fi menm opòtinite lekòl ak travay yo bay gason, epitou pou fi yo ka vote osinon pou yo ka kandida."
+])

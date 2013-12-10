@@ -1,0 +1,1 @@
+showWord(["n. ","metye moun ki bay sèvis ak kò li pou lòt moun ka jwenn plezi sèks epitou pou fè kòb.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Zouti osnon kòd ki sèvi pou mare de men yon moun yo arete. Yo mete menòt pou Elifèt.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n fr. "," Tèt ki pa gen cheve osnon ki pa genyen anpil epi sa li genyen an pa ka trese. Jaklin tèt kokolo.<br>"])

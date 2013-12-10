@@ -1,0 +1,1 @@
+showWord(["n. "," Lajan. Kòb fèt ak papye ou byen ak metal. Mwen sere tout kòb mwen genyen pou mwen achte yon bèl poupe pou Solanj.<br>"])

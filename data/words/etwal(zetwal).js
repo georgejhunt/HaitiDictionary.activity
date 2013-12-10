@@ -1,0 +1,1 @@
+showWord(["n. ","Kò klere ki nan syèl la. 2. Desen konvansyonèl ki gen senk (osoinon sis) branch ki sèvi pou reprezante etwal yo.<br>"])

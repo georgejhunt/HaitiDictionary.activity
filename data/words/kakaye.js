@@ -1,0 +1,1 @@
+showWord(["v. ","Son poul pouse. Poul la ap kakaye li bezwen nich li.<br>"])

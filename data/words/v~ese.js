@@ -1,0 +1,1 @@
+showWord(["v. ","1. Vide. Atansyon lè ou ap vèse ji a pou li pa degoute. 2. Peye. Vèse m lajan m tousuit.<br>"])

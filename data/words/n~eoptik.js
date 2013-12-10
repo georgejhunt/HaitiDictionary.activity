@@ -1,0 +1,1 @@
+showWord(["n fr. "," Nè nan je. Nè ki konekte retin je a ak sèvo a. Jak bat je l toutan paske li gen yon pwoblèm nan nè optik li yo.<br>"])

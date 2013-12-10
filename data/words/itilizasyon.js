@@ -1,0 +1,1 @@
+showWord(["n. "," jan pou itilize kichòy. A kisa yon bagay sèvi.<br>"])

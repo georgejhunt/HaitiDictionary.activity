@@ -1,0 +1,1 @@
+showWord(["n. "," Koze pale osinon negosiyasyon ant de moun ki ap chèche yon akò. 2. Tout pawòl ki pale ant pèsonaj nan yon pyès teyat.<br>"])

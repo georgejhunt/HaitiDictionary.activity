@@ -1,0 +1,1 @@
+showWord(["n. ","pèsepsyon yon bagay ki antre nan youn nan sans yo. 2. Enpresyon.<br>"])

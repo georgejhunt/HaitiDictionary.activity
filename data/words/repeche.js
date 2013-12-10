@@ -1,0 +1,1 @@
+showWord(["","admèt kandida ki te dwe elimine<br>"])

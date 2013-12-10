@@ -1,0 +1,2 @@
+showWord(["n.","1. Kone, veso ki gen yon fòm triyang, laj epi ouvè nan yon bò, fèmen epi etwat nan lòt bò a. Yon kòn krèm.  2. Figi jeyometrik, solid ki gen yon bò won tankou yon sèk laj epi ki gen lòt bò a fèmen nan yon pwen.  Nan jeyometri, yon kòn gen yon liy dwat ki pase lanmitan l, liy sa a rive nan pwen fiks ki nan bout la epi li desann nan sèk la. 3. Pati di, pre zòrèy bèt tankou kabrit, bèf, mouton eltr.Kòn kabrit... 4. Yon varyete mango."
+])

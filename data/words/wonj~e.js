@@ -1,0 +1,1 @@
+showWord(["n. "," Gwoup bèt tankou rat osinon ki sanble ak rat ki gen dan devan pwenti epi ki grate manje yo tikras pa tikras. Rat se yon wonjè. <br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","machin nan gildiv pou distile kleren osinon ronm.machin nan gildiv pou distile kleren osinon ronm.machin nan gildiv pou distile kleren osinon ronm.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Mete imaj sou ekran.<br>"])

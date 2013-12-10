@@ -1,0 +1,1 @@
+showWord(["n fr. ","Lasi myèl ki gen siwo. Mwen renmen gato myèl.<br>"])

@@ -1,0 +1,1 @@
+showWord(["","rekòmanse<br>"])

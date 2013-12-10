@@ -1,0 +1,1 @@
+showWord(["v. ","Ki gen mefyans.<br>"])

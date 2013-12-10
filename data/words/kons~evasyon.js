@@ -1,0 +1,2 @@
+showWord(["n. ","1. Prezèvasyon, swen, mentni, kenbe yon bagay entak osinon nan menm eta li te ye anvan. Konsèvasyon Sitadèl Kristòf. 2. Teknik pou konsève yon bagay ki ka pouri, ki ka gate, ki ka ale. Transfòmasyon pou fè yon bagay dire. Gen moun ki fè konsèvasyon fwi ak sik, tankou jele ak konfiti.Konsèvasyon fwi. Konsèvasyon dlo, konsèvasyon tè. 3. Pwoteksyon ak itilizasyon san gaspiyaj resous natirèl nou genyen pou prezève pou noumenm ak pou lòt jenerasyon."
+])

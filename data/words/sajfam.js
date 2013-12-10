@@ -1,0 +1,1 @@
+showWord(["n. ","Fi ki gen antrenman pou akouche moun. Se yon sajfam ki akouche madan Kola.<br>"])

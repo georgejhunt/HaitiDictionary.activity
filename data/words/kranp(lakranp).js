@@ -1,0 +1,1 @@
+showWord(["n. ","Kontraksyon envolontè yon seri mis pandan yon tan kout. Toutan Odil gen kranp.<br>"])

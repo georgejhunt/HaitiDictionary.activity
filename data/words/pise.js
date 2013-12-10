@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pipi. Pitit la gen pise kenbe l.<br>"])

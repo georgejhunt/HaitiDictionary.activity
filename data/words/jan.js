@@ -1,0 +1,2 @@
+showWord(["n. "," Kalite. Yon bon jan tè, se yon tè wouze ki kapab fè bon rekòt. 2. Klasifikasyon yon espès dapre sa li genyen oswa karakteristik espesifik li. Manihot esculenta se non laten pou manyòk, manihot se jan li epi esculenta se espès li."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","Salon. Yo envite Edit chita nan lasal la.<br>"])

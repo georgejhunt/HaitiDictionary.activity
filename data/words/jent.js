@@ -1,0 +1,2 @@
+showWord(["n. ","Konsèy tanporè pou mennen yon peyi annatandan gen yon gouvènman regilye. Lè Divalye pati, te gen yon jent ki te pou ranplase le, ladan l te gen de militè Avril ak Nanfi epitou te gen yon sivil Jera Goug."
+])

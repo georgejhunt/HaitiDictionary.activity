@@ -1,0 +1,1 @@
+showWord(["","Enèji ki soti nan reyon solèy.Nou kapab sèvi ak enèji solèy pou chofe osinon pou fè elektrisite.<br>"])

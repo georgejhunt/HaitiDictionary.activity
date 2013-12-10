@@ -1,0 +1,1 @@
+showWord(["n. ","Fo cheve. Madan Benwa mete perik.<br>"])

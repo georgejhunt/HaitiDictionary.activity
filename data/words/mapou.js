@@ -1,0 +1,1 @@
+showWord(["n. ","Gwo pye bwa ki pouse kote ki gen dlo anba tè. Gen yon pye mapou nan ri Sentonore a.<br>"])

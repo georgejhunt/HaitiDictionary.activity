@@ -1,0 +1,1 @@
+showWord(["v fr.","Viv nan difikilte. Ti pitit sa a pase mati anvan li resi rive kote li ye a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Teni dekòlte moun mete pou yo al benyen osnon naje. Gen kostimdeben depyès yo rele yo bikini.<br>"])

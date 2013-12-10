@@ -1,0 +1,2 @@
+showWord(["np. ","Istoryen, ekriven pyès teyat, womansye. Li fèt Pòtoprens an Janvye 1923, li te etidyan nan kolèj Sen Masyal epi li te al etidye dwa.. Li te pwofesè nan lekòl militè ak nan lekòl nòmal. Li te vin direktè Achiv Nasyonal epitou li te direktè/editè Revue de la Société d=Histoire, de Géographie et de Géologie d=Haiti. Li ekri plizyè esè, biyografi, pyès teyat, kritik literè, liv istwa, liv ekonomik, liv relijyon."
+])

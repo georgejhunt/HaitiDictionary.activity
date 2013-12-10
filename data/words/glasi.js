@@ -1,0 +1,1 @@
+showWord(["n. ","Sifas plat an beton ki sèvi pou seche danre. Mete mayi a sou glasi a. Teras.<br>"])

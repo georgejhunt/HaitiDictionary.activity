@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Fi ki ap bay tibebe tete. Jeralda se yon tinouris.  2. a. Ki ap bay tibebe tete. Jeralda tinouris.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. ","1. Antre palafòs, anvayi palafòs ak zam. Ayiti pran de envazyon nan men Ameriken. 2. Depase limit, fouye zo nan kalalou. Pou jan Loreta antre nan koze mwen an la a, ou ka di li fè yon envazyon nan vi prive mwen."
+])

@@ -1,0 +1,1 @@
+showWord(["n. ","moun yo sezi osinon yo livre pou sèvi kòm garanti pou yon pwomès osinon pou ekzije yon kichòy.<br>"])

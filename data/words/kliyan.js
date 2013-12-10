@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki abitye achte nan men yon vandè. Kalo se yon kliyan espesyal nan restoran sa a.<br>"])

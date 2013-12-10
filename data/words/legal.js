@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Ofisyèl. Dokiman legal.  2. Ki fèt dapre sa lalwa mande. Pwosedi sa a legal.<br>"])

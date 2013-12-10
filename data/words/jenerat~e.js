@@ -1,0 +1,1 @@
+showWord(["n. "," Machin ki fèt pou transfòme enèji mekanik pou fè enèji elektrik epi pwodui kouran. 2. Yon machin ki chanje enèji kinetik pou fè li tounen enèji elektrik.<br>"])

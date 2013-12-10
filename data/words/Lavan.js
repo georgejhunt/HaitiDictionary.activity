@@ -1,0 +1,1 @@
+showWord(["","fèt katolik <br>"])

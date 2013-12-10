@@ -1,0 +1,2 @@
+showWord(["a.","1. Koze, atitid, opinyon li pa klè, ki pa defini. Bagay ki pa gen fòm ki byen defini. Konesans ki pa solid. Jak pale yon jan vag. 2. n. Youn nan pè nè nan sèvo ki kominike ak larenks, poumon, kè, ezofaj ak lòt ògàn nan vant. a. 3. n. Lam lanmè. Vag yo monte wo."
+])

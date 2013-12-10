@@ -1,0 +1,1 @@
+showWord(["n p. "," Peyi ki nan kontinan Ewòp. Lasuis se yon peyi tou piti men ki rich anpil.<br>"])

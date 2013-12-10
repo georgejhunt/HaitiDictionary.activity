@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Senj ki soti nan kontinan Lazi. Yo fè anpil rechèch sou makak. Mwen sezi wè kijan makak la manje fig la, li manje tankou yon moun. 2. Moun ki lèd, degoutan osnon repiyan. Gade lè makak la non, rale kò ou wou mwen."
+])

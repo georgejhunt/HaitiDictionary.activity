@@ -1,0 +1,1 @@
+showWord(["v. ","mete ekilib ant de fòs.<br>"])

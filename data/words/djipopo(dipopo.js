@@ -1,0 +1,1 @@
+showWord(["n. "," Bagay san valè ki gen anpli chans bay traka. Sitiyasyon konplike ki bay pwoblèm. Mwen pa bezwen ankenn djipopo vin kale m.<br>"])

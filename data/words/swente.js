@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Degoute. Dlo a swente menm si ou fèmen tiyo a di.  2. Degoute pise sou ou. Jera swente nan tout pantalon li lè yo vin arete li a.<br>"])

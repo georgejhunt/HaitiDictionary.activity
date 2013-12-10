@@ -1,0 +1,2 @@
+showWord(["a. ","1.  Karakteristik yon moun, yon kote osnon yon bagay ki merite konsiderasyon. Yon anbyans respektab. 2. Byen fèt, san repwòch. Li fè travay li yon fason respektab. 3. Granmoun ki gen laj avanse. Madan Kalo gen yon laj respektab."
+])

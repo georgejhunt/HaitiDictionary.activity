@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan kò moun osinon bèt kote manje dijere. Entesten konekte ak lestomak.<br>"])

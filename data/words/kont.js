@@ -1,0 +1,2 @@
+showWord(["adv.","Anfas, palòtbò, lenmi. Youn kont lòt. 2. n. Diskisyon. Gen yon sèl kont ki pete lòtrejou ant Michèl ak Kawòl, sa te grav nèt. 3. n. Fab ak Istwa ki nan fòlklò. Lè ou ap tire kont se pou ou di ""Tim tim, pou lòt moun reponn ou bwa chèch@"
+])

@@ -1,0 +1,1 @@
+showWord(["","Lwa osnon lespri ki antre nan tèt yon moun.<br>"])

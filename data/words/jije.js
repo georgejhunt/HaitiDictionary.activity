@@ -1,0 +1,2 @@
+showWord(["v.","1. Pote jijman. Ou gen tandans jije moun mal.  2. Pran desizyon baze sou pwosedi lajistis. Avoka a pa ka jije ou, sa se travay jij la.  3. Evalye, tande epi jije yon ka. Yo ap jije ou dapre zak ou. Jij, jije m byen."
+])

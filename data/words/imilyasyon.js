@@ -1,0 +1,1 @@
+showWord(["n. ","sitiyasyon ki bay santiman imilyan.<br>"])

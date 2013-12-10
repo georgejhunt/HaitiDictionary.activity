@@ -1,0 +1,1 @@
+showWord(["n.","maladi poumon. Janjak te mouri maladi plerezi.<br>"])

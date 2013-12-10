@@ -1,0 +1,1 @@
+showWord(["n. ","Pope twal. Fi a fè Jera tounen yon panten.<br>"])

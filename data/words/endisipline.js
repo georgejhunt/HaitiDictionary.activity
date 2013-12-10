@@ -1,0 +1,1 @@
+showWord(["v. ","moun ki pa gen disiplin.<br>"])

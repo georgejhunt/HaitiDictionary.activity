@@ -1,0 +1,1 @@
+showWord(["n. ","1. Kouvèti an twal osnon plastik pou kouvri tab. Te mwen mete tapi a.  2. Kouvèti pou atè. Yo kouvri planche a ak tapi.<br>"])

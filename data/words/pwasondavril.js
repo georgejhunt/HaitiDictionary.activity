@@ -1,0 +1,1 @@
+showWord(["","Pèlen ki pa danjere. Tradisyon pou pran yon moun nan pyèj jou ki premye avril. Pwason davril te yon amizman san mechanste lè mwen te timoun. <br>"])

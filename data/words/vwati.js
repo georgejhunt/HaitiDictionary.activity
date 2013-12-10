@@ -1,0 +1,1 @@
+showWord(["n. ","Otomobil. Nou gen yon vwati nèf.<br>"])

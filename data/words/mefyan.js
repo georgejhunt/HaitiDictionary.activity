@@ -1,0 +1,1 @@
+showWord(["a. "," Ki pa fè konfyans fasil. Pòl se yon nonm ki mefyan.<br>"])

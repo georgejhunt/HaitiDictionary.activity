@@ -1,0 +1,1 @@
+showWord(["a. ","Ki pa kite limyè pase. Twal sa a opak.<br>"])

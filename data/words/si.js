@@ -1,0 +1,2 @@
+showWord(["","1. Asid. Lè zabriko poko mi, pa gen lè yo si konsa. Zoranj ki pa mi toujou si tou. 2. Sèten. Mwen pa si mwen konprann sa ou ap di la a non. 3. Akondisyon ke. Mwen prale avèk ou si ou ap rete tou."
+])

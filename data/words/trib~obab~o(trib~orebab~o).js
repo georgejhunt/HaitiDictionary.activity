@@ -1,0 +1,1 @@
+showWord(["n. ","Nan tout direksyon san kontwòl. Loray gwonde tribòbabò.<br>"])

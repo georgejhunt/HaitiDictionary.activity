@@ -1,0 +1,1 @@
+showWord(["n.","Asosye. Wolan se frè bra Jera.<br>"])

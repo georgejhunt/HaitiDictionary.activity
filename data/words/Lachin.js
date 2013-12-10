@@ -1,0 +1,1 @@
+showWord(["np.","Peyi nan kontinan Azi. Lachin se yon peyi kominis.<br>"])

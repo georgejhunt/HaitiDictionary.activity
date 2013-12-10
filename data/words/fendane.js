@@ -1,0 +1,1 @@
+showWord(["n.","1. Dènye pati nan ane a. Nou ka wè pou fendane. 2. Peryòd fèt nan mwa desanm ant nwèl ak joud lan.<br>"])

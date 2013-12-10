@@ -1,0 +1,1 @@
+showWord(["n. ","1. Payèt. Pa vin bay moun payas la a. 2. Matla pay. Li dòmi sou payas la.<br>"])

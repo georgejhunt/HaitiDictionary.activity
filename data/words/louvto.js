@@ -1,0 +1,1 @@
+showWord(["n. ","Grad nan eskout. Tifrè se louvto.<br>"])

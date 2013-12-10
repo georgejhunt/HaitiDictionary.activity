@@ -1,0 +1,1 @@
+showWord(["v. ","Mete nan katalòg dapre kategori osinon dapre lòd alfabetik.<br>"])

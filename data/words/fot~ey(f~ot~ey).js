@@ -1,0 +1,1 @@
+showWord(["n.","Chèz konfòtab ki gen do epi kote pou met bra. Chita sou fotèy sa a. <br>"])

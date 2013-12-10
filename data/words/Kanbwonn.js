@@ -1,0 +1,2 @@
+showWord(["np. "," Moun ki te minis enteryè sou Janklod Divalye nan ane 1971. Dapre listwa, se pandan li te egzile yo dekouvri yon seri pwojè li te konn fè anba tab pou l fè lajan. Anpil moun konnen msye kòm yon zotobre ki te konn vann san ak kadav moun."
+])

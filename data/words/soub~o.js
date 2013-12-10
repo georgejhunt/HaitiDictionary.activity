@@ -1,0 +1,1 @@
+showWord(["pre fr. ","Enterese nan. Odil sou bò Masèl.<br>"])

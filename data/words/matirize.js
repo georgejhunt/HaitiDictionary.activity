@@ -1,0 +1,1 @@
+showWord(["v. "," Fè pase mizè. Timoun yo matirize poupe a jwèt la joustan li gate.<br>"])

@@ -1,0 +1,1 @@
+showWord(["adv. ","apeprè 2. Ki pa lwen.<br>"])

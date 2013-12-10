@@ -1,0 +1,1 @@
+showWord(["n. ","agiman ki sèvi kòm baz pou bay yon opinyon.<br>"])

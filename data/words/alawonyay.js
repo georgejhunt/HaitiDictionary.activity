@@ -1,0 +1,1 @@
+showWord(["adv.","rete ap veye pa lwen ap tann yon okazyon.<br>"])

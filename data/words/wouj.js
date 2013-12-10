@@ -1,0 +1,1 @@
+showWord(["n. ","1. Koulè. Wouj se yon koulè vivan.  2. a. Koulè yon bagay. Rad wouj.<br>"])

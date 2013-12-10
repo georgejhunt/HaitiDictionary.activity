@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Devlope, bay detay. Pwofesè a esplike devwa a byen. 2. Montre, endike. Esplike m kijan pou mwen ale kay Jera.  3.  Pwouve, bay detay sou yon lide pou klarifye yon pwen. Mwen ap esplike ou poukisa mwen pa dakò avèk ou. "
+])

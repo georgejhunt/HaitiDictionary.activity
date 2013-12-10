@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Malèt, bagaj. Mwen vini ak efè mwen yo byen ranje. 2. Enpak. Lanmò manman li an gen yon efò tris sou li. 3. Aparans. Rad sa a fè yon bèl efè sou ou. 4. Enpresyon. Fe datifis la fè yon bèl efè nan syèl la."
+])

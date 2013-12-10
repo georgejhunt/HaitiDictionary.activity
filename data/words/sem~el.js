@@ -1,0 +1,1 @@
+showWord(["n. ","Pati anba yon soulye ki touche ak plapye. Semèl soulye sa a fèt ak kawotchou.<br>"])

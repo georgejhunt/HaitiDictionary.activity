@@ -1,0 +1,1 @@
+showWord(["n fr. ","Difikilte pou respire. Malad la te gen souf kout epi apresa li tou rantre nan koma.<br>"])

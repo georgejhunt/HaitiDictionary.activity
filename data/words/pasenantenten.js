@@ -1,0 +1,1 @@
+showWord(["v fr.","Pa pran oserye. Yo pase Inès nan tenten.<br>"])

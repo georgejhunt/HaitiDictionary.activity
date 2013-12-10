@@ -1,0 +1,2 @@
+showWord(["v.","1. Pwovoke. Se ou menm ki kòmanse batay la an premye. Moun ki atake konn sèvi ak fòs ou byen ak zam pou goumen ak yon lénmi. 2. Kòmanse.  Ann atake travay la tande, paske nou kapab pa gentan fini l jodi a."
+])

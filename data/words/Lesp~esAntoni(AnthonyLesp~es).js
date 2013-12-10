@@ -1,0 +1,2 @@
+showWord(["np. ","Powèt, womansye, jounalis, agwonòm, politisyen. Li fèt Okay 7 Fevriye 1907. Li te elèv Senlui De Gonzag epi li etidye agwonomi nan Damyen. Li te yon espesyalis konsèvasyon ak pwoteksyon teren. Li te redaktè an chèf jounal ALa Nasyon@ Li te manm Pati Sosyalis Ayisyen. Li mouri 26 Desanm 1978 Pòtoprens. Li ekri, AQuelques Poêmes@, AQuelques Poêtes@ ALes Clés de la Lumière@ pwezi, Pòtoprens, 1955; ALes Semences de la Colère@, woman 1949"
+])

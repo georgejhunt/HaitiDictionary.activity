@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Pozisyon nimewo 30. Se Jozèf ki trantyèm nan.  2. a. Ki nan trantyèm pozisyon. Jozèf se trantyèm elèv nan klas li a.<br>"])

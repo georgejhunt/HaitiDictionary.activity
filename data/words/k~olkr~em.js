@@ -1,0 +1,1 @@
+showWord(["n. ","krèm moun pase nan figi ak sou kò.<br>"])

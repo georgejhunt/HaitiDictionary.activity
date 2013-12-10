@@ -1,0 +1,1 @@
+showWord(["n. "," Etap òdone pou fè kichòy.  Nan ki sekans ou mete mizik yo?<br>"])

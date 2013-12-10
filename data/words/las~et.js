@@ -1,0 +1,1 @@
+showWord(["n. ","Kòd ki kenbe soulye. mare lasèt ou.<br>"])

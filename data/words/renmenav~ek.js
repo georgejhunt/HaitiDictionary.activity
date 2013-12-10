@@ -1,0 +1,1 @@
+showWord(["v fr.","Gen yon relasyon damou ak yon moun. Jera renmen ak Ketli kounye a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["prep. an relasyon ak.prep. an relasyon ak.prep. an relasyon ak.","<br>"])

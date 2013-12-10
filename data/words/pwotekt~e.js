@@ -1,0 +1,1 @@
+showWord(["a. ","ki la pou pwoteje sa ki pi fèb.<br>"])

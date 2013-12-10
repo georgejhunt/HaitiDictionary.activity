@@ -1,0 +1,1 @@
+showWord(["n. ","1. manje ki gen anpil legim. 2. Aktivite fè jaden.<br>"])

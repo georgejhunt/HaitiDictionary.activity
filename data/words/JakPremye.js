@@ -1,0 +1,1 @@
+showWord(["np. "," Non Desalin te pran lè li te vin anprè nan peyi Ayiti 22 Sektanm 1804. Li te kouwone anprè jou ki te 8 Oktòb. Li mouri nan yon pèlen nan zòn Ponwouj jou ki te 17 Oktòb 1806.<br>"])

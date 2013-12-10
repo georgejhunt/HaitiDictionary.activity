@@ -1,0 +1,1 @@
+showWord(["","mete tou kouraj pou pase yon move sitiyasyon. Reziye.<br>"])

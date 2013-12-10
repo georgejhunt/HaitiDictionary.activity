@@ -1,0 +1,1 @@
+showWord(["a. ","ki mache san koneksyon dirèk. Telefòn san fil<br>"])

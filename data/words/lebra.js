@@ -1,0 +1,1 @@
+showWord(["n. ","1. Bay sipò. Bay grann lebra pou l monte eskalye a. 2. Akonpaye. Parenn nan bay lamarye lebra.<br>"])

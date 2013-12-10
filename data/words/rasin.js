@@ -1,0 +1,2 @@
+showWord(["n. "," pati nan plant ki pouse anba tè, ki pa gen fèy, ki kenbe plant lan nan tè, rale dlo ak fòtifyan nan tè a epitou estoka manje. Gen divès kalite rasin. Gen rasin vètikal, rasin pivotant tankou kawòt, gen rasin fasikile tankou mayi, pitimi, zèb eltr... gen rasin an tibèkil tankou bètrav, gen rasin advantiv ak diferan lòt kalite rasin ankò."
+])

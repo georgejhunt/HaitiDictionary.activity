@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Yon gwoup militè ki gen yon kaporal alatèt li. Gen yon eskwad ki pral pase devanpòt mwen an.  2. Gwoup moun. Mwen pa fè patide ankenn eskwad nan katye a.<br>"])

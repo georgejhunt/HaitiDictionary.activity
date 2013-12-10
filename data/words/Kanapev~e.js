@@ -1,0 +1,1 @@
+showWord(["np.","Katye nan Pòtoprens ki nan lwès Bwa Patat. Jak gen yon randevou ak yon moun Kanapevè.<br>"])

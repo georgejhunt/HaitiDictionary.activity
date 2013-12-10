@@ -1,0 +1,1 @@
+showWord(["n. ","Pwogram kote agrikiltè kapab lwe tè pou li travay li. Mwen pito fèmaj pase mwen achte tè pase mwen razè kounye a.<br>"])

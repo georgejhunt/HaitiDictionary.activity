@@ -1,0 +1,1 @@
+showWord(["n.","Veso plastik osnon papye. Mwen bliye pote sache pou mwen al nan mache.<br>"])

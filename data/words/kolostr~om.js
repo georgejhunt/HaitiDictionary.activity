@@ -1,0 +1,1 @@
+showWord(["n. ","premye lèt ki soti nan tete yon fi ki tinouris.<br>"])

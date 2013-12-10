@@ -1,0 +1,1 @@
+showWord(["a. ","ki konsène yon minis ak biwo ak estaf li.<br>"])

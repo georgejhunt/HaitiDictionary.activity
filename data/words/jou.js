@@ -1,0 +1,2 @@
+showWord(["n.","1. Peryòd tan ki dire 24è. Yon jou se kont pou mwen fè travay sa a. 2. Yon lè konsa. Yon jou, nou ka wè. 3. Lè solèy la kòmanse parèt. Eske li jou deja? 4. Moman, dat, anivèsè. Jodi a se jou mwen te marye. 5. Pwen kouti, nan bwodri. M ap fè jou nan woulèt la. 6. Fant. Gade nan jou a pou ou wè si li ap vini."
+])

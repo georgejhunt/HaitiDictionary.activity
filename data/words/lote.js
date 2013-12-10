@@ -1,0 +1,1 @@
+showWord(["v. ","Fè lo. Lote mango.<br>"])

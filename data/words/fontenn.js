@@ -1,0 +1,2 @@
+showWord(["","1. Pati nan tèt yon moun. Fontenn tèt yon moun nan mitan tèt li. 2. Pati mou, yon jan louvri, nan tèt yon tibebe. Sa pran detwa mwa pou fontenn tèt tibebe yo fèmen.  3. Tiyo, kote moun al pran dlo. Chak maten, nan fontenn nan, tout timoun yo al pran dlo ak bokit sou tèt yo. 4. Veso pou met lank. Fontenn sa a pa gen lank."
+])

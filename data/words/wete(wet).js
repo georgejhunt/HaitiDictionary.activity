@@ -1,0 +1,1 @@
+showWord(["v. ","Retire. Pa wete anpil manje pou mwen.<br>"])

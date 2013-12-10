@@ -1,0 +1,1 @@
+showWord(["n. ","Zak ki vyole yon angajman osinon ki pa respekte yon bagay ki sakre.<br>"])

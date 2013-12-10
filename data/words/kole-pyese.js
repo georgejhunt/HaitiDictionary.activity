@@ -1,0 +1,1 @@
+showWord(["v fr.","Koud osinon kloure san elegans. Koutiryè a kole pyese rad la.<br>"])

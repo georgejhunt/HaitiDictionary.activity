@@ -1,0 +1,2 @@
+showWord(["","1. Moun ki posede yon bagay. Se ou ki mèt kay la se ou ki pou deside. 2. Pwofesè, avoka. 3. Moun ki te gen esklav nan tan lakoloni. Esklav yo pat kapab fè yon pa si mèt yo pat kite yo ale. 3. Inite longè. Li mezire de mèt. 4. Zouti pou mezire longè. Prete m mèt ou a."
+])

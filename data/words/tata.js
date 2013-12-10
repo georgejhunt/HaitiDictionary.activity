@@ -1,0 +1,1 @@
+showWord(["n. ","poupou. Pitit la fè tata sou li.<br>"])

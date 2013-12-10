@@ -1,0 +1,1 @@
+showWord(["np. ","1 Moun ki gen nasyonalite peyi Nikaragwa. Kalos se nikaragweyen. 2. a. Ki pou peyi Nikaragwa. Teritwa nikaragweyen.<br>"])

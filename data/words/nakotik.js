@@ -1,0 +1,1 @@
+showWord(["","medikaman ki fè moun dòmi. 2. Dwòg. <br>"])

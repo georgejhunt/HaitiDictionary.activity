@@ -1,0 +1,1 @@
+showWord(["","Pipiti gouvènman lokal ki egziste Ayiti.<br>"])

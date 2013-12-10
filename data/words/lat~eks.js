@@ -1,0 +1,1 @@
+showWord(["n. ","Pwodui ki sanble ak lèt epè nou jwenn nan kèt plant tankou plant kawoutchou yo te konn itilize pou fè pwodui an kawotchou ak plastik. Kounye a yo itilize pwodui sentetik.<br>"])

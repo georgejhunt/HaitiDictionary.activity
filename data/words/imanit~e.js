@@ -1,0 +1,1 @@
+showWord(["a. ","ki vize byen pou tout moun san distenksyon.<br>"])

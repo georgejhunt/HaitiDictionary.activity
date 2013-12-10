@@ -1,0 +1,2 @@
+showWord(["n. ","Pwen ki nan ekstremite bout anwo epi bout anba tè a, nan sid epi nan nò. Yo rele pol nò a pol atik osnon boreyal epi pol sid la rele pol antatik osnon ostral. 2. Pwen opoze nan yon leman. Se la fòs leman pi fò."
+])

@@ -1,0 +1,2 @@
+showWord([" a. "," 1. Sòt, nayif. Ou te dwe rann ou kont ti dam nan pa renmen ou monchè, ou pa egare.  2.  Gaga, fou pou. Premye jou mwen kontre Alsiyis mwen te egare pou li.  3. v. Pèdi, dekonekte. Lorèt gade m tankou yon mou ki egare.  4. n. Ou pa ka bay Janjan fè komisyon pou li fè l byen, li se yon egare li ye."
+])

@@ -1,0 +1,1 @@
+showWord(["v.","1. Konnekte yon aparèy elektrik nan yon priz.  Radyo a pa ploge.  2. Kole kò. De moun sa yo ap ploge nan bal la. 3. a. Kole. Danse ploge.<br>"])

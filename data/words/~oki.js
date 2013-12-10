@@ -1,0 +1,1 @@
+showWord(["n.","jwèt ki fèt sou glas. Gen 2 ekip ki fè 6 jwè ladan l. Jwè yo montre paten epi yo gen yon baton pou yo frape boul la.<br>"])

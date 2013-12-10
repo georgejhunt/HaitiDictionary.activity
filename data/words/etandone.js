@@ -1,0 +1,2 @@
+showWord(["adv. ","admeton, asipoze."
+])

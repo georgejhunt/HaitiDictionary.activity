@@ -1,0 +1,2 @@
+showWord(["v.","1. Ki pa pre. Se pou ou kite twa mèt ant chak plant yo pou separe yo konsa yo kapab grandi alèz. 2. Ki pap viv ansanm ankò. Ki fè ou pat konnen madan Biwon te separe ak Biwon? 3. Bay chak moun pa yo. Mwen pral separe manje a, nou mèt chita tann plat pa nou."
+])

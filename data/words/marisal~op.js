@@ -1,0 +1,1 @@
+showWord(["n. ","Fi ki pa gen bòn konduit nan relasyon ak gason. 2. Rad mekanisyen ki plen tach luil.<br>"])

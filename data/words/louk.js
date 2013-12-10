@@ -1,0 +1,1 @@
+showWord(["n. ","Douk. Kò li fè yon pakèt louk.<br>"])

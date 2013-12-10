@@ -1,0 +1,1 @@
+showWord(["n. ","ensèk ki sanble ak yo gwo foumi nwa. 2. Espès zwazo ki gen kou ak pat byen long.<br>"])

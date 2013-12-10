@@ -1,0 +1,1 @@
+showWord(["n fr. "," Pwodui chimik yo ekstrè nan plant koka ki sèvi nan medikaman. Medikaman ki gen kokayin yo pa bon pou Fito. 2. Dwòg ki bay moun depandans. Kalo pa timoun ki nan dwòg.<br>"])

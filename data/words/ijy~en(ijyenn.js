@@ -1,0 +1,1 @@
+showWord(["n. ","1. Pratik ak prensip pou kenbe sante moun anfòm. Bon ijyèn se premye fason pou prevni maladi. 2. Pwòpte. Ijyèn pèsonnèl.<br>"])

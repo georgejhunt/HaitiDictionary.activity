@@ -1,0 +1,1 @@
+showWord(["v fr.","Al chèche pwoteksyon nan yon anbasad. Minis la pran anbasad.<br>"])

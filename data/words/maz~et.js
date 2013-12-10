@@ -1,0 +1,1 @@
+showWord(["n. ","Moun maladwat ki pa konn vize. Kalo se yon mazèt.<br>"])

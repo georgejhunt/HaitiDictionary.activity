@@ -1,0 +1,2 @@
+showWord(["n.","1. Espas ki trase pou fasilite kominikasyon swa pou oto pase osnon pou moun mache. Depi gen wout la kounye a li pa menm pran mwen trant minit pou mwen rive lakay mwen. 2. Chemen, direksyon pèsonèl yon moun. Al fè wout ou anvan mwen fè kont avè w."
+])

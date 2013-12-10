@@ -1,0 +1,1 @@
+showWord(["","mande eskiz pou yon bagay ou di ou byen fè. Mwen mande ti frè mwen an padon paske mwen kase jwèt li a.<br>"])

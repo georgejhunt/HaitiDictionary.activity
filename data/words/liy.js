@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Tras ki long epi fen. Mwen fè yon bèl liy ak kreyon wouj mwen an. 2. Annòd. Tout moun kanpe youn dèyè lòt sou twa liy pou y al peye nan kès la. 3. Taksi. Rete liy sa a pou mwen tanpri, mwen bezwen rive lakay mwen byen vit."
+])

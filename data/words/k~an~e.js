@@ -1,0 +1,1 @@
+showWord(["","1. Liv ki bay enfòmasyon sou rezilta lekòl yon elèv. Bèta al pran kànè jodi a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," moun ki ap vote.<br>"])

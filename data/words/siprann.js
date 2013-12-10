@@ -1,0 +1,2 @@
+showWord(["v. "," 1. Fè sipriz, parèt sou yon moun san enfòme l davans. Polèt siprann nou lotrejou, li vini, li pase twa jou avèk nou.  2. Fè moun sezi. Pitit la siprann tout moun, li leve konsa, san tretman, li mache."
+])

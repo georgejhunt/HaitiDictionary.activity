@@ -1,0 +1,1 @@
+showWord(["v. ","joure; trete san respè.<br>"])

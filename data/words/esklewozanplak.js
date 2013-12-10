@@ -1,0 +1,1 @@
+showWord(["n fr.","yon maladi sistèm nève santral.<br>"])

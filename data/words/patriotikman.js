@@ -1,0 +1,1 @@
+showWord(["adv. ","nan respè ak solidarite pou lapatri.<br>"])

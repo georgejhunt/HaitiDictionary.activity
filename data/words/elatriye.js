@@ -1,0 +1,1 @@
+showWord(["","ak tout lòt yo.<br>"])

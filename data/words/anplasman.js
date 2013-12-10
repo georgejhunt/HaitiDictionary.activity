@@ -1,0 +1,2 @@
+showWord(["n.","1. Kote yon bagay kon ye, espas.  Se nan anplasman sa a, mwen te kite pake a pou ou, si ou pa wè l, sa vle di yo pran l.  2.Tè, teren. Mwen te gen yon anplasman Laplenn men kounye a mwen vann li."
+])

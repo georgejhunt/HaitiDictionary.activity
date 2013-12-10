@@ -1,0 +1,2 @@
+showWord(["n.","1. Plezi, fèt kote tout moun ap fete. Kawòl se levanjil, li pa nan jwisans lavi a. Mwen pa prale nan okenn jwisans paske mwen andèy 2. Dwa sèvi ak yon bagay. Kay la pa pou mwen men manman m ban mwen jwisans li."
+])

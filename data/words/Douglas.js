@@ -1,0 +1,1 @@
+showWord(["np. ","1817-1895 Meriken ki te vin anbasadè peyi Etazini ant 1889 a 1891. Msye te admire revolisyon ayisyen an epi li te twouve sa di lè li te gen pou l te reprezante Etazini nan afè negosyasyon pou yon baz ameriken te vin enstale nan Mòlsennikola paske si sa ta fèt sa te kapab reprezante yon danje nan endependans Ayiti.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Règleman pou sitwayen yon peyi suiv pou li ka konfòm ak prensip peyi a. Dapre lalwa, ou pa andwa touye yon moun, se pa ou ki pou fè pwòp jistis ou. 2. Plant anmè ki gen fèy epè, ki leve kote ki pa genyen anpil dlo. Timoun ki te konn souse dwèt yo te konn tranpe dwèt yo nan lalwa. Yo sèvi ak fèy lalwa pou fè remèd."
+])

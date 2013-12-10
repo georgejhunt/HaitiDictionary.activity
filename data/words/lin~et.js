@@ -1,0 +1,1 @@
+showWord(["n. "," Zouti yon moun mete devan je l pou l wè pi byen. Linèt gen yon pati ki an vè epi yon lòt pati ki andwa an metal osnon an plastik.<br>"])

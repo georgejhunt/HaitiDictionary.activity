@@ -1,0 +1,2 @@
+showWord(["n. ","1. Ensèk ak zèl ki viv an gwoup (sosyal) ki ka pike moun. Si ou wè yon nich djèp, pa pwoche kote l.  2. a. Ki gen fòm gèp, (Fi ki gen senti piti). Gade tay ou, li fen tankou tay djèp."
+])

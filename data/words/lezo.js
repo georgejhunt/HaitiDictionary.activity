@@ -1,0 +1,1 @@
+showWord(["n. ","Sak dlo ki bay likid anvan yon fi akouche. Kase lezo.<br>"])

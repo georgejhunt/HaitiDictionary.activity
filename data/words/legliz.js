@@ -1,0 +1,1 @@
+showWord(["n. ","Bilding kote kretyen al lapriyè. Legliz Senjan.<br>"])

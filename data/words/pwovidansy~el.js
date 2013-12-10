@@ -1,0 +1,1 @@
+showWord(["a. ","ki rive gras ak fòs pwovidans.<br>"])

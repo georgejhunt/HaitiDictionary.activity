@@ -1,0 +1,1 @@
+showWord(["n. ","1. Dokiman ki pèmèt rekonnèt yon moun. Kat idantite.<br>"])

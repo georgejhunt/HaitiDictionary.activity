@@ -1,0 +1,1 @@
+showWord(["a. ","varyete mango. Mango fransik.<br>"])

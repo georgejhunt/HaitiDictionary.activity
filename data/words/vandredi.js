@@ -1,0 +1,1 @@
+showWord(["n.","jou ki vini apre jedi epi anvan samdi. Mwen al nan sinema chak vandredi swa epi apresa mwen al bwè krèm.<br>"])

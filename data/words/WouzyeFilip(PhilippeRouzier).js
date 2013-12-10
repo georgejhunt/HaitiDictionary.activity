@@ -1,0 +1,2 @@
+showWord(["np. ","Ekonomis, edikatè, komèsan, politisyen, ekriven. Li al nan inivèsite nan peyi Bèljik epi li te pwofesè Kanada nan inivèsite Laval. Li retounen Ayiti, li travay nan Nasyonzini ak nan plizyè gouvènman kòm konseye ekonomik."
+])

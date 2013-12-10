@@ -1,0 +1,1 @@
+showWord(["","1. np. Zile nan karayib la ki yon depatman peyi Lafrans. Nan Matinik gen yon ansanm ki rele Malavwa ki jwe bèl mizik. 2. Dans afriken pou lèmò.<br>"])

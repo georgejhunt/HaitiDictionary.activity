@@ -1,0 +1,1 @@
+showWord(["n. ","Desizyon yon moun mete sou papye pou endike kisa li vle yo fè ak tout sa ki pou li lè li mouri. Ou ka chanje testaman ou nenpòt kilè ou vle.<br>"])

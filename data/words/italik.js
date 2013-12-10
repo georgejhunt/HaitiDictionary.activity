@@ -1,0 +1,1 @@
+showWord(["a. ","Aparans yo bay mo nan yon tèks pou fè li diferan konpare ak lòt tèks toutotou li pou atire atansyon. Definisyon an diksyonè a an italik alòske ekzanp yo regilye.<br>"])

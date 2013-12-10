@@ -1,0 +1,1 @@
+showWord(["n. ","1. Kou nan tèt ak zo men. Pa bay timoun nan zoklo. 2. Lè yon madanm osinon yon mari pa fidèl. Inès bay Woje zoklo.<br>"])

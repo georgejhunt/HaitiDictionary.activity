@@ -1,0 +1,1 @@
+showWord(["v.","Desann rapidman. Li gengole desann eskalye a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Fè yon twou. Pèse zòrèy. 2. Rive byen vit. Moun yo pèse sou nou sanzatann.<br>"])

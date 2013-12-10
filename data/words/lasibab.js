@@ -1,0 +1,1 @@
+showWord(["n. ","Rès manje. Kalo pa renmen manje lasibab moun.<br>"])

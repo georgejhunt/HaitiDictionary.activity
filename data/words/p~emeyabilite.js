@@ -1,0 +1,1 @@
+showWord(["n.","Karakteristik yon materyèl ki kite likid travèse l. Gen twal ki gen pèmeyabilite pou dlo men ki pa genyen l pou luil.<br>"])

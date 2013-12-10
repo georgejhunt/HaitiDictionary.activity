@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Pote yon solisyon pou yon pwoblèm. Nou rezoud tout difikilte ki te genyen yo. 2. Korije yon pwoblèm. Bòs la rezoud malfonksyon ki te genyen nan ekipman an.<br>"])

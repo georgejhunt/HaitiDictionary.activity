@@ -1,0 +1,1 @@
+showWord(["","pa fatige ou; avèk plezi.<br>"])

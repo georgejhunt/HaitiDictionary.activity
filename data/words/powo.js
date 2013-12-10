@@ -1,0 +1,1 @@
+showWord(["n.","legim. Soup joumou pa fouti bon si li pa gen powo ladan l. Si ou mete yon ti powo nan yon soup pen li ba-li bon gou.<br>"])

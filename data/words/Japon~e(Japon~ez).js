@@ -1,0 +1,1 @@
+showWord(["","1. n p. Moun ki fèt nan peyi Japon. Li-Yu se yon japonè. 2.a. Ki fèt nan peyi Japon. Machin japonè.<br>"])

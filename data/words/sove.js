@@ -1,0 +1,2 @@
+showWord(["v. ","1. Ki kouri kite kote li ye pou li ka pwoteje tèt li. Prizonye a sove. 2. Ki soti nan sitiyasyon danjre li te ye a. Moun ki te malad grav la sove, li pat mouri.  3. Ede yon moun soti nan danje. Se Kawòl ki sove lavi Janklod."
+])

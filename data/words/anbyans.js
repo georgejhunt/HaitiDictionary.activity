@@ -1,0 +1,2 @@
+showWord(["n.","1.  Kondisyon, atmosfè, sitiyasyon.  Se nan yon move anbyans timoun nan leve ki fè li gen mès konsa a. 2.  Pwogram, fèt, anviwonman kote moun ap pran plezi.  Mwen pral nan yon anbyans pita, si ou vle, ou mèt vini tou. 3. Sitiyasyon alantou yon moun.. Mwen pa renmen anbyans sa a pou ou ditou. 4. a. Ki make ton. Anbyans kanaval."
+])

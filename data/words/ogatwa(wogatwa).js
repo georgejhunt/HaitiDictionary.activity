@@ -1,0 +1,1 @@
+showWord(["n. ","Espas espesyal pou moun lapriyè. Vwazin nan gen yon ogatwa.<br>"])

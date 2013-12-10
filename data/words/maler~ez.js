@@ -1,0 +1,1 @@
+showWord(["n. "," 1. Moun ki pòv. Janin se yon malerèz ki rete nan kafou a. 2. a. Ki pou moun pòv. Lavi malerèz.<br>"])

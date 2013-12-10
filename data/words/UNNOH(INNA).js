@@ -1,0 +1,1 @@
+showWord(["akw. ","Inyon nasyonal nòmalyen Ayisyen<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Entesten; pati nan sistèm dijestif. Gen moun ki fè bouden ak trip kochon.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","izin kote yo fè kleren osinon wonm.<br>"])

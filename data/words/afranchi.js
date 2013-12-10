@@ -1,0 +1,2 @@
+showWord(["n.","Nan tan koloni, esklav ki libere. Afranchi yo te lib fè anpil nan sa yo te vle, yo te gen dwa esklav yo pat genyen men dwa yo te gen limit tou. Yo te vin konsidere tankou yon lòt kategori moun, ant esklav yo ak kolon blan yo. Se pa tout metye yo te kite yo aprann ni se pa tout kòmès yo te andwa fè. Se pa tout grad yo te kite yo genyen nan lame."
+])

@@ -1,0 +1,1 @@
+showWord(["v. "," 1. Peze. Malèt sa a ka pete paske yo konprese li anpil. 2. Met presyon. Yo konprese bidjè a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v. ","prezante yon moun tankou yon moun meprizab.<br>"])

@@ -1,0 +1,2 @@
+showWord(["np.","Prens Ayisyen. Pi gran pitit Anri Kristòf. Dapre listwa, papa l te vle li te ale etidye Anfrans pou l ta gen yon gwo nivo edikasyon. Papa l te remèt li bay yon ofisye jeneral franse epi li te depanse anpil kòb pou elevasyon l. Apre kèk tan, Anri Kristòf te vin aprann pitit la pat janm te al nan ankenn gwo lekòl, se nan yon azil pou timoun san manman san papa yo te lage l. Epi se la tou pitit la te mouri abandonnen."
+])

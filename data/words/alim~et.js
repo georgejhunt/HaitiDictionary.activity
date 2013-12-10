@@ -1,0 +1,2 @@
+showWord(["n.","Ti tij anbwa osinon an katon ki gen yon pwodui souf ki bay limyè, chalè ak flanm lè ou fwote melanj souf la osinon lè ou chofe li. Apre premye limen an bwa a ka boule pou kontinye flanm nan. Pase m alimèt la pou mwen limen bwapen an."
+])

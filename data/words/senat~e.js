@@ -1,0 +1,1 @@
+showWord(["n.","Reprezantan ki ap deside lalwa yon peyi. Senatè yo travay nan yon biwo ki rele Sena.<br>"])

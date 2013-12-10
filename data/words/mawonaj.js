@@ -1,0 +1,1 @@
+showWord(["n. ","teknik afriken ki te esklav nan tan koloni Sendomeng yo te devlope pou yo chape anba abi nan plantasyon yo.<br>"])

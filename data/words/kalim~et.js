@@ -1,0 +1,1 @@
+showWord(["n. ","Pati nan pip ki fèt ak banbou. Madan Dyo gen yon gwo kalimèt.<br>"])

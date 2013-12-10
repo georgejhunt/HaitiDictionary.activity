@@ -1,0 +1,1 @@
+showWord(["","pati zo nan dèyè poul osinon lòt bèt.<br>"])

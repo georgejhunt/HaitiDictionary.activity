@@ -1,0 +1,1 @@
+showWord(["v. "," Kole ak soudi. Yo soude mòflè a pou mwen.<br>"])

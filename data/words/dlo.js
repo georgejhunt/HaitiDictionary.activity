@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Likid ki pa gen ni gou, ni odè, ni koulè moun bwè pou soulaje swaf. Pote yon ti dlo byen glase pou mwen, tanpri. 2. Likid ki pa epè. Dlo soup, dlo kafe.  3. Gwo espas dlo. Bèt dlo."
+])

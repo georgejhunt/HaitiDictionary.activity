@@ -1,0 +1,1 @@
+showWord(["v. "," siveye aksyon ak pawòl yon moun pou al rapòte bay lenmi li.<br>"])

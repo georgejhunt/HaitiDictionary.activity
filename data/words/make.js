@@ -1,0 +1,2 @@
+showWord([" v.","1. Ekri. Make pou mwen pou ou pa bliye. 2. Sonje. Make sa ou fè a. 3. Pran mezi. Bòs la make kote li pral klouwe a. 4. Pran nòt. Li make dat la pou li pa bliye. 5. Bat lamezi. Jandam yo ap make pa. 6. Kite sikatris, kite mak. Ou make kò timoun nan ak rigwaz."
+])

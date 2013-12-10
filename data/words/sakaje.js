@@ -1,0 +1,2 @@
+showWord(["v. ","1. Sekwe. Pa sakaje bwat la, ou ka kraze vè ki ladan yo a. 2. Boulvèse, trakase. Pa sakaje manman nou, nou pa wè li malad? 3. Vire tètanba, lakòz detrès. Siklòn nan sakaje vil Okay."
+])

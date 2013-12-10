@@ -1,0 +1,1 @@
+showWord(["adv. ","Ki fèt toulèjou.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","etap nan edikasyon prèt katolik anvan òdinasyon. Abe Kebwo pral etidye teyoloji nan peyi Kanada.etap nan edikasyon prèt katolik anvan òdinasyon. Abe Kebwo pral etidye teyoloji nan peyi Kanada.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Sak ki fèt ak fib latànye. Kote ou achte ralfò sa a. 2. Sak ki sèvi pou depoze kado pou lwa nan relijyon vodou.<br>"])

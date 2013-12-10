@@ -1,0 +1,1 @@
+showWord(["n. ","eskiz pou jistifye yon aksyon.<br>"])

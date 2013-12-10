@@ -1,0 +1,2 @@
+showWord(["","1. Rale. Pa tire sou kòd la, li ap kase; 2. Atake ak bal ki soti nan zam tankou revolvè, fizi osinon mitrayèt. Jandam nan tire anlè, tout moun kouri.  3. Detire kò ou. Ou pa dwe ap tire kò ou sou moun."
+])

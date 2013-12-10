@@ -1,0 +1,1 @@
+showWord(["n. "," Moun ki soti nan peyi Ejip. Ejipsyen yo abiye ak yon bèl kostim blan ki genyen desen nan manch ak nan kou.<br>"])

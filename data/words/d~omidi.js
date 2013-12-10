@@ -1,0 +1,1 @@
+showWord(["","difisil pou reveye.<br>"])

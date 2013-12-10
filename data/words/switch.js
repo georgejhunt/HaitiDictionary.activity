@@ -1,0 +1,1 @@
+showWord(["n. "," Mànèt osnon bouton ou deplase pou ou ka pèmèt kouran pase osnon pa pase. Desann swich la sou anba pou ou ka etenn limyè a.<br>"])

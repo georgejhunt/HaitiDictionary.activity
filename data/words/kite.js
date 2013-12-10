@@ -1,0 +1,2 @@
+showWord(["v.","1. Deplase. Nou kite kay la granmaten pou n al lekòl, nou tounen jous byen ta. 2. Separe. Madan Bòs pa abite ak Bòs ankò, misye kite l. 3. Pa mele. Kite mwen anrepo. 4. Bay pèmisyon. Pwofesè mwen an kite mwen al nan rekreyasyon san mwen poko resite leson mwen."
+])

@@ -1,0 +1,1 @@
+showWord(["n. "," Desen ki reprezante tès kadyograf ki mezire fonksyonman kè. Mwen sot fè yon kadyogram. <br>"])

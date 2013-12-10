@@ -1,0 +1,2 @@
+showWord(["n. ","1. Manje dous ki fèt ak ji fwi epi ak sik. Li bon pou manje ak pen. Mwen pa renmen jele paske li twò dous. 2. Plaj nan sid, Ayiti. Ann al fè yon piknik Jele, dlo a fre anpil nan zòn sa a."
+])

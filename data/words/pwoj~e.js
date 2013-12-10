@@ -1,0 +1,1 @@
+showWord(["n.","ide ki nan wout pou l reyalize. Se pwojè pa mwen pou mwen ta marye ak Kalin ane pwochen.<br>"])

@@ -1,0 +1,1 @@
+showWord(["v fr.","Ekonomize lajan. Se pou ou fè epany pandan ou ap travay la.<br>"])

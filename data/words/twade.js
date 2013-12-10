@@ -1,0 +1,1 @@
+showWord(["","wayal kasav ak manba (sitou nan depatman Nò)<br>"])

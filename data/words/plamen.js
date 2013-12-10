@@ -1,0 +1,1 @@
+showWord(["n fr. "," Pati andedan men yon moun. Li mete de pla men l nan dlo a.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. "," Asosyasyon ki la pou defann enterè tout anplwaye. Se grasa sendika a ki fè Dalton nan travay li a toujou.<br>"])

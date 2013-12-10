@@ -1,0 +1,1 @@
+showWord(["n. ","peryòd tan ki gen sis mwa konsekitif.<br>"])

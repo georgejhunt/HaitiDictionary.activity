@@ -1,0 +1,1 @@
+showWord(["n. ","plant ki pa fè flè. Plant ki gen fekondasyon kache.<br>"])

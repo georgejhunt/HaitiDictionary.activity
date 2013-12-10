@@ -1,0 +1,1 @@
+showWord(["n. ","tout moun yo ki elijib pou vote nan yon eleksyon.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n. ","Anbisyon. Madan Kal gen pretansyon louvri de lòt boutik mwa pwochen.<br>"])

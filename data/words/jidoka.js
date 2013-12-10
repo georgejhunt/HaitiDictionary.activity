@@ -1,0 +1,1 @@
+showWord(["n. ","Espòtif ki pratike teknik jido.<br>"])

@@ -1,0 +1,2 @@
+showWord(["n. "," 1. Anpil moun, anpil bagay. Se pa de moun non ki te nan legliz la, se yon mas moun tande. 2. Moun ki nan nivo ki pi ba nan peyi a osnon nan kominote a. Se pa tout moun ki konsène nan pwoblèm mas pèp la. 3. Mwa nan yon ane ki vin apre fevriye epi anvan avril. Manman mwen fèt nan mwa mas. 4. Boul. Mas farin, mas vyan, mas nan tete. 5. Dekorasyon moun met nan figi nan madigra. Mas bèf. 6. Planèt Mas."
+])

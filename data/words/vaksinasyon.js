@@ -1,0 +1,1 @@
+showWord(["n. ","Enjeksyon pou pwoteje moun kont yon maladi mikwòb.<br>"])

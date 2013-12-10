@@ -1,0 +1,1 @@
+showWord(["n. ","Pa kontan. Mwen fache avèk ou paske ou renmen tripotay twòp.<br>"])

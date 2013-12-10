@@ -1,0 +1,1 @@
+showWord(["n. ","1. Lang yo pale nan peyi Espay ak nan plizyè peyi nan kontinan Amerik (Santral epitou Disid). Gen moun ki di Espayòl se lang moun ki damou. 2. n. Moun ki fèt nan peyi Espay.<br>"])

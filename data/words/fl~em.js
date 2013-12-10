@@ -1,0 +1,1 @@
+showWord(["n. ","1. Tisi ki gen selil an fòm ti tib nan plant ki ede transpote sik ak lòt fòtifyan tou patou nan plant lan. 2. Sekresyon ki soti nan gòj moun ki gripe.<br>"])

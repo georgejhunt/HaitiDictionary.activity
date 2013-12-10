@@ -1,0 +1,1 @@
+showWord(["n.","mayi griye. Gen moun ki pa renmen pètpèt mayi paske gen de grenn mayi ki konn pa pete epi li di anba dan yo. Pi bon pètpèt se pòpkòn.<br>"])

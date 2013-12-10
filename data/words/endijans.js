@@ -1,0 +1,1 @@
+showWord(["n. ","sitiyasyon moun ki pòv.<br>"])

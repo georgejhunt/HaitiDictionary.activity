@@ -1,0 +1,1 @@
+showWord(["","separe pou fè kantite egal.<br>"])

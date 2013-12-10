@@ -1,0 +1,1 @@
+showWord(["n fr. "," Lanp ki fèt ak bwat lèt ki gen yon mèch koton epi ki boule gaz. Limen lanp tèt gridap la.<br>"])

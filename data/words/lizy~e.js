@@ -1,0 +1,1 @@
+showWord(["n. ","Bò. Kalo plante sou tout lizyè teren li an.<br>"])

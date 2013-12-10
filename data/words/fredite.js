@@ -1,0 +1,1 @@
+showWord(["n. ","maladi moun pran apre li te pran fredi. 2. Kondisyon fè frèt.<br>"])

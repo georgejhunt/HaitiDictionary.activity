@@ -1,0 +1,1 @@
+showWord(["n. ","Reprezantasyon nan panse ki pa konfòm ak reyalite.<br>"])

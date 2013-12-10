@@ -1,0 +1,1 @@
+showWord(["n. ","santiman feblès ki fè yon moun bese tèt devan lòt li konsidere pi gran pase l. 2. Konpòtman ki pa gen awogans.<br>"])

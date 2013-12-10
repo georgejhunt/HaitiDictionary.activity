@@ -1,0 +1,1 @@
+showWord(["n. ","Mouvman kout ale-vini epitou ki rapid. Motè sa a gen anpil vibrasyon. 2. Sansasyon sipènatirèl.<br>"])

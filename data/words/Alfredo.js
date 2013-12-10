@@ -1,0 +1,1 @@
+showWord(["np.","Non yo restavèk ki ale nan inivèsite epi ki ekri yon liv sou lavi malere ak malerèz ki rete ak moun. Non legal msye se Janwobè Kadè.<br>"])

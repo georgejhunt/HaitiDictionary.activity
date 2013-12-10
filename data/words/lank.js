@@ -1,0 +1,1 @@
+showWord(["n. "," Dlo ble maren osnon nwa ou tranpe pwent plim ladan l pou ou sa ekri. Plim alèkile yo vini ak tout lank la anndan yo nan yon ti tib ki kole ak pwent plim nan konsa ou pa bezwen sal men w.<br>"])

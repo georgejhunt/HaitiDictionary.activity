@@ -1,0 +1,1 @@
+showWord(["a. "," 1. Ki fasil pou eksite sans li. Nèg sa a gen kè sansib. 2. Ki frajil epi li reponn ak estimilasyon byen vit. Enstriman sa a sansib.<br>"])

@@ -1,0 +1,1 @@
+showWord(["n.","santiman senpati moun gen youn pou lòt san yo pa fanmi osinon san yon pa nan renmen.<br>"])
