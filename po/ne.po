@@ -1,0 +1,232 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2012-05-07 10:53+0200\n"
+"Last-Translator: aman0115 <aman.maharjan@olenepal.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Browse"
+msgstr "ब्राउज"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+msgid "Untitled"
+msgstr "नाम नदिइएको"
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr "लोडिङ्ग हुदैछ..."
+
+#: downloadmanager.py:102
+msgid "Download started"
+msgstr "डाउनलोड सुरु भयो"
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+msgid "Download completed"
+msgstr "डाउनलोड सकियो"
+
+#: downloadmanager.py:117
+msgid "Show in Journal"
+msgstr "खातामा देखाऊ"
+
+#: downloadmanager.py:120
+msgid "Ok"
+msgstr "हुन्छ"
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+#, python-format,
+msgid "From: %s"
+msgstr "%s:बाट"
+
+#: downloadmanager.py:203
+#, python-format
+#, python-format,
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr ""
+"डाउनलोड हुदैछ %(filename)s हरू \n"
+" %(source)s हरू बाट"
+
+#: edittoolbar.py:65
+msgid "Previous"
+msgstr "पहिलाको"
+
+#: edittoolbar.py:72
+msgid "Next"
+msgstr "यसपछिको"
+
+#: linkbutton.py:108
+msgid "Remove"
+msgstr "हटाऊ"
+
+#: palettes.py:140
+msgid "Follow link"
+msgstr "लिंक खोल्ने"
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr "लिंक नयाँ ट्याबमा खोल"
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr "लिंक राख"
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr "लिंकको प्रतिलिपि बनाऊ"
+
+#: palettes.py:215
+msgid "Keep image"
+msgstr "तस्विर राख"
+
+#: palettes.py:223
+msgid "Copy image"
+msgstr "तस्विरको प्रतिलिपि बनाऊ"
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+msgid "Zoom out"
+msgstr "सानो बनाऊ"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+msgid "Zoom in"
+msgstr "ठूलो बनाऊ"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr "पहिलाको पाना"
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr "यसपछिको पाना"
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr "PDF लाई पंजिकामा सेभ गर"
+
+#: viewtoolbar.py:56
+msgid "Fullscreen"
+msgstr "पुरै पर्दा"
+
+#: viewtoolbar.py:113
+msgid "Show Tray"
+msgstr "ट्रे देखाऊ"
+
+#: viewtoolbar.py:117
+msgid "Hide Tray"
+msgstr "ट्रे लुकाऊ"
+
+#: webactivity.py:567
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] "डाउनलोड हुदै छ"
+msgstr[1] "डाउनलोडहरु हुदै छन्"
+
+#: webactivity.py:570
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] "अहिले रोकेमा डाउनलोड रद्द हुने छ"
+msgstr[1] "अहिले रोकेमा डाउनलोडहरु रद्द हुने छन्"
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] "डाउनलोड जारी राख"
+msgstr[1] "डाउनलोडहरु जारी राख"
+
+#: webactivity.py:580
+msgid "Stop"
+msgstr "रोक"
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr "गृह पृष्ठ"
+
+#: webtoolbar.py:270
+msgid "Back"
+msgstr "पहिलाको पाना"
+
+#: webtoolbar.py:284
+msgid "Forward"
+msgstr "अगाडीको पाना"
+
+#: webtoolbar.py:298
+msgid "Bookmark"
+msgstr "चिनो"
+
+#, python-format
+#~ msgid "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+#~ msgstr "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+
+#, python-format
+#, python-format,
+#~ msgid "Loading %s..."
+#~ msgstr "लोडिङ्ग हुदैछ %s..."
+
+#, python-format
+#~ msgid ""
+#~ "Downloading %s from \n"
+#~ "%s."
+#~ msgstr ""
+#~ "%s बाट\n"
+#~ "%s डाउनलोड हुँदैछ"
+
+#~ msgid "Edit"
+#~ msgstr "सम्पादन"
+
+#~ msgid "View"
+#~ msgstr "दृश्य"
+
+#~ msgid "Add a tab"
+#~ msgstr "ट्याब थप"
+
+#~ msgid "Reload"
+#~ msgstr "फेरि सुरु गर"
+
+#~ msgid "Cancel"
+#~ msgstr "रद्द गर"
+
+#, python-format
+#~ msgid "File %s from %s."
+#~ msgstr "फाईल %s बाट %s।"
+
+#~ msgid "Copy"
+#~ msgstr "प्रतिलिपि बनाउने"
+
+#~ msgid "Download link"
+#~ msgstr "यो लिकँ डाउनलोड गर"
+
+#~ msgid "Download image"
+#~ msgstr "यो फोटो डाउनलोड गर"
+
+#~ msgid "blank"
+#~ msgstr "सादा"
+
+#~ msgid "Source"
+#~ msgstr "मुल"

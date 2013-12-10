@@ -1,0 +1,233 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# translation of web-activity.po to Hindi
+# G Karunakar <karunakar@indlinux.org>, 2007.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: web-activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2011-11-30 05:11+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Hindi <indlinux-hindi@lists.sourceforge.net>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Browse"
+msgstr "विचरण"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+msgid "Untitled"
+msgstr "बेनाम"
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr "लोड..."
+
+#: downloadmanager.py:102
+msgid "Download started"
+msgstr "डाउनलोड चालू"
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+msgid "Download completed"
+msgstr "डाउनलोड पूरा"
+
+#: downloadmanager.py:117
+msgid "Show in Journal"
+msgstr "चिठ्ठा मे दिखाएँ"
+
+#: downloadmanager.py:120
+msgid "Ok"
+msgstr "ठीक"
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+msgid "From: %s"
+msgstr "से : %s"
+
+# Don't translate %(file)s or %(source)s they are variables.
+#: downloadmanager.py:203
+#, python-format
+#, python-format, fuzzy
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr "%(file)s %(source)s से डाउनलोड हो रहा है."
+
+#: edittoolbar.py:65
+msgid "Previous"
+msgstr "पिछला"
+
+#: edittoolbar.py:72
+msgid "Next"
+msgstr "अगला"
+
+#: linkbutton.py:108
+msgid "Remove"
+msgstr "हटाएँ"
+
+#: palettes.py:140
+msgid "Follow link"
+msgstr "इस कड़ी पर जाएँ"
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr "नए टैब में कड़ी पर जाएँ"
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr "कड़ी को रखें"
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr "कड़ी नक़ल करें"
+
+#: palettes.py:215
+msgid "Keep image"
+msgstr "फ़ोटो रखे रहें"
+
+#: palettes.py:223
+msgid "Copy image"
+msgstr "फ़ोटो नक़ल करें"
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+msgid "Zoom out"
+msgstr "छोटा करें"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+msgid "Zoom in"
+msgstr "बड़ा करें"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr ""
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr ""
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr ""
+
+#: viewtoolbar.py:56
+msgid "Fullscreen"
+msgstr "पूरा पट"
+
+#: viewtoolbar.py:113
+msgid "Show Tray"
+msgstr "ट्रे दिखाएँ"
+
+#: viewtoolbar.py:117
+msgid "Hide Tray"
+msgstr "ट्रे छुपाएँ"
+
+#: webactivity.py:567
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] "डाउनलोड प्रगति में है"
+msgstr[1] ""
+
+#: webactivity.py:570
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] "रोकने पर आपका डाउनलोड रद्द हो जाएगा"
+msgstr[1] "रोकने पर आपका डाउनलोड रद्द हो जायेगे"
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] "डाउनलोड जारी रखे"
+msgstr[1] "डाउनलोड जारी रखे"
+
+#: webactivity.py:580
+msgid "Stop"
+msgstr "रूकें"
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr "घर पृष्ठ"
+
+#: webtoolbar.py:270
+msgid "Back"
+msgstr "पीछे"
+
+#: webtoolbar.py:284
+msgid "Forward"
+msgstr "आगे"
+
+#: webtoolbar.py:298
+msgid "Bookmark"
+msgstr "पसंदीदा"
+
+#, python-format
+#, python-format, fuzzy
+#~ msgid "Loading %s..."
+#~ msgstr "लोड..."
+
+#, python-format
+#~ msgid ""
+#~ "Downloading %s from \n"
+#~ "%s."
+#~ msgstr ""
+#~ "%s डाउनलोड किया जा रहा है \n"
+#~ "%s से."
+
+#~ msgid "Edit"
+#~ msgstr "संपादन"
+
+#~ msgid "View"
+#~ msgstr "दृश्य"
+
+#, fuzzy
+#~ msgid "Add a tab"
+#~ msgstr "ट़ाब जोड़ें"
+
+#~ msgid "Reload"
+#~ msgstr "फिर लोड करें"
+
+#~ msgid "Cancel"
+#~ msgstr "रद्द करें"
+
+#, python-format
+#~ msgid "File %s from %s."
+#~ msgstr "फ़ाइल %s से %s"
+
+#~ msgid "blank"
+#~ msgstr "खाली"
+
+#~ msgid "Source"
+#~ msgstr "स्रोत"
+
+#~ msgid "Open"
+#~ msgstr "खोलें"
+
+#, python-format
+#~ msgid ""
+#~ "File %s downloaded from\n"
+#~ "%s."
+#~ msgstr ""
+#~ "%s फ़ाइल डाउनलोड किया गया\n"
+#~ "%s से."

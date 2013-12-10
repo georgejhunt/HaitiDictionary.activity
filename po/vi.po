@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2011-12-02 05:26+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Browse"
+msgstr "Duyệt"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+msgid "Untitled"
+msgstr "Chưa tên"
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr ""
+
+#: downloadmanager.py:102
+msgid "Download started"
+msgstr "Đã bắt đầu tải về"
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+msgid "Download completed"
+msgstr "Đã kết thúc tải về"
+
+#: downloadmanager.py:117
+msgid "Show in Journal"
+msgstr "Hiện trong Nhật ký"
+
+#: downloadmanager.py:120
+msgid "Ok"
+msgstr "OK"
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+msgid "From: %s"
+msgstr "Từ : %s"
+
+#: downloadmanager.py:203
+#, python-format
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr ""
+
+#: edittoolbar.py:65
+msgid "Previous"
+msgstr "Lùi"
+
+#: edittoolbar.py:72
+msgid "Next"
+msgstr "Tiếp"
+
+#: linkbutton.py:108
+msgid "Remove"
+msgstr "Bỏ"
+
+#: palettes.py:140
+msgid "Follow link"
+msgstr "Theo liên kết"
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr ""
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr "Giữ liên kết"
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr "Chép liên kết"
+
+#: palettes.py:215
+msgid "Keep image"
+msgstr "Giữ ảnh"
+
+#: palettes.py:223
+msgid "Copy image"
+msgstr "Chép ảnh"
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+msgid "Zoom out"
+msgstr "Thu nhỏ"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+msgid "Zoom in"
+msgstr "Phóng to"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr ""
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr ""
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr ""
+
+#: viewtoolbar.py:56
+msgid "Fullscreen"
+msgstr "Toàn màn hình"
+
+#: viewtoolbar.py:113
+msgid "Show Tray"
+msgstr "Hiện khay"
+
+#: viewtoolbar.py:117
+msgid "Hide Tray"
+msgstr "Ẩn khay"
+
+#: webactivity.py:567
+#, fuzzy
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] "Đang tải về"
+
+#: webactivity.py:570
+#, fuzzy
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] "Dừng ngay bây giờ thì cũng thôi tải về"
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] ""
+
+#: webactivity.py:580
+msgid "Stop"
+msgstr "Dừng"
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr "Trang chủ"
+
+#: webtoolbar.py:270
+msgid "Back"
+msgstr "Lùi"
+
+#: webtoolbar.py:284
+msgid "Forward"
+msgstr "Tiếp"
+
+#: webtoolbar.py:298
+msgid "Bookmark"
+msgstr "Liên kết lưu"
+
+#, python-format
+#, fuzzy
+#~ msgid ""
+#~ "Downloading %s from \n"
+#~ "%s."
+#~ msgstr ""
+#~ "Đang tải %s xuống \n"
+#~ "%s."
+
+#~ msgid "Edit"
+#~ msgstr "Sửa"
+
+#~ msgid "View"
+#~ msgstr "Xem"
+
+#~ msgid "Reload"
+#~ msgstr "Nạp lại"
+
+#~ msgid "Cancel"
+#~ msgstr "Thôi"
+
+#, python-format
+#~ msgid "File %s from %s."
+#~ msgstr "Tập tin %s từ %s."
+
+#~ msgid "Copy"
+#~ msgstr "Chép"
+
+#~ msgid "Download link"
+#~ msgstr "Tải về liên kết"
+
+#~ msgid "Download image"
+#~ msgstr "Tải về ảnh"
+
+#~ msgid "blank"
+#~ msgstr "trắng"
+
+#~ msgid "Source"
+#~ msgstr "Nguồn"

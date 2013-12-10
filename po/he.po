@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2008-12-20 00:00-0500\n"
+"Last-Translator: Chris Leonard <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#: activity/activity.info:2
+#, fuzzy
+msgid "Browse"
+msgstr "דִּיפְדּוּף"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+msgid "Untitled"
+msgstr ""
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr ""
+
+#: downloadmanager.py:102
+#, fuzzy
+msgid "Download started"
+msgstr "הורדה החלה"
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+#, fuzzy
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+#, fuzzy
+msgid "Download completed"
+msgstr "הורדה הושלמה"
+
+#: downloadmanager.py:117
+#, fuzzy
+msgid "Show in Journal"
+msgstr "הצג ביומן"
+
+#: downloadmanager.py:120
+#, fuzzy
+msgid "Ok"
+msgstr "אישור"
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+msgid "From: %s"
+msgstr ""
+
+#: downloadmanager.py:203
+#, python-format
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr ""
+
+#: edittoolbar.py:65
+#, fuzzy
+msgid "Previous"
+msgstr "קודם"
+
+#: edittoolbar.py:72
+#, fuzzy
+msgid "Next"
+msgstr "הבא"
+
+#: linkbutton.py:108
+#, fuzzy
+msgid "Remove"
+msgstr "הסר"
+
+#: palettes.py:140
+#, fuzzy
+msgid "Follow link"
+msgstr "עקוב אחר קישור"
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr ""
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr ""
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr ""
+
+#: palettes.py:215
+msgid "Keep image"
+msgstr ""
+
+#: palettes.py:223
+msgid "Copy image"
+msgstr ""
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+#, fuzzy
+msgid "Zoom out"
+msgstr "הגדל"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+#, fuzzy
+msgid "Zoom in"
+msgstr "הקטן"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr ""
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr ""
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr ""
+
+#: viewtoolbar.py:56
+#, fuzzy
+msgid "Fullscreen"
+msgstr "מסך מלא"
+
+#: viewtoolbar.py:113
+#, fuzzy
+msgid "Show Tray"
+msgstr "הצג מגש"
+
+#: viewtoolbar.py:117
+#, fuzzy
+msgid "Hide Tray"
+msgstr "הסתר מגש"
+
+#: webactivity.py:567
+#, fuzzy
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] "ההורדה בתהליך"
+
+#: webactivity.py:570
+#, fuzzy
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] "עצירה עכשיו תבטל את ההורדה שלך"
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: webactivity.py:580
+#, fuzzy
+msgid "Stop"
+msgstr "עצור"
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr ""
+
+#: webtoolbar.py:270
+#, fuzzy
+msgid "Back"
+msgstr "חזרה"
+
+#: webtoolbar.py:284
+#, fuzzy
+msgid "Forward"
+msgstr "קדימה"
+
+#: webtoolbar.py:298
+#, fuzzy
+msgid "Bookmark"
+msgstr "מועדפים"
+
+#, fuzzy
+#~ msgid "Edit"
+#~ msgstr "עריכה"
+
+#, fuzzy
+#~ msgid "View"
+#~ msgstr "תצוגה"
+
+#, fuzzy
+#~ msgid "Reload"
+#~ msgstr "טעינה מחדש"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "ביטול"
+
+#, fuzzy
+#~ msgid "Copy"
+#~ msgstr "העתק"
+
+#, fuzzy
+#~ msgid "blank"
+#~ msgstr "רייק"

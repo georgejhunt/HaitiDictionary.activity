@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Greek translation of Web activity.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Simos Xenitellis <simos.lists@googlemail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: Web activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2011-12-19 17:36+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: Greek <olpc@grnet.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Browse"
+msgstr "Περιήγηση"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+msgid "Untitled"
+msgstr "Ανώνυμο"
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr "Φόρτωση..."
+
+#: downloadmanager.py:102
+msgid "Download started"
+msgstr "Η λήψη ξεκίνησε"
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+msgid "Download completed"
+msgstr "Η λήψη ολοκληρώθηκε"
+
+#: downloadmanager.py:117
+msgid "Show in Journal"
+msgstr "Εμφάνιση στο Ημερολόγιο"
+
+#: downloadmanager.py:120
+msgid "Ok"
+msgstr "Εντάξει"
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+msgid "From: %s"
+msgstr "Από: %s"
+
+#: downloadmanager.py:203
+#, python-format
+#, python-format, fuzzy
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr ""
+"Λήψη %(file)s από \n"
+"%(source)s."
+
+#: edittoolbar.py:65
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: edittoolbar.py:72
+msgid "Next"
+msgstr "Επόμενο"
+
+#: linkbutton.py:108
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: palettes.py:140
+msgid "Follow link"
+msgstr "Επιλογή συνδέσμου"
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr "Άνοιγμα συνδέσμου σε νέα καρτέλα"
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr "Αποθήκευση συνδέσμου"
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr "Αντιγραφή συνδέσμου"
+
+#: palettes.py:215
+msgid "Keep image"
+msgstr "Αποθήκευση εικόνας"
+
+#: palettes.py:223
+msgid "Copy image"
+msgstr "Αντιγραφή εικόνας"
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+msgid "Zoom out"
+msgstr "Σμίκρυνση"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+msgid "Zoom in"
+msgstr "Μεγέθυνση"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr ""
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr ""
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr ""
+
+#: viewtoolbar.py:56
+msgid "Fullscreen"
+msgstr "Πλήρης οθόνη"
+
+#: viewtoolbar.py:113
+msgid "Show Tray"
+msgstr "Προβολή γραμμής συστήματος"
+
+#: viewtoolbar.py:117
+msgid "Hide Tray"
+msgstr "Απόκρυψη γραμμής συστήματος"
+
+#: webactivity.py:567
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] "Λήψη αρχείων σε εξέλιξη"
+msgstr[1] "Λήψεις αρχείων σε εξέλιξη"
+
+#: webactivity.py:570
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] "Αν διακόψετε τώρα θα ακυρωθεί η λήψη αρχείου"
+msgstr[1] "Αν διακόψετε τώρα θα ακυρωθούν και οι λήψεις αρχείων"
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] "Συνέχιση λήψης"
+msgstr[1] "Συνέχιση λήψεων"
+
+#: webactivity.py:580
+msgid "Stop"
+msgstr "Κλείσιμο"
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr "Αρχική σελίδα"
+
+#: webtoolbar.py:270
+msgid "Back"
+msgstr "Πίσω"
+
+#: webtoolbar.py:284
+msgid "Forward"
+msgstr "Μπροστά"
+
+#: webtoolbar.py:298
+msgid "Bookmark"
+msgstr "Σελιδοδείκτης"
+
+#, python-format
+#, python-format, fuzzy
+#~ msgid "Loading %s..."
+#~ msgstr "Φόρτωση..."
+
+#, python-format
+#~ msgid ""
+#~ "Downloading %s from \n"
+#~ "%s."
+#~ msgstr ""
+#~ "Γίνεται λήψη του %s από \n"
+#~ "%s."
+
+#~ msgid "Edit"
+#~ msgstr "Επεξεργασία"
+
+#~ msgid "View"
+#~ msgstr "Προβολή"
+
+#~ msgid "Add a tab"
+#~ msgstr "Προσθήκη καρτέλας"
+
+#~ msgid "Reload"
+#~ msgstr "Ανανέωση"
+
+#~ msgid "Cancel"
+#~ msgstr "Ακύρωση"
+
+#, python-format
+#~ msgid "File %s from %s."
+#~ msgstr "Αρχείο %s από %s."
+
+#~ msgid "Copy"
+#~ msgstr "Αντιγραφή"
+
+#~ msgid "Download link"
+#~ msgstr "Σύνδεσμος λήψης"
+
+#~ msgid "Download image"
+#~ msgstr "Λήψη εικόνας"
+
+#~ msgid "blank"
+#~ msgstr "κενό"
+
+#~ msgid "Source"
+#~ msgstr "Πηγή"
+
+#~ msgid "Open"
+#~ msgstr "Άνοιγμα"
+
+#, python-format
+#~ msgid ""
+#~ "File %s downloaded from\n"
+#~ "%s."
+#~ msgstr ""
+#~ "Το αρχείο %s έχει ληφθεί\n"
+#~ "από %s."
+
+#~ msgid ""
+#~ "Downloading %s from\n"
+#~ "%s. Progress %i%%."
+#~ msgstr ""
+#~ "Γίνεται λήψη του %s από\n"
+#~ "%s. Πρόοδος %i%%."
+
+#, python-format
+#~ msgid "Web Activity"
+#~ msgstr "Δραστηριότητα στον Ιστό"

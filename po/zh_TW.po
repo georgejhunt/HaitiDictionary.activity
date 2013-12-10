@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: OLPC Web Activity\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2012-03-21 19:14+0200\n"
+"Last-Translator: Yuan <yuanchao@gmail.com>\n"
+"Language-Team: Yuan CHAO <yuanchao@gmail.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Browse"
+msgstr "瀏覽"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+msgid "Untitled"
+msgstr "無標題"
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr "載入中..."
+
+#: downloadmanager.py:102
+msgid "Download started"
+msgstr "開始下載"
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+msgid "Download completed"
+msgstr "下載完成"
+
+#: downloadmanager.py:117
+msgid "Show in Journal"
+msgstr "增加到日誌"
+
+#: downloadmanager.py:120
+msgid "Ok"
+msgstr "確定"
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+msgid "From: %s"
+msgstr "自：%s"
+
+#: downloadmanager.py:203
+#, python-format
+#, python-format, fuzzy
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr ""
+"自 %(source)s \n"
+"下載 %(file)s 中。"
+
+#: edittoolbar.py:65
+msgid "Previous"
+msgstr "上一步"
+
+#: edittoolbar.py:72
+msgid "Next"
+msgstr "下一步"
+
+#: linkbutton.py:108
+msgid "Remove"
+msgstr "移除"
+
+#: palettes.py:140
+msgid "Follow link"
+msgstr "跟隨連結"
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr "在新標籤跟隨連結"
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr "保存連結"
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr "複製連結"
+
+#: palettes.py:215
+msgid "Keep image"
+msgstr "保存圖片"
+
+#: palettes.py:223
+msgid "Copy image"
+msgstr "複製圖片"
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+msgid "Zoom out"
+msgstr "縮小"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+msgid "Zoom in"
+msgstr "放大"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr ""
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr ""
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr ""
+
+#: viewtoolbar.py:56
+msgid "Fullscreen"
+msgstr "全螢幕"
+
+#: viewtoolbar.py:113
+msgid "Show Tray"
+msgstr "顯示收藏匣"
+
+#: viewtoolbar.py:117
+msgid "Hide Tray"
+msgstr "隱藏收藏匣"
+
+#: webactivity.py:567
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] "下載進行中"
+
+#: webactivity.py:570
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] "現在停止將取消下載"
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] "繼續下載"
+
+#: webactivity.py:580
+msgid "Stop"
+msgstr "停止"
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr "首頁"
+
+#: webtoolbar.py:270
+msgid "Back"
+msgstr "上一頁"
+
+#: webtoolbar.py:284
+msgid "Forward"
+msgstr "下一頁"
+
+#: webtoolbar.py:298
+msgid "Bookmark"
+msgstr "加入書籤"
+
+#, python-format
+#~ msgid "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+#~ msgstr "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+
+#, python-format
+#, python-format,
+#~ msgid "Loading %s..."
+#~ msgstr "載入 %s 中..."
+
+#, python-format
+#, python-format,
+#~ msgid ""
+#~ "Downloading %s from \n"
+#~ "%s."
+#~ msgstr ""
+#~ "下載 %s 自\n"
+#~ "%s."
+
+#~ msgid "Edit"
+#~ msgstr "編輯"
+
+#~ msgid "View"
+#~ msgstr "檢視"
+
+#~ msgid "Add a tab"
+#~ msgstr "增加標籤"
+
+#~ msgid "Reload"
+#~ msgstr "重新整理"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#, python-format
+#~ msgid "File %s from %s."
+#~ msgstr "檔案 %s 來自 %s."
+
+#~ msgid "Copy"
+#~ msgstr "複製"
+
+#~ msgid "Download link"
+#~ msgstr "下載連結物件"
+
+#~ msgid "Download image"
+#~ msgstr "下載圖片"
+
+#~ msgid "blank"
+#~ msgstr "空白"
+
+#~ msgid "Source"
+#~ msgstr "原始碼"
+
+#~ msgid "Open"
+#~ msgstr "開啟"
+
+#, python-format
+#~ msgid ""
+#~ "File %s downloaded from\n"
+#~ "%s."
+#~ msgstr ""
+#~ "檔案 %s 下載自\n"
+#~ "%s."

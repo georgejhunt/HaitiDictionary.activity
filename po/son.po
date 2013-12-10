@@ -1,0 +1,184 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2012-03-05 09:06+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: son\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+#, fuzzy
+msgid "Browse"
+msgstr "Ceeci"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+#, fuzzy
+msgid "Untitled"
+msgstr "Bila-nda-maa"
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr ""
+
+#: downloadmanager.py:102
+msgid "Download started"
+msgstr ""
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+msgid "Download completed"
+msgstr ""
+
+#: downloadmanager.py:117
+msgid "Show in Journal"
+msgstr ""
+
+#: downloadmanager.py:120
+msgid "Ok"
+msgstr ""
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+msgid "From: %s"
+msgstr ""
+
+#: downloadmanager.py:203
+#, python-format
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr ""
+
+#: edittoolbar.py:65
+#, fuzzy
+msgid "Previous"
+msgstr "Bisante"
+
+#: edittoolbar.py:72
+#, fuzzy
+msgid "Next"
+msgstr "Jine"
+
+#: linkbutton.py:108
+#, fuzzy
+msgid "Remove"
+msgstr "Kaa"
+
+#: palettes.py:140
+msgid "Follow link"
+msgstr ""
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr ""
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr ""
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr ""
+
+#: palettes.py:215
+#, fuzzy
+msgid "Keep image"
+msgstr "Bii gaabu"
+
+#: palettes.py:223
+#, fuzzy
+msgid "Copy image"
+msgstr "Bii berandi"
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+#, fuzzy
+msgid "Zoom out"
+msgstr "Moorandi"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+#, fuzzy
+msgid "Zoom in"
+msgstr "Manandi"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr ""
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr ""
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr ""
+
+#: viewtoolbar.py:56
+#, fuzzy
+msgid "Fullscreen"
+msgstr "Dijikul"
+
+#: viewtoolbar.py:113
+msgid "Show Tray"
+msgstr ""
+
+#: viewtoolbar.py:117
+msgid "Hide Tray"
+msgstr ""
+
+#: webactivity.py:567
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] ""
+
+#: webactivity.py:570
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] ""
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] ""
+
+#: webactivity.py:580
+msgid "Stop"
+msgstr ""
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr ""
+
+#: webtoolbar.py:270
+#, fuzzy
+msgid "Back"
+msgstr "Banda"
+
+#: webtoolbar.py:284
+#, fuzzy
+msgid "Forward"
+msgstr "Jinehere"
+
+#: webtoolbar.py:298
+#, fuzzy
+msgid "Bookmark"
+msgstr "Doo-šilbay"
+
+#, python-format
+#, python-format, fuzzy
+#~ msgid "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+#~ msgstr "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"

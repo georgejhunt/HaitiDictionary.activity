@@ -1,0 +1,247 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2012-04-30 10:03+0200\n"
+"Last-Translator: whe <heppew@yahoo.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Browse"
+msgstr "Surfen"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+msgid "Untitled"
+msgstr "Zonder titel"
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr "Laden..."
+
+#: downloadmanager.py:102
+msgid "Download started"
+msgstr "Download gestart"
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+msgid "Download completed"
+msgstr "Download voltooid"
+
+#: downloadmanager.py:117
+msgid "Show in Journal"
+msgstr "In dagboek weergeven"
+
+#: downloadmanager.py:120
+msgid "Ok"
+msgstr "Ok"
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+msgid "From: %s"
+msgstr "Van: %s"
+
+#: downloadmanager.py:203
+#, python-format
+#, python-format,
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr ""
+"Downloaden %(filename)s van \n"
+"%(source)s."
+
+#: edittoolbar.py:65
+msgid "Previous"
+msgstr "Vorige"
+
+#: edittoolbar.py:72
+msgid "Next"
+msgstr "Volgende"
+
+#: linkbutton.py:108
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: palettes.py:140
+msgid "Follow link"
+msgstr "Koppeling volgen"
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr "Volg link in nieuwe tab"
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr "Koppeling bewaren"
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr "Koppeling kopiëren"
+
+#: palettes.py:215
+msgid "Keep image"
+msgstr "Afbeelding bewaren"
+
+#: palettes.py:223
+msgid "Copy image"
+msgstr "Afbeelding kopiëren"
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+msgid "Zoom out"
+msgstr "Zoom uit"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr "Bewaar PDF in Logboek"
+
+#: viewtoolbar.py:56
+msgid "Fullscreen"
+msgstr "Volledig scherm"
+
+#: viewtoolbar.py:113
+msgid "Show Tray"
+msgstr "Toon lade"
+
+#: viewtoolbar.py:117
+msgid "Hide Tray"
+msgstr "Verberg lade"
+
+#: webactivity.py:567
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] "Bezig met downloaden"
+msgstr[1] "Bezig met downloaden"
+
+#: webactivity.py:570
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] "Door nu te stoppen wordt het downloaden afgebroken"
+msgstr[1] "Door nu te stoppen wordt het downloaden afgebroken"
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] "Doorgaan met download"
+msgstr[1] "Doorgaan met downloaden"
+
+#: webactivity.py:580
+msgid "Stop"
+msgstr "Stop"
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr "Home page"
+
+#: webtoolbar.py:270
+msgid "Back"
+msgstr "Terug"
+
+#: webtoolbar.py:284
+msgid "Forward"
+msgstr "Vooruit"
+
+#: webtoolbar.py:298
+msgid "Bookmark"
+msgstr "Bladwijzer"
+
+#, python-format
+#~ msgid "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+#~ msgstr "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+
+#, python-format
+#, python-format,
+#~ msgid "Loading %s..."
+#~ msgstr "Laden %s..."
+
+#, python-format
+#, fuzzy
+#~ msgid ""
+#~ "Downloading %s from \n"
+#~ "%s."
+#~ msgstr ""
+#~ "Downloaden %s van \n"
+#~ "%s."
+
+#~ msgid "Edit"
+#~ msgstr "Bewerken"
+
+#~ msgid "View"
+#~ msgstr "Beeld"
+
+#~ msgid "Add a tab"
+#~ msgstr "Een tabblad toevoegen"
+
+#~ msgid "Reload"
+#~ msgstr "Vernieuwen"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuleren"
+
+#, python-format
+#~ msgid "File %s from %s."
+#~ msgstr "Bestand %s van %s."
+
+#~ msgid "Copy"
+#~ msgstr "Kopiëren"
+
+#~ msgid "Download link"
+#~ msgstr "Koppeling opslaan"
+
+#~ msgid "Download image"
+#~ msgstr "Afbeelding opslaan"
+
+#~ msgid "blank"
+#~ msgstr "blanco"
+
+#~ msgid "Source"
+#~ msgstr "Bron"
+
+#~ msgid "Open"
+#~ msgstr "Openen"
+
+#, python-format
+#~ msgid ""
+#~ "File %s downloaded from\n"
+#~ "%s."
+#~ msgstr ""
+#~ "Bestand %s downloaden van\n"
+#~ "%s."

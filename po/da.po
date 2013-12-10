@@ -1,0 +1,216 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-05 00:32-0400\n"
+"PO-Revision-Date: 2012-03-23 12:52+0200\n"
+"Last-Translator: Aputsiaq Niels <aj@isit.gl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Browse"
+msgstr "Browse"
+
+#: browser.py:364 browser.py:408 webactivity.py:397 webtoolbar.py:335
+msgid "Untitled"
+msgstr "Ingen titel"
+
+#: browser.py:405 webtoolbar.py:358 webtoolbar.py:361
+msgid "Loading..."
+msgstr "Indlæser..."
+
+#: downloadmanager.py:102
+msgid "Download started"
+msgstr "Nedlastning startet"
+
+#: downloadmanager.py:103 downloadmanager.py:114
+#, python-format
+msgid "%s"
+msgstr "%s"
+
+#: downloadmanager.py:112
+msgid "Download completed"
+msgstr "Nedlastning færdig"
+
+#: downloadmanager.py:117
+msgid "Show in Journal"
+msgstr "Vis i logbog"
+
+#: downloadmanager.py:120
+msgid "Ok"
+msgstr "Ok"
+
+#: downloadmanager.py:128 pdfviewer.py:408
+#, python-format
+msgid "From: %s"
+msgstr "Fra: %s"
+
+#: downloadmanager.py:203
+#, python-format
+#, python-format,
+msgid ""
+"Downloading %(filename)s from \n"
+"%(source)s."
+msgstr ""
+"Henter %(filename)s fra \n"
+"%(source)s."
+
+#: edittoolbar.py:65
+msgid "Previous"
+msgstr "Forrige"
+
+#: edittoolbar.py:72
+msgid "Next"
+msgstr "Næste"
+
+#: linkbutton.py:108
+msgid "Remove"
+msgstr "Fjern"
+
+#: palettes.py:140
+msgid "Follow link"
+msgstr "Følg henvisning"
+
+#: palettes.py:145
+msgid "Follow link in new tab"
+msgstr "Følg henvisning i ny fane"
+
+#: palettes.py:151
+msgid "Keep link"
+msgstr "Bevar henvisning"
+
+#: palettes.py:159
+msgid "Copy link"
+msgstr "Kopiér henvisning"
+
+#: palettes.py:215
+msgid "Keep image"
+msgstr "Bevar billede"
+
+#: palettes.py:223
+msgid "Copy image"
+msgstr "Kopiér billede"
+
+#: pdfviewer.py:87 viewtoolbar.py:39
+msgid "Zoom out"
+msgstr "Formindsk"
+
+#: pdfviewer.py:93 viewtoolbar.py:45
+msgid "Zoom in"
+msgstr "Forstør"
+
+#: pdfviewer.py:104
+msgid "Previous page"
+msgstr "Forrige side"
+
+#: pdfviewer.py:111
+msgid "Next page"
+msgstr "Næste side"
+
+#: pdfviewer.py:123
+msgid "Save PDF to Journal"
+msgstr "Gem PDF til journal"
+
+#: viewtoolbar.py:56
+msgid "Fullscreen"
+msgstr "Fuldskærm"
+
+#: viewtoolbar.py:113
+msgid "Show Tray"
+msgstr "Vis skuffe"
+
+#: viewtoolbar.py:117
+msgid "Hide Tray"
+msgstr "Skjul skuffe"
+
+#: webactivity.py:567
+msgid "Download in progress"
+msgid_plural "Downloads in progress"
+msgstr[0] "Overførsel i gang"
+msgstr[1] "Overførsler i gang"
+
+#: webactivity.py:570
+msgid "Stopping now will erase your download"
+msgid_plural "Stopping now will erase your downloads"
+msgstr[0] "Stopper du nu vil du slette overførslen"
+msgstr[1] "Stopper du nu vil du slette overførslerne"
+
+#: webactivity.py:575
+msgid "Continue download"
+msgid_plural "Continue downloads"
+msgstr[0] "Fortsæt overførsel"
+msgstr[1] "Fortsæt overførsler"
+
+#: webactivity.py:580
+msgid "Stop"
+msgstr "Stop"
+
+#: webtoolbar.py:250
+msgid "Home page"
+msgstr "Hjemmeside"
+
+#: webtoolbar.py:270
+msgid "Back"
+msgstr "Tilbage"
+
+#: webtoolbar.py:284
+msgid "Forward"
+msgstr "Frem"
+
+#: webtoolbar.py:298
+msgid "Bookmark"
+msgstr "Bogmærke"
+
+#, python-format
+#~ msgid "http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8"
+#~ msgstr "http://www.google.dk/search?q=%s&ie=UTF-8&oe=UTF-8"
+
+#, python-format
+#, python-format,
+#~ msgid "Loading %s..."
+#~ msgstr "Indlæser %s..."
+
+#, python-format
+#, python-format,
+#~ msgid ""
+#~ "Downloading %s from \n"
+#~ "%s."
+#~ msgstr ""
+#~ "Henter %s fra \n"
+#~ "%s."
+
+#~ msgid "Edit"
+#~ msgstr "Redigér"
+
+#~ msgid "View"
+#~ msgstr "Vis"
+
+#~ msgid "Add a tab"
+#~ msgstr "Tilføj en fane"
+
+#~ msgid "Reload"
+#~ msgstr "Genindlæs"
+
+#~ msgid "Cancel"
+#~ msgstr "Afbryd"
+
+#~ msgid "Copy"
+#~ msgstr "Kopiér"
