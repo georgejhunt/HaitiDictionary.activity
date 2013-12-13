@@ -1,1 +1,0 @@
-showWord(["","Liv an de tòm Franswa Divalye te ekri sou ras nwa ak sivilizasyon afriken.<br>"])

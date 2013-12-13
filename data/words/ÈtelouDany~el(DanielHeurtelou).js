@@ -1,2 +1,0 @@
-showWord(["","Komèsan, jounalis, ekriven, edikatè. Li fèt 19 Desanm 1906 Pòtoprens. Li al lekòl nan Seminè Senmasyal apresa li te al nan lekòl-de-dwa. Li te vin pwofesè ak administratè nan Depatman Sante Piblik. Li te sekretè prive Prezidan Eli Lesko epi an 1953, li te Minis Komès. Li te ekri nan plizyè jounal ak revi (Lematen, Lenouvelis, Larelèv, Kaye Dayiti. Ak lòt kolaboratè, li fonde yon jounal amizman ki te rele Panglòs. Kòm ekriven, li ekri plizyè pyè teyat ak plizyè pwezi ki pibliye."
-])
