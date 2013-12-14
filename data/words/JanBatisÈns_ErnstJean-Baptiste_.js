@@ -1,1 +1,0 @@
-showWord(["np. ","Foutbolè ayisyen<br>"])
