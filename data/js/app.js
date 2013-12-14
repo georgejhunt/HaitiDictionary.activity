@@ -27,6 +27,7 @@ $(".search").typeahead({
     for(var i=0;i<fileEscapes.length;i++){
       fileword = replaceAll(fileword, fileEscapes[i][0], fileEscapes[i][1]);
     }
+    showWord(["?","???"]);
     var s = document.createElement("script");
     s.type = "text/javascript";
     s.src = "words/" + fileword + ".js";
